@@ -109,6 +109,24 @@
   .cardRow .txt{font-size:14.5px; line-height:1.9;}
   .emph{font-style:normal; font-weight:700; color:var(--ink); border-bottom:1.5px solid var(--crimson);}
 
+  /* 簡答題展示區 */
+  .lgNav{display:flex; flex-wrap:wrap; gap:6px; margin:14px 0 2px;}
+  .lgNav .chip{font-size:12.5px; padding:5px 12px;}
+  .lgHead{display:flex; flex-wrap:wrap; align-items:baseline; gap:9px; font-family:'Noto Serif TC',serif; font-weight:700; font-size:17px; margin-bottom:10px; padding-bottom:9px; border-bottom:1px solid var(--rule);}
+  .lgRule{font-size:12.5px; line-height:1.85; color:var(--ink-soft); background:#FBF9F2; border-radius:2px; padding:8px 12px; margin-bottom:15px;}
+  .lgTitle{font-family:'Noto Serif TC',serif; font-weight:700; font-size:16px; margin:0 0 2px;}
+  .lgBy{font-size:13px; color:var(--ink-soft); margin:0 0 12px;}
+  .lgVerse{font-size:15.5px; line-height:2.1; margin:0 0 15px; padding-left:14px; border-left:2px solid var(--rule);}
+  .lgQ{display:flex; gap:10px; align-items:flex-start; padding:12px 0; border-bottom:1px dashed var(--rule);}
+  .lgQ:last-child{border-bottom:none;}
+  .lgQ .n{font-family:'IBM Plex Mono',monospace; font-weight:600; color:var(--crimson); flex-shrink:0; padding-top:2px;}
+  .lgQ .body{flex:1; min-width:0;}
+  .lgQ .stem{font-size:15px; line-height:1.95;}
+  .lgAns{font-size:14px; line-height:1.9; margin-top:7px; color:var(--sage);}
+  .lgAns .lbl{font-family:'IBM Plex Mono',monospace; font-size:11px; color:var(--ink-soft); margin-right:7px;}
+  .lgNote{font-size:12.5px; line-height:1.75; color:var(--ink-soft); margin-top:5px;}
+  .lgBridge{font-size:13px; line-height:1.85; color:var(--ink-soft); background:#F5FAFD; border-left:3px solid var(--blue); padding:9px 12px; border-radius:2px; margin-top:15px;}
+
   /* 題組 */
   .qBox{border:1px solid var(--rule); border-radius:4px; background:#fff; padding:15px 17px; margin-bottom:13px;}
   .qHead{display:flex; flex-wrap:wrap; align-items:baseline; gap:8px; font-family:'Noto Serif TC',serif; font-weight:700; font-size:15.5px; margin-bottom:9px; padding-bottom:8px; border-bottom:1px dashed var(--rule);}
@@ -259,7 +277,9 @@
           其中一組，就是本站收錄的 111 學年度參考試卷那一組。另一組是四則徵才廣告：前三題問哪一則列出福利、哪一則提到好待遇、哪一則沒要求大學學歷；後兩題給兩位應徵者的條件，要考生回廣告裡找出他們選擇該工作的理由，填進表格。<br><br>
           那四則廣告，和 <b>88 年學測</b>試卷裡的四則徵才廣告幾乎逐字相同，只更新了少數細節——國籍條件的寫法、報社名稱、電話補上區碼。<br><br>
           更早的例子也有。<b>90 年學測</b>的非選擇題第一大題是簡答題，5 題 10 分，一篇選文配五題，其中一題要求寫出兩項相似處。<b>89 年學測</b>同樣是簡答題，其中一題問文章裡的 shed 是什麼意思，另一題要學生找出意思是「to think about something seriously and carefully」的那個字。<br><br>
-          這些題目和現在的混合題不是同一個大題，配分與位置都不同。列在這裡只說明一件事：<b>要你回文章裡找字、要你寫下代表字母、要你把理由填進表格，這些作答方式並不新。</b>
+          這些題目和現在的混合題不是同一個大題，配分與位置都不同。列在這裡只說明一件事：<b>要你回文章裡找字、要你寫下代表字母、要你把理由填進表格，這些作答方式並不新。</b><br><br>
+          86 至 92 學年度的簡答題共十場，全數收錄於簡答題展示區，可閱讀並對照選文、題目與參考答案。<br>
+          <button class="ghost-btn" style="margin-top:10px; font-size:13.5px; padding:9px 14px;" onclick="showLegacy()">📄 簡答題展示區（86–92 學年度，十場 50 題）</button>
         </div>
       </details>
 
@@ -348,6 +368,51 @@
       <div class="sec-title">最近作答記錄</div>
       <div id="histRecent"></div>
     </div>
+  </div>
+
+  <div id="legacyView" style="display:none;">
+    <span class="backLink" onclick="goHome()">← 回選單</span>
+    <div class="card">
+      <div class="home-lead">簡答題（86–92 學年度）</div>
+      <p class="home-desc" style="margin-bottom:14px;">
+        簡答題是 86 至 92 學年度的非選擇題題型。<br>
+        每篇選文搭配五個問題，每題 2 分，共 10 分。作答只寫關鍵詞（key words），不必寫成完整句子。
+      </p>
+
+      <div class="sec-title">收錄場次</div>
+      <p class="home-desc" style="margin-bottom:10px;">
+        共十場：<br>
+        ・學測正式考試七場（86 至 92 學年度）<br>
+        ・學測補考兩場（91、92 學年度）<br>
+        ・指定科目考試參考試卷一場（91 學年度）<br><br>
+        簡答題並非學測專有題型，91 學年度指考參考試卷亦曾採用。
+      </p>
+
+      <div class="sec-title">作答字數規定逐年不同</div>
+      <p class="home-desc" style="margin-bottom:10px;">
+        ・86 學年度：不必用完整句子<br>
+        ・90 學年度：最多三個英文單詞<br>
+        ・91 學年度：約二至三個<br>
+        ・92 學年度、91 學年度指考參考試卷：不超過五個<br><br>
+        多數場次另註明「請勿抄下整句或整行，否則不予計分」。各場的原始作答說明完整列於該場開頭。
+      </p>
+
+      <div class="sec-title">參考答案來源</div>
+      <p class="home-desc" style="margin-bottom:10px;">
+        分兩種：<br>
+        ・91 學年度指考參考試卷附有大考中心公布的參考答案。<br>
+        ・其餘九場的答案卷僅列選擇題，未公布非選擇題答案，本區所列答案為<b style="color:var(--gold);">本站推得</b>，逐場標示。
+      </p>
+
+      <div class="note-box" style="margin-top:16px;">
+        本區僅供閱讀，不提供作答與批改，不列入學習歷程統計，也不計入全站題數。<br><br>
+        簡答題與現行混合題屬不同大題，配分與試卷位置皆不同。兩者作答方式的相似之處，附於各場末尾。
+      </div>
+
+      <div class="lgNav" id="lgNav"></div>
+    </div>
+    <div id="legacyBody"></div>
+    <span class="backLink" onclick="goHome()">← 回選單</span>
   </div>
 
   <footer>
@@ -532,8 +597,84 @@ function startWrongBook(){
 function goHome(){
   document.getElementById('practiceView').style.display = 'none';
   document.getElementById('historyView').style.display = 'none';
+  document.getElementById('legacyView').style.display = 'none';
   document.getElementById('homeView').style.display = 'block';
   buildSessionList(); window.scrollTo(0,0);
+}
+
+/* ---------- 簡答題展示區（純展示，不計分、不進學習歷程） ---------- */
+let LEGACY = null;
+
+async function showLegacy(){
+  document.getElementById('homeView').style.display = 'none';
+  document.getElementById('practiceView').style.display = 'none';
+  document.getElementById('historyView').style.display = 'none';
+  document.getElementById('legacyView').style.display = 'block';
+  window.scrollTo(0,0);
+  if(LEGACY){ return; }
+  const body = document.getElementById('legacyBody');
+  body.innerHTML = '<div class="card"><p class="home-desc" style="margin:0;">載入中……</p></div>';
+  try{
+    const res = await fetch('legacy.json');
+    LEGACY = await res.json();
+  }catch(e){
+    body.innerHTML = '<div class="card"><div class="home-lead">展示區載入失敗</div>' +
+      '<p class="home-desc">請重新整理頁面再試一次。若持續失敗，可用頁尾的回報連結告訴我。</p></div>';
+    return;
+  }
+  renderLegacyNav(); renderLegacy();
+}
+
+function renderLegacyNav(){
+  document.getElementById('lgNav').innerHTML = LEGACY.sets.map(s =>
+    `<div class="chip" onclick="jumpLegacy('${esc(s.id)}')">${esc(lgShort(s))}</div>`).join('');
+}
+function lgShort(s){
+  if(s.sessionType === '補考')     return s.examYear + ' 補考';
+  if(s.sessionType === '參考試卷') return s.examYear + ' 指考參考卷';
+  return s.examYear + ' 學測';
+}
+function jumpLegacy(id){
+  const el = document.getElementById('lg_' + id);
+  if(el){ el.scrollIntoView({behavior:'smooth', block:'start'}); }
+}
+
+function lgBlock(b){
+  if(b.type === 'heading') return `<div class="lgTitle">${esc(b.text)}</div>`;
+  if(b.type === 'byline')  return `<div class="lgBy">${esc(b.text)}</div>`;
+  if(b.type === 'lead')    return `<p style="margin:0 0 6px;">${esc(b.text)}</p>`;
+  if(b.type === 'list')    return b.items.map(x => `<p style="margin:0 0 4px;">${esc(x)}</p>`).join('');
+  if(b.type === 'verse')   return `<div class="lgVerse">${b.lines.map(esc).join('<br>')}</div>`;
+  if(b.type === 'ad'){
+    return `<div class="cardRow"><div class="who"><span class="ltr">${esc(b.letter)}</span>${esc(b.heading)}</div>` +
+           `<div class="txt">${b.blocks.map(lgBlock).join('')}</div></div>`;
+  }
+  return `<p>${esc(b.text)}</p>`;
+}
+
+function renderLegacy(){
+  document.getElementById('legacyBody').innerHTML = LEGACY.sets.map(s => {
+    const official = s.answerSource === 'official';
+    const tag = official
+      ? `<span class="catTag" style="border-color:var(--sage); color:var(--sage);">官方參考答案</span>`
+      : `<span class="catTag" style="border-color:var(--gold); color:var(--gold);">答案本站推得</span>`;
+    const qs = s.questions.map(q => {
+      const note = q.answerNote ? `<div class="lgNote">${esc(q.answerNote)}</div>` : '';
+      return `<div class="lgQ"><div class="n">${q.n}.</div><div class="body">` +
+             `<div class="stem">${esc(q.q)}</div>` +
+             `<div class="lgAns"><span class="lbl">${official ? '官方參考答案' : '參考答案（本站推得）'}</span>` +
+             `${q.answers.map(esc).join(' ／ ')}</div>${note}</div></div>`;
+    }).join('');
+    return `<div class="card" id="lg_${esc(s.id)}">
+      <div class="lgHead"><span>${esc(s.examLabel)}</span>${tag}
+        <span class="catTag">${esc(s.topic)}</span>
+        <span class="catTag">5 題 / 10 分</span></div>
+      <div class="lgRule"><b>原始作答說明：</b>${esc(s.instruction)}</div>
+      <div class="passage">${s.passage.map(lgBlock).join('')}</div>
+      <div style="margin-top:18px;">${qs}</div>
+      <div class="lgBridge">${esc(s.bridge)}</div>
+    </div>`;
+  }).join('');
 }
 function openSession(pid){
   curPid = pid; graded = false; resp = {}; scores = {}; auto = {}; recIdx = {};
