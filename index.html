@@ -238,7 +238,7 @@
             <div><span class="lv">1 分</span>字形錯誤或拼字錯誤</div>
             <div><span class="lv">0 分</span>空白、答案錯誤或與答案無關者</div>
           </div>
-          <span style="color:var(--ink-soft);">上列文字引自大考中心公布之非選擇題參考答案與評分原則。</span>
+          <span style="color:var(--ink-soft);">上列文字引自大考中心公布之非選擇題參考答案與評分原則（111 學測版）。各年度措辭略有出入，級距相同。</span>
         </div>
       </details>
 
@@ -254,7 +254,7 @@
       <details class="sk-box">
         <summary><div class="sk-title">這個題型的示範試題，是拿舊題改的</div></summary>
         <div>
-          大考中心在《111 學年度起適用學測英文考科考試說明》裡，只用兩組試題示範什麼是混合題，<b>兩組都註明出自 108 年研究用試卷</b>。<br><br>
+          大考中心在《學科能力測驗英文考科考試說明——111 學年度起適用》裡，只用兩組試題示範什麼是混合題，<b>兩組都註明出自 108 年研究用試卷</b>。<br><br>
           其中一組，就是本站收錄的 111 學年度參考試卷那一組。另一組是四則徵才廣告：前三題問哪一則列出福利、哪一則提到好待遇、哪一則沒要求大學學歷；後兩題給兩位應徵者的條件，要考生回廣告裡找出他們選擇該工作的理由，填進表格。<br><br>
           那四則廣告，和 <b>88 年學測</b>試卷裡的四則徵才廣告幾乎逐字相同，只更新了少數細節——國籍條件的寫法、報社名稱、電話補上區碼。<br><br>
           更早的例子也有。<b>90 年學測</b>的非選擇題第一大題是簡答題，5 題 10 分，一篇選文配五題，其中一題要求寫出兩項相似處。<b>89 年學測</b>同樣是簡答題，其中一題問文章裡的 shed 是什麼意思，另一題要學生找出意思是「to think about something seriously and carefully」的那個字。<br><br>
@@ -270,14 +270,14 @@
           有幾種情況先講清楚，免得你對到一半發疑：<br>
           ・<b>參考答案常常不只一種寫法</b>。同一格可以接受好幾個答案，都會列出來。<br>
           ・<b>要寫長句子的那一格不做比對</b>，直接把參考答案放給你看，自己判斷。<br>
-          ・<b>劃記的格子直接判分</b>，只比對是不是和參考答案完全相同。多選格若只對一部分算幾分，大考中心沒有公布，這裡不替它算。
+          ・<b>劃記的格子直接判分</b>，不必自評。單選格答錯或未作答就是 0 分；多選格照大考中心的計分方式算——選項獨立判定，全部答對得該題全部的分數，答錯 k 個選項就按 (n−2k)÷n 打折，其中 n 是那一題的選項數，算出來低於零分就以零分計算。所以多選格<b>會有小數分數</b>，不是全對就是零分。
         </div>
       </details>
 
       <details class="sk-box">
         <summary><div class="sk-title">有兩場的題目是一模一樣的</div></summary>
         <div>
-          <b>115 學年度參考試卷的混合題，沿用 111 學測那一份</b>——選文、題幹，一個字都沒有改。參考試卷的說明也載明部分試題修改自歷年試題。<br><br>
+          <b>115 學年度參考試卷的混合題，沿用 111 學測那一份</b>——選文、題幹，一個字都沒有改。參考試卷說明也載明，該次試題「除部分為原創外，亦有採用或修改歷年考題或研究用試題情形」。<br><br>
           本站兩場都收，不合併也不刪掉其中一份，因為它們是<b>兩份不同的官方文件</b>。作答時若覺得眼熟，不是錯覺。<br><br>
           值得看的是另一件事：<b>同一個空格，兩份文件收的可接受答案不完全一樣。</b>其中一場多收了幾種寫法，另一場沒有。交卷後站上會把兩場的答案並排列出來——同一個空格，官方前後兩次認定的範圍有寬有窄，這個差別本身就很值得看一眼。
         </div>
@@ -743,6 +743,21 @@ function sameSet(a, b){
   const x = (a||[]).slice().sort(), y = (b||[]).slice().sort();
   return x.length === y.length && x.every((v,i) => v === y[i]);
 }
+/* 多選題部分給分。大考中心規則：選項獨立判定，答錯 k 個選項者得該題 (n-2k)/n
+   的分數；得分低於零分或所有選項均未作答者，以零分計算 */
+function multiScore(it){
+  const n = it.optionCount || 0;
+  const mine = resp[it.id] || [], key = it.answerKey || [];
+  if(!mine.length) return { k:0, n, score:0, blank:true };
+  let k = 0;
+  key.forEach(l => { if(mine.indexOf(l) < 0) k++; });          // 該選未選
+  mine.forEach(l => { if(key.indexOf(l) < 0) k++; });          // 不該選卻選了
+  const raw = it.points * (n - 2*k) / n;
+  return { k, n, score: Math.max(0, raw), blank:false };
+}
+function fmtPt(x){
+  return Number.isInteger(x) ? String(x) : (Math.round(x*100)/100).toString();
+}
 /* 自動比對。回傳 null 表示不比對（長句填空） */
 function compare(it){
   if(isChoice(it)) return sameSet(resp[it.id] || [], it.answerKey || []);
@@ -762,7 +777,11 @@ function grade(){
   curItems.forEach(it => {
     const r = compare(it);
     auto[it.id] = r;
-    if(isChoice(it)){
+    if(it.answerType === 'multi'){
+      const m = multiScore(it);
+      scores[it.id] = m.score;
+      recordAnswer(it.id, m.score === it.points);
+    }else if(isChoice(it)){
       scores[it.id] = r ? it.points : 0;
       recordAnswer(it.id, r);
     }else if(r === null){
@@ -810,11 +829,21 @@ function renderMark(p, it){
   let autoLine = '';
   if(a === null){
     autoLine = `<div class="autoLine">這一格要寫完整句子，<b>不做比對</b>。請自己對照參考答案，判斷該給幾分。</div>`;
+  }else if(it.answerType === 'multi'){
+    const m = multiScore(it);
+    if(m.blank){
+      autoLine = `<div class="autoLine"><span class="no">所有選項均未作答</span>，依大考中心的計分方式，本格以零分計算。</div>`;
+    }else if(m.k === 0){
+      autoLine = `<div class="autoLine"><span class="yes">所有選項均答對</span>，得該題全部的分數 ${it.points} 分。</div>`;
+    }else{
+      autoLine = `<div class="autoLine">選項獨立判定，你<span class="no">答錯 ${m.k} 個選項</span>` +
+        `（該選沒選、或不該選卻選了，都算）。本題 ${m.n} 個選項，依 (${m.n}−2×${m.k}) ÷ ${m.n} 計算，` +
+        `得 <b>${fmtPt(m.score)}</b> 分。` + (m.score === 0 ? '得分低於零分者以零分計算。' : '') + `</div>`;
+    }
   }else if(isChoice(it)){
     autoLine = `<div class="autoLine">` + (a
       ? `<span class="yes">和參考答案完全相同</span>，得 ${it.points} 分。`
-      : `<span class="no">和參考答案不完全相同</span>，得 0 分。` +
-        (it.answerType === 'multi' ? '（多選格只對一部分算幾分，大考中心沒有公布，這裡不替它算。）' : '')) + `</div>`;
+      : `<span class="no">和參考答案不同</span>。單選題答錯、未作答或劃記多於一個選項者，該題以零分計算。`) + `</div>`;
   }else{
     autoLine = `<div class="autoLine">比對結果：` + (a
       ? `<span class="yes">和參考答案相符</span>，建議 ${it.points} 分。`
@@ -884,11 +913,12 @@ function renderResult(p){
   const total = ptsOf(p.id);
   const pend = curItems.filter(it => scores[it.id] === null || scores[it.id] === undefined).length;
   const got = curItems.reduce((s,it) => s + (scores[it.id] || 0), 0);
+  const gotTxt = fmtPt(Math.round(got*100)/100);
   const pendTxt = pend
     ? `<div class="lbl" style="color:var(--crimson); margin-top:4px;">還有 ${pend} 格沒有給分，按完上面的自評分數才算完整。</div>` : '';
   return `<div class="card">
     <div class="result">
-      <div class="big">${got} / ${total}</div>
+      <div class="big">${gotTxt} / ${total}</div>
       <div class="lbl">本場得分（依你自己按的分數計算）</div>
       ${pendTxt}
     </div>
