@@ -1,0 +1,348 @@
+{
+  "meta": {
+    "examType": "混合題",
+    "examTypeEn": "mixed-format questions",
+    "scope": "僅學測有此題型（111學年度起指考改制為分科測驗，分科測驗不考英文）",
+    "totalSessions": 8,
+    "totalCells": 33,
+    "cellNote": "計題單位為作答格而非題號：111學測與115參考試卷第47題各含(A)(B)兩格、111參考試卷第50題表格含兩格，故八場共33格。",
+    "duplicateNote": "111學測與115參考試卷為同一題組，選文與題幹完全相同，僅可接受答案範圍與作答說明標示不同。本站分場收錄（同 passage-completion 指考91年兩篇皆收、107參獨立收錄之做法：做法一致並向讀者說明）。總格數33含此4格重複，站上須明白告知學生兩場共用同一題組，並以兩場評分標準差異作為對照素材。",
+    "builtSessions": 8,
+    "pendingSessions": [],
+    "gradingTiers": {
+      "2": "完全正確（包括選字及字形變化）",
+      "1": "字形錯誤或拼字錯誤",
+      "0": "空白、答案錯誤或與答案無關者"
+    },
+    "gradingSource": "大考中心非選擇題參考答案與評分原則（111學測版）",
+    "gradingNote": "111參考試卷所附評分原則措辭略異（2分「答案正確，語意完整」／1分「答案不完整或不完全正確，或因拼字錯誤造成語意不清者」）。差異僅在措辭，級距相同，故仍沿用本 meta，不逐場覆寫。",
+    "sourceNotice": "試題著作權屬財團法人大學入學考試中心基金會所有，本站僅供非營利教學使用。"
+  },
+  "passages": [
+    {
+      "id": "MX110T",
+      "year": 110,
+      "examLabel": "試辦考試",
+      "sessionName": "110試辦",
+      "title": "獅心王理查的贖金",
+      "topic": "英王 Richard I 因旗幟之辱被奧地利公爵擄獲索贖，白銀流向奧地利",
+      "layout": "single",
+      "points": 10,
+      "itemCount": 4,
+      "intro": null,
+      "introEmphasis": [],
+      "blocks": [
+        {
+          "label": null,
+          "speaker": null,
+          "text": "Richard I was the king of England from 1189 to 1199. He was known as “Richard the Lionheart” because he was a brave warrior and was said to be afraid of nothing. After ascending the throne, Richard led an army to join the Third Crusade to recover Christian holy sites from the Muslims. He fought side by side with the Duke of Austria, Leopold V, and together they conquered the powerful fortress of Acre in 1191. However, when Richard reached the top of the castle to claim victory, he displayed only his own banner and not that of Duke Leopold, who was absent at the time. This was an insult too much for the duke to bear, so he placed a price on Richard's head.\n\nRichard was aware of the danger awaiting him on his way back to England after the war. However, he had no other choice but to cross through Austria, a land controlled by his unfriendly former ally. Richard traveled in disguise but was recognized and caught before reaching Vienna. Duke Leopold held Richard at Dürnstein, a castle on the bank of the Danube River. After a few months, Richard was handed over to the German Emperor Heinrich VI. A ransom of 35 tons of silver was demanded by the duke and the emperor to release Richard. That was a huge amount for England to pay.\n\nIn 1194, the ransom was paid and Richard was finally released, though the effort it took to raise the money affected people throughout England. The silver was split between the German Emperor and the Austrian Duke. The Austrians used it to improve the city walls of Vienna and some small towns in the east. It was also used to establish the Austrian mint and make silver coins. Until the 1960s, small amounts of the silver stemming from the ransom could still be found in Austrian 10 Schilling coins."
+        }
+      ],
+      "zhTranslation": null,
+      "source": null,
+      "internalNote": "八場中唯一的單篇連續文章（其餘為雙欄對照或多則發言）。第50題選項為獨立 (A)–(F)，非取自本文區塊。"
+    },
+    {
+      "id": "MX111R",
+      "year": 111,
+      "examLabel": "參考試卷",
+      "sessionName": "111參考試卷",
+      "title": "超級食物真的超級嗎",
+      "topic": "以羽衣甘藍與奇亞籽為例，質疑超級食物的健康宣稱",
+      "layout": "single",
+      "points": 10,
+      "itemCount": 5,
+      "intro": null,
+      "introEmphasis": [],
+      "blocks": [
+        {
+          "label": null,
+          "speaker": null,
+          "text": "It is an appealing idea that some foods are unhealthy, some healthy, and some super-healthy. About 61% of British people reported buying foods because they were supposed superfoods, according to a 2014 survey. But what are superfoods? Are they really so good for our health?\n\nCurrently, kale is one of the coolest superfoods around. Kale, a very common vegetable, has grown in northern Europe, and plenty of other places, for thousands of years. Its nutrition is similar to that of cabbage, broccoli, and cauliflower. Is kale significantly better than other vegetables? Fans of superfoods like to list the things that kale contains a lot of, such as iron and vitamins, and point out what those things do (make red blood cells). But that doesn't mean your body gets superpowers if you eat more than you need, especially if you're already getting enough from other sources. It is like trying to make your car go faster by putting in more petrol. No good evidence shows that eating plenty of fruit and vegetables with kale is any better than eating plenty of them without.\n\n❶Another example is chia seeds. ❷One hundred grams of chia seeds contain about 17g of Omega-3s, about eight times as much as salmon. ❸However, the Omega-3s in chia seeds are different from the ones in fish. ❹Our body turns the chia kind into the fish kind very inefficiently, meaning that you will actually absorb less. ❺Nor is it easy to eat a full 100g of chia seeds, which contain 486 Calories, almost as much as a Big Mac. ❻So fish is definitely a good source of Omega-3 fatty acids for you, which help to protect against cardiovascular disease. ❼But there is little evidence to suggest the health benefits from chia seeds.\n\nIndeed, good nutrition helps the body fight against diseases. The truth, however, is that nutrition is fabulously complex, different for everybody and mostly mysterious. We know that if you eat a balanced diet with plenty of fruit and vegetables and do regular exercise, you don't need any superfood. And if you don't, no superfood will save you."
+        }
+      ],
+      "zhTranslation": null,
+      "source": null,
+      "internalNote": "八場中唯一含單選題與表格填空者，也是唯一一場5格（47／48／49／50兩格）。第三段句首的❶–❼為原卷標記，第48題作答需用到，顯示時不可移除。末段 if you don't 於原卷為粗體，為第49題線索。"
+    },
+    {
+      "id": "MX111",
+      "year": 111,
+      "examLabel": "學測",
+      "sessionName": "111學測",
+      "title": "奧林匹克難民代表團的兩位選手",
+      "topic": "Yusra Mardini 與 Popole Misenga 的奮鬥故事",
+      "layout": "two-column",
+      "points": 10,
+      "itemCount": 4,
+      "intro": "To support refugees and people facing crises around the world, the International Olympic Committee created the Refugee Olympic Team. Refugee athletes have been invited to compete in the Olympic Games since 2016. Here are two refugee athletes and their stories.",
+      "introEmphasis": [],
+      "blocks": [
+        {
+          "label": "Yusra Mardini",
+          "speaker": null,
+          "text": "Yusra Mardini is a swimmer who grew up in the war-torn country of Syria. Due to the unstable political situation there, Yusra sometimes had to train in pools under roofs that had been blown open by bombings.\n\nIn 2015 when she was just a 17-year-old, her house was destroyed in the civil war, so she decided to flee her home country. She managed to reach Turkey through Lebanon. From Turkey, she boarded a small boat that held 20 people and set sail into the deep waters of the Aegean Sea. But 30 minutes later, the engine stopped and the boat began to sink. Yusra dove into the cold water, and—with the help of her sister and two men—swam and pushed the boat for over three hours to reach the Greek island of Lesbos. They saved everyone aboard.\n\nYusra eventually settled in Germany and has since worked to inspire others to pursue their dreams. Her incredible story and superior swimming skills won her the opportunity to participate in the Olympic Games. She was a member of the Refugee Olympic Team for both the 2016 Rio Games and 2021 Tokyo Games."
+        },
+        {
+          "label": "Popole Misenga",
+          "speaker": null,
+          "text": "Popole Misenga was born in the Democratic Republic of the Congo. When he was nine, the country's civil war claimed the life of his mother and left him homeless. Escaping from the war zone, he wandered alone for a week in a rainforest before being rescued and taken to a center for displaced children in the capital, Kinshasa.\n\nThere, Popole discovered judo, from which he gained strength in body and mind. “Judo helped me by giving me serenity, discipline, commitment—everything,” he said. He trained hard and became a professional judoka. However, each time he lost a competition, his coaches would lock him in a cage for days, feeding him only coffee and bread. Finally, when he was cruelly abused for not winning medals at the 2013 World Championships in Brazil, he decided to seek protection.\n\nPopole was granted asylum in 2014 by Brazilian government and later continued judo training at a youth facility. He made his Olympic debut at Rio 2016. He also represented the Refugee Olympic Team in 2021 Tokyo Games."
+        }
+      ],
+      "sameItemSetAs": "MX115R",
+      "zhTranslation": null,
+      "source": [
+        "https://www.readersdigest.co.uk/inspire/life/everything-you-need-to-know-about-the-refugee-olympics-team",
+        "https://thebridge.in/tokyo-2020/heartbreaking-inspiring-stories-refugee-team-22167",
+        "https://www.teenvogue.com/story/yusra-mardini-syrian-refugee-olympics-2016-rio",
+        "https://www.indiatoday.in/fyi/story/woman-yusra-mardini-rio-olympic-syrian-refugee-boat-333865-2016-08-07",
+        "https://olympics.com/en/news/popole-misenga-represents-refugees-everywhere-at-tokyo-2020",
+        "https://www.aljazeera.com/sports/2021/7/27/popole-misenga-refugee-olympic-team-tokyo",
+        "https://edition.cnn.com/2017/08/21/sport/popole-misenga-refugee-judoka-rio-judo-world-championships/index.html"
+      ],
+      "internalNote": "本場僅至第49題，無第50題。本題組後為115參考試卷沿用（見 MX115R），兩場可接受答案範圍不同。原標115參考試卷、2026-08-03一度更正為111學測，最終確認兩場皆有此題組，各自獨立收錄。"
+    },
+    {
+      "id": "MX112",
+      "year": 112,
+      "examLabel": "學測",
+      "sessionName": "112學測",
+      "title": "植物肉漢堡的網路討論",
+      "topic": "GreenBurger 植物肉漢堡的消費者評價",
+      "layout": "posts",
+      "points": 10,
+      "itemCount": 4,
+      "intro": "Even if you're not a vegetarian, there's a good chance you've heard of plant-based meat. These meat substitutes are often advertised as beneficial for the environment. But do the customers really like them?\n\nRead the following chatroom discussions about GreenBurger, a product using alternative-meat patties.",
+      "introEmphasis": [],
+      "blocks": [
+        {
+          "label": "A",
+          "speaker": "Olivia",
+          "text": "That's a firm NO! I tried one when I was a prep cook for Next Level Burgers…tasted awful, just like mashed peas gone to rot."
+        },
+        {
+          "label": "B",
+          "speaker": "Smith",
+          "text": "I haven't tried them. I just don't see the point. They are heavily processed with more calories and sodium than meat and are more expensive too! Unless you are a strict vegetarian and eschew meat for ethical reasons, meat is surely a better deal."
+        },
+        {
+          "label": "C",
+          "speaker": "Mika",
+          "text": "Not really. It tastes too much like actual meat. If I wanted to eat a dead cow, I would go for real burgers. Being vegan means I try to stick to plant food. But this is just not something that will ever interest me."
+        },
+        {
+          "label": "D",
+          "speaker": "Thomas",
+          "text": "GreenBurger just tastes “beany” to me, so I think that whatever form it comes in, it works better in recipes that would usually contain beans, such as in a rice bowl (as ground meat substitute). That being said, I'm definitely a carnivore and prefer meat, but I don't see anything wrong with choosing one of the fakey-fakey meaty things once in a while—just for a change."
+        },
+        {
+          "label": "E",
+          "speaker": "Rico",
+          "text": "I finally tried one last week. It didn't taste that bad, but I was surprised to find it had 40 more calories than the meat version! Isn't it supposed to be a healthy choice?"
+        },
+        {
+          "label": "F",
+          "speaker": "Linda",
+          "text": "I liked it fine. I did NOT like the price, though. Hopefully that will come down. I'm trying to eat less beef."
+        },
+        {
+          "label": "G",
+          "speaker": "Ablo",
+          "text": "Yes! My whole family does. We've been mostly vegan 90% of the time for the last 6 years and we cannot thank GreenBurger enough! Especially when a burger craving hits…a GreenBurger does the trick. I've tried all kinds of vegan “burgers,” and GreenBurgers are closer to what I'm looking for. In fact, I can have them every day—vegan or not!"
+        },
+        {
+          "label": "H",
+          "speaker": "Alexander",
+          "text": "Well, they taste good if you add plenty of spices and sauces. Good for you? No, not at all. They're highly processed and contain no vegetables. They also contain a very large amount of processed coconut oil, which is even worse than lard. It's a killer for sure if eaten regularly. So why risk your life?"
+        }
+      ],
+      "zhTranslation": null,
+      "source": null,
+      "internalNote": "選文出處未見於官方公布資料。(D) Thomas 一則的 fakey-fakey 為 PDF 斷行還原，須核對紙本原卷。"
+    },
+    {
+      "id": "MX113",
+      "year": 113,
+      "examLabel": "學測",
+      "sessionName": "113學測",
+      "title": "動物的群體行為：寒鴉與烏龜蟻",
+      "topic": "寒鴉（jackdaws）與烏龜蟻（turtle ants）面對干擾時的群體反應",
+      "layout": "two-column",
+      "points": 10,
+      "itemCount": 4,
+      "intro": "Many animals are known to live and move in groups to secure food and avoid predators. Over the years, people have been curious about the way they deal with disturbances arising from the environment, and the operations underlying their responses as a group. Studies on jackdaws and turtle ants may provide some insights into the issue.",
+      "introEmphasis": ["disturbances"],
+      "blocks": [
+        {
+          "label": "Jackdaws",
+          "speaker": null,
+          "text": "Jackdaws are birds in the crow family often found in the English countryside. They are highly social birds and often travel in large flocks. Normally, the birds enjoy a smooth flight together as a group when “commuting” between two locations, such as from their nesting site to their feeding ground. However, if a predator (such as a fox) is present, the pattern of their flight will change immediately. Instead of paying attention to all the other members and following the group pattern, they now focus only on the birds within a fixed distance from them, based on information coming from other members. By doing so, the flock members are able to keep a safe distance between themselves, and thus avoid crashing into each other while they flee from the predator."
+        },
+        {
+          "label": "Turtle ants",
+          "speaker": null,
+          "text": "Turtle ants often live in the cavities of dead branches in American forests. They have evolved search strategies to link their food source to their nests. They travel entirely along tree branches and vines, laying down trails of pheromone (a chemical substance) behind them so that other ants can follow. The trails connect the ants' colonies and sources of food, forming a sort of communication network. However, since these trails can easily be broken by wind or rain, the ants have to find new paths to get around the broken points and reestablish the network. Often they have to work together to explore alternative routes many times before they finally settle on the most efficient one. By working collectively, the ants are able to improve the efficiency of their network and adapt to their ever-changing environment."
+        }
+      ],
+      "zhTranslation": null,
+      "source": null,
+      "internalNote": "前言中 disturbances 於原卷以粗體標示，為第50題作答線索，顯示時須保留粗體。"
+    },
+    {
+      "id": "MX114",
+      "year": 114,
+      "examLabel": "學測",
+      "sessionName": "114學測",
+      "title": "動物園存廢的論壇討論",
+      "topic": "動物園的保育、教育功能與動物權爭議",
+      "layout": "posts",
+      "points": 10,
+      "itemCount": 4,
+      "intro": "A zoo is a place where animals in captivity are put on display for humans to see. While early zoos put emphasis on displaying as many unusual creatures as possible, most modern zoos now focus on conservation and education. Still, many animal rights activists believe the cost of confining animals outweighs the benefits. What are your opinions? Feel free to share your ideas on this forum.",
+      "introEmphasis": [],
+      "blocks": [
+        {
+          "label": "A",
+          "speaker": "Amy",
+          "text": "Personally I'm against zoos, though I do understand some of the arguments why they should exist. I don't agree with caging animals for our entertainment."
+        },
+        {
+          "label": "B",
+          "speaker": "Ben",
+          "text": "What gives humans the right to capture, confine, or breed other species? Even if an animal is endangered, does that justify restricting its freedom?"
+        },
+        {
+          "label": "C",
+          "speaker": "Cathy",
+          "text": "Zoos are a tradition, and a visit to a zoo is a wholesome family activity. Wildlife encounters are unforgettable experiences for children and adults alike."
+        },
+        {
+          "label": "D",
+          "speaker": "Daniel",
+          "text": "To me, a zoo can be a good place for endangered species which have difficulty finding suitable mates in the wild."
+        },
+        {
+          "label": "E",
+          "speaker": "Eddie",
+          "text": "My childhood memory of a polar bear pacing back and forth in a very small space in a zoo keeps haunting me. Is it a good idea to keep animals in sites not suited to them?"
+        },
+        {
+          "label": "F",
+          "speaker": "Frank",
+          "text": "Well, if zoos are an inevitability, zoo keepers must provide the best possible conditions for the animals that live in captivity—to say the least!"
+        },
+        {
+          "label": "G",
+          "speaker": "George",
+          "text": "Zoos have an educational aspect to it. It's easier to learn about an animal by seeing them in person."
+        },
+        {
+          "label": "H",
+          "speaker": "Henry",
+          "text": "Most animals in zoos are not endangered, nor are they being prepared for release into natural habitats. In fact, it is nearly impossible to release captive-bred animals."
+        },
+        {
+          "label": "I",
+          "speaker": "Irene",
+          "text": "Fostering empathy…By seeing an animal up close, the public could be encouraged to be more sensitive and compassionate to a species that is facing extinction in the wild."
+        },
+        {
+          "label": "J",
+          "speaker": "Jack",
+          "text": "In making a case for or against zoos, both sides argue that they're saving animals. Whether or not zoos benefit the animal community, they certainly do make money. Like it or not, zoos will continue to exist as long as there is a demand for them."
+        }
+      ],
+      "zhTranslation": null,
+      "source": null,
+      "internalNote": "本場發言者達十人（A–J），為目前八場中選項數最多者。"
+    },
+    {
+      "id": "MX115",
+      "year": 115,
+      "examLabel": "學測",
+      "sessionName": "115學測",
+      "title": "奇幻部落的六家特色小店",
+      "topic": "台灣東部原住民部落 Wonder Village 的特色商店與新舊融合",
+      "layout": "cards",
+      "points": 10,
+      "itemCount": 4,
+      "intro": "Located along the sparkling coastline of the Pacific Ocean, Wonder Village is a famous indigenous district in eastern Taiwan. The historic village exhibits the traditional way of life of the tribe there. However, it does not live in the past. As numerous new restaurants and shops have sprung up in recent years, it has become not only a cultural center but also a unique commercial zone. The following six shops are examples of some of the specialty stores there.",
+      "introEmphasis": [],
+      "hasFigure": true,
+      "figureNote": "原卷於前言與商店介紹之間附有一張街區地圖，標示六家店的相對位置。本站不重製該圖，作答不受影響（第49題僅需比對商店介紹內容）。",
+      "blocks": [
+        {
+          "label": "A",
+          "speaker": "Oh Eco",
+          "text": "Greatly concerned about the presence of fake “green” products on the market, Alice Bao decided to open this shop. She sells environmentally friendly items such as reusable bottles, bamboo toothbrushes, and soy candles. “Here everyone looks out for each other and the neighborhood,” she says. “There's a sense of community in the area.”"
+        },
+        {
+          "label": "B",
+          "speaker": "After Work",
+          "text": "Neighborhood beer lovers rejoiced when After Work moved in last summer. “We knew we were coming into a really cool neighborhood,” says co-owner Joey Ma. Aside from handcrafted beer, the menu boasts hand-made gourmet pizzas such as the Yummy Duck n' Cheese, loaded with roast duck and, yes, creamy delicious cheese. A truly unique blend!"
+        },
+        {
+          "label": "C",
+          "speaker": "Aroma Paradise",
+          "text": "The fragrances at this scent shop are largely customized to meet the individual shopper's taste. Owner Joseph Tang says he knew the idea would work well in this unique district: “Each store is one of a kind in Wonder Village,” he states. “Aroma Paradise wants to create a paradise for those who are looking for fragrance made for their special preferences.”"
+        },
+        {
+          "label": "D",
+          "speaker": "Something Different",
+          "text": "Looking for something unique? Yes, at this tiny antique store you can always find, as promised, something different. Open since 1996, the store features traditional-style home accessories, ranging from cabinets and chairs to picture frames and decorative mirrors."
+        },
+        {
+          "label": "E",
+          "speaker": "Beyond World",
+          "text": "Owner Foting Mayaw opened this boutique in what he calls “the most fascinating area in Taiwan.” The shop focuses on selling various “good goods” that showcase the skill and spirit of neighborhood artisans. From fashion items to rice snacks, it carries products only from local makers and small businesses owned by indigenous people."
+        },
+        {
+          "label": "F",
+          "speaker": "The Pinery",
+          "text": "This restaurant got its name from the pineapple farms that once populated the area. Indeed, the fruit appears in some innovative menu items (e.g., pineapple jam on the burger). “Wonder Village is much more than just a tourist destination,” says owner Carol Hon. “It is a place where the old meets the new: diverse, unique, and always full of surprises.”"
+        }
+      ],
+      "zhTranslation": null,
+      "source": null,
+      "internalNote": "商店名稱同時作為第49題的選項標籤（A–F），與112、114的發言者標籤用法一致。"
+    },
+    {
+      "id": "MX115R",
+      "year": 111,
+      "examLabel": "參考試卷",
+      "sessionName": "115參考試卷",
+      "title": "奧林匹克難民代表團的兩位選手",
+      "topic": "Yusra Mardini 與 Popole Misenga 的奮鬥故事",
+      "layout": "two-column",
+      "points": 10,
+      "itemCount": 4,
+      "intro": "To support refugees and people facing crises around the world, the International Olympic Committee created the Refugee Olympic Team. Refugee athletes have been invited to compete in the Olympic Games since 2016. Here are two refugee athletes and their stories.",
+      "introEmphasis": [],
+      "blocks": [
+        {
+          "label": "Yusra Mardini",
+          "speaker": null,
+          "text": "Yusra Mardini is a swimmer who grew up in the war-torn country of Syria. Due to the unstable political situation there, Yusra sometimes had to train in pools under roofs that had been blown open by bombings.\n\nIn 2015 when she was just a 17-year-old, her house was destroyed in the civil war, so she decided to flee her home country. She managed to reach Turkey through Lebanon. From Turkey, she boarded a small boat that held 20 people and set sail into the deep waters of the Aegean Sea. But 30 minutes later, the engine stopped and the boat began to sink. Yusra dove into the cold water, and—with the help of her sister and two men—swam and pushed the boat for over three hours to reach the Greek island of Lesbos. They saved everyone aboard.\n\nYusra eventually settled in Germany and has since worked to inspire others to pursue their dreams. Her incredible story and superior swimming skills won her the opportunity to participate in the Olympic Games. She was a member of the Refugee Olympic Team for both the 2016 Rio Games and 2021 Tokyo Games."
+        },
+        {
+          "label": "Popole Misenga",
+          "speaker": null,
+          "text": "Popole Misenga was born in the Democratic Republic of the Congo. When he was nine, the country's civil war claimed the life of his mother and left him homeless. Escaping from the war zone, he wandered alone for a week in a rainforest before being rescued and taken to a center for displaced children in the capital, Kinshasa.\n\nThere, Popole discovered judo, from which he gained strength in body and mind. “Judo helped me by giving me serenity, discipline, commitment—everything,” he said. He trained hard and became a professional judoka. However, each time he lost a competition, his coaches would lock him in a cage for days, feeding him only coffee and bread. Finally, when he was cruelly abused for not winning medals at the 2013 World Championships in Brazil, he decided to seek protection.\n\nPopole was granted asylum in 2014 by Brazilian government and later continued judo training at a youth facility. He made his Olympic debut at Rio 2016. He also represented the Refugee Olympic Team in 2021 Tokyo Games."
+        }
+      ],
+      "textVerified": true,
+      "sameItemSetAs": "MX111",
+      "zhTranslation": null,
+      "source": [
+        "https://www.readersdigest.co.uk/inspire/life/everything-you-need-to-know-about-the-refugee-olympics-team",
+        "https://thebridge.in/tokyo-2020/heartbreaking-inspiring-stories-refugee-team-22167",
+        "https://www.teenvogue.com/story/yusra-mardini-syrian-refugee-olympics-2016-rio",
+        "https://www.indiatoday.in/fyi/story/woman-yusra-mardini-rio-olympic-syrian-refugee-boat-333865-2016-08-07",
+        "https://olympics.com/en/news/popole-misenga-represents-refugees-everywhere-at-tokyo-2020",
+        "https://www.aljazeera.com/sports/2021/7/27/popole-misenga-refugee-olympic-team-tokyo",
+        "https://edition.cnn.com/2017/08/21/sport/popole-misenga-refugee-judoka-rio-judo-world-championships/index.html"
+      ],
+      "internalNote": "本篇與111學測為同一題組：115參考試卷沿用111學測混合題（參考試卷說明載明部分試題修改自歷年試題或研究用試題）。2026-08-03 以115參原卷（第10頁）逐句比對，選文與三題題幹與111學測完全相同，未做任何文字更動；差異僅在第47題作答說明將「一個單詞（word）」加粗體底線，以及可接受答案範圍較窄。故分場收錄，不合併。"
+    }
+  ]
+}
