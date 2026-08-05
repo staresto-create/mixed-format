@@ -246,6 +246,11 @@
       <div class="home-lead">開始練習前</div>
       <p class="home-desc">本題庫收錄學測英文<b>混合題</b>，從 110 學年度試辦考試到 115 學年度，含參考試卷，<b>八場、33 格、80 分</b>。混合題只有學測考。111 學年度起指考改制為分科測驗，分科測驗不考英文，所以這個題型只出現在學測。這裡是照原卷作答：該寫字的就寫字，該劃記的就劃記，寫完自己核對參考答案。</p>
 
+      <div class="note-box" style="margin:0 0 14px;">
+        <b>本站另收 86 至 92 學年度的簡答題，十場 50 題</b>，純展示、不作答、不計分，也不計入上面的題數。十場裡有九場，大考中心當年只公布選擇題答案卷，非選擇題參考答案從未公布，這九場的答案為本站推得、逐場標示；只有 91 學年度指定科目考試參考試卷那一場附官方參考答案。
+        <button class="ghost-btn" style="margin-top:10px; font-size:13.5px; padding:9px 14px;" onclick="showLegacy()">📄 簡答題展示區（86–92 學年度，十場 50 題）</button>
+      </div>
+
       <details class="sk-box">
         <summary><div class="sk-title">混合題長什麼樣子</div></summary>
         <div>
@@ -278,8 +283,7 @@
           那四則廣告，和 <b>88 年學測</b>試卷裡的四則徵才廣告是同一組，版面與行文大致沿用，但條件與聯絡方式都改過——例如第一則加上了大學學歷要求，第二則由外商改為本地公司，第四則把「外表端正」改為「態度親切」，電話號碼也換了。<br><br>
           更早的例子也有。<b>90 年學測</b>的非選擇題第一大題是簡答題，5 題 10 分，一篇選文配五題，其中一題要求寫出兩項相似處。<b>89 年學測</b>同樣是簡答題，其中一題問文章裡的 shed 是什麼意思，另一題給一段英英釋義，要學子回文章裡找出對應的那個字。<br><br>
           這些題目和現在的混合題不是同一個大題，配分與位置都不同。列在這裡只說明一件事：<b>要你回文章裡找字、要你寫下代表字母、要你把理由填進表格，這些作答方式並不新。</b><br><br>
-          86 至 92 學年度的簡答題共十場，全數收錄於簡答題展示區，可閱讀並對照選文、題目與參考答案。<br>
-          <button class="ghost-btn" style="margin-top:10px; font-size:13.5px; padding:9px 14px;" onclick="showLegacy()">📄 簡答題展示區（86–92 學年度，十場 50 題）</button>
+          86 至 92 學年度的簡答題共十場，全數收錄於簡答題展示區，可閱讀並對照選文、題目與參考答案，入口在本頁最上方。
         </div>
       </details>
 
@@ -598,6 +602,7 @@ function startWrongBook(){
   openSession(it.passageId);
 }
 function goHome(){
+  if(location.hash){ history.replaceState(null, '', location.pathname + location.search); }
   document.getElementById('practiceView').style.display = 'none';
   document.getElementById('historyView').style.display = 'none';
   document.getElementById('legacyView').style.display = 'none';
@@ -608,7 +613,8 @@ function goHome(){
 /* ---------- 簡答題展示區（純展示，不計分、不進學習歷程） ---------- */
 let LEGACY = null;
 
-async function showLegacy(){
+async function showLegacy(fromHash){
+  if(!fromHash && location.hash !== '#legacy'){ history.replaceState(null, '', '#legacy'); }
   document.getElementById('homeView').style.display = 'none';
   document.getElementById('practiceView').style.display = 'none';
   document.getElementById('historyView').style.display = 'none';
@@ -1125,7 +1131,16 @@ function showHistory(){
   window.scrollTo(0,0);
 }
 
+/* ---------- #legacy 路由：總站卡片可直接連進展示區 ---------- */
+function routeHash(){
+  const open = document.getElementById('legacyView').style.display === 'block';
+  if(location.hash === '#legacy'){ if(!open) showLegacy(true); }
+  else if(open){ goHome(); }
+}
+window.addEventListener('hashchange', routeHash);
+
 init();
+routeHash();
 </script>
 </body>
 </html>
