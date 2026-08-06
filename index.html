@@ -59,8 +59,10 @@
   .stat-pill .num{font-family:'IBM Plex Mono',monospace; font-weight:600; font-size:20px;}
   .stat-pill .lbl{font-size:11px; color:var(--ink-soft); margin-top:2px;}
   .stats-actions{display:flex; flex-wrap:wrap; gap:6px; margin:10px 0 4px;}
-  .link-btn{background:none; border:none; color:var(--crimson); font-size:12.5px; cursor:pointer; padding:4px 6px; font-family:inherit;}
-  .link-btn:hover{text-decoration:underline;}
+  /* 常駐底線：手機沒有 hover，只靠 :hover 顯示底線等於毫無提示，
+     cursor:pointer 在手機上也不存在。本站紅字亦用於非可點文字，
+     顏色不能單獨當可點訊號。「← 回選單」另有箭頭作訊號，不加底線。 */
+  .link-btn{background:none; border:none; color:var(--crimson); font-size:12.5px; cursor:pointer; padding:4px 6px; font-family:inherit; text-decoration:underline; text-underline-offset:2px;}
 
   .year-list{max-height:320px; overflow-y:auto; border:1px solid var(--rule); border-radius:4px; padding:10px; background:#fff;}
   .year-item{display:flex; justify-content:space-between; align-items:center; gap:10px; padding:8px 6px; font-size:13.5px; border-bottom:1px dashed var(--rule); cursor:pointer;}
