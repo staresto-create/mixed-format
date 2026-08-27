@@ -232,7 +232,30 @@
       "optionCount": null,
       "answerKey": null,
       "officialExplanation": null,
-      "explanation": null
+      "explanation": {
+        "think": [
+          "線索句不難找。左欄第三段第二句 won her the opportunity to participate in the Olympic Games，等於把答案擺在你眼前。難的是下一步：文章裡寫的是 participate，題幹要的那個位置不收原形。",
+          "最常見的填法就是把 participate 原封抄過去。也有人抄離線索最近的 opportunity，或是想到她是游泳選手而填 swim。"
+        ],
+        "cue": [
+          "本題評量能否掌握段落主旨，並依空格之語法條件作適當之字形變化。",
+          "作答線索在左欄 Yusra Mardini 故事第三段第二句：Her incredible story and superior swimming skills won her the opportunity to participate in the Olympic Games.",
+          "空格前為介系詞 of，其後須為動名詞或名詞。此一條件由句構即可判定，不待通讀全文。",
+          "文中所給者為原形動詞 participate，依上述條件轉為動名詞 participating；其名詞形 participation 置於 of 之後亦合於語法。",
+          "同段另有 swimming（superior swimming skills）。Yusra 為游泳選手，swim in the Olympic Games 語意成立，故亦為可接受之答案。"
+        ],
+        "scoring": [
+          "本場之可接受答案為 participating、swimming、participation 三種。",
+          "本題組於 115 參考試卷亦考過一次，兩場之可接受答案範圍不同，詳見下方「同一題組，兩場的可接受答案」對照表。",
+          "本題含選字與字形變化兩事，二者皆正確方為滿分。依大考中心〈111 學年度學科能力測驗英文考科非選擇題評分原則〉：完全正確（包括選字及字形變化），得 2 分；字形錯誤或者拼字錯誤，得 1 分；空白、答案錯誤或與答案無關者，得 0 分。",
+          "依此，選對字而形態轉錯者（如寫 participate）仍得 1 分；未寫或選錯字者始為 0 分。"
+        ],
+        "patterns": [
+          { "h": "fulfill one’s dream of + V-ing", "t": "實現做某事的夢想。She fulfilled her dream of participating in the Olympic Games." },
+          { "h": "participate in", "t": "參加。同義的說法：take part in、join。" },
+          "介系詞後面接動名詞，這一類常考：be good at swimming、look forward to seeing you、instead of going。"
+        ]
+      }
     },
     {
       "id": "MX115R-47A",
@@ -301,7 +324,31 @@
       "optionCount": null,
       "answerKey": null,
       "officialExplanation": null,
-      "explanation": null
+      "explanation": {
+        "think": [
+          "右欄第二段最後一句 when he was cruelly abused，兩個字看起來都像答案，於是有人填 abused、有人填 cruelly，兩個都是照抄。",
+          "這一格和 47(A) 是同一件事的兩面：字找對了，形沒轉，差的就是那 1 分。"
+        ],
+        "cue": [
+          "本題評量能否掌握段落主旨，並依空格之語法條件作適當之字形變化。",
+          "作答線索在右欄 Popole Misenga 故事第二段最後一句：Finally, when he was cruelly abused for not winning medals at the 2013 World Championships in Brazil, he decided to seek protection.",
+          "空格前為定冠詞 the、後接介系詞片語 of his coaches，故空格須為名詞。",
+          "文中之 cruelly abused 一語提供兩個可轉換之來源：動詞 abused 轉為名詞 abuse，副詞 cruelly 轉為名詞 cruelty。二者皆合於句意。",
+          "官方參考答案將可接受之寫法分為兩組：abuse／abuses／abusing 為一組，cruelty／cruelties 為另一組，即依所本之來源字分列。",
+          "abuses 與 cruelties 為複數形；abusing 置於定冠詞 the 與介系詞片語 of his coaches 之間，作名詞用，於語法亦成立。"
+        ],
+        "scoring": [
+          "本場之可接受答案為 abuse、abuses、abusing、cruelty、cruelties 五種。",
+          "本題組於 115 參考試卷亦考過一次，兩場之可接受答案範圍不同，詳見下方「同一題組，兩場的可接受答案」對照表。",
+          "評分原則同 47(A)：完全正確（包括選字及字形變化），得 2 分；字形錯誤或者拼字錯誤，得 1 分；空白、答案錯誤或與答案無關者，得 0 分。",
+          "故填 abused 或 cruelly 者，係選對字而未作詞性轉換，得 1 分。"
+        ],
+        "patterns": [
+          { "h": "escape from", "t": "逃離。He escaped from the war zone." },
+          "cruel（形）→ cruelly（副）→ cruelty（名）。同型的字尾變化（-ty 名詞化）：safe → safety、honest → honesty、difficult → difficulty。",
+          { "h": "give sb the courage to V", "t": "給某人做某事的勇氣。" }
+        ]
+      }
     },
     {
       "id": "MX115R-47B",
@@ -369,7 +416,30 @@
       "optionCount": null,
       "answerKey": null,
       "officialExplanation": null,
-      "explanation": null
+      "explanation": {
+        "think": [
+          "題目裡的 protection 在文章裡就有——右欄第二段最後一句 he decided to seek protection。順手把 protection 抄下來，是最容易發生的事。",
+          "但題目是拿 protection 去定義另一個字，答案不會是定義本身用到的那個字。"
+        ],
+        "cue": [
+          "本題評量能否利用上下文推得並表述詞意。",
+          "作答線索在右欄 Popole Misenga 故事第二段最後一句 he decided to seek protection，以及第三段第一句 Popole was granted asylum in 2014 by Brazilian government and later continued judo training at a youth facility.",
+          "題幹設有兩項限制：範圍限於 Popole Misenga 的故事；形式為 word，所求者為單一字詞。",
+          "第二段末句之 seek protection 與第三段首句之 was granted asylum 前後呼應，後者即題幹定義所指之字。"
+        ],
+        "scoring": [
+          "滿分參考答案為 asylum，照原文寫出。官方參考答案作 asylum／Asylum.，即另收句首大寫加句點之寫法；除大小寫與句末標點外，本題之答案只有這一種寫法。",
+          "評分原則同 47 兩格：完全正確（包括選字及字形變化），得 2 分；字形錯誤或者拼字錯誤，得 1 分；空白、答案錯誤或與答案無關者，得 0 分。",
+          "答 protection 者不合題意：該字為題幹用以定義之語，非文中所求之字。"
+        ],
+        "patterns": [
+          { "h": "seek protection", "t": "尋求保護。" },
+          { "h": "grant asylum", "t": "給予政治庇護。" },
+          { "h": "refugee", "t": "難民。" },
+          { "h": "displaced", "t": "流離失所的。" },
+          "題目問 word 就要給單字、問 phrase 就要給片語——這一類指示語在混合題裡是常態，作答前先看清楚。"
+        ]
+      }
     },
     {
       "id": "MX115R-48",
@@ -451,7 +521,31 @@
       "optionCount": 6,
       "answerKey": ["C", "D"],
       "officialExplanation": null,
-      "explanation": null
+      "explanation": {
+        "think": [
+          "兩則故事都寫得動人，讀完容易留下「他們遭遇很像」的整體印象，然後憑印象勾選。",
+          "但這一題的門檻寫在題目裡：要對兩個人都正確。只對其中一個人成立的選項，看起來最像答案，也最容易被勾進去。"
+        ],
+        "cue": [
+          "本題評量能否整合全文訊息，就兩則故事進行分類、歸納與比較。",
+          "本題之判準為兩人皆須成立，故每一個選項都要回原文核對兩次，左右欄各一次。",
+          "(C) 兩場奧運：左欄第三段末句載 both the 2016 Rio Games and 2021 Tokyo Games；右欄第三段載 his Olympic debut at Rio 2016 與 2021 Tokyo Games。兩人皆成立。",
+          "(D) 因戰爭離開家鄉：左欄第二段載 her house was destroyed in the civil war, so she decided to flee her home country；右欄第一段載 Escaping from the war zone。兩人皆成立。"
+        ],
+        "distractors": [
+          { "h": "(A) Being an Olympic medalist.", "t": "文中未載兩人獲得獎牌；右欄第二段之 for not winning medals 反為未獲獎牌之敘述。" },
+          { "h": "(B) Growing up in an orphanage.", "t": "右欄第一段所載為 a center for displaced children，文中未以孤兒院稱之，左欄亦無相應敘述。" },
+          { "h": "(E) Showing talent in sports after going to a foreign country.", "t": "左欄第一段載 Yusra 在敘利亞即為游泳選手；右欄第一、二段載 Popole 在首都 Kinshasa 之收容中心接觸柔道，該地仍在其母國境內。兩人展現運動才能之時點皆在離開母國之前。" },
+          { "h": "(F) Traveling through several countries before securing protection.", "t": "左欄第二段載 Yusra 經黎巴嫩、土耳其至希臘，其後定居德國，敘述成立；右欄第三段載 Popole 於巴西獲得庇護，文中未載其經過數國。僅其中一人成立，不合本題所問。" },
+          { "h": "(E) 與 (F) 為本題最強之誘答", "t": "前者兩人各有一段看似相符之敘述，實則時序不符；後者僅對一人成立，正是本題判準所要排除者。" }
+        ],
+        "scoring": [
+          "本題須選出對兩人皆正確之選項，故劃記 C、D 兩個選項。劃記之先後不影響判定。",
+          "多選題之計分方式載於試卷首頁〈作答注意事項〉：每題 n 個選項，各選項獨立判定；所有選項均答對者，得該題全部之分數；答錯 k 個選項者，得該題 (n−2k)／n 之分數；得分低於零分或所有選項均未作答者，以零分計算。",
+          "本題為六個選項、4 分，故全對得 4 分；錯一個約得 2.67 分；錯兩個約得 1.33 分；錯及三個以上為 0 分。",
+          "「各選項獨立判定」一語須留意：漏劃一個與多劃一個，所失相同。故作答時之判準宜前後一致，不因避免多劃而從嚴；惟錯及三格即為零分，亦不宜逐項濫劃。"
+        ]
+      }
     },
     {
       "id": "MX115R-49",
