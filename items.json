@@ -319,7 +319,7 @@
       "answers": ["abuse", "abuses", "abusing", "cruelty", "cruelties"],
       "answerSource": "official",
       "swapGroup": null,
-      "answerNote": "本格位於冠詞 the 之後，須由動詞或形容詞轉為名詞形。",
+      "answerNote": "本格位於冠詞 the 之後、介系詞片語 of his coaches 之前，須為名詞或動名詞。",
       "options": null,
       "optionCount": null,
       "answerKey": null,
@@ -364,7 +364,7 @@
       "answers": ["abuse", "cruelty", "cruelties"],
       "answerSource": "official",
       "swapGroup": null,
-      "answerNote": "本格位於冠詞 the 之後，須由動詞或形容詞轉為名詞形。",
+      "answerNote": "本格位於冠詞 the 之後、介系詞片語 of his coaches 之前，須為名詞或動名詞。",
       "options": null,
       "optionCount": null,
       "answerKey": null,
@@ -627,12 +627,49 @@
       "answers": ["taste", "health"],
       "answerSource": "official",
       "swapGroup": "MX112-4748",
-      "answerNote": "官方參考答案 47 與 48 兩格可互換，但兩格不得填入同一個單詞。",
+      "answerNote": "官方參考答案就本題組列出兩組配對，47 與 48 兩格可互換；兩組之中兩格均非同字，故本站不收兩格填入同一個單詞。",
       "options": null,
       "optionCount": null,
       "answerKey": null,
       "officialExplanation": null,
-      "explanation": null
+      "explanation": {
+        "think": [
+          "這一格的線索不在某一段裡，在整篇。題幹說整串討論 mainly focus on the issues of ___, price, and ___ concerns，要的是「這八個人到底在吵哪幾件事」，不是某一個人講過哪個字。",
+          "常見的填法是往某一段裡抓一個看起來像的字：抓 E 段的 calories、抓 B 段和 H 段的 processed、抓 B 段和 C 段的 vegetarian。這些字文章裡都有，但它們是某一個人舉的細節，不是整串討論的主軸。",
+          "另一種是把 healthy 原封抄過來。字選對了，形態沒轉。"
+        ],
+        "cue": [
+          "本題評量能否整合全文訊息、歸納全篇討論之主要議題，並依空格之語法條件作適當之字形變化。",
+          "本句可作兩種讀法，二者皆通，且皆須填名詞：",
+          "讀法一，三項並列同為介系詞 of 之受詞——the issues of [taste], [price], and [health concerns]；本格即 of 之受詞。",
+          "讀法二，concerns 為三項共用之中心語，只寫一次——the issues of (taste + price + health) concerns，展開即 taste concerns、price concerns、health concerns；本格與 price 並列，而 price 為名詞。",
+          "英文為免把共用的部分說兩次而約分，見規範第六節之分配律。兩條路都通向名詞，故不必先決定採何種讀法。",
+          "兩格在兩種讀法下皆結構等值，官方參考答案就本題組列出兩組配對、兩格可互換，即由此而來。",
+          "三項議題之歸納：論及口味者五段——A 段 tasted awful；C 段 It tastes too much like actual meat；D 段 GreenBurger just tastes “beany” to me；E 段 It didn't taste that bad；H 段 they taste good if you add plenty of spices and sauces。",
+          "論及價格者為 F 段 Linda：I did NOT like the price, though.；論及健康者三段——B 段 They are heavily processed with more calories and sodium than meat；E 段 Isn't it supposed to be a healthy choice?；H 段 It's a killer for sure if eaten regularly。",
+          "文中所給者，taste 僅有動詞形（A 段 tasted、C 段與 D 段 tastes、E 段與 H 段 taste），填入名詞 taste 拼寫不變，所變者為詞性；health 全文未出現，僅 E 段有形容詞 healthy，須轉為名詞 health。"
+        ],
+        "scoring": [
+          "大考中心《112 學年度學科能力測驗英文考科非選擇題滿分參考答案與評分原則》就本題組列出兩組配對：第 47 題 taste 配第 48 題 health，或第 47 題 health 配第 48 題 taste。兩格先後可互換即由此而來。",
+          "兩組之中無任何一組令兩格填入同一個字。站上據此於本題之 answerNote 記明兩格不得填入同一個單詞，自動判分亦照此判定：同題組另一格若已填相同之字，本格判為不正確。",
+          "本題含選字與字形變化兩事，二者皆正確方為滿分。依前揭評分原則：完全正確（包括選字及字形變化），得 2 分；字形錯誤或者拼字錯誤，得 1 分；空白、答案錯誤或與答案無關者，得 0 分。",
+          "依此，本格填 health 而寫成 healthy 者，係選對字而形態未轉，得 1 分；本格填 taste 者無形態變化之問題，選字正確即為滿分。"
+        ],
+        "patterns": [
+          {
+            "h": "focus on",
+            "t": "把重點放在……。The discussions mainly focus on the issues of taste and price."
+          },
+          {
+            "h": "healthy（形）→ health（名）",
+            "t": "名詞加 -y 變形容詞是常見的構詞：health → healthy、wealth → wealthy、taste → tasty、luck → lucky。本格要的是反過來走，由形容詞回到名詞。"
+          },
+          {
+            "h": "兼作動詞與名詞的同形字",
+            "t": "本題題幹裡就有三個：focus、price、concern。taste 也是其中之一——It tastes good.（動詞）與 the taste of it（名詞）拼寫相同。"
+          }
+        ]
+      }
     },
     {
       "id": "MX112-48",
@@ -647,12 +684,48 @@
       "answers": ["health", "taste"],
       "answerSource": "official",
       "swapGroup": "MX112-4748",
-      "answerNote": "官方參考答案 47 與 48 兩格可互換，但兩格不得填入同一個單詞。",
+      "answerNote": "官方參考答案就本題組列出兩組配對，47 與 48 兩格可互換；兩組之中兩格均非同字，故本站不收兩格填入同一個單詞。",
       "options": null,
       "optionCount": null,
       "answerKey": null,
       "officialExplanation": null,
-      "explanation": null
+      "explanation": {
+        "think": [
+          "兩格可以互換，所以「先決定填哪一個字」比「先決定填哪一格」重要。整串討論的三個議題定下來，剩下的只是分配。",
+          "這一格後面緊接著 concerns，讀起來很像要一個形容詞，於是寫成 healthy concerns 的很常見。",
+          "也有人看到 concerns 就想到「大家擔心的事」，往回抄 calories 或 sodium。那兩個字是 B 段和 E 段舉的具體數據，不是議題的名稱。"
+        ],
+        "cue": [
+          "本題評量能否整合全文訊息、歸納全篇討論之主要議題，並依空格之語法條件作適當之字形變化。",
+          "本句可作兩種讀法，二者皆通，且皆須填名詞：",
+          "讀法一，三項並列同為介系詞 of 之受詞——the issues of [taste], [price], and [health concerns]；本格即 of 之受詞。",
+          "讀法二，concerns 為三項共用之中心語，只寫一次——the issues of (taste + price + health) concerns，展開即 taste concerns、price concerns、health concerns；本格與 price 並列，而 price 為名詞。",
+          "英文為免把共用的部分說兩次而約分，見規範第六節之分配律。兩條路都通向名詞，故不必先決定採何種讀法。",
+          "兩格在兩種讀法下皆結構等值，官方參考答案就本題組列出兩組配對、兩格可互換，即由此而來。",
+          "三項議題之歸納同第 47 題：口味見 A、C、D、E、H 五段，價格見 F 段之 the price，健康見 B、E、H 三段。",
+          "文中所給者，health 全文未出現，僅 E 段有形容詞 healthy，須轉為名詞 health；taste 僅有動詞形，填入名詞 taste 拼寫不變，所變者為詞性。"
+        ],
+        "scoring": [
+          "大考中心《112 學年度學科能力測驗英文考科非選擇題滿分參考答案與評分原則》就本題組列出兩組配對：第 47 題 taste 配第 48 題 health，或第 47 題 health 配第 48 題 taste。兩格先後可互換即由此而來。",
+          "兩組之中無任何一組令兩格填入同一個字。站上據此於本題之 answerNote 記明兩格不得填入同一個單詞，自動判分亦照此判定：同題組另一格若已填相同之字，本格判為不正確。",
+          "本題含選字與字形變化兩事，二者皆正確方為滿分。依前揭評分原則：完全正確（包括選字及字形變化），得 2 分；字形錯誤或者拼字錯誤，得 1 分；空白、答案錯誤或與答案無關者，得 0 分。",
+          "依此，本格填 health 而寫成 healthy 者，係選對字而形態未轉，得 1 分；本格填 taste 者無形態變化之問題，選字正確即為滿分。"
+        ],
+        "patterns": [
+          {
+            "h": "health concerns",
+            "t": "健康方面的顧慮。這是既有的搭配，不是由「名詞可以修飾名詞」推出來的；同一路的還有 safety concerns、privacy concerns、security concerns。concern 作此解時多用複數。要說時間不夠，通行的是 time constraints 或 time pressure。"
+          },
+          {
+            "h": "三個擺在一起看",
+            "t": "a healthy man 一個健康的人（healthy 講身體）；a healthy concern 一種合理的擔心（healthy 講態度）；a health concern 一件健康方面的顧慮（health 講這件顧慮關於什麼）。"
+          },
+          {
+            "h": "healthy（形）→ health（名）",
+            "t": "名詞加 -y 變形容詞是常見的構詞：health → healthy、wealth → wealthy、taste → tasty。本格要的是反過來走，由形容詞回到名詞。"
+          }
+        ]
+      }
     },
     {
       "id": "MX112-49",
@@ -672,7 +745,56 @@
       "optionCount": 8,
       "answerKey": ["D", "F"],
       "officialExplanation": null,
-      "explanation": null
+      "explanation": {
+        "think": [
+          "八則留言讀下來，正面反面都有，容易憑「這個人好像沒那麼排斥」就勾進去。",
+          "題目問的不是喜不喜歡，是「在某些條件下自己會選」。兩個條件都要成立：一是這個人自己會選，二是這個選擇繫在某個條件上。",
+          "最容易被勾進去的是 H。那一則裡面就有一個 if，看起來完全符合「條件」兩個字。但那一則的結尾是 So why risk your life?，整段是否定的。"
+        ],
+        "cue": [
+          "本題評量能否就八則留言逐一判斷發言者本人是否於特定條件下會選擇該產品。",
+          "本題之判準有二，須同時成立：其一為該選擇繫於發言者本人，題幹作 for the chatroom participants themselves；其二為該選擇繫於條件，題幹作 only under certain circumstances。",
+          "(D) Thomas：I'm definitely a carnivore and prefer meat, but I don't see anything wrong with choosing one of the fakey-fakey meaty things once in a while—just for a change. 本人偏好肉類，惟偶一為之則可，條件見 once in a while；同段另載 it works better in recipes that would usually contain beans，為另一項條件。",
+          "(F) Linda：I liked it fine. I did NOT like the price, though. Hopefully that will come down. 本人接受該產品，惟以價格下降為條件。"
+        ],
+        "distractors": [
+          {
+            "h": "(A) Olivia",
+            "t": "That's a firm NO! 與 tasted awful 為全然否定，未設任何條件。"
+          },
+          {
+            "h": "(B) Smith",
+            "t": "I haven't tried them 與 I just don't see the point 為未曾嘗試且不認同。該段 Unless you are a strict vegetarian and eschew meat for ethical reasons 一語雖為條件句，所指者為他人之情況，非其本人之選擇。"
+          },
+          {
+            "h": "(C) Mika",
+            "t": "this is just not something that will ever interest me 明載永不感興趣，ever 一字已排除條件之可能。"
+          },
+          {
+            "h": "(E) Rico",
+            "t": "It didn't taste that bad 為對口味之評價，其後 Isn't it supposed to be a healthy choice? 為對健康之質疑。全段未載其本人於何種條件下會選擇該產品。"
+          },
+          {
+            "h": "(G) Ablo",
+            "t": "I can have them every day 與 we cannot thank GreenBurger enough 為無條件之肯定，與題幹 only under certain circumstances 相反。"
+          },
+          {
+            "h": "(H) Alexander",
+            "t": "they taste good if you add plenty of spices and sauces 雖含 if，該條件所指者為口味如何，非其本人是否會選擇；同段 It's a killer for sure if eaten regularly 與 So why risk your life? 為明確否定。"
+          },
+          {
+            "h": "(B) 與 (H) 為本題最強之誘答",
+            "t": "兩則各有一個表條件之詞（Unless、if），而該條件皆不落在「本人是否會選擇」這一層。條件句之存在，不等於本題所問之條件成立。"
+          }
+        ],
+        "scoring": [
+          "本題須選出兩項判準皆成立者，故劃記 D、F 兩個選項。劃記之先後不影響判定。",
+          "多選題之計分方式載於試卷首頁〈作答注意事項〉：每題 n 個選項，各選項獨立判定；所有選項均答對者，得該題全部之分數；答錯 k 個選項者，得該題 (n−2k)／n 之分數；得分低於零分或所有選項均未作答者，以零分計算。",
+          "本題為八個選項、4 分，代入得每錯一格失 1 分：全對 4 分，錯一格 3 分，錯二格 2 分，錯三格 1 分，錯四格以上 0 分。本題所失為整數，與 111 學測及 115 學測兩份之第 49 題不同——該兩題各為六個選項，每錯一格所失非整數。",
+          "本題不在《112 學年度學科能力測驗英文考科非選擇題滿分參考答案與評分原則》之範圍內：該件僅載第 47、48、50 三題之滿分參考答案，多選題屬選擇題部分，計分依試卷首頁。",
+          "「各選項獨立判定」一語須留意：漏劃一個與多劃一個，所失相同。故作答時之判準宜前後一致，不因避免多劃而從嚴；惟錯及四格即為零分，亦不宜逐項濫劃。"
+        ]
+      }
     },
     {
       "id": "MX112-50",
@@ -692,7 +814,40 @@
       "optionCount": null,
       "answerKey": null,
       "officialExplanation": null,
-      "explanation": null
+      "explanation": {
+        "think": [
+          "題目問的是 phrase，不是 word。看到 means “serves the purpose” or “works well” 就去找一個動詞，填 works 或 helps 的很常見。",
+          "也有人填 G 段的 closer to what I'm looking for。那是一整個子句，不是題目要的片語。",
+          "要找的那一句就在 G 段：a GreenBurger does the trick。"
+        ],
+        "cue": [
+          "本題評量能否依指定條件自文中擷取關鍵語句。",
+          "題幹設有兩項條件，須同時滿足。其一為語意，該片語須等同於 serves the purpose 或 works well；其二為形式，題幹所用者為 phrase，所求者為片語，非單一字詞。",
+          "作答線索在 G 段 Ablo 一則：Especially when a burger craving hits…a GreenBurger does the trick.",
+          "該句所述為「特別想吃漢堡的時候，一個 GreenBurger 就足以應付」，與題幹所給之兩個釋義相合。"
+        ],
+        "scoring": [
+          "滿分參考答案為 does the trick，照原文三字寫出。",
+          "本題之滿分答案僅一種寫法：《112 學年度學科能力測驗英文考科非選擇題滿分參考答案與評分原則》就本題僅列 does the trick 一項，未另列其他形態或說法。",
+          "評分原則同第 47、48 兩題：完全正確（包括選字及字形變化），得 2 分；字形錯誤或者拼字錯誤，得 1 分；空白、答案錯誤或與答案無關者，得 0 分。",
+          "答 do the trick 者，動詞未依原文作第三人稱單數之變化，屬前揭第二項所稱之字形錯誤，非選錯語句；官方就本題未逐項舉例，本站據該項條文之文義列此一說。",
+          "答 unique 一類之單字或 works well 一類之題幹用語者，前者非片語、後者非文中所有，均不合前述兩項條件。"
+        ],
+        "patterns": [
+          {
+            "h": "do the trick",
+            "t": "管用、達到目的。A cup of coffee usually does the trick when I feel sleepy."
+          },
+          {
+            "h": "同義的說法",
+            "t": "work、be effective、serve the purpose。題幹所給之 serves the purpose 與 works well 即此二者。"
+          },
+          {
+            "h": "a craving hits",
+            "t": "突然很想吃某樣東西。craving 為名詞，常見搭配還有 have a craving for something。"
+          }
+        ]
+      }
     },
     {
       "id": "MX113-47",
@@ -889,7 +1044,8 @@
           "本題評量能否掌握並簡述文章的主旨，並依提示寫出適當的回應。作答線索為題幹 It is a place where the old meets the new：old 對應空格前之 tradition，本格則對應 new。",
           "與 new 相對應之語意線索見於第一段：However, it does not live in the past.、As numerous new restaurants and shops have sprung up in recent years、not only a cultural center but also a unique commercial zone。",
           "可供選填之字詞見 F 店 The Pinery：the fruit appears in some innovative menu items。",
-          "本段的線索落點與大考中心《反映意見回覆》所載相同。"
+          "本段的線索落點與大考中心《反映意見回覆》所載相同。",
+          "本句後半 local features are perfectly ___48___ with foreign elements 與前半語意成對，惟句構不同：前半之動詞 coexists 已於題幹給出，本格為 with 之受詞，須為名詞；後半之動詞被挖空，該格須補為過去分詞。兩格之對稱在語意，不在句法。"
         ],
         "scoring": [
           "本大題之指示語明訂「從文章中找出兩個單詞……並視句型結構需要做適當的字形變化」，故本格含兩事：選字與字形變化，二者皆正確方為滿分。",
@@ -938,7 +1094,8 @@
           "本題評量能否掌握並簡述文章的主旨，並依提示寫出適當的回應。作答線索遍及全文：文中之 indigenous、the traditional way of life、does not live in the past 等概念，與題幹之 local features 及 foreign elements 相互對應。",
           "題幹此格兩側並陳在地與外來，且以 perfectly 修飾，可歸納出「融合」之概念。",
           "文中表達該概念之字詞見 B 店 After Work 之末句：A truly unique blend!",
-          "本段的線索說明與大考中心《反映意見回覆》所載相同（該回覆明記「作答線索遍及全文」）。"
+          "本段的線索說明與大考中心《反映意見回覆》所載相同（該回覆明記「作答線索遍及全文」）。",
+          "本句前半 tradition coexists harmoniously with ___47___ 與本格語意成對，惟句構不同：前半之動詞已給出，該格為 with 之受詞、須為名詞；本格前為 are、後為 with，動詞被挖空，故須補為過去分詞，成 be blended with。兩格之對稱在語意，不在句法。"
         ],
         "scoring": [
           "本題亦宜自字形變化入手：空格前為 are、其後接 with，屬被動語態 be ＿ with 之結構，故須填入過去分詞。",
