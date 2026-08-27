@@ -247,7 +247,7 @@
         "scoring": [
           "本場之可接受答案為 participating、swimming、participation 三種。",
           "本題組於 115 參考試卷亦考過一次，兩場之可接受答案範圍不同，詳見下方「同一題組，兩場的可接受答案」對照表。",
-          "本題含選字與字形變化兩事，二者皆正確方為滿分。依大考中心〈111 學年度學科能力測驗英文考科非選擇題評分原則〉：完全正確（包括選字及字形變化），得 2 分；字形錯誤或者拼字錯誤，得 1 分；空白、答案錯誤或與答案無關者，得 0 分。",
+          "本題含選字與字形變化兩事，二者皆正確方為滿分。依大考中心「111 學年度學科能力測驗英文考科非選擇題評分原則」：完全正確（包括選字及字形變化），得 2 分；字形錯誤或者拼字錯誤，得 1 分；空白、答案錯誤或與答案無關者，得 0 分。",
           "依此，選對字而形態轉錯者（如寫 participate）仍得 1 分；未寫或選錯字者始為 0 分。"
         ],
         "patterns": [
@@ -528,7 +528,7 @@
         ],
         "cue": [
           "本題評量能否整合全文訊息，就兩則故事進行分類、歸納與比較。",
-          "本題之判準為兩人皆須成立，故每一個選項都要回原文核對兩次，左右欄各一次。",
+          "本題要求兩人皆須成立，故每一個選項都要回原文核對兩次，左右欄各一次。",
           "(C) 兩場奧運：左欄第三段末句載 both the 2016 Rio Games and 2021 Tokyo Games；右欄第三段載 his Olympic debut at Rio 2016 與 2021 Tokyo Games。兩人皆成立。",
           "(D) 因戰爭離開家鄉：左欄第二段載 her house was destroyed in the civil war, so she decided to flee her home country；右欄第一段載 Escaping from the war zone。兩人皆成立。"
         ],
@@ -537,13 +537,13 @@
           { "h": "(B) Growing up in an orphanage.", "t": "右欄第一段所載為 a center for displaced children，文中未以孤兒院稱之，左欄亦無相應敘述。" },
           { "h": "(E) Showing talent in sports after going to a foreign country.", "t": "左欄第一段載 Yusra 在敘利亞即為游泳選手；右欄第一、二段載 Popole 在首都 Kinshasa 之收容中心接觸柔道，該地仍在其母國境內。兩人展現運動才能之時點皆在離開母國之前。" },
           { "h": "(F) Traveling through several countries before securing protection.", "t": "左欄第二段載 Yusra 經黎巴嫩、土耳其至希臘，其後定居德國，敘述成立；右欄第三段載 Popole 於巴西獲得庇護，文中未載其經過數國。僅其中一人成立，不合本題所問。" },
-          { "h": "(E) 與 (F) 為本題最強之誘答", "t": "前者兩人各有一段看似相符之敘述，實則時序不符；後者僅對一人成立，正是本題判準所要排除者。" }
+          { "h": "(E) 與 (F) 為本題最強之誘答", "t": "前者兩人各有一段看似相符之敘述，實則時序不符；後者僅對一人成立，正是本題所要排除者。" }
         ],
         "scoring": [
           "本題須選出對兩人皆正確之選項，故劃記 C、D 兩個選項。劃記之先後不影響判定。",
-          "多選題之計分方式載於試卷首頁〈作答注意事項〉：每題 n 個選項，各選項獨立判定；所有選項均答對者，得該題全部之分數；答錯 k 個選項者，得該題 (n−2k)／n 之分數；得分低於零分或所有選項均未作答者，以零分計算。",
+          "多選題之計分方式載於試卷首頁「作答注意事項」：每題 n 個選項，各選項獨立判定；所有選項均答對者，得該題全部之分數；答錯 k 個選項者，得該題 (n−2k)／n 之分數；得分低於零分或所有選項均未作答者，以零分計算。",
           "本題為六個選項、4 分，故全對得 4 分；錯一個約得 2.67 分；錯兩個約得 1.33 分；錯及三個以上為 0 分。",
-          "「各選項獨立判定」一語須留意：漏劃一個與多劃一個，所失相同。故作答時之判準宜前後一致，不因避免多劃而從嚴；惟錯及三格即為零分，亦不宜逐項濫劃。"
+          "「各選項獨立判定」一語須留意：漏劃一個與多劃一個，所失相同。故作答時的標準宜前後一致，不因避免多劃而從嚴；惟錯及三格即為零分，亦不宜逐項濫劃。"
         ]
       }
     },
@@ -579,8 +579,8 @@
           "但這一題的門檻寫在題目裡：要對兩個人都正確。只對其中一個人成立的選項，看起來最像答案，也最容易被勾進去。"
         ],
         "cue": [
-          "官方解析已指出本題之評量目標與作答線索所在。以下就判準補充。",
-          "本題之判準為兩人皆須成立，故每一個選項都要回原文核對兩次，左右欄各一次。",
+          "官方解析已指出本題之評量目標與作答線索所在。以下就判斷方式補充。",
+          "本題要求兩人皆須成立，故每一個選項都要回原文核對兩次，左右欄各一次。",
           "(C) 兩場奧運：左欄第三段末句載 both the 2016 Rio Games and 2021 Tokyo Games；右欄第三段載 his Olympic debut at Rio 2016 與 2021 Tokyo Games。兩人皆成立。",
           "(D) 因戰爭離開家鄉：左欄第二段載 her house was destroyed in the civil war, so she decided to flee her home country；右欄第一段載 Escaping from the war zone。兩人皆成立。"
         ],
@@ -603,14 +603,14 @@
           },
           {
             "h": "(E) 與 (F) 為本題最強之誘答",
-            "t": "前者兩人各有一段看似相符之敘述，實則時序不符；後者僅對一人成立，正是本題判準所要排除者。"
+            "t": "前者兩人各有一段看似相符之敘述，實則時序不符；後者僅對一人成立，正是本題所要排除者。"
           }
         ],
         "scoring": [
           "本題須選出對兩人皆正確之選項，故劃記 C、D 兩個選項。劃記之先後不影響判定。",
-          "多選題之計分方式載於試卷首頁〈作答注意事項〉：每題 n 個選項，各選項獨立判定；所有選項均答對者，得該題全部之分數；答錯 k 個選項者，得該題 (n−2k)／n 之分數；得分低於零分或所有選項均未作答者，以零分計算。",
+          "多選題之計分方式載於試卷首頁「作答注意事項」：每題 n 個選項，各選項獨立判定；所有選項均答對者，得該題全部之分數；答錯 k 個選項者，得該題 (n−2k)／n 之分數；得分低於零分或所有選項均未作答者，以零分計算。",
           "本題為六個選項、4 分，故全對得 4 分；錯一個約得 2.67 分；錯兩個約得 1.33 分；錯及三個以上為 0 分。",
-          "「各選項獨立判定」一語須留意：漏劃一個與多劃一個，所失相同。故作答時之判準宜前後一致，不因避免多劃而從嚴；惟錯及三格即為零分，亦不宜逐項濫劃。"
+          "「各選項獨立判定」一語須留意：漏劃一個與多劃一個，所失相同。故作答時的標準宜前後一致，不因避免多劃而從嚴；惟錯及三格即為零分，亦不宜逐項濫劃。"
         ]
       }
     },
@@ -753,7 +753,7 @@
         ],
         "cue": [
           "本題評量能否就八則留言逐一判斷發言者本人是否於特定條件下會選擇該產品。",
-          "本題之判準有二，須同時成立：其一為該選擇繫於發言者本人，題幹作 for the chatroom participants themselves；其二為該選擇繫於條件，題幹作 only under certain circumstances。",
+          "本題的條件有二，須同時成立：其一為該選擇繫於發言者本人，題幹作 for the chatroom participants themselves；其二為該選擇繫於條件，題幹作 only under certain circumstances。",
           "(D) Thomas：I'm definitely a carnivore and prefer meat, but I don't see anything wrong with choosing one of the fakey-fakey meaty things once in a while—just for a change. 本人偏好肉類，惟偶一為之則可，條件見 once in a while；同段另載 it works better in recipes that would usually contain beans，為另一項條件。",
           "(F) Linda：I liked it fine. I did NOT like the price, though. Hopefully that will come down. 本人接受該產品，惟以價格下降為條件。"
         ],
@@ -788,11 +788,11 @@
           }
         ],
         "scoring": [
-          "本題須選出兩項判準皆成立者，故劃記 D、F 兩個選項。劃記之先後不影響判定。",
-          "多選題之計分方式載於試卷首頁〈作答注意事項〉：每題 n 個選項，各選項獨立判定；所有選項均答對者，得該題全部之分數；答錯 k 個選項者，得該題 (n−2k)／n 之分數；得分低於零分或所有選項均未作答者，以零分計算。",
+          "本題須選出兩項條件皆成立者，故劃記 D、F 兩個選項。劃記之先後不影響判定。",
+          "多選題之計分方式載於試卷首頁「作答注意事項」：每題 n 個選項，各選項獨立判定；所有選項均答對者，得該題全部之分數；答錯 k 個選項者，得該題 (n−2k)／n 之分數；得分低於零分或所有選項均未作答者，以零分計算。",
           "本題為八個選項、4 分，代入得每錯一格失 1 分：全對 4 分，錯一格 3 分，錯二格 2 分，錯三格 1 分，錯四格以上 0 分。本題所失為整數，與 111 學測及 115 學測兩份之第 49 題不同——該兩題各為六個選項，每錯一格所失非整數。",
           "本題不在《112 學年度學科能力測驗英文考科非選擇題滿分參考答案與評分原則》之範圍內：該件僅載第 47、48、50 三題之滿分參考答案，多選題屬選擇題部分，計分依試卷首頁。",
-          "「各選項獨立判定」一語須留意：漏劃一個與多劃一個，所失相同。故作答時之判準宜前後一致，不因避免多劃而從嚴；惟錯及四格即為零分，亦不宜逐項濫劃。"
+          "「各選項獨立判定」一語須留意：漏劃一個與多劃一個，所失相同。故作答時的標準宜前後一致，不因避免多劃而從嚴；惟錯及四格即為零分，亦不宜逐項濫劃。"
         ]
       }
     },
@@ -867,7 +867,44 @@
       "optionCount": null,
       "answerKey": null,
       "officialExplanation": null,
-      "explanation": null
+      "explanation": {
+        "think": [
+          "這一格的左邊是 use、右邊是 intelligence，要補的是一個修飾 intelligence 的字。回文章找的時候，最順手的做法是抓一個看起來像的字就填。",
+          "常見的填法有三種：抄烏龜蟻段的 collectively，形態不動就交出去；抓寒鴉段的 social（highly social birds）；或填 groups，把複數一起帶進來。",
+          "social 填進去讀得通，但摘要句同時涵蓋寒鴉與烏龜蟻兩種動物，而 social 只出現在寒鴉那一段，涵蓋不到烏龜蟻。"
+        ],
+        "cue": [
+          "本題評量讀寫綜合應用能力，對應的學習表現為「能以適切的英語文說出或寫出談話或短文的摘要」，並依空格的語法條件做適當的字形變化。",
+          "先切塊：use [ ___47___ intelligence ] in both [ solving problems ] and [ ___48___ to new challenging environment ]。",
+          "第一塊：use 的受詞是整個名詞片語，本格放在 intelligence 前面，是它的修飾語。這一層形容詞或名詞都接得上——collective intelligence 的 collective 是形容詞，group intelligence 的 group 是名詞。官方參考答案兩個都收，原因在這裡。",
+          "後兩塊由 both … and … 連接，兩項都是介系詞 in 的受詞。以分配律還原：use ___47___ intelligence in ( solving problems + adapting to new challenging environment ) = use ___47___ intelligence in solving problems + use ___47___ intelligence in adapting to new challenging environment。",
+          "英文寫成並列，是為了不必把共用的部分說兩次。本格就落在共用的那一段裡，所以它填的字要讓還原後的兩句都能單獨成立。要看的是這個，不是文章裡有沒有出現這個字。",
+          "兩段選文的共同處也落在這一點：寒鴉段 enjoy a smooth flight together as a group、following the group pattern、based on information coming from other members；烏龜蟻段 they have to work together to explore alternative routes、By working collectively。兩段講的都是集體智慧，故本格填 group 或 collective。",
+          "social 只出現在寒鴉段的 highly social birds。social intelligence 是既有的說法，但它指與同類相處的能力，還原後的第二句接不上——烏龜蟻重建路徑、改善效率，不是與同類相處。",
+          "摘要和選文之間以換句話說相連，不是回文章找一模一樣的字。",
+          "文中所給的兩個字，形態不同。group 在前言與寒鴉段本來就是名詞（as a group、the group pattern），填進本格拼寫不變；collectively 是副詞（By working collectively），要轉成形容詞 collective。填哪一個字就照哪一條走。"
+        ],
+        "scoring": [
+          "大考中心《113 學年度學科能力測驗英文考科非選擇題評分原則》就本題列出兩個滿分參考答案：group 與 collective。兩者擇一即可，不必兼寫。",
+          "本題含選字與字形變化兩事，二者皆正確方為滿分。依前揭評分原則：完全正確（包括選字及字形變化），得 2 分；字形錯誤或者拼字錯誤，得 1 分；空白、答案錯誤或與答案無關者，得 0 分。",
+          "依此，填 collective 而寫成 collectively 者，係選對字而形態未轉，得 1 分；填 group 者無形態變化之問題，選字正確即為滿分；填 groups 者亦屬形態之誤，得 1 分。官方就本題未逐項舉例，本站據該項條文之文義列此二說。",
+          "作答時宜先將所選之字寫上，不因形態未定而留空。"
+        ],
+        "patterns": [
+          {
+            "h": "collective intelligence",
+            "t": "群體智慧。Animals like jackdaws and turtle ants are able to use collective intelligence."
+          },
+          {
+            "h": "collectively（副）→ collective（形）",
+            "t": "-ly 副詞回到形容詞是最常見的一組：effectively → effective、efficiently → efficient、actively → active。"
+          },
+          {
+            "h": "三個擺在一起看",
+            "t": "They work collectively.（副詞，修飾動詞 work）／collective intelligence（形容詞，修飾名詞 intelligence）／the group pattern（名詞當前位修飾語）。第三種是既有的說法，不是由「名詞可以修飾名詞」推出來的；本文自己用的就是 the group pattern。"
+          }
+        ]
+      }
     },
     {
       "id": "MX113-48",
@@ -887,7 +924,44 @@
       "optionCount": null,
       "answerKey": null,
       "officialExplanation": null,
-      "explanation": null
+      "explanation": {
+        "think": [
+          "回文章找到 adapt 這個字並不難，末句就寫著 adapt to their ever-changing environment。最常見的失分是原形照抄，形態不動。",
+          "也常見填 adapted 或 adaptation：前者把它讀成被動或過去，後者把它讀成名詞。",
+          "另一種是看到 new challenging environment 就去抓 ever-changing。那個字是用來形容 environment 的，不是這一格要的那件事。"
+        ],
+        "cue": [
+          "本題評量讀寫綜合應用能力，對應的學習表現為「能以適切的英語文說出或寫出談話或短文的摘要」，並依空格的語法條件做適當的字形變化。",
+          "先切塊：in both [ solving problems ] and [ ___48___ to new challenging environment ]。both … and … 所連接之兩項同為介系詞 in 之受詞，本格為右項。",
+          "並列結構照抄另一邊的形態。依據在左：and 前面那一項是 V-ing，本格就照抄 V-ing。",
+          "以分配律驗算：in ( solving problems + adapting to new challenging environment ) 還原為 in solving problems 與 in adapting to new challenging environment，兩句都能單獨成立，形態就對了。",
+          "同型見 100 年第 19 題：they learned how to preserve the body by drying it out, oiling and then ______ the body in linen。依據同樣在左，by 後面已有 drying、oiling 兩個動名詞，第三項就是 wrapping；該題的誘因在右，空格後面緊接著 the body，容易被「屍體是被包起來的」帶走。",
+          "本題與第 47 題共用這一塊：第 47 題問共用的那一段填什麼字，本題問並列的這一項要什麼形態。",
+          "本格的結構訊號明確，宜從字形變化入手：詞類先定為 V-ing，再回選文選字。",
+          "摘要句 ___48___ to new challenging environment 之對應處為烏龜蟻段末句 adapt to their ever-changing environment，該處 adapt 為原形，本格須轉為 adapting。",
+          "同一概念於寒鴉段亦有對應：if a predator (such as a fox) is present, the pattern of their flight will change immediately，即依環境之變化調整行為。"
+        ],
+        "scoring": [
+          "大考中心《113 學年度學科能力測驗英文考科非選擇題評分原則》就本題所列之滿分參考答案為 adapting，僅此一種寫法。",
+          "本題含選字與字形變化兩事，二者皆正確方為滿分。依前揭評分原則：完全正確（包括選字及字形變化），得 2 分；字形錯誤或者拼字錯誤，得 1 分；空白、答案錯誤或與答案無關者，得 0 分。",
+          "依此，填 adapt、adapted 或 adaptation 者，係選對字而形態不合本句之結構，得 1 分。官方就本題未逐項舉例，本站據該項條文之文義列此一說。",
+          "作答時宜先將所選之字寫上，不因形態未定而留空。"
+        ],
+        "patterns": [
+          {
+            "h": "adapt to",
+            "t": "適應……。It takes time to adapt to a new environment."
+          },
+          {
+            "h": "both A and B",
+            "t": "both 與 and 所連接的兩項詞類須相同：both solving and adapting（兩項皆為 V-ing）、both quickly and safely（兩項皆為副詞）。並列之中有一項形態已定，其餘照抄。"
+          },
+          {
+            "h": "介系詞後面的動詞作 V-ing",
+            "t": "in solving problems、by working together、before settling on the best route。"
+          }
+        ]
+      }
     },
     {
       "id": "MX113-49",
@@ -914,7 +988,49 @@
       "optionCount": 6,
       "answerKey": ["C", "F"],
       "officialExplanation": null,
-      "explanation": null
+      "explanation": {
+        "think": [
+          "兩段分開讀都很順，讀完容易照著「寒鴉那段講了什麼、烏龜蟻那段講了什麼」各勾一個。這一題的門檻寫在題目裡：要對兩種動物都成立。",
+          "只對其中一方成立的選項，看起來最像答案，也最容易被勾進去。",
+          "另一個常見的失分是沒看清楚題目問的是 ONES：答案不只一個。"
+        ],
+        "cue": [
+          "本題以跨文本兩篇短文呈現，評量考生閱讀後能否進行比較、分析與推論，把多項訊息加以比較。",
+          "本題要求兩種動物皆須成立，故每一個選項都要回原文核對兩次，寒鴉段一次、烏龜蟻段一次。",
+          "(C) They share information with their group members. 寒鴉段載 they now focus only on the birds within a fixed distance from them, based on information coming from other members，其飛行依成員之間傳來的訊息而定；烏龜蟻段載 laying down trails of pheromone (a chemical substance) behind them so that other ants can follow 與 forming a sort of communication network。兩者皆成立。",
+          "(F) They show behavior governed by a unique system of communication. 兩段各載一套成員之間傳遞訊息的方式，且方式互異：寒鴉憑 information coming from other members 改變飛行方式，烏龜蟻憑費洛蒙路徑構成 a sort of communication network。兩者皆成立。",
+          "大考中心公布本題答對率 57%、鑑別度 61。"
+        ],
+        "distractors": [
+          {
+            "h": "(A) They have special strategies to locate food sources.",
+            "t": "烏龜蟻段載 They have evolved search strategies to link their food source to their nests，該項成立；寒鴉段所載為 “commuting” between two locations, such as from their nesting site to their feeding ground，為往返既有之覓食地，未載尋找食物來源之方法。僅其中一方成立。"
+          },
+          {
+            "h": "(B) They have complex interactions led by a leader.",
+            "t": "兩段皆未載有領導者。寒鴉段所載反為 they now focus only on the birds within a fixed distance from them，各自依鄰近成員之訊息行動。"
+          },
+          {
+            "h": "(D) They establish rules to stay away from enemies.",
+            "t": "寒鴉段所載為遇 predator 時改變飛行方式，以 keep a safe distance between themselves，其目的在 avoid crashing into each other，非訂立規則遠離天敵；烏龜蟻段全段未提及天敵。"
+          },
+          {
+            "h": "(E) They change their nesting sites from time to time.",
+            "t": "烏龜蟻段所改者為 paths 與 alternative routes，非 nests；寒鴉段之 nesting site 為往返之一端，未載更換。"
+          },
+          {
+            "h": "(A) 與 (E) 為本題最強之誘答",
+            "t": "兩者各有一段字面相近之敘述——strategies 與 find new paths——而該敘述或只對一方成立，或所指者為另一件事。字面相近不等於本題所問之敘述成立。"
+          }
+        ],
+        "scoring": [
+          "本題須選出對兩種動物皆成立之選項，故劃記 C、F 兩個選項。劃記之先後不影響判定。",
+          "多選題之計分方式載於試卷首頁「作答注意事項」：每題 n 個選項，各選項獨立判定；所有選項均答對者，得該題全部之分數；答錯 k 個選項者，得該題 (n−2k)／n 之分數；得分低於零分或所有選項均未作答者，以零分計算。",
+          "本題為六個選項、4 分，故全對得 4 分；錯一個約得 2.67 分；錯兩個約得 1.33 分；錯及三個以上為 0 分。所失非整數，與 112 學測之第 49 題不同——該題為八個選項，每錯一格所失為 1 分。計分之數字一律照本題之選項數實算，不可沿用他題。",
+          "「各選項獨立判定」一語須留意：漏劃一個與多劃一個，所失相同。應劃 C、F 而僅劃 C 者，係 F 一格判錯；另劃 A 者，係 A 一格判錯，二者扣減相同。故作答時的標準宜前後一致，不因避免多劃而從嚴；惟錯及三格即為零分，亦不宜逐項濫劃。",
+          "本題不在《113 學年度學科能力測驗英文考科非選擇題評分原則》之範圍內：該件僅載第 47、48、50 三題之滿分參考答案，多選題屬選擇題部分，計分依試卷首頁「作答注意事項」。"
+        ]
+      }
     },
     {
       "id": "MX113-50",
@@ -934,7 +1050,41 @@
       "optionCount": null,
       "answerKey": null,
       "officialExplanation": null,
-      "explanation": null
+      "explanation": {
+        "think": [
+          "題目用引號把 “disturbance” 標出來，這個字出現在前言：disturbances arising from the environment。前言講的是所有群居動物，於是把烏龜蟻段的 wind or rain 填進來的很常見。題目問的是寒鴉。",
+          "也常見的是整句抄 the pattern of their flight will change immediately。那是干擾造成的結果，不是干擾本身。",
+          "還有一種是只寫 predator 或 fox，把前面的冠詞漏掉。"
+        ],
+        "cue": [
+          "本題評量讀寫綜合應用能力，對應的學習表現為「能針對各類選文，以口語或書面回答相關問題」。",
+          "題幹設有兩項條件，須同時滿足。其一為對象，題幹作 for jackdaws，答案須自寒鴉段取得，前言與烏龜蟻段所載之干擾不在其內；其二為所問者為 disturbance 本身，非其所造成之結果。",
+          "作答線索在寒鴉段：However, if a predator (such as a fox) is present, the pattern of their flight will change immediately.",
+          "該句以 However 承接前句之 Normally, the birds enjoy a smooth flight together as a group，前後即「平常」與「有干擾時」之對比；a predator 為造成改變者，其後 the pattern of their flight will change 為所造成之結果。",
+          "前言之 disturbances 於原卷以粗體標示，為本題之指路記號。該字於選文兩段皆未再出現，須由語意判斷選文中何者相當於干擾。"
+        ],
+        "scoring": [
+          "大考中心《113 學年度學科能力測驗英文考科非選擇題評分原則》就本題列出兩個滿分參考答案：a predator 與 a fox。本題之滿分答案不只一種寫法，兩者擇一即可。",
+          "兩個答案分屬原文之兩層：a predator 為選文所述之天敵，a fox 為括號內所舉之例（such as a fox）。官方兩者並收。",
+          "評分原則：完全正確（包括選字及字形變化），得 2 分；字形錯誤或者拼字錯誤，得 1 分；空白、答案錯誤或與答案無關者，得 0 分。",
+          "官方所列之兩個答案皆帶不定冠詞 a。答 predator、fox 而漏去冠詞者得 1 分——110 年試辦考試之評分原則就此類載之最明，其原文為「答案不完整（未做字形變化）或拼字、體例（大小寫、定冠詞等）錯誤，得 1 分」。該條所舉為定冠詞，本題所漏之 a 為不定冠詞，同屬該條所指之體例。",
+          "答 wind or rain 者為烏龜蟻所遇之干擾，非本題所問之對象。"
+        ],
+        "patterns": [
+          {
+            "h": "predator",
+            "t": "掠食者、天敵。Many animals live and move in groups to avoid predators."
+          },
+          {
+            "h": "such as",
+            "t": "舉例。a predator (such as a fox) 之括號內所舉者為前一個名詞的例子，不是另立一項。"
+          },
+          {
+            "h": "disturbance",
+            "t": "干擾。名詞為 disturbance，動詞為 disturb，形容詞為 disturbing。"
+          }
+        ]
+      }
     },
     {
       "id": "MX114-47",
@@ -1160,10 +1310,10 @@
         ],
         "scoring": [
           "作答方式為劃記商店名稱前之英文大寫字母。題幹所購者為三項商品，故須劃記三個選項：A、D、E。劃記之先後不影響判定。",
-          "多選題之計分方式載於試卷首頁〈作答注意事項〉：每題 n 個選項，各選項獨立判定；所有選項均答對者，得該題全部之分數；答錯 k 個選項者，得該題 (n−2k)／n 之分數；得分低於零分或所有選項均未作答者，以零分計算。",
+          "多選題之計分方式載於試卷首頁「作答注意事項」：每題 n 個選項，各選項獨立判定；所有選項均答對者，得該題全部之分數；答錯 k 個選項者，得該題 (n−2k)／n 之分數；得分低於零分或所有選項均未作答者，以零分計算。",
           "本題為六個選項、4 分，故全對得 4 分；錯一個約得 2.67 分；錯兩個約得 1.33 分；錯及三個以上為 0 分。",
-          "「各選項獨立判定」一語須留意：漏劃一個與多劃一個，所失相同。應劃 A、D、E 而僅劃 A、D 者，係 E 一格判錯；另劃 B 者，係 B 一格判錯，二者扣減相同。故作答時之判準宜前後一致，不因避免多劃而從嚴；惟錯及三格即為零分，亦不宜逐項濫劃。",
-          "本段之來源為試卷首頁〈作答注意事項〉，非《非選擇題評分原則》——後者僅涵蓋非選擇題，查無多選題之計分方式。"
+          "「各選項獨立判定」一語須留意：漏劃一個與多劃一個，所失相同。應劃 A、D、E 而僅劃 A、D 者，係 E 一格判錯；另劃 B 者，係 B 一格判錯，二者扣減相同。故作答時的標準宜前後一致，不因避免多劃而從嚴；惟錯及三格即為零分，亦不宜逐項濫劃。",
+          "本段之來源為試卷首頁「作答注意事項」，非《非選擇題評分原則》——後者僅涵蓋非選擇題，查無多選題之計分方式。"
         ]
       }
     },
@@ -1200,7 +1350,7 @@
           "滿分參考答案為 one of a kind，照原文四字寫出，不作任何形態變化，中間不加連字號。",
           "答 unique 者不合前述兩項限制：既非 Joseph Tang 之用語，亦非片語。",
           "評分原則同第 47 題：完全正確得 2 分；拼字錯誤得 1 分；空白、答案錯誤或與答案無關者得 0 分。",
-          "寫成 one of kind 而漏去 a 者得 1 分。110 年試辦考試之評分原則就此類載之最明：拼字或體例（大小寫、定冠詞等）錯誤，得 1 分。該條所舉為定冠詞，本題所漏之 a 為不定冠詞，同屬該條所指之體例。",
+          "寫成 one of kind 而漏去 a 者得 1 分。110 年試辦考試之評分原則就此類載之最明，其原文為「答案不完整（未做字形變化）或拼字、體例（大小寫、定冠詞等）錯誤，得 1 分」。該條所舉為定冠詞，本題所漏之 a 為不定冠詞，同屬該條所指之體例。",
           "本題之滿分答案僅一種寫法，惟簡答題不盡如此。故每一則簡答題之解析均須載明：該題之答案是否只有一種寫法。大考中心公布之滿分參考答案已可見之，部分題目並列數種寫法皆收。"
         ],
         "patterns": [
