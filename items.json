@@ -269,7 +269,62 @@
       "optionCount": 4,
       "answerKey": ["A"],
       "officialExplanation": null,
-      "explanation": null
+      "explanation": {
+        "think": [
+          "全文引了調查數字、講了營養學、也承認 good nutrition helps the body fight against diseases，讀起來很像在持平分析，於是勾 Objective 的很多。",
+          "題目問的不是作者寫得客不客觀，是他對超級食物的健康功效抱什麼態度。",
+          "Frustrated 也常被勾——文章沒有責怪誰，也沒有懊惱的語氣。"
+        ],
+        "cue": [
+          "本題評量讀寫綜合應用能力，須就全文判斷作者的態度。",
+          "態度題可以用掃讀處理：不必逐句細讀，掃出帶立場的那幾句就夠了。",
+          "主旨句常落在第一段的後半，開頭一兩句多半是鉤子——先給一個吸引人的說法，或丟一個數字把讀者拉進來，那是引入，不是立場。本篇第一段四句依序是：",
+          "首句 It is an appealing idea that some foods are unhealthy, some healthy, and some super-healthy.——鉤子。講的是這個想法很吸引人，不是這是真的。",
+          "第二句 About 61% of British people reported buying foods because they were supposed superfoods, according to a 2014 survey.——鉤子，用數字把讀者拉進來，尚未表態。",
+          "第三句 But what are superfoods?——主旨在這裡起頭。",
+          "第四句 Are they really so good for our health?——全文要回答的就是這一句。",
+          "答案在末段：And if you don't, no superfood will save you.——超級食物救不了你。開頭問、結尾答，立場在結尾定案。",
+          "轉折詞要停一下。第四段 The truth, however, is that nutrition is fabulously complex...，however 之後才是作者真正要說的。文章裡的 But、However、Yet 之後，多半就是立場所在。",
+          "其餘立場句一路都在：第二段 Is kale significantly better than other vegetables?、But that doesn't mean your body gets superpowers、No good evidence shows...；第三段 But there is little evidence to suggest the health benefits from chia seeds。方向一致，故選 (A) Doubtful.。"
+        ],
+        "distractors": [
+          {
+            "h": "(B) Optimistic.",
+            "t": "全文未載任何肯定超級食物功效之語；末段 good nutrition helps the body fight against diseases 講的是均衡營養，不是超級食物。"
+          },
+          {
+            "h": "(C) Objective.",
+            "t": "本題最強之誘答。作者確實引用調查與研究，寫法客觀，但題目問的是他對功效的態度，不是他的寫作方式。文中 No good evidence、little evidence 兩句已經表態。"
+          },
+          {
+            "h": "(D) Frustrated.",
+            "t": "全文未見懊惱或不滿的語氣，亦未責備任何人。"
+          },
+          {
+            "h": "客觀與存疑是兩件事",
+            "t": "客觀說的是舉證的方式，存疑說的是結論的方向。一篇文章可以既客觀又存疑，本文正是如此；選項要對到題目問的那一件。"
+          }
+        ],
+        "scoring": [
+          "大考中心公布之參考答案為 (A)。本題為單選，非對即錯。",
+          "本場評分原則的三級文字與其他各場不同：2 分為「答案正確，語意完整」；1 分為「答案不完整或不完全正確，或因拼字錯誤造成語意不清者」；0 分為「空白、答案錯誤，或與答案無關之文字」。",
+          "該件並附一則備註：以 2 分作為給分示例，實際配分及評分級距，將視正式試卷全卷狀況調整，並依當次考試評分標準訂定會議所擬定之評分原則作為評閱標準。本場為參考試卷，級距只是示例。"
+        ],
+        "patterns": [
+          {
+            "h": "態度題的常見選項",
+            "t": "doubtful（存疑）、optimistic（樂觀）、objective（客觀）、frustrated（挫折）、critical（批評）、neutral（中立）、supportive（支持）。這一組字在態度題裡反覆出現，值得整組記。"
+          },
+          {
+            "h": "反詰句就是表態",
+            "t": "Are they really so good for our health? 形式是問句，作用是否定。文章裡出現反詰句，多半就是作者立場所在。"
+          },
+          {
+            "h": "there is little evidence to V",
+            "t": "幾乎沒有證據顯示……。little 與 a little 差在有無：little evidence 等於幾乎沒有，a little evidence 是有一些。"
+          }
+        ]
+      }
     },
     {
       "id": "MX111R-48",
@@ -290,7 +345,40 @@
       "optionCount": null,
       "answerKey": null,
       "officialExplanation": null,
-      "explanation": null
+      "explanation": {
+        "think": [
+          "答案要寫的是句子編號，不是文字。寫成整句抄下來，形式就不對了。",
+          "❷ 那一句有 eight times as much as salmon，數字醒目，容易被當成重點。那是在陳述事實，不是作者的態度。",
+          "❺ 講熱量幾乎等於一個大麥克，讀起來像在唱衰，但它講的是不容易吃到那個量，仍是事實陳述。"
+        ],
+        "cue": [
+          "本題評量讀寫綜合應用能力，須在指定段落中找出最能表明作者態度的一句，並寫出句子編號。",
+          "先把第三段七句分成兩類：可查證的與帶判斷的。❶ 至 ❻ 逐句在講奇亞籽含多少 Omega-3、那些 Omega-3 與魚類的有何不同、人體吸收得如何、熱量多少——都可以查證。",
+          "上下文的線索是轉折詞。❸ 的 However 轉的是成分，仍在陳述事實；❼ 的 But 轉的是整段的結論。",
+          "❼ But there is little evidence to suggest the health benefits from chia seeds. 帶判斷、收全段，這一句才是態度。段落的態度句常落在段末，與第一段主旨落在後半是同一種安排。",
+          "與第 47 題可以擺在一起看：全文的態度是存疑，本段的態度句正是同一個方向的縮影。"
+        ],
+        "scoring": [
+          "大考中心公布之參考答案為第 ❼ 句。",
+          "作答形式為句子編號，站上收阿拉伯數字 7 與原卷標記 ❼ 兩種寫法。",
+          "本場評分原則的三級文字與其他各場不同：2 分為「答案正確，語意完整」；1 分為「答案不完整或不完全正確，或因拼字錯誤造成語意不清者」；0 分為「空白、答案錯誤，或與答案無關之文字」。",
+          "該件並附一則備註：以 2 分作為給分示例，實際配分及評分級距，將視正式試卷全卷狀況調整，並依當次考試評分標準訂定會議所擬定之評分原則作為評閱標準。本場為參考試卷，級距只是示例。"
+        ],
+        "patterns": [
+          {
+            "h": "轉折詞常帶出作者的立場",
+            "t": "But、However、Yet 之後往往是作者真正想說的那一句。本段 ❸ 與 ❼ 各有一個轉折，❼ 那一個收全段。"
+          },
+          {
+            "h": "事實與態度的分別",
+            "t": "事實句可以查證（含多少公克、幾倍），態度句帶判斷（little evidence、good source）。態度題要找的是後者。"
+          },
+          {
+            "h": "eight times as much as",
+            "t": "是……的八倍。倍數放在 as ... as 之前：twice as long as、three times as expensive as。"
+          }
+        ]
+      }
     },
     {
       "id": "MX111R-49",
@@ -311,7 +399,42 @@
       "optionCount": null,
       "answerKey": null,
       "officialExplanation": null,
-      "explanation": null
+      "explanation": {
+        "think": [
+          "題幹把 if you don't 標出來，問它省略掉的是什麼。很多人只填 eat superfood 或 eat well，字數對了，內容不是文章講的那一件。",
+          "也有人把整個末段抄下來。要的是 don't 後面接的那一串，不是整段。",
+          "還有人填 you don't need any superfood 的後半，那是前一句的結果，不是條件。"
+        ],
+        "cue": [
+          "本題評量讀寫綜合應用能力，須依上下文補出被頂替的部分。",
+          "英文避免同一串話說兩次，辦法之一是用一個助動詞頂上去，文法上稱為替代。與省略不同：省略是直接不寫，替代是留一個字在那裡。本題考的是替代。",
+          "前一句是 We know that if you eat a balanced diet with plenty of fruit and vegetables and do regular exercise, you don't need any superfood.",
+          "後一句 And if you don't, no superfood will save you. 中的 don't，頂替的就是前一句 if 子句裡那一整串動作。判斷只有一步：找出被頂替的是哪一串，補回去讀一次。",
+          "答案是兩件事，不是一件：eat a balanced diet with plenty of fruit and vegetables 與 do regular exercise，由 and 連接，缺一則語意不完整。",
+          "這一招歷屆考過多次，判斷方式完全相同：114 學測第 18 題 One part of your balance-sensing system detects…, but the other parts ___，don't 頂替 don't detect…；104 指考第 11 題 His writing style… influenced modern fiction, as ___ his life of adventure，did 頂替 influenced modern fiction。國中就用過的 So do I.、Neither have I. 是同一套。"
+        ],
+        "scoring": [
+          "大考中心公布之參考答案為 eat a balanced diet with plenty of fruit and vegetables and do regular exercise。",
+          "本場評分原則的三級文字與其他各場不同：2 分為「答案正確，語意完整」；1 分為「答案不完整或不完全正確，或因拼字錯誤造成語意不清者」；0 分為「空白、答案錯誤，或與答案無關之文字」。",
+          "本題的答案較長，1 分那一級的「答案不完整」在此最容易發生：只寫飲食而漏掉運動，或只寫 eat a balanced diet 而漏掉 with plenty of fruit and vegetables，都屬答案不完整。",
+          "站上這一格不做字串比對，一律由你自評 2／1／0。",
+          "該件並附一則備註：以 2 分作為給分示例，實際配分及評分級距，將視正式試卷全卷狀況調整，並依當次考試評分標準訂定會議所擬定之評分原則作為評閱標準。本場為參考試卷，級距只是示例。"
+        ],
+        "patterns": [
+          {
+            "h": "助動詞代替整串動作",
+            "t": "if you don't（＝ if you don't eat a balanced diet and do regular exercise）。同一路的還有 Do you like it?—Yes, I do.，do 代替的是前面整個動作。"
+          },
+          {
+            "h": "a balanced diet",
+            "t": "均衡的飲食。eat/have a balanced diet、a healthy diet、be on a diet（在節食）。"
+          },
+          {
+            "h": "do regular exercise",
+            "t": "規律運動。exercise 作此解為不可數，不加 s；take regular exercise 亦通。"
+          }
+        ]
+      }
     },
     {
       "id": "MX111R-50A",
@@ -332,7 +455,39 @@
       "optionCount": null,
       "answerKey": null,
       "officialExplanation": null,
-      "explanation": null
+      "explanation": {
+        "think": [
+          "表格已經給了 kale 這一列的 nutrient(s) 是 iron and vitamins，要填的是它們有什麼作用。",
+          "常見的填法是把整句 Fans of superfoods like to list... 抄下來。表格要的是那個作用本身。",
+          "也有人填 make you healthy 或 give you superpowers，前者太籠統，後者是文章拿來反駁的說法。"
+        ],
+        "cue": [
+          "本題評量讀寫綜合應用能力，須將文章內容整理進表格。",
+          "表格本身就是文章的換句話說：欄位名稱 nutrient(s) 與 benefit(s) of the nutrient(s) 把散在文章裡的訊息分成兩類，作答時先認清這一格要的是哪一類。",
+          "本格要的是作用，不是成分。作答線索在第二段：Fans of superfoods like to list the things that kale contains a lot of, such as iron and vitamins, and point out what those things do (make red blood cells).",
+          "該句已經把兩類都排好：contains a lot of 之後是成分（表格已給），what those things do 之後是作用，括號裡的 make red blood cells 即為本格答案。"
+        ],
+        "scoring": [
+          "大考中心公布之參考答案為 make red blood cells。",
+          "本場評分原則的三級文字與其他各場不同：2 分為「答案正確，語意完整」；1 分為「答案不完整或不完全正確，或因拼字錯誤造成語意不清者」；0 分為「空白、答案錯誤，或與答案無關之文字」。",
+          "本格照原文三字寫出即可，不必改寫成完整句子。",
+          "該件並附一則備註：以 2 分作為給分示例，實際配分及評分級距，將視正式試卷全卷狀況調整，並依當次考試評分標準訂定會議所擬定之評分原則作為評閱標準。本場為參考試卷，級距只是示例。"
+        ],
+        "patterns": [
+          {
+            "h": "contain",
+            "t": "含有。Chia seeds contain about 17g of Omega-3s. 與 include（包括其中幾項）不同：contain 講的是全部成分。"
+          },
+          {
+            "h": "red blood cells",
+            "t": "紅血球。white blood cells（白血球）、blood pressure（血壓）、blood type（血型）。"
+          },
+          {
+            "h": "what those things do",
+            "t": "複合關係代名詞 what 引導的名詞子句，當 point out 的受詞。what 自己已含先行詞，前面不再加名詞。"
+          }
+        ]
+      }
     },
     {
       "id": "MX111R-50B",
@@ -353,7 +508,40 @@
       "optionCount": null,
       "answerKey": null,
       "officialExplanation": null,
-      "explanation": null
+      "explanation": {
+        "think": [
+          "這一格與 kale 那一列相反：作用已經給了（protect against cardiovascular disease），要填的是成分。",
+          "常見的失分是填 fish。文章確實說魚是好來源，但表格這一列的主詞是 chia seeds。",
+          "也有人填 Calories 或 17g，那是份量與熱量，不是成分名稱。"
+        ],
+        "cue": [
+          "本題評量讀寫綜合應用能力，須將文章內容整理進表格。",
+          "本格與 kale 那一列的方向相反：那一列給成分、要作用，本格給作用、要成分。填之前先看表格已經給了哪一欄。",
+          "作答線索在第三段 ❻：So fish is definitely a good source of Omega-3 fatty acids for you, which help to protect against cardiovascular disease.",
+          "該句的 which 子句正是表格已給的那一欄，往前找它所修飾的名詞，即 Omega-3 fatty acids。",
+          "同一個東西在文中出現兩種寫法：❷ 作 Omega-3s、❻ 作 Omega-3 fatty acids，官方兩種都收。"
+        ],
+        "scoring": [
+          "大考中心公布之參考答案為 Omega-3s 與 Omega-3 fatty acids，兩者擇一即可。",
+          "本格之滿分答案不只一種寫法——同一個成分在文中本來就有兩種說法，官方並收。",
+          "本場評分原則的三級文字與其他各場不同：2 分為「答案正確，語意完整」；1 分為「答案不完整或不完全正確，或因拼字錯誤造成語意不清者」；0 分為「空白、答案錯誤，或與答案無關之文字」。",
+          "該件並附一則備註：以 2 分作為給分示例，實際配分及評分級距，將視正式試卷全卷狀況調整，並依當次考試評分標準訂定會議所擬定之評分原則作為評閱標準。本場為參考試卷，級距只是示例。"
+        ],
+        "patterns": [
+          {
+            "h": "a good source of",
+            "t": "……的良好來源。Fish is a good source of Omega-3 fatty acids. 同一路的還有 a rich source of、a major source of。"
+          },
+          {
+            "h": "protect against",
+            "t": "預防、抵禦。protect against disease（預防疾病）、protect against the cold（禦寒）。protect A from B 是另一種說法。"
+          },
+          {
+            "h": "which 引導的補述用法",
+            "t": "逗號加 which，補充說明前面的名詞：Omega-3 fatty acids, which help to protect against cardiovascular disease。這一類子句常拿來當表格填空的線索。"
+          }
+        ]
+      }
     },
     {
       "id": "MX111-47A",
