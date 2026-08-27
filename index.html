@@ -195,6 +195,14 @@
   .offEx{font-size:14px; line-height:1.95; background:#FFFBEA; border-left:3px solid var(--gold); padding:10px 13px; border-radius:2px; margin-top:11px;}
   .offEx .lb{display:block; font-family:'Noto Serif TC',serif; font-weight:700; color:var(--gold); font-size:13px; margin-bottom:3px; letter-spacing:.04em;}
   .offEx .src{display:block; font-size:11.5px; color:var(--ink-soft); margin-top:6px;}
+  .offEx .exP{margin:0 0 6px;}
+  .selfEx{font-size:14px; line-height:1.95; background:#FBF9F2; border-left:3px solid var(--rule); padding:11px 13px; border-radius:2px; margin-top:11px;}
+  .selfEx .exSec{margin-bottom:12px;}
+  .selfEx .exSec:last-child{margin-bottom:0;}
+  .selfEx .lb{display:block; font-family:'Noto Serif TC',serif; font-weight:700; color:var(--ink); font-size:13px; margin-bottom:4px; letter-spacing:.04em;}
+  .selfEx .exP{margin:0 0 6px;}
+  .selfEx .exP:last-child{margin-bottom:0;}
+  .selfEx .exP .h{font-weight:700; color:var(--ink);}
 
   .exTable{width:100%; border-collapse:collapse; font-size:13.5px; line-height:1.75; margin:10px 0 4px;}
   .exTable th,.exTable td{border:1px solid var(--rule); padding:7px 9px; text-align:left; vertical-align:top;}
@@ -1010,12 +1018,42 @@ function renderMark(p, it){
 
   const self = isChoice(it) ? '' : renderSelf(it);
   const off = it.officialExplanation
-    ? `<div class="offEx"><span class="lb">大考中心的試題解析</span>${esc(it.officialExplanation)}` +
+    ? `<div class="offEx"><span class="lb">大考中心的試題解析</span>` +
+      String(it.officialExplanation).split('\n').filter(s => s.trim()).map(s => `<p class="exP">${esc(s)}</p>`).join('') +
       `<span class="src">引自《學科能力測驗（115 學年度起適用）英文考科參考試卷 試題解析》。學測不單獨公布逐題解析，故同題組的另一場沒有這一段。</span></div>` : '';
   const box = (sc === null || sc === undefined) ? '' : (sc === it.points ? ' scored' : (sc === 0 ? ' zero' : ''));
   return `<div class="qBox${box}" style="margin:12px 0 0; background:#FDFCF7;">
-    ${yours}${ref}${autoLine}${self}${off}
+    ${yours}${ref}${autoLine}${self}${off}${renderExplanation(it)}
   </div>`;
+}
+
+/* 本站逐題解析。五段小標寫死於此，資料端只放內文，故資料端無從新增小標。
+   每一段的值為陣列：字串即一個自然段，物件 {h,t} 即有字頭的一則。
+   字頭與內文之間的分隔符由此處補回——誘答選項用全形冒號，其餘用全形空格。 */
+const EX_SECTIONS = [
+  ['think',       '【你可能會這樣想】'],
+  ['cue',         '【作答線索在哪】'],
+  ['distractors', '【誘答選項】'],
+  ['scoring',     '【滿分答案與部分給分】'],
+  ['patterns',    '【常考字詞與句型】']
+];
+function hasEx(it){
+  return !!it.explanation && EX_SECTIONS.some(s => Array.isArray(it.explanation[s[0]]) && it.explanation[s[0]].length);
+}
+function exBlocks(arr, key){
+  const gap = (key === 'distractors') ? '：' : '\u3000';
+  return (arr || []).map(b => (b && typeof b === 'object')
+    ? `<p class="exP"><span class="h">${esc(b.h)}${gap}</span>${esc(b.t)}</p>`
+    : `<p class="exP">${esc(b)}</p>`).join('');
+}
+function renderExplanation(it){
+  if(!hasEx(it)) return '';
+  const secs = EX_SECTIONS.map(s => {
+    const arr = it.explanation[s[0]];
+    if(!Array.isArray(arr) || !arr.length) return '';
+    return `<div class="exSec"><span class="lb">${s[1]}</span>${exBlocks(arr, s[0])}</div>`;
+  }).join('');
+  return secs ? `<div class="selfEx">${secs}</div>` : '';
 }
 function renderSelf(it){
   const sc = scores[it.id];

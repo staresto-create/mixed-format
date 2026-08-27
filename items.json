@@ -659,7 +659,37 @@
       "optionCount": null,
       "answerKey": null,
       "officialExplanation": null,
-      "explanation": null
+      "explanation": {
+        "think": [
+          "第一段說這個部落「沒有活在過去」，新開的餐廳和商店一家一家冒出來，六家店各有各的特色。要找一個字跟 tradition 對著看，文章裡看起來能用的字不少：",
+          "commerce（商業）、fashion（時尚）、diversity（多樣）、individuals（各具特色的人）、neighbors（鄰居）——這幾個字每一個都有人填。",
+          "它們填進去，中文都讀得通。問題出在一個更前面的步驟：這一格要的不是「文章裡的哪個字聽起來像新的」，是「題幹自己指定的那一組對比」。"
+        ],
+        "cue": [
+          "本題評量能否掌握並簡述文章的主旨，並依提示寫出適當的回應。作答線索為題幹 It is a place where the old meets the new：old 對應空格前之 tradition，本格則對應 new。",
+          "與 new 相對應之語意線索見於第一段：However, it does not live in the past.、As numerous new restaurants and shops have sprung up in recent years、not only a cultural center but also a unique commercial zone。",
+          "可供選填之字詞見 F 店 The Pinery：the fruit appears in some innovative menu items。",
+          "本段的線索落點與大考中心《反映意見回覆》所載相同。"
+        ],
+        "scoring": [
+          "本大題之指示語明訂「從文章中找出兩個單詞……並視句型結構需要做適當的字形變化」，故本格含兩事：選字與字形變化，二者皆正確方為滿分。",
+          "本題之結構訊號明確，宜自字形變化入手：空格前為介系詞 with，其後須為名詞，此一判斷不待通讀全文即可完成。",
+          "詞性確定後再行選字。文中所給者為形容詞 innovative，本格須轉為名詞 innovation。",
+          "評分原則：完全正確（包括選字及字形變化），得 2 分；字形錯誤或者拼字錯誤，得 1 分；空白、答案錯誤或與答案無關者，得 0 分。",
+          "依此，選對字而形態轉錯者（如寫 innovative）仍得 1 分；未寫或選錯字者始為 0 分。作答時宜先將所選之字寫上，不因形態未定而留空。"
+        ],
+        "patterns": [
+          {
+            "h": "coexist with",
+            "t": "與……並存。Tradition coexists harmoniously with innovation."
+          },
+          "innovative（形）→ innovation（名）。同型的字尾變化（-ive 轉 -ion）：active → action、relative → relation、attractive → attraction。",
+          {
+            "h": "a place where …",
+            "t": "關係副詞 where 引導的形容詞子句。It is a place where the old meets the new."
+          }
+        ]
+      }
     },
     {
       "id": "MX115-48",
@@ -679,7 +709,33 @@
       "optionCount": null,
       "answerKey": null,
       "officialExplanation": null,
-      "explanation": null
+      "explanation": {
+        "think": [
+          "題幹最後一段的 the old meets the new 就在眼前，meet 這個字看起來現成又好用，於是填 met 或 meeting；也有人看到 B 店的 loaded with roast duck，覺得 loaded 也搭得上 with。這三種填法都常見。",
+          "這一題和第 47 題是同一個陷阱的兩面：看到一個「文章裡有、文法上也接得下去」的字就停手，沒有回頭確認這一格到底在講哪一件事。"
+        ],
+        "cue": [
+          "本題評量能否掌握並簡述文章的主旨，並依提示寫出適當的回應。作答線索遍及全文：文中之 indigenous、the traditional way of life、does not live in the past 等概念，與題幹之 local features 及 foreign elements 相互對應。",
+          "題幹此格兩側並陳在地與外來，且以 perfectly 修飾，可歸納出「融合」之概念。",
+          "文中表達該概念之字詞見 B 店 After Work 之末句：A truly unique blend!",
+          "本段的線索說明與大考中心《反映意見回覆》所載相同（該回覆明記「作答線索遍及全文」）。"
+        ],
+        "scoring": [
+          "本題亦宜自字形變化入手：空格前為 are、其後接 with，屬被動語態 be ＿ with 之結構，故須填入過去分詞。",
+          "另有第二項條件：所選之字須能與 with 搭配。依此，met、meeting 雖無語法之誤，然 meet with 之語意與本句不符，不宜。",
+          "二者兼備者為 blend。該字於文中為名詞（A truly unique blend!），本格須轉為過去分詞 blended。",
+          "評分原則同第 47 題：完全正確得 2 分；字形錯誤或拼字錯誤得 1 分；空白、答案錯誤或與答案無關者得 0 分。",
+          "本題組兩格之字形變化方向不同：第 47 題為形容詞轉名詞，第 48 題為名詞轉過去分詞。"
+        ],
+        "patterns": [
+          {
+            "h": "be blended with",
+            "t": "與……融合在一起。Local features are perfectly blended with foreign elements."
+          },
+          "blend（名／動）a unique blend（獨特的融合）、blend A with B。",
+          "被動語態加介系詞的固定組合，這一類常考：be filled with、be covered with、be equipped with。"
+        ]
+      }
     },
     {
       "id": "MX115-49",
@@ -699,7 +755,40 @@
       "optionCount": 6,
       "answerKey": ["A", "D", "E"],
       "officialExplanation": null,
-      "explanation": null
+      "explanation": {
+        "think": [
+          "六家店的介紹都寫得很吸引人，讀完容易留下「哪一家都很特別」的印象。但這一題不問印象，它問的是三樣具體的東西各自在哪一家買得到，要一項一項對回去。",
+          "另一個容易失分的地方是題目本身：它問的是三樣東西，答案就是三個字母，不是一個。"
+        ],
+        "cue": [
+          "本題評量能否將商品性質與店家描述逐項比對。作答線索分見三段：",
+          "（1）十九世紀的油燈 → D 店 Something Different：at this tiny antique store、traditional-style home accessories，屬古董家飾之類別。",
+          "（2）回收塑膠太陽眼鏡 → A 店 Oh Eco：She sells environmentally friendly items such as reusable bottles, bamboo toothbrushes, and soy candles.　該段所列舉者為瓶子、牙刷、蠟燭，並未列出太陽眼鏡；判斷之依據為該店主打之類別 environmentally friendly items，與題幹之「回收塑膠」相合。逐項比對之對象為類別，不必逐字對上品名。",
+          "（3）原住民木珠項鍊 → E 店 Beyond World：it carries products only from local makers and small businesses owned by indigenous people，屬在地工藝與原住民商家之類別。"
+        ],
+        "distractors": [
+          {
+            "h": "B（After Work）",
+            "t": "handcrafted 一詞近於工藝，然該店所售為手工啤酒與披薩，屬餐飲。"
+          },
+          {
+            "h": "C（Aroma Paradise）",
+            "t": "customized 與紀念品之語意相近，然題幹三項商品中並無香氛。"
+          },
+          {
+            "h": "F（The Pinery）",
+            "t": "innovative menu items 所指為菜色，非可售之商品。"
+          },
+          "三者之共同處在於：所售為體驗而非可攜帶之物件，與本題所問不符。"
+        ],
+        "scoring": [
+          "作答方式為劃記商店名稱前之英文大寫字母。題幹所購者為三項商品，故須劃記三個選項：A、D、E。劃記之先後不影響判定。",
+          "多選題之計分方式載於試卷首頁〈作答注意事項〉：每題 n 個選項，各選項獨立判定；所有選項均答對者，得該題全部之分數；答錯 k 個選項者，得該題 (n−2k)／n 之分數；得分低於零分或所有選項均未作答者，以零分計算。",
+          "本題為六個選項、4 分，故全對得 4 分；錯一個約得 2.67 分；錯兩個約得 1.33 分；錯及三個以上為 0 分。",
+          "「各選項獨立判定」一語須留意：漏劃一個與多劃一個，所失相同。應劃 A、D、E 而僅劃 A、D 者，係 E 一格判錯；另劃 B 者，係 B 一格判錯，二者扣減相同。故作答時之判準宜前後一致，不因避免多劃而從嚴；惟錯及三格即為零分，亦不宜逐項濫劃。",
+          "本段之來源為試卷首頁〈作答注意事項〉，非《非選擇題評分原則》——後者僅涵蓋非選擇題，查無多選題之計分方式。"
+        ]
+      }
     },
     {
       "id": "MX115-50",
@@ -719,7 +808,33 @@
       "optionCount": null,
       "answerKey": null,
       "officialExplanation": null,
-      "explanation": null
+      "explanation": {
+        "think": [
+          "題目裡就有 uniqueness，而文章裡 unique 出現了好幾次——前言的 a unique commercial zone、B 店的 A truly unique blend、D 店的 something unique。順手抄一個 unique 交出去，是最容易發生的事。",
+          "但題目問的有兩個限制，兩個都要滿足。"
+        ],
+        "cue": [
+          "本題評量能否依指定條件自文中擷取關鍵語句。題幹設有兩項限制，須同時滿足。",
+          "其一為發話者：used by Joseph Tang。Joseph Tang 為 C 店 Aroma Paradise 之店主，全文僅該段為其發言。",
+          "其二為形式：題幹所用者為 phrase，原卷並將該字標示，所求者為片語，非單一字詞。",
+          "作答線索即在 C 店該段：“Each store is one of a kind in Wonder Village,” he states."
+        ],
+        "scoring": [
+          "滿分參考答案為 one of a kind，照原文四字寫出，不作任何形態變化，中間不加連字號。",
+          "答 unique 者不合前述兩項限制：既非 Joseph Tang 之用語，亦非片語。",
+          "評分原則同第 47 題：完全正確得 2 分；拼字錯誤得 1 分；空白、答案錯誤或與答案無關者得 0 分。",
+          "寫成 one of kind 而漏去 a 者得 1 分。110 年試辦考試之評分原則就此類載之最明：拼字或體例（大小寫、定冠詞等）錯誤，得 1 分。該條所舉為定冠詞，本題所漏之 a 為不定冠詞，同屬該條所指之體例。",
+          "本題之滿分答案僅一種寫法，惟簡答題不盡如此。故每一則簡答題之解析均須載明：該題之答案是否只有一種寫法。大考中心公布之滿分參考答案已可見之，部分題目並列數種寫法皆收。"
+        ],
+        "patterns": [
+          {
+            "h": "one of a kind",
+            "t": "獨一無二的。Each store is one of a kind."
+          },
+          "同義的說法：unique、one and only。",
+          "題目問 phrase 就要給片語、問 word 就要給單字——這一類指示語在混合題裡是常態，作答前先看清楚。"
+        ]
+      }
     }
   ]
 }
