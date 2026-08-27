@@ -35,7 +35,41 @@
       "optionCount": null,
       "answerKey": null,
       "officialExplanation": null,
-      "explanation": null
+      "explanation": {
+        "think": [
+          "空格前是 had been greatly，一看就知道要填被動的過去分詞。難的是找字：回第一段掃一遍，最像的是 insult，而它在文章裡是名詞（This was an insult too much for the duke to bear）。",
+          "常見的失分就是把 insult 原封抄過去。也有人抄同一句的 bear，或抄 upset、angry 一類題幹裡已經有的字。",
+          "還有一種是往第二段找 recognized、caught。那兩個字形態剛好合，但指示語限定第一段。"
+        ],
+        "cue": [
+          "本題評量讀寫綜合應用能力，作答須依空格的語法條件做適當的字形變化。",
+          "先切塊：the Duke of Austria was very upset because he felt [ he had been greatly ___47___ ]。本格放在 had been 之後、副詞 greatly 之後，是被動語態的過去分詞。",
+          "選字的範圍由指示語限定：請從文章第一段中選出一個單詞。第二段、第三段的字不在範圍內，形態再合也不能用。",
+          "第一段對應的一句是 This was an insult too much for the duke to bear，講的正是公爵覺得受辱這件事。",
+          "文中所給的 insult 是名詞，本格須轉為過去分詞 insulted。",
+          "題幹的 was very upset 與 insulted 不是同一件事：前者是他的情緒，後者是別人對他做的事，這一格要的是後者。"
+        ],
+        "scoring": [
+          "大考中心公布之滿分參考答案為 insulted。",
+          "本題含選字與字形變化兩事，二者皆正確方為滿分。依 110 年試辦考試評分原則：答案正確（包括選字及字形變化），得 2 分；答案不完整（未做字形變化）或拼字、體例（大小寫、定冠詞等）錯誤，得 1 分；空白、答案錯誤或與答案無關者，得 0 分。",
+          "填 insult 者即該原則第二項所稱之「答案不完整（未做字形變化）」，得 1 分。",
+          "本場評分原則的第二項與其他各場措辭不同——它明文把「未做字形變化」寫進 1 分那一級，其他各場寫的是「字形錯誤或者拼字錯誤」。"
+        ],
+        "patterns": [
+          {
+            "h": "insult（名／動）→ insulted（過去分詞）",
+            "t": "take it as an insult（把它當成一種侮辱）／feel insulted（覺得受辱）。"
+          },
+          {
+            "h": "be + 副詞 + 過去分詞",
+            "t": "副詞放在 be 與過去分詞之間：he had been greatly insulted、the town was badly damaged、she was deeply moved。"
+          },
+          {
+            "h": "too ... to ...",
+            "t": "太……以致於不能……。an insult too much for the duke to bear（這個侮辱重到公爵嚥不下去）。"
+          }
+        ]
+      }
     },
     {
       "id": "MX110T-48",
@@ -55,7 +89,40 @@
       "optionCount": null,
       "answerKey": null,
       "officialExplanation": null,
-      "explanation": null
+      "explanation": {
+        "think": [
+          "問的是 his unfriendly former ally 指誰。這個名詞片語自己不帶名字，要往回找。",
+          "常見的失分是填 Richard I——his 指的就是 Richard，ally 是他的盟友，不是他本人。",
+          "也有人填 Heinrich VI。那個人到第二段後半才出現，而且與 Richard 之間沒有 former ally 的關係。"
+        ],
+        "cue": [
+          "本題評量讀寫綜合應用能力，須就指定的語詞回文找出它所指的對象。",
+          "先切塊：a land controlled by [ his unfriendly former ally ]。his 指前一句的 Richard，故本格要找的是「理查昔日的盟友」。",
+          "三個訊息合起來指同一個人。其一，第一段 He fought side by side with the Duke of Austria, Leopold V——曾是盟友。其二，同段 This was an insult too much for the duke to bear, so he placed a price on Richard's head——已經翻臉，即 unfriendly。其三，本句所在的 Austria 一地正是他所控制。",
+          "故所指者為奧地利公爵 Leopold V。"
+        ],
+        "scoring": [
+          "大考中心公布之滿分參考答案共五種寫法：the Duke of Austria, Leopold V／the Duke of Austria／Leopold V／the Austrian Duke (duke)／the Duke (duke)。",
+          "本題之滿分答案不只一種寫法。官方所列已涵蓋三種指稱方式——只寫名字、只寫爵位、兩者並寫，任取其一即可。",
+          "後兩種的括號表示該字大小寫皆可，站上因此逐一列出，比對時 the Austrian Duke 與 the Austrian duke 同樣收。",
+          "評分原則：答案正確（包括選字及字形變化），得 2 分；答案不完整（未做字形變化）或拼字、體例（大小寫、定冠詞等）錯誤，得 1 分；空白、答案錯誤或與答案無關者，得 0 分。",
+          "定冠詞屬前揭第二項所稱之體例：官方所列的寫法中，凡以 Duke 起首者皆帶 the，漏去者得 1 分。"
+        ],
+        "patterns": [
+          {
+            "h": "ally",
+            "t": "盟友。a former ally（昔日的盟友）、a close ally（親密的盟友）。動詞 ally with（與……結盟）。"
+          },
+          {
+            "h": "refer to",
+            "t": "指的是……。這一類題目的問法固定：Who does X refer to?（X 指的是誰）／What does X refer to?（X 指的是什麼）。"
+          },
+          {
+            "h": "side by side",
+            "t": "並肩。fight side by side（並肩作戰）、work side by side（一起共事）。"
+          }
+        ]
+      }
     },
     {
       "id": "MX110T-49",
@@ -75,7 +142,40 @@
       "optionCount": null,
       "answerKey": null,
       "officialExplanation": null,
-      "explanation": null
+      "explanation": {
+        "think": [
+          "題目給的定義是「鑄造錢幣、獎章或代幣的地方」，要在文章裡找出那一個字。",
+          "看到 coins 就把 coins 或 silver 填進去的很常見。那兩個字是東西，不是地方。",
+          "mint 這個字多數人先想到的是薄荷，容易讀過去而沒停下來。"
+        ],
+        "cue": [
+          "本題評量讀寫綜合應用能力，須依所給的英文定義在文中找出對應的單詞。",
+          "定義句 a place where coins, medals, or tokens are made 的中心語是 place，故所找的字是一個地方，不是材料，也不是成品。",
+          "作答線索在第三段：It was also used to establish the Austrian mint and make silver coins.",
+          "該句的 establish the Austrian mint 與 make silver coins 並列，前者是設立造幣廠，後者是鑄造銀幣——一個是地方，一個是產出，定義句要的是前者。",
+          "題幹的 word 一字在原卷標示，所求為單一單詞，不是片語。"
+        ],
+        "scoring": [
+          "大考中心公布之滿分參考答案為 mint，大小寫皆可。",
+          "本題之滿分答案僅此一字，惟大小寫兩收——原文作 the Austrian mint 為小寫，官方另收句首大寫之寫法。",
+          "評分原則：答案正確（包括選字及字形變化），得 2 分；答案不完整（未做字形變化）或拼字、體例（大小寫、定冠詞等）錯誤，得 1 分；空白、答案錯誤或與答案無關者，得 0 分。",
+          "答 mints 者為形態之誤，得 1 分；答 coins、silver 者不合定義句所指之「地方」，為 0 分。"
+        ],
+        "patterns": [
+          {
+            "h": "mint",
+            "t": "造幣廠。the Royal Mint（英國皇家造幣廠）。另有「薄荷」與「全新的」兩個意思：mint tea（薄荷茶）、in mint condition（全新、跟剛出廠一樣）。"
+          },
+          {
+            "h": "a place where ...",
+            "t": "關係副詞 where 引導的形容詞子句，字典的定義句常用這個句型：a place where coins are made、a room where guests wait。"
+          },
+          {
+            "h": "be used to + 原形",
+            "t": "被用來做……。It was used to establish the mint. 與 be used to V-ing（習慣於）不同，後者的 to 是介系詞。"
+          }
+        ]
+      }
     },
     {
       "id": "MX110T-50",
@@ -102,7 +202,48 @@
       "optionCount": 6,
       "answerKey": ["B", "E"],
       "officialExplanation": null,
-      "explanation": null
+      "explanation": {
+        "think": [
+          "三個人名在文章裡交錯出現，讀完容易記成「理查被抓、付了贖金」這個大概，細節就模糊了。",
+          "最容易勾錯的是 F：抓理查的是 Leopold V，把他交出去的也是 Leopold V，交給的是 Heinrich VI。文章寫的順序和選項寫的順序剛好相反。",
+          "另一個是 A：理查最後獲釋，文章沒有寫他報了仇。"
+        ],
+        "cue": [
+          "本題評量讀寫綜合應用能力，須就三個人物在文中的遭遇逐項比對。",
+          "本題要求敘述與原文相符，故每一個選項都要回文找出對應的那一句，不能憑整體印象。",
+          "(B) Heinrich VI received part of the ransom. 第三段載 The silver was split between the German Emperor and the Austrian Duke，贖金由德皇與奧地利公爵均分，德皇即 Heinrich VI。成立。",
+          "(E) Leopold V rebuilt towns and city walls with some ransom money. 第三段載 The Austrians used it to improve the city walls of Vienna and some small towns in the east。成立。"
+        ],
+        "distractors": [
+          {
+            "h": "(A) Richard I got his revenge at the end.",
+            "t": "第三段只載 the ransom was paid and Richard was finally released，全文未載他事後報復。"
+          },
+          {
+            "h": "(C) Richard I lost his throne after the incident.",
+            "t": "第一段載其在位期間為 1189 至 1199 年，此事發生於 1194 年獲釋，其後仍在位，且全文未載失去王位。"
+          },
+          {
+            "h": "(D) Leopold V claimed victory alone after the battle at Acre.",
+            "t": "第一段載 when Richard reached the top of the castle to claim victory，獨自宣示戰功者為理查；公爵當時 who was absent at the time，人不在場。方向相反。"
+          },
+          {
+            "h": "(F) Heinrich VI captured Richard I and handed him over to Leopold V.",
+            "t": "第二段載 Duke Leopold held Richard at Dürnstein 與 Richard was handed over to the German Emperor Heinrich VI：擒獲並移交者為 Leopold V，接手者為 Heinrich VI。兩人的角色對調了。"
+          },
+          {
+            "h": "(D) 與 (F) 為本題最強之誘答",
+            "t": "兩者所用的字全部出自原文，只把人物的角色互換。這一類選項不能只看眼熟，要回文確認做那件事的是誰。"
+          }
+        ],
+        "scoring": [
+          "本題須選出與原文相符者，故劃記 B、E 兩個選項。劃記之先後不影響判定。",
+          "本格為多選，不在 110 年試辦考試評分原則的範圍內——該件只列第 47 至 49 題的滿分參考答案，且大考中心未另行公布本場選擇題答案。站上這一格的答案為本站依原文推得，逐格標示。",
+          "多選題之計分方式載於試卷首頁「作答注意事項」：每題 n 個選項，各選項獨立判定；所有選項均答對者，得該題全部之分數；答錯 k 個選項者，得該題 (n−2k)／n 之分數；得分低於零分或所有選項均未作答者，以零分計算。",
+          "本題為六個選項、4 分，故全對得 4 分；錯一個約得 2.67 分；錯兩個約得 1.33 分；錯及三個以上為 0 分。",
+          "本格的答案既為本站推得，若你的判斷與站上不同，先回頭看原文，自己判斷得住的答案就算數。"
+        ]
+      }
     },
     {
       "id": "MX111R-47",
