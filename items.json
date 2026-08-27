@@ -1240,12 +1240,48 @@
       "answers": ["entertaining", "educating"],
       "answerSource": "official",
       "swapGroup": null,
-      "answerNote": "本格須配合 as well as 前後的對等結構作字形變化（conserving／entertaining）。",
+      "answerNote": "本格須配合 as well as 前後的對等結構作字形變化（conserving／entertaining、educating）。",
       "options": null,
       "optionCount": null,
       "answerKey": null,
       "officialExplanation": null,
-      "explanation": null
+      "explanation": {
+        "think": [
+          "這一格和第 48 格同屬一句話，指示語要你從文章裡選兩個單詞。回文章找的時候，最順手的是抓看得到的名詞——entertainment 出現在 A 則、education 出現在前言，兩個都很像。",
+          "常見的失分就是把 entertainment 或 education 原封抄過去，形態不動。",
+          "也有人填 conserving 那一類已經在句子裡的字，或往 J 則抓 money。"
+        ],
+        "cue": [
+          "本題評量讀寫綜合應用能力，作答須依空格的語法條件做適當的字形變化。",
+          "先切塊：serve the purposes of [ conserving endangered species ] as well as [ ___47___ visitors ]。as well as 連接的兩項同為介系詞 of 的受詞，本格是右項。",
+          "並列結構照抄另一邊的形態。依據在左：as well as 前面那一項是 V-ing，本格就照抄 V-ing。",
+          "以分配律驗算：serve the purposes of ( conserving endangered species + entertaining visitors ) 還原為 serve the purpose of conserving endangered species 與 serve the purpose of entertaining visitors，兩句都能單獨成立。",
+          "讀任何一篇文章都先把主題放在心裡。本篇前言已經定調：conservation and education 對上 confining animals，動物園的兩面。摘要句講的就是這兩面，本格落在前者，第 48 格落在後者。",
+          "英文避免重複的辦法之一，是同一個概念換一個字再說一次，篇章上稱為詞彙聯結（lexical cohesion）。所以回文章找的不是一模一樣的字，是講同一件事的字；找到之後再依空格的條件改形態。先問概念，再問形態。",
+          "選字有兩條路，官方兩個都收。其一，前言 most modern zoos now focus on conservation and education，education 轉為 educating；其二，A 則 Amy 之 I don't agree with caging animals for our entertainment，entertainment 轉為 entertaining。",
+          "兩個字在本句都說得通——動物園的另一項功能，講成教育參觀者或娛樂參觀者皆可。"
+        ],
+        "scoring": [
+          "大考中心公布之滿分參考答案為 entertaining 與 educating，兩者擇一即可。",
+          "本題含選字與字形變化兩事，二者皆正確方為滿分。依 114 學年度學科能力測驗英文考科非選擇題評分原則：完全正確（包括選字及字形變化），得 2 分；字形錯誤或者拼字錯誤，得 1 分；空白、答案錯誤或與答案無關者，得 0 分。",
+          "填 entertainment 或 education 者，係選對字而形態未轉，得 1 分。官方就本題未逐項舉例，本站據該項條文之文義列此一說。",
+          "作答時宜先將所選之字寫上，不因形態未定而留空。"
+        ],
+        "patterns": [
+          {
+            "h": "serve the purpose of V-ing",
+            "t": "具有……的功能、達到……的目的。Modern zoos serve the purposes of conserving endangered species."
+          },
+          {
+            "h": "as well as",
+            "t": "以及、除了……還。連接的兩項詞類須相同：conserving and entertaining（兩項皆為 V-ing）。它連接主詞時，動詞跟著前一項走：The teacher, as well as the students, is going."
+          },
+          {
+            "h": "名詞轉 V-ing 的一組",
+            "t": "entertainment → entertaining、education → educating、conservation → conserving。三個字在本篇選文裡都出現過名詞形。"
+          }
+        ]
+      }
     },
     {
       "id": "MX114-48",
@@ -1265,7 +1301,40 @@
       "optionCount": null,
       "answerKey": null,
       "officialExplanation": null,
-      "explanation": null
+      "explanation": {
+        "think": [
+          "看到 the animals 後面接空格，很多人直接想到「動物被關在那裡」，於是填 confining 或 caging——意思抓對了，方向錯了。",
+          "也有人填原形 confine，或填 captivity 這個前言裡的名詞。",
+          "還有一種是把空格看成句子的動詞，於是填 are confined。這一格後面還有 will lose，句子的動詞已經有了。"
+        ],
+        "cue": [
+          "本題評量讀寫綜合應用能力，作答須依空格的語法條件做適當的字形變化。",
+          "先切塊：the animals [ ___48___ there ] will lose the freedom。本句的動詞是 will lose，本格放在名詞 the animals 之後，是它的後位修飾語，不是句子的動詞。",
+          "修飾語用現在分詞還是過去分詞，看它與被修飾的名詞是主動還是被動：動物是被關的那一方，故用過去分詞。",
+          "還原成子句就清楚了：the animals ( that are ) confined there。",
+          "選字有兩條路，官方兩個都收。其一，前言 the cost of confining animals，confining 轉為 confined；其二，A 則 Amy 之 caging animals for our entertainment，caging 轉為 caged。",
+          "本題組兩格的字形變化方向不同：第 47 格由名詞轉為 V-ing，本格由 V-ing 轉為過去分詞。"
+        ],
+        "scoring": [
+          "大考中心公布之滿分參考答案為 confined 與 caged，兩者擇一即可。",
+          "評分原則同第 47 題：完全正確（包括選字及字形變化），得 2 分；字形錯誤或者拼字錯誤，得 1 分；空白、答案錯誤或與答案無關者，得 0 分。",
+          "填 confining、caging 者，係選對字而形態轉錯——那是主動的方向，本格要的是被動；依前揭第二項得 1 分。官方就本題未逐項舉例，本站據該項條文之文義列此一說。"
+        ],
+        "patterns": [
+          {
+            "h": "過去分詞當後位修飾語",
+            "t": "the animals confined there（被關在那裡的動物）、the money raised（募到的錢）、the species listed as endangered（被列為瀕危的物種）。還原成子句都是「名詞 + that are + 過去分詞」。"
+          },
+          {
+            "h": "兩個擺在一起看",
+            "t": "the zoo confining animals（關住動物的那間動物園，主動）／the animals confined there（被關在那裡的動物，被動）。同一個字，方向不同。"
+          },
+          {
+            "h": "in captivity",
+            "t": "被圈養、關在籠中。animals in captivity（圈養動物）、captive-bred animals（人工繁殖的動物）。本篇選文前言與 F、H 兩則都用到這一組。"
+          }
+        ]
+      }
     },
     {
       "id": "MX114-49",
@@ -1285,7 +1354,50 @@
       "optionCount": 10,
       "answerKey": ["C", "D", "G", "I"],
       "officialExplanation": null,
-      "explanation": null
+      "explanation": {
+        "think": [
+          "十則發言一路讀下來，語氣有濃有淡，容易憑「這個人聽起來沒那麼反對」就勾進去。",
+          "題目問的是 positive attitude toward zoos——對動物園持正面態度，不是「沒有反對」。",
+          "最容易被勾進去的是 F 和 J：F 開頭就說「如果動物園非存在不可」，J 說「動物園會一直存在下去」。兩則讀起來都不像在罵，但也都沒有說動物園好。"
+        ],
+        "cue": [
+          "本題評量讀寫綜合應用能力，須就十則發言逐一判斷發言者對動物園的態度。選項就是論壇上的十則發言，標記為 (A) 至 (J)；題幹用的是 ONES，答案不只一個。",
+          "本題練的是快速閱讀底下的掃讀，不是精讀：十則不必每一則從頭讀到尾，一則抓一個定調的字詞，態度就出來了。",
+          "(A) Amy：against。(B) Ben：What gives humans the right...?（反詰）。(C) Cathy：unforgettable。(D) Daniel：a good place。(E) Eddie：Is it a good idea...?（反詰）。",
+          "(F) Frank：inevitability。(G) George：educational 與 easier to learn。(H) Henry：nearly impossible to release。(I) Irene：more sensitive and compassionate。(J) Jack：will continue to exist。",
+          "定調字為肯定者四則，即 (C)、(D)、(G)、(I)。",
+          "掃到反詰句要停一下：問句形式而意在否定，(B) 與 (E) 皆屬此類，不能因為它沒有否定詞就算成中立。"
+        ],
+        "distractors": [
+          {
+            "h": "(F) 與 (J) 為本題最強之誘答",
+            "t": "兩則都不帶批評的語氣。(F) 之 if zoos are an inevitability 為讓步，所主張者為飼育條件應盡可能改善；(J) 之 Whether or not zoos benefit the animal community, they certainly do make money 為敘述現況而未表態。判斷態度看他有沒有說動物園好，不是看他有沒有罵。"
+          },
+          {
+            "h": "(B) 與 (E) 的反詰句",
+            "t": "(B) 之 does that justify restricting its freedom? 與 (E) 之 Is it a good idea to keep animals in sites not suited to them? 皆為問句形式，意在否定。"
+          },
+          {
+            "h": "(A) 之讓步子句",
+            "t": "though I do understand some of the arguments why they should exist 是讓步，不改變 I'm against zoos 的立場。掃讀時定調的是主要子句。"
+          },
+          {
+            "h": "(H) 的兩句否定",
+            "t": "Most animals in zoos are not endangered 與 it is nearly impossible to release captive-bred animals，直接針對「動物園在保育」這個說法。"
+          },
+          {
+            "h": "難字讀不出來也判得出",
+            "t": "justify 與 inevitable 依《高中英文參考詞彙表》皆列第 5 級。(B) 就算讀不出 justify，前一句 What gives humans the right to capture, confine, or breed other species? 已經定調；(F) 就算讀不出 inevitability，後半 must provide the best possible conditions 是對動物園提要求，不是稱讚。同一則裡通常不只一處線索。"
+          }
+        ],
+        "scoring": [
+          "本題須選出對動物園持正面態度者，故劃記 C、D、G、I 四個選項。劃記之先後不影響判定。",
+          "多選題之計分方式載於試卷首頁「作答注意事項」：每題 n 個選項，各選項獨立判定；所有選項均答對者，得該題全部之分數；答錯 k 個選項者，得該題 (n−2k)／n 之分數；得分低於零分或所有選項均未作答者，以零分計算。",
+          "本題為十個選項、4 分，故全對得 4 分；錯一個 3.2 分；錯兩個 2.4 分；錯三個 1.6 分；錯四個 0.8 分；錯及五個以上為 0 分。選項數為全站八場之最多，每錯一格所失比別場小。計分之數字一律照本題的選項數實算，不可沿用他題。",
+          "「各選項獨立判定」一語須留意：漏劃一個與多劃一個，所失相同。應劃 C、D、G、I 而僅劃三個者，係少劃的那一格判錯；另劃 F 者，係 F 一格判錯，二者扣減相同。",
+          "本題不在 114 學年度學科能力測驗英文考科非選擇題評分原則的範圍內：該件只列第 47、48、50 三題的滿分參考答案，多選題屬選擇題部分，計分依試卷首頁「作答注意事項」。"
+        ]
+      }
     },
     {
       "id": "MX114-50",
@@ -1305,7 +1417,40 @@
       "optionCount": null,
       "answerKey": null,
       "officialExplanation": null,
-      "explanation": null
+      "explanation": {
+        "think": [
+          "題目給的定義是「培養理解並分享他人感受的能力」，看到 empathy 就只寫 empathy 的很常見。題目問的是 phrase，不是 word。",
+          "也有人抄題幹裡的 understand and share the feelings of others。那一串是題目給的解釋，不是文章裡的字。",
+          "還有一種是抄 I 則後半的 be more sensitive and compassionate，那是這個片語造成的結果，不是片語本身。"
+        ],
+        "cue": [
+          "本題評量讀寫綜合應用能力，須依指定條件自文中擷取關鍵語句。",
+          "題幹設有兩項條件，須同時滿足。其一為形式，題幹所用者為 phrase，原卷並將該字標示，所求為片語；其二為語意，該片語須等同於 building the ability to understand and share the feelings of others。",
+          "題幹那一句 building the ability to understand and share the feelings of others，正是文中那個片語的換句話說。這一類題目一律先抓定義句講的概念，再回文找講同一件事的字詞，不是找一模一樣的字。",
+          "作答線索在 I 則 Irene 開頭：Fostering empathy…",
+          "該則其後 By seeing an animal up close, the public could be encouraged to be more sensitive and compassionate 為這個片語的展開說明，可用來確認語意，但不是答案本身。"
+        ],
+        "scoring": [
+          "大考中心公布之滿分參考答案為 fostering empathy，另收 Fostering empathy.（句首大寫、句末加句點）。",
+          "本題之滿分答案不只一種寫法：原文出現在句首，故大小寫兩收，句末標點有無亦不影響。站上比對時忽略大小寫與句末標點。",
+          "評分原則：完全正確（包括選字及字形變化），得 2 分；字形錯誤或者拼字錯誤，得 1 分；空白、答案錯誤或與答案無關者，得 0 分。",
+          "答 empathy 一字者不合題幹所指之片語；答 understand and share the feelings 者為題幹用語、非文中所有：兩者均不合前述兩項條件。"
+        ],
+        "patterns": [
+          {
+            "h": "foster",
+            "t": "培養、促進。foster empathy（培養同理心）、foster creativity（培養創造力）、foster cooperation（促進合作）。"
+          },
+          {
+            "h": "empathy",
+            "t": "同理心。形容詞為 empathetic。與 sympathy（同情）不同：前者是設身處地感同身受，後者是為對方的處境難過。"
+          },
+          {
+            "h": "題目問 phrase 就要給片語",
+            "t": "問 word 就給單字、問 phrase 就給片語。這一類指示語在混合題裡是常態，作答前先看清楚。"
+          }
+        ]
+      }
     },
     {
       "id": "MX115-47",
