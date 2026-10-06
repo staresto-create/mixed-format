@@ -30,7 +30,7 @@
       "answers": ["insulted"],
       "answerSource": "official",
       "swapGroup": null,
-      "answerNote": "大考中心公布之滿分參考答案為 insulted。本格須由名詞 insult 轉為過去分詞。",
+      "answerNote": "大考中心公布的滿分參考答案是 insulted。這一格要把名詞 insult 改成過去分詞。",
       "options": null,
       "optionCount": null,
       "answerKey": null,
@@ -42,18 +42,18 @@
           "還有一種是往第二段找 recognized、caught。那兩個字形態剛好合，但指示語限定第一段。"
         ],
         "cue": [
-          "本題評量讀寫綜合應用能力，作答須依空格的語法條件做適當的字形變化。",
-          "先切塊：the Duke of Austria was very upset because he felt [ he had been greatly ___47___ ]。本格放在 had been 之後、副詞 greatly 之後，是被動語態的過去分詞。",
+          "本題評量讀寫綜合應用能力，作答時要看空格的語法條件，做適當的字形變化。",
+          "先切塊：the Duke of Austria was very upset because he felt [ he had been greatly ___47___ ]。這一格放在 had been 之後、副詞 greatly 之後，是被動語態的過去分詞。",
           "選字的範圍由指示語限定：請從文章第一段中選出一個單詞。第二段、第三段的字不在範圍內，形態再合也不能用。",
           "第一段對應的一句是 This was an insult too much for the duke to bear，講的正是公爵覺得受辱這件事。",
-          "文中所給的 insult 是名詞，本格須轉為過去分詞 insulted。",
-          "題幹的 was very upset 與 insulted 不是同一件事：前者是他的情緒，後者是別人對他做的事，這一格要的是後者。"
+          "文章裡的 insult 是名詞，這一格要改成過去分詞 insulted。",
+          "題幹的 was very upset 和 insulted 不是同一件事：前者是他的情緒，後者是別人對他做的事，這一格要的是後者。"
         ],
         "scoring": [
-          "大考中心公布之滿分參考答案為 insulted。",
+          "大考中心公布的滿分參考答案是 insulted。",
           "這一題要做兩件事：選對字，再做對字形變化，兩件都對才拿滿分。依 110 年試辦考試評分原則：答案正確（包括選字及字形變化），得 2 分；答案不完整（未做字形變化）或拼字、體例（大小寫、定冠詞等）錯誤，得 1 分；空白、答案錯誤或與答案無關者，得 0 分。",
-          "填 insult 者即該原則第二項所稱之「答案不完整（未做字形變化）」，得 1 分。",
-          "本場評分原則的第二項與其他各場措辭不同——它明文把「未做字形變化」寫進 1 分那一級，其他各場寫的是「字形錯誤或者拼字錯誤」。"
+          "填 insult 的，就是這項原則第二項說的「答案不完整（未做字形變化）」，得 1 分。",
+          "這一場評分原則的第二項，寫法和其他各場不同——它直接把「未做字形變化」寫進 1 分那一級，其他各場寫的是「字形錯誤或者拼字錯誤」。"
         ],
         "patterns": [
           {
@@ -62,7 +62,7 @@
           },
           {
             "h": "be + 副詞 + 過去分詞",
-            "t": "副詞放在 be 與過去分詞之間：he had been greatly insulted、the town was badly damaged、she was deeply moved。"
+            "t": "副詞放在 be 和過去分詞之間：he had been greatly insulted、the town was badly damaged、she was deeply moved。"
           },
           {
             "h": "too ... to ...",
@@ -93,16 +93,16 @@
         "think": [
           "問的是 his unfriendly former ally 指誰。這個名詞片語自己不帶名字，要往回找。",
           "常見的失分是填 Richard I——his 指的就是 Richard，ally 是他的盟友，不是他本人。",
-          "也有人填 Heinrich VI。那個人到第二段後半才出現，而且與 Richard 之間沒有 former ally 的關係。"
+          "也有人填 Heinrich VI。那個人到第二段後半才出現，而且和 Richard 之間沒有 former ally 的關係。"
         ],
         "cue": [
-          "本題評量讀寫綜合應用能力，須就指定的語詞回文找出它所指的對象。",
-          "先切塊：a land controlled by [ his unfriendly former ally ]。his 指前一句的 Richard，故本格要找的是「理查昔日的盟友」。",
-          "三個訊息合起來指同一個人。其一，第一段 He fought side by side with the Duke of Austria, Leopold V——曾是盟友。其二，同段 This was an insult too much for the duke to bear, so he placed a price on Richard's head——已經翻臉，即 unfriendly。其三，本句所在的 Austria 一地正是他所控制。",
-          "故所指者為奧地利公爵 Leopold V。"
+          "本題評量讀寫綜合應用能力，要回到文章裡，找出指定的語詞指的是誰。",
+          "先切塊：a land controlled by [ his unfriendly former ally ]。his 指前一句的 Richard，所以這一格要找的是「理查昔日的盟友」。",
+          "三個訊息合起來指同一個人。一是第一段的 He fought side by side with the Duke of Austria, Leopold V——兩人曾經是盟友。二是同一段的 This was an insult too much for the duke to bear, so he placed a price on Richard's head——兩人已經翻臉，也就是 unfriendly。三是這一句說的 Austria，正是他控制的地方。",
+          "所以指的是奧地利公爵 Leopold V。"
         ],
         "scoring": [
-          "大考中心公布之滿分參考答案共五種寫法：the Duke of Austria, Leopold V／the Duke of Austria／Leopold V／the Austrian Duke (duke)／the Duke (duke)。",
+          "大考中心公布的滿分參考答案共有五種寫法：the Duke of Austria, Leopold V／the Duke of Austria／Leopold V／the Austrian Duke (duke)／the Duke (duke)。",
           "這一題的滿分答案不只一種寫法。官方列出的寫法涵蓋了三種稱呼方式：只寫名字、只寫爵位、名字和爵位一起寫，寫哪一種都可以。",
           "後兩種寫法的括號，表示這個字大寫、小寫都可以，所以本題庫把它們分開列出，比對時 the Austrian Duke 和 the Austrian duke 都算對。",
           "評分原則：答案正確（包括選字及字形變化），得 2 分；答案不完整（未做字形變化）或拼字、體例（大小寫、定冠詞等）錯誤，得 1 分；空白、答案錯誤或與答案無關者，得 0 分。",
@@ -111,7 +111,7 @@
         "patterns": [
           {
             "h": "ally",
-            "t": "盟友。a former ally（昔日的盟友）、a close ally（親密的盟友）。動詞 ally with（與……結盟）。"
+            "t": "盟友。a former ally（昔日的盟友）、a close ally（親密的盟友）。動詞 ally with（和……結盟）。"
           },
           {
             "h": "refer to",
@@ -146,25 +146,25 @@
         "think": [
           "題目給的定義是「鑄造錢幣、獎章或代幣的地方」，要在文章裡找出那一個字。",
           "看到 coins 就把 coins 或 silver 填進去的很常見。那兩個字是東西，不是地方。",
-          "mint 這個字多數人先想到的是薄荷，容易讀過去而沒停下來。"
+          "mint 這個字多數人先想到的是薄荷，容易一眼帶過，沒停下來。"
         ],
         "cue": [
-          "本題評量讀寫綜合應用能力，須依所給的英文定義在文中找出對應的單詞。",
-          "定義句 a place where coins, medals, or tokens are made 的中心語是 place，故所找的字是一個地方，不是材料，也不是成品。",
+          "本題評量讀寫綜合應用能力，要依題目給的英文定義，在文章裡找出對應的單詞。",
+          "定義句 a place where coins, medals, or tokens are made 的中心語是 place，所以要找的字是一個地方，不是材料，也不是成品。",
           "作答線索在第三段：It was also used to establish the Austrian mint and make silver coins.",
-          "該句的 establish the Austrian mint 與 make silver coins 並列，前者是設立造幣廠，後者是鑄造銀幣——一個是地方，一個是產出，定義句要的是前者。",
-          "題幹的 word 一字在原卷標示，所求為單一單詞，不是片語。"
+          "這一句的 establish the Austrian mint 和 make silver coins 並列，前者是設立造幣廠，後者是鑄造銀幣——一個是地方，一個是產出，定義句要的是前者。",
+          "原卷特別標出題幹的 word 這個字，要的是一個單詞，不是片語。"
         ],
         "scoring": [
           "大考中心公布的滿分參考答案是 mint，大寫、小寫都可以。",
           "這一題的滿分答案只有 mint 這一個字，不過大寫、小寫都收：原文的 the Austrian mint 是小寫，官方另外也收了放在句首時大寫的寫法。",
           "評分原則：答案正確（包括選字及字形變化），得 2 分；答案不完整（未做字形變化）或拼字、體例（大小寫、定冠詞等）錯誤，得 1 分；空白、答案錯誤或與答案無關者，得 0 分。",
-          "答 mints 者為形態之誤，得 1 分；答 coins、silver 者不合定義句所指之「地方」，為 0 分。"
+          "答 mints 的，是形態錯了，得 1 分；答 coins、silver 的，不合定義句說的「地方」，得 0 分。"
         ],
         "patterns": [
           {
             "h": "mint",
-            "t": "造幣廠。the Royal Mint（英國皇家造幣廠）。另有「薄荷」與「全新的」兩個意思：mint tea（薄荷茶）、in mint condition（全新、跟剛出廠一樣）。"
+            "t": "造幣廠。the Royal Mint（英國皇家造幣廠）。另外還有「薄荷」和「全新的」兩個意思：mint tea（薄荷茶）、in mint condition（全新、跟剛出廠一樣）。"
           },
           {
             "h": "a place where ...",
@@ -172,7 +172,7 @@
           },
           {
             "h": "be used to + 原形",
-            "t": "被用來做……。It was used to establish the mint. 與 be used to V-ing（習慣於）不同，後者的 to 是介系詞。"
+            "t": "被用來做……。It was used to establish the mint. 和 be used to V-ing（習慣於）不同，後者的 to 是介系詞。"
           }
         ]
       }
@@ -209,38 +209,39 @@
           "另一個是 A：理查最後獲釋，文章沒有寫他報了仇。"
         ],
         "cue": [
-          "本題評量讀寫綜合應用能力，須就三個人物在文中的遭遇逐項比對。",
-          "本題要求敘述與原文相符，故每一個選項都要回文找出對應的那一句，不能憑整體印象。",
-          "(B) Heinrich VI received part of the ransom. 第三段載 The silver was split between the German Emperor and the Austrian Duke，贖金由德皇與奧地利公爵均分，德皇即 Heinrich VI。成立。",
-          "(E) Leopold V rebuilt towns and city walls with some ransom money. 第三段載 The Austrians used it to improve the city walls of Vienna and some small towns in the east。成立。"
+          "本題評量讀寫綜合應用能力，要把三個人物在文章裡的遭遇逐項比對。",
+          "這一題要的是和原文相符的敘述，所以每一個選項都要回到文章裡找出對應的那一句，不能憑整體印象。",
+          "(B) Heinrich VI received part of the ransom. 第三段寫 The silver was split between the German Emperor and the Austrian Duke，也就是德皇和奧地利公爵平分贖金，而德皇就是 Heinrich VI。符合原文。",
+          "(E) Leopold V rebuilt towns and city walls with some ransom money. 第三段寫 The Austrians used it to improve the city walls of Vienna and some small towns in the east。符合原文。"
         ],
         "distractors": [
           {
             "h": "(A) Richard I got his revenge at the end.",
-            "t": "第三段只載 the ransom was paid and Richard was finally released，全文未載他事後報復。"
+            "t": "第三段只寫了 the ransom was paid and Richard was finally released，全文沒有寫他事後報仇。"
           },
           {
             "h": "(C) Richard I lost his throne after the incident.",
-            "t": "第一段載其在位期間為 1189 至 1199 年，此事發生於 1194 年獲釋，其後仍在位，且全文未載失去王位。"
+            "t": "第一段寫他在位的期間是 1189 到 1199 年，而他在 1194 年獲釋，之後仍然在位，全文也沒有寫他失去王位。"
           },
           {
             "h": "(D) Leopold V claimed victory alone after the battle at Acre.",
-            "t": "第一段載 when Richard reached the top of the castle to claim victory，獨自宣示戰功者為理查；公爵當時 who was absent at the time，人不在場。方向相反。"
+            "t": "第一段寫 when Richard reached the top of the castle to claim victory，獨自宣示戰功的是理查；公爵當時 who was absent at the time，人不在場。方向相反。"
           },
           {
             "h": "(F) Heinrich VI captured Richard I and handed him over to Leopold V.",
-            "t": "第二段載 Duke Leopold held Richard at Dürnstein 與 Richard was handed over to the German Emperor Heinrich VI：擒獲並移交者為 Leopold V，接手者為 Heinrich VI。兩人的角色對調了。"
+            "t": "第二段寫 Duke Leopold held Richard at Dürnstein 和 Richard was handed over to the German Emperor Heinrich VI：抓到理查又把他交出去的是 Leopold V，接手的是 Heinrich VI。兩人的角色對調了。"
           },
           {
-            "h": "(D) 與 (F) 為本題最強之誘答",
-            "t": "兩者所用的字全部出自原文，只把人物的角色互換。這一類選項不能只看眼熟，要回文確認做那件事的是誰。"
+            "h": "(D) 和 (F) 是這一題最強的誘答",
+            "t": "這兩個選項用的字全部出自原文，只把人物的角色互換。這一類選項不能只看眼熟，要回文確認做那件事的是誰。"
           }
         ],
         "scoring": [
-          "本題須選出與原文相符者，故劃記 B、E 兩個選項。劃記之先後不影響判定。",
+          "這一題要選出和原文相符的敘述，所以劃記 B、E 兩個選項。先劃哪一個都不影響判定。",
           "這一格是多選，不在 110 年試辦考試評分原則的範圍內：那份文件只列第 47 至 49 題的滿分參考答案，大考中心也沒有另外公布這一場的選擇題答案。所以這一格的答案是本題庫依原文推出來的，每一格都會標明。",
-          "多選題之計分方式載於試卷首頁「作答注意事項」：每題 n 個選項，各選項獨立判定；所有選項均答對者，得該題全部之分數；答錯 k 個選項者，得該題 (n−2k)／n 之分數；得分低於零分或所有選項均未作答者，以零分計算。",
-          "本題為六個選項、4 分，故全對得 4 分；錯一個約得 2.67 分；錯兩個約得 1.33 分；錯及三個以上為 0 分。",
+          "多選題怎麼計分，寫在試卷首頁的「作答注意事項」：每題 n 個選項，各選項獨立判定；所有選項均答對者，得該題全部之分數；答錯 k 個選項者，得該題 (n−2k)／n 之分數；得分低於零分或所有選項均未作答者，以零分計算。",
+          "這一題有六個選項、4 分，所以全對得 4 分；錯一個約得 2.67 分；錯兩個約得 1.33 分；錯三個以上是 0 分。",
+          "要留意「各選項獨立判定」這句話：少劃一個和多劃一個，扣的分一樣。該劃 B、E 卻只劃了 B，是 E 這一格判錯；多劃了 D，是 D 這一格判錯，兩種情形扣的分相同。所以作答時的標準要前後一致，不要因為怕多劃就把標準抬得太嚴；不過錯到三格就是零分，也不能每一項都隨便劃。",
           "既然這一格的答案是本題庫推出來的，如果你的判斷和本題庫不同，先回頭看原文，自己判斷得住的答案就算數。"
         ]
       }
@@ -271,44 +272,44 @@
       "officialExplanation": null,
       "explanation": {
         "think": [
-          "全文引了調查數字、講了營養學、也承認 good nutrition helps the body fight against diseases，讀起來很像在持平分析，於是勾 Objective 的很多。",
+          "全文引了調查數字、講了營養學、也承認 good nutrition helps the body fight against diseases，讀起來很像在持平分析，所以勾 Objective 的人很多。",
           "題目問的不是作者寫得客不客觀，是他對超級食物的健康功效抱什麼態度。",
           "Frustrated 也常被勾——文章沒有責怪誰，也沒有懊惱的語氣。"
         ],
         "cue": [
-          "本題評量讀寫綜合應用能力，須就全文判斷作者的態度。",
+          "本題評量讀寫綜合應用能力，要從全文判斷作者的態度。",
           "態度題可以用掃讀處理：不必逐句細讀，掃出帶立場的那幾句就夠了。",
-          "主旨句常落在第一段的後半，開頭一兩句多半是鉤子——先給一個吸引人的說法，或丟一個數字把讀者拉進來，那是引入，不是立場。本篇第一段四句依序是：",
+          "主旨句常落在第一段的後半，開頭一兩句多半是鉤子——先給一個吸引人的說法，或丟一個數字把讀者拉進來，那是引入，不是立場。這一篇第一段的四句依序是：",
           "首句 It is an appealing idea that some foods are unhealthy, some healthy, and some super-healthy.——鉤子。講的是這個想法很吸引人，不是這是真的。",
-          "第二句 About 61% of British people reported buying foods because they were supposed superfoods, according to a 2014 survey.——鉤子，用數字把讀者拉進來，尚未表態。",
+          "第二句 About 61% of British people reported buying foods because they were supposed superfoods, according to a 2014 survey.——鉤子，用數字把讀者拉進來，還沒有表態。",
           "第三句 But what are superfoods?——主旨在這裡起頭。",
           "第四句 Are they really so good for our health?——全文要回答的就是這一句。",
           "答案在末段：And if you don't, no superfood will save you.——超級食物救不了你。開頭問、結尾答，立場在結尾定案。",
           "轉折詞要停一下。第四段 The truth, however, is that nutrition is fabulously complex...，however 之後才是作者真正要說的。文章裡的 But、However、Yet 之後，多半就是立場所在。",
-          "其餘立場句一路都在：第二段 Is kale significantly better than other vegetables?、But that doesn't mean your body gets superpowers、No good evidence shows...；第三段 But there is little evidence to suggest the health benefits from chia seeds。方向一致，故選 (A) Doubtful.。"
+          "其他的立場句一路都在：第二段 Is kale significantly better than other vegetables?、But that doesn't mean your body gets superpowers、No good evidence shows...；第三段 But there is little evidence to suggest the health benefits from chia seeds。方向都一樣，所以選 (A) Doubtful.。"
         ],
         "distractors": [
           {
             "h": "(B) Optimistic.",
-            "t": "全文未載任何肯定超級食物功效之語；末段 good nutrition helps the body fight against diseases 講的是均衡營養，不是超級食物。"
+            "t": "全文沒有任何一句肯定超級食物的功效；末段 good nutrition helps the body fight against diseases 講的是均衡營養，不是超級食物。"
           },
           {
             "h": "(C) Objective.",
-            "t": "本題最強之誘答。作者確實引用調查與研究，寫法客觀，但題目問的是他對功效的態度，不是他的寫作方式。文中 No good evidence、little evidence 兩句已經表態。"
+            "t": "這一題最強的誘答。作者確實引用了調查和研究，寫法客觀，但題目問的是他對功效的態度，不是他的寫作方式。文章裡的 No good evidence、little evidence 兩句已經表態。"
           },
           {
             "h": "(D) Frustrated.",
             "t": "全文看不到懊惱或不滿的語氣，也沒有責怪任何人。"
           },
           {
-            "h": "客觀與存疑是兩件事",
-            "t": "客觀說的是舉證的方式，存疑說的是結論的方向。一篇文章可以既客觀又存疑，本文正是如此；選項要對到題目問的那一件。"
+            "h": "客觀和存疑是兩件事",
+            "t": "客觀說的是舉證的方式，存疑說的是結論的方向。一篇文章可以既客觀又存疑，這一篇就是這樣；選項要對到題目問的那一件。"
           }
         ],
         "scoring": [
-          "大考中心公布之參考答案為 (A)。本題為單選，非對即錯。",
-          "本場評分原則的三級文字與其他各場不同：2 分為「答案正確，語意完整」；1 分為「答案不完整或不完全正確，或因拼字錯誤造成語意不清者」；0 分為「空白、答案錯誤，或與答案無關之文字」。",
-          "該件並附一則備註：以 2 分作為給分示例，實際配分及評分級距，將視正式試卷全卷狀況調整，並依當次考試評分標準訂定會議所擬定之評分原則作為評閱標準。本場為參考試卷，級距只是示例。"
+          "大考中心公布的參考答案是 (A)。這一題是單選，不是對就是錯。",
+          "這一場評分原則三個級距的寫法，和其他各場不同：2 分是「答案正確，語意完整」；1 分是「答案不完整或不完全正確，或因拼字錯誤造成語意不清者」；0 分是「空白、答案錯誤，或與答案無關之文字」。",
+          "那份文件還附了一則備註：「以 2 分作為給分示例，實際配分及評分級距，將視正式試卷全卷狀況調整，並依當次考試評分標準訂定會議所擬定之評分原則作為評閱標準」。這一場是參考試卷，級距只是示例。"
         ],
         "patterns": [
           {
@@ -316,12 +317,12 @@
             "t": "doubtful（存疑）、optimistic（樂觀）、objective（客觀）、frustrated（挫折）、critical（批評）、neutral（中立）、supportive（支持）。這一組字在態度題裡反覆出現，值得整組記。"
           },
           {
-            "h": "反詰句就是表態",
-            "t": "Are they really so good for our health? 形式是問句，作用是否定。文章裡出現反詰句，多半就是作者立場所在。"
+            "h": "反問句就是表態",
+            "t": "Are they really so good for our health? 形式是問句，作用是否定。文章裡出現反問句，多半就是作者立場所在。"
           },
           {
             "h": "there is little evidence to V",
-            "t": "幾乎沒有證據顯示……。little 與 a little 差在有無：little evidence 等於幾乎沒有，a little evidence 是有一些。"
+            "t": "幾乎沒有證據顯示……。little 和 a little 差在有沒有：little evidence 等於幾乎沒有，a little evidence 是有一些。"
           }
         ]
       }
@@ -340,7 +341,7 @@
       "answerSource": "official",
       "selfAssessOnly": false,
       "swapGroup": null,
-      "answerNote": "作答為句子編號，非文字。",
+      "answerNote": "要寫的是句子編號，不是文字。",
       "options": null,
       "optionCount": null,
       "answerKey": null,
@@ -349,28 +350,28 @@
         "think": [
           "答案要寫的是句子編號，不是文字。寫成整句抄下來，形式就不對了。",
           "❷ 那一句有 eight times as much as salmon，數字醒目，容易被當成重點。那是在陳述事實，不是作者的態度。",
-          "❺ 講熱量幾乎等於一個大麥克，讀起來像在唱衰，但它講的是不容易吃到那個量，仍是事實陳述。"
+          "❺ 講熱量幾乎等於一個大麥克，讀起來像在唱衰，但它講的是不容易吃到那個量，還是在陳述事實。"
         ],
         "cue": [
-          "本題評量讀寫綜合應用能力，須在指定段落中找出最能表明作者態度的一句，並寫出句子編號。",
-          "先把第三段七句分成兩類：可查證的與帶判斷的。❶ 至 ❻ 逐句在講奇亞籽含多少 Omega-3、那些 Omega-3 與魚類的有何不同、人體吸收得如何、熱量多少——都可以查證。",
+          "本題評量讀寫綜合應用能力，要在指定的段落裡找出最能表明作者態度的一句，寫出句子編號。",
+          "先把第三段七句分成兩類：可以查證的和帶判斷的。❶ 至 ❻ 逐句在講奇亞籽含多少 Omega-3、那些 Omega-3 和魚類的有何不同、人體吸收得如何、熱量多少——都可以查證。",
           "上下文的線索是轉折詞。❸ 的 However 轉的是成分，仍在陳述事實；❼ 的 But 轉的是整段的結論。",
-          "❼ But there is little evidence to suggest the health benefits from chia seeds. 帶判斷、收全段，這一句才是態度。段落的態度句常落在段末，與第一段主旨落在後半是同一種安排。",
-          "與第 47 題可以擺在一起看：全文的態度是存疑，本段的態度句正是同一個方向的縮影。"
+          "❼ But there is little evidence to suggest the health benefits from chia seeds. 帶判斷、收全段，這一句才是態度。段落的態度句常落在段末，和第一段主旨落在後半是同一種安排。",
+          "這一題可以和第 47 題擺在一起看：全文的態度是存疑，這一段的態度句正是同一個方向的縮影。"
         ],
         "scoring": [
-          "大考中心公布之參考答案為第 ❼ 句。",
+          "大考中心公布的參考答案是第 ❼ 句。",
           "這一格要寫句子編號，本題庫收阿拉伯數字 7 和原卷標記 ❼ 兩種寫法。",
-          "本場評分原則的三級文字與其他各場不同：2 分為「答案正確，語意完整」；1 分為「答案不完整或不完全正確，或因拼字錯誤造成語意不清者」；0 分為「空白、答案錯誤，或與答案無關之文字」。",
-          "該件並附一則備註：以 2 分作為給分示例，實際配分及評分級距，將視正式試卷全卷狀況調整，並依當次考試評分標準訂定會議所擬定之評分原則作為評閱標準。本場為參考試卷，級距只是示例。"
+          "這一場評分原則三個級距的寫法，和其他各場不同：2 分是「答案正確，語意完整」；1 分是「答案不完整或不完全正確，或因拼字錯誤造成語意不清者」；0 分是「空白、答案錯誤，或與答案無關之文字」。",
+          "那份文件還附了一則備註：「以 2 分作為給分示例，實際配分及評分級距，將視正式試卷全卷狀況調整，並依當次考試評分標準訂定會議所擬定之評分原則作為評閱標準」。這一場是參考試卷，級距只是示例。"
         ],
         "patterns": [
           {
             "h": "轉折詞常帶出作者的立場",
-            "t": "But、However、Yet 之後往往是作者真正想說的那一句。本段 ❸ 與 ❼ 各有一個轉折，❼ 那一個收全段。"
+            "t": "But、However、Yet 之後往往是作者真正想說的那一句。這一段的 ❸ 和 ❼ 各有一個轉折，❼ 那一個收全段。"
           },
           {
-            "h": "事實與態度的分別",
+            "h": "事實和態度的分別",
             "t": "事實句可以查證（含多少公克、幾倍），態度句帶判斷（little evidence、good source）。態度題要找的是後者。"
           },
           {
@@ -394,7 +395,7 @@
       "answerSource": "official",
       "selfAssessOnly": true,
       "swapGroup": null,
-      "answerNote": "答案過長，不做字串比對，一律走 2／1／0 自評。",
+      "answerNote": "答案太長，本題庫不做字串比對，一律由你自己評 2／1／0。",
       "options": null,
       "optionCount": null,
       "answerKey": null,
@@ -406,19 +407,19 @@
           "還有人填 you don't need any superfood 的後半，那是前一句的結果，不是條件。"
         ],
         "cue": [
-          "本題評量讀寫綜合應用能力，須依上下文補出被頂替的部分。",
-          "英文避免同一串話說兩次，辦法之一是用一個助動詞頂上去，文法上稱為替代。與省略不同：省略是直接不寫，替代是留一個字在那裡。本題考的是替代。",
+          "本題評量讀寫綜合應用能力，要依上下文，把助動詞頂替掉的那一串補回來。",
+          "英文避免同一串話說兩次，辦法之一是用一個助動詞頂上去，文法上叫做替代。替代和省略不同：省略是直接不寫，替代是留一個字在那裡。這一題考的是替代。",
           "前一句是 We know that if you eat a balanced diet with plenty of fruit and vegetables and do regular exercise, you don't need any superfood.",
-          "後一句 And if you don't, no superfood will save you. 中的 don't，頂替的就是前一句 if 子句裡那一整串動作。判斷只有一步：找出被頂替的是哪一串，補回去讀一次。",
-          "答案是兩件事，不是一件：eat a balanced diet with plenty of fruit and vegetables 與 do regular exercise，由 and 連接，缺一則語意不完整。",
-          "同樣的考法歷屆出現多次，判斷方式完全相同：114 學測第 18 題 One part of your balance-sensing system detects…, but the other parts ___，don't 頂替 don't detect…；104 指考第 11 題 His writing style… influenced modern fiction, as ___ his life of adventure，did 頂替 influenced modern fiction。國中就用過的 So do I.、Neither have I. 是同一套。"
+          "後一句 And if you don't, no superfood will save you. 裡的 don't，頂替的就是前一句 if 子句裡那一整串動作。判斷只有一步：找出它頂替的是哪一串，補回去讀一次。",
+          "答案是兩件事，不是一件：eat a balanced diet with plenty of fruit and vegetables 和 do regular exercise，中間用 and 連接，少了一件，語意就不完整。",
+          "同樣的考法，歷屆試題出現過好幾次，判斷方式完全相同：114 學測第 18 題 One part of your balance-sensing system detects…, but the other parts ___，don't 頂替 don't detect…；104 指考第 11 題 His writing style… influenced modern fiction, as ___ his life of adventure，did 頂替 influenced modern fiction。國中就用過的 So do I.、Neither have I. 是同一套。"
         ],
         "scoring": [
-          "大考中心公布之參考答案為 eat a balanced diet with plenty of fruit and vegetables and do regular exercise。",
-          "本場評分原則的三級文字與其他各場不同：2 分為「答案正確，語意完整」；1 分為「答案不完整或不完全正確，或因拼字錯誤造成語意不清者」；0 分為「空白、答案錯誤，或與答案無關之文字」。",
-          "本題的答案較長，1 分那一級的「答案不完整」在此最容易發生：只寫飲食而漏掉運動，或只寫 eat a balanced diet 而漏掉 with plenty of fruit and vegetables，都屬答案不完整。",
-          "這一格本題庫不做字串比對，一律由你自己評 2／1／0。",
-          "該件並附一則備註：以 2 分作為給分示例，實際配分及評分級距，將視正式試卷全卷狀況調整，並依當次考試評分標準訂定會議所擬定之評分原則作為評閱標準。本場為參考試卷，級距只是示例。"
+          "大考中心公布的參考答案是 eat a balanced diet with plenty of fruit and vegetables and do regular exercise。",
+          "這一場評分原則三個級距的寫法，和其他各場不同：2 分是「答案正確，語意完整」；1 分是「答案不完整或不完全正確，或因拼字錯誤造成語意不清者」；0 分是「空白、答案錯誤，或與答案無關之文字」。",
+          "這一題的答案比較長，1 分那一級的「答案不完整」在這裡最容易發生：只寫飲食、漏掉運動，或只寫 eat a balanced diet、漏掉 with plenty of fruit and vegetables，都算答案不完整。",
+          "本題庫不替這一格做字串比對，一律由你自己評 2／1／0。",
+          "那份文件還附了一則備註：「以 2 分作為給分示例，實際配分及評分級距，將視正式試卷全卷狀況調整，並依當次考試評分標準訂定會議所擬定之評分原則作為評閱標準」。這一場是參考試卷，級距只是示例。"
         ],
         "patterns": [
           {
@@ -462,21 +463,21 @@
           "也有人填 make you healthy 或 give you superpowers，前者太籠統，後者是文章拿來反駁的說法。"
         ],
         "cue": [
-          "本題評量讀寫綜合應用能力，須將文章內容整理進表格。",
-          "表格本身就是文章的換句話說：欄位名稱 nutrient(s) 與 benefit(s) of the nutrient(s) 把散在文章裡的訊息分成兩類，作答時先認清這一格要的是哪一類。",
-          "本格要的是作用，不是成分。作答線索在第二段：Fans of superfoods like to list the things that kale contains a lot of, such as iron and vitamins, and point out what those things do (make red blood cells).",
-          "該句已經把兩類都排好：contains a lot of 之後是成分（表格已給），what those things do 之後是作用，括號裡的 make red blood cells 即為本格答案。"
+          "本題評量讀寫綜合應用能力，要把文章內容整理進表格。",
+          "表格本身就是文章的換句話說：欄位名稱 nutrient(s) 和 benefit(s) of the nutrient(s) 把散在文章裡的訊息分成兩類，作答時先認清這一格要的是哪一類。",
+          "這一格要的是作用，不是成分。作答線索在第二段：Fans of superfoods like to list the things that kale contains a lot of, such as iron and vitamins, and point out what those things do (make red blood cells).",
+          "這一句已經把兩類都排好：contains a lot of 之後是成分（表格已給），what those things do 之後是作用，括號裡的 make red blood cells 就是這一格的答案。"
         ],
         "scoring": [
-          "大考中心公布之參考答案為 make red blood cells。",
-          "本場評分原則的三級文字與其他各場不同：2 分為「答案正確，語意完整」；1 分為「答案不完整或不完全正確，或因拼字錯誤造成語意不清者」；0 分為「空白、答案錯誤，或與答案無關之文字」。",
+          "大考中心公布的參考答案是 make red blood cells。",
+          "這一場評分原則三個級距的寫法，和其他各場不同：2 分是「答案正確，語意完整」；1 分是「答案不完整或不完全正確，或因拼字錯誤造成語意不清者」；0 分是「空白、答案錯誤，或與答案無關之文字」。",
           "這一格照原文寫出那三個字就可以了，不必改寫成完整句子。",
-          "該件並附一則備註：以 2 分作為給分示例，實際配分及評分級距，將視正式試卷全卷狀況調整，並依當次考試評分標準訂定會議所擬定之評分原則作為評閱標準。本場為參考試卷，級距只是示例。"
+          "那份文件還附了一則備註：「以 2 分作為給分示例，實際配分及評分級距，將視正式試卷全卷狀況調整，並依當次考試評分標準訂定會議所擬定之評分原則作為評閱標準」。這一場是參考試卷，級距只是示例。"
         ],
         "patterns": [
           {
             "h": "contain",
-            "t": "含有。Chia seeds contain about 17g of Omega-3s. 與 include（包括其中幾項）不同：contain 講的是全部成分。"
+            "t": "含有。Chia seeds contain about 17g of Omega-3s. 和 include（包括其中幾項）不同：contain 講的是全部成分。"
           },
           {
             "h": "red blood cells",
@@ -484,7 +485,7 @@
           },
           {
             "h": "what those things do",
-            "t": "複合關係代名詞 what 引導的名詞子句，當 point out 的受詞。what 自己已含先行詞，前面不再加名詞。"
+            "t": "複合關係代名詞 what 引導的名詞子句，當 point out 的受詞。what 本身已經含有先行詞，前面不再加名詞。"
           }
         ]
       }
@@ -510,22 +511,22 @@
       "officialExplanation": null,
       "explanation": {
         "think": [
-          "這一格與 kale 那一列相反：作用已經給了（protect against cardiovascular disease），要填的是成分。",
+          "這一格和 kale 那一列相反：作用已經給了（protect against cardiovascular disease），要填的是成分。",
           "常見的失分是填 fish。文章確實說魚是好來源，但表格這一列的主詞是 chia seeds。",
-          "也有人填 Calories 或 17g，那是份量與熱量，不是成分名稱。"
+          "也有人填 Calories 或 17g，那是份量和熱量，不是成分名稱。"
         ],
         "cue": [
-          "本題評量讀寫綜合應用能力，須將文章內容整理進表格。",
-          "本格與 kale 那一列的方向相反：那一列給成分、要作用，本格給作用、要成分。填之前先看表格已經給了哪一欄。",
+          "本題評量讀寫綜合應用能力，要把文章內容整理進表格。",
+          "這一格和 kale 那一列的方向相反：那一列給成分、要作用，這一格給作用、要成分。填之前先看表格已經給了哪一欄。",
           "作答線索在第三段 ❻：So fish is definitely a good source of Omega-3 fatty acids for you, which help to protect against cardiovascular disease.",
-          "該句的 which 子句正是表格已給的那一欄，往前找它所修飾的名詞，即 Omega-3 fatty acids。",
-          "同一個東西在文中出現兩種寫法：❷ 作 Omega-3s、❻ 作 Omega-3 fatty acids，官方兩種都收。"
+          "這一句的 which 子句，正是表格已經給的那一欄；往前找它修飾的名詞，就是 Omega-3 fatty acids。",
+          "同一個東西在文章裡有兩種寫法：❷ 寫成 Omega-3s、❻ 寫成 Omega-3 fatty acids，官方兩種都收。"
         ],
         "scoring": [
           "大考中心公布的參考答案是 Omega-3s 和 Omega-3 fatty acids，寫其中一個就可以了。",
-          "本格之滿分答案不只一種寫法——同一個成分在文中本來就有兩種說法，官方並收。",
-          "本場評分原則的三級文字與其他各場不同：2 分為「答案正確，語意完整」；1 分為「答案不完整或不完全正確，或因拼字錯誤造成語意不清者」；0 分為「空白、答案錯誤，或與答案無關之文字」。",
-          "該件並附一則備註：以 2 分作為給分示例，實際配分及評分級距，將視正式試卷全卷狀況調整，並依當次考試評分標準訂定會議所擬定之評分原則作為評閱標準。本場為參考試卷，級距只是示例。"
+          "這一格的滿分答案不只一種寫法——同一個成分在文章裡本來就有兩種說法，官方兩種都收。",
+          "這一場評分原則三個級距的寫法，和其他各場不同：2 分是「答案正確，語意完整」；1 分是「答案不完整或不完全正確，或因拼字錯誤造成語意不清者」；0 分是「空白、答案錯誤，或與答案無關之文字」。",
+          "那份文件還附了一則備註：「以 2 分作為給分示例，實際配分及評分級距，將視正式試卷全卷狀況調整，並依當次考試評分標準訂定會議所擬定之評分原則作為評閱標準」。這一場是參考試卷，級距只是示例。"
         ],
         "patterns": [
           {
@@ -556,7 +557,7 @@
       "answers": ["participating", "swimming", "participation"],
       "answerSource": "official",
       "swapGroup": null,
-      "answerNote": "本格位於介系詞 of 之後，須為動名詞或名詞。",
+      "answerNote": "這一格在介系詞 of 後面，要填動名詞或名詞。",
       "options": null,
       "optionCount": null,
       "answerKey": null,
@@ -567,17 +568,17 @@
           "最常見的填法就是把 participate 原封抄過去。也有人抄離線索最近的 opportunity，或是想到她是游泳選手而填 swim。"
         ],
         "cue": [
-          "本題評量能否掌握段落主旨，並依空格之語法條件作適當之字形變化。",
+          "本題評量能否掌握段落主旨，並依空格的語法條件做適當的字形變化。",
           "作答線索在左欄 Yusra Mardini 故事第三段第二句：Her incredible story and superior swimming skills won her the opportunity to participate in the Olympic Games.",
           "空格前面是介系詞 of，後面要接動名詞或名詞。這個條件看句子結構就能判斷，不必等讀完全文。",
           "文章裡出現的是原形動詞 participate，依上面的條件要改成動名詞 participating；它的名詞 participation 放在 of 後面，文法上也說得通。",
           "同一段還有 swimming（superior swimming skills）。Yusra 是游泳選手，swim in the Olympic Games 意思說得通，所以也是可以接受的答案。"
         ],
         "scoring": [
-          "本場之可接受答案為 participating、swimming、participation 三種。",
+          "這一場可以接受的答案有 participating、swimming、participation 三種。",
           "這一題組在 115 參考試卷也考過一次，兩場可以接受的答案範圍不同，詳細情形請看下方「同一題組，兩場的可接受答案」對照表。",
           "這一題要做兩件事：選對字，再做對字形變化，兩件都對才拿滿分。依大考中心「111 學年度學科能力測驗英文考科非選擇題評分原則」：完全正確（包括選字及字形變化），得 2 分；字形錯誤或者拼字錯誤，得 1 分；空白、答案錯誤或與答案無關者，得 0 分。",
-          "依此，選對字而形態轉錯者（如寫 participate）仍得 1 分；未寫或選錯字者始為 0 分。"
+          "所以選對了字，但形態錯了（例如寫 participate），還是得 1 分；沒有寫或選錯字，才是 0 分。"
         ],
         "patterns": [
           { "h": "fulfill one’s dream of + V-ing", "t": "實現做某事的夢想。She fulfilled her dream of participating in the Olympic Games." },
@@ -600,7 +601,7 @@
       "answers": ["participating", "swimming"],
       "answerSource": "official",
       "swapGroup": null,
-      "answerNote": "本格位於介系詞 of 之後，須作動名詞變化。",
+      "answerNote": "這一格在介系詞 of 後面，要改成動名詞。",
       "options": null,
       "optionCount": null,
       "answerKey": null,
@@ -612,15 +613,15 @@
           "最常見的填法就是把 participate 原封不動抄過去。也有人抄 opportunity，因為那個字離線索最近；或是填 swim，想到她是游泳選手。"
         ],
         "cue": [
-          "官方解析已指出本題之評量目標與線索句。以下就空格本身之條件補充。",
+          "官方解析已經指出這一題的評量目標和線索句，以下補充空格本身的條件。",
           "空格前面是介系詞 of，後面要接動名詞。這個條件看句子結構就能判斷，不必等讀完全文。",
-          "文中所給者為原形動詞 participate（第三段第二句），依上述條件轉為 participating。",
+          "文章裡寫的是原形動詞 participate（第三段第二句），依上面的條件要改成 participating。",
           "左欄還有 swimming（第三段第二句 superior swimming skills）。Yusra 是游泳選手，swim in the Olympic Games 意思說得通，所以也是可以接受的答案。"
         ],
         "scoring": [
           "這一場可以接受的答案有 participating 和 swimming 兩種。這一題組在 111 學測也考過一次，兩場可以接受的答案範圍不同，詳細情形請看下方「同一題組，兩場的可接受答案」對照表。",
           "這一題要做兩件事：選對字，再做對字形變化，兩件都對才拿滿分。評分原則：完全正確（包括選字及字形變化），得 2 分；字形錯誤或者拼字錯誤，得 1 分；空白、答案錯誤或與答案無關者，得 0 分。",
-          "依此，選對字而形態轉錯者（如寫 participate）仍得 1 分；未寫或選錯字者始為 0 分。"
+          "所以選對了字，但形態錯了（例如寫 participate），還是得 1 分；沒有寫或選錯字，才是 0 分。"
         ],
         "patterns": [
           {
@@ -648,29 +649,29 @@
       "answers": ["abuse", "abuses", "abusing", "cruelty", "cruelties"],
       "answerSource": "official",
       "swapGroup": null,
-      "answerNote": "本格位於冠詞 the 之後、介系詞片語 of his coaches 之前，須為名詞或動名詞。",
+      "answerNote": "這一格在冠詞 the 後面、介系詞片語 of his coaches 前面，要填名詞或動名詞。",
       "options": null,
       "optionCount": null,
       "answerKey": null,
       "officialExplanation": null,
       "explanation": {
         "think": [
-          "右欄第二段最後一句 when he was cruelly abused，兩個字看起來都像答案，於是有人填 abused、有人填 cruelly，兩個都是照抄。",
+          "右欄第二段最後一句 when he was cruelly abused，兩個字看起來都像答案，所以有人填 abused、有人填 cruelly，兩個都是照抄。",
           "這一格和 47(A) 是同一件事的兩面：字找對了，形沒轉，差的就是那 1 分。"
         ],
         "cue": [
-          "本題評量能否掌握段落主旨，並依空格之語法條件作適當之字形變化。",
+          "本題評量能否掌握段落主旨，並依空格的語法條件做適當的字形變化。",
           "作答線索在右欄 Popole Misenga 故事第二段最後一句：Finally, when he was cruelly abused for not winning medals at the 2013 World Championships in Brazil, he decided to seek protection.",
-          "空格前為定冠詞 the、後接介系詞片語 of his coaches，故空格須為名詞。",
+          "空格前面是定冠詞 the，後面接介系詞片語 of his coaches，所以空格要填名詞。",
           "文章裡的 cruelly abused 提供了兩個可以轉換的字：動詞 abused 改成名詞 abuse，副詞 cruelly 改成名詞 cruelty。兩個都符合句意。",
-          "官方參考答案將可接受之寫法分為兩組：abuse／abuses／abusing 為一組，cruelty／cruelties 為另一組，即依所本之來源字分列。",
+          "官方參考答案把可以接受的寫法分成兩組：abuse／abuses／abusing 一組，cruelty／cruelties 另一組，也就是依照答案來自哪一個字分開列出。",
           "abuses 和 cruelties 是複數形；abusing 放在定冠詞 the 和介系詞片語 of his coaches 中間，當名詞用，文法上也說得通。"
         ],
         "scoring": [
-          "本場之可接受答案為 abuse、abuses、abusing、cruelty、cruelties 五種。",
+          "這一場可以接受的答案有 abuse、abuses、abusing、cruelty、cruelties 五種。",
           "這一題組在 115 參考試卷也考過一次，兩場可以接受的答案範圍不同，詳細情形請看下方「同一題組，兩場的可接受答案」對照表。",
-          "評分原則同 47(A)：完全正確（包括選字及字形變化），得 2 分；字形錯誤或者拼字錯誤，得 1 分；空白、答案錯誤或與答案無關者，得 0 分。",
-          "故填 abused 或 cruelly 者，係選對字而未作詞性轉換，得 1 分。"
+          "評分原則和 47(A) 相同：完全正確（包括選字及字形變化），得 2 分；字形錯誤或者拼字錯誤，得 1 分；空白、答案錯誤或與答案無關者，得 0 分。",
+          "所以填 abused 或 cruelly 的，是選對了字，但沒有轉換詞性，得 1 分。"
         ],
         "patterns": [
           { "h": "escape from", "t": "逃離。He escaped from the war zone." },
@@ -693,7 +694,7 @@
       "answers": ["abuse", "cruelty", "cruelties"],
       "answerSource": "official",
       "swapGroup": null,
-      "answerNote": "本格位於冠詞 the 之後、介系詞片語 of his coaches 之前，須為名詞或動名詞。",
+      "answerNote": "這一格在冠詞 the 後面、介系詞片語 of his coaches 前面，要填名詞或動名詞。",
       "options": null,
       "optionCount": null,
       "answerKey": null,
@@ -701,18 +702,18 @@
       "explanationSource": "官方逐題解析出自《學科能力測驗（115 學年度起適用）英文考科參考試卷 試題解析》，故僅掛於 MX115R；學測不單獨公布逐題解析，MX111 不重複掛載。",
       "explanation": {
         "think": [
-          "右欄第二段最後一句 when he was cruelly abused 兩個字都很像答案，於是有人填 abused、有人填 cruelly，兩個都是照抄。",
-          "這一格與 47(A) 是同一件事的兩面：字找對了，形沒轉，就是那 1 分的差別。"
+          "右欄第二段最後一句 when he was cruelly abused 兩個字都很像答案，所以有人填 abused、有人填 cruelly，兩個都是照抄。",
+          "這一格和 47(A) 是同一件事的兩面：字找對了，形沒轉，就是那 1 分的差別。"
         ],
         "cue": [
-          "官方解析已指出本題之評量目標與線索句。以下就空格本身之條件補充。",
-          "空格前為定冠詞 the、後接介系詞片語 of his coaches，故空格須為名詞。",
+          "官方解析已經指出這一題的評量目標和線索句，以下補充空格本身的條件。",
+          "空格前面是定冠詞 the，後面接介系詞片語 of his coaches，所以空格要填名詞。",
           "文章裡的 cruelly abused 提供了兩個可以轉換的字：動詞 abused 改成名詞 abuse，副詞 cruelly 改成名詞 cruelty。兩個都符合句意。"
         ],
         "scoring": [
           "這一場可以接受的答案有 abuse、cruelty、cruelties 三種。這一題組在 111 學測也考過一次，兩場可以接受的答案範圍不同，詳細情形請看下方「同一題組，兩場的可接受答案」對照表。",
-          "評分原則同 47(A)：完全正確得 2 分；字形錯誤或拼字錯誤得 1 分；空白、答案錯誤或與答案無關者得 0 分。",
-          "故填 abused 或 cruelly 者，係選對字而未作詞性轉換，得 1 分。"
+          "評分原則和 47(A) 相同：完全正確得 2 分；字形錯誤或拼字錯誤得 1 分；空白、答案錯誤或與答案無關者得 0 分。",
+          "所以填 abused 或 cruelly 的，是選對了字，但沒有轉換詞性，得 1 分。"
         ],
         "patterns": [
           {
@@ -740,7 +741,7 @@
       "answers": ["asylum"],
       "answerSource": "official",
       "swapGroup": null,
-      "answerNote": "官方參考答案另收 Asylum.（句首大寫加句點），比對時忽略大小寫與句末標點。",
+      "answerNote": "官方參考答案另外也收 Asylum.（句首大寫加句點），比對時不看大小寫和句末標點。",
       "options": null,
       "optionCount": null,
       "answerKey": null,
@@ -751,15 +752,15 @@
           "但題目是拿 protection 去定義另一個字，答案不會是定義本身用到的那個字。"
         ],
         "cue": [
-          "本題評量能否利用上下文推得並表述詞意。",
+          "本題評量能否利用上下文推出詞意，並表達出來。",
           "作答線索在右欄 Popole Misenga 故事第二段最後一句 he decided to seek protection，以及第三段第一句 Popole was granted asylum in 2014 by Brazilian government and later continued judo training at a youth facility.",
-          "題幹設有兩項限制：範圍限於 Popole Misenga 的故事；形式為 word，所求者為單一字詞。",
-          "第二段末句之 seek protection 與第三段首句之 was granted asylum 前後呼應，後者即題幹定義所指之字。"
+          "題幹有兩項限制：範圍只限 Popole Misenga 的故事；形式是 word，要的是單一字詞。",
+          "第二段最後一句的 seek protection，和第三段第一句的 was granted asylum 前後呼應，後面這個 asylum 就是題幹定義說的那個字。"
         ],
         "scoring": [
-          "滿分參考答案為 asylum，照原文寫出。官方參考答案作 asylum／Asylum.，即另收句首大寫加句點之寫法；除大小寫與句末標點外，本題之答案只有這一種寫法。",
-          "評分原則同 47 兩格：完全正確（包括選字及字形變化），得 2 分；字形錯誤或者拼字錯誤，得 1 分；空白、答案錯誤或與答案無關者，得 0 分。",
-          "答 protection 者不合題意：該字為題幹用以定義之語，非文中所求之字。"
+          "滿分參考答案是 asylum，照原文寫出來就可以了。官方參考答案寫的是 asylum／Asylum.，也就是另外收了句首大寫加句點的寫法；除了大小寫和句末標點，這一題的答案只有這一種寫法。",
+          "評分原則和 47 那兩格相同：完全正確（包括選字及字形變化），得 2 分；字形錯誤或者拼字錯誤，得 1 分；空白、答案錯誤或與答案無關者，得 0 分。",
+          "答 protection 不合題意：這個字是題幹拿來下定義的字，不是要你找的字。"
         ],
         "patterns": [
           { "h": "seek protection", "t": "尋求保護。" },
@@ -783,7 +784,7 @@
       "answers": ["asylum"],
       "answerSource": "official",
       "swapGroup": null,
-      "answerNote": "官方參考答案另收 Asylum.（句首大寫加句點），比對時忽略大小寫與句末標點。",
+      "answerNote": "官方參考答案另外也收 Asylum.（句首大寫加句點），比對時不看大小寫和句末標點。",
       "options": null,
       "optionCount": null,
       "answerKey": null,
@@ -795,14 +796,14 @@
           "但題目是拿 protection 去定義另一個字，答案不會是定義本身用到的那個字。"
         ],
         "cue": [
-          "官方解析已指出本題之評量目標與線索句。以下就題幹之限制補充。",
-          "題幹設有兩項限制：範圍限於 Popole Misenga 的故事；形式為 word，原卷並將該字標示，所求者為單一字詞。",
-          "第二段末句之 seek protection 與第三段首句之 was granted asylum 前後呼應，後者即題幹定義所指之字。"
+          "官方解析已經指出這一題的評量目標和線索句，以下補充題幹的限制。",
+          "題幹有兩項限制：範圍只限 Popole Misenga 的故事；形式是 word，原卷還特別標出這個字，要的是單一字詞。",
+          "第二段最後一句的 seek protection，和第三段第一句的 was granted asylum 前後呼應，後面這個 asylum 就是題幹定義說的那個字。"
         ],
         "scoring": [
-          "滿分參考答案為 asylum，照原文寫出。官方參考答案另收 Asylum.，即句首大寫加句點之寫法；除大小寫與句末標點外，本題之答案只有這一種寫法。",
+          "滿分參考答案是 asylum，照原文寫出來就可以了。官方參考答案另外也收 Asylum.，也就是句首大寫加句點的寫法；除了大小寫和句末標點，這一題的答案只有這一種寫法。",
           "評分原則：完全正確得 2 分；拼字錯誤得 1 分；空白、答案錯誤或與答案無關者得 0 分。",
-          "答 protection 者不合題意：該字為題幹用以定義之語，非文中所求之字。"
+          "答 protection 不合題意：這個字是題幹拿來下定義的字，不是要你找的字。"
         ],
         "patterns": [
           {
@@ -856,22 +857,22 @@
           "但這一題的門檻寫在題目裡：要對兩個人都正確。只對其中一個人成立的選項，看起來最像答案，也最容易被勾進去。"
         ],
         "cue": [
-          "本題評量能否整合全文訊息，就兩則故事進行分類、歸納與比較。",
+          "本題評量能否整合全文訊息，把兩則故事拿來分類、歸納和比較。",
           "這一題要選兩個人都符合的選項，所以每一個選項都要回原文核對兩次，左右欄各一次。",
           "(C) 兩場奧運：左欄第三段最後一句寫 both the 2016 Rio Games and 2021 Tokyo Games；右欄第三段寫 his Olympic debut at Rio 2016 和 2021 Tokyo Games。兩個人都符合。",
           "(D) 因戰爭離開家鄉：左欄第二段寫 her house was destroyed in the civil war, so she decided to flee her home country；右欄第一段寫 Escaping from the war zone。兩個人都符合。"
         ],
         "distractors": [
-          { "h": "(A) Being an Olympic medalist.", "t": "文中未載兩人獲得獎牌；右欄第二段之 for not winning medals 反為未獲獎牌之敘述。" },
+          { "h": "(A) Being an Olympic medalist.", "t": "文章沒有寫兩個人得過獎牌；右欄第二段的 for not winning medals，說的反而是他沒有拿到獎牌。" },
           { "h": "(B) Growing up in an orphanage.", "t": "右欄第一段寫的是 a center for displaced children，文章沒有說那是孤兒院，左欄也沒有相關的敘述。" },
           { "h": "(E) Showing talent in sports after going to a foreign country.", "t": "左欄第一段寫 Yusra 在敘利亞時就已經是游泳選手；右欄第一、二段寫 Popole 在首都 Kinshasa 的收容中心開始學柔道，那裡還在他的母國境內。兩個人都是在離開母國以前，就已經展現了運動才能。" },
           { "h": "(F) Traveling through several countries before securing protection.", "t": "左欄第二段寫 Yusra 經過黎巴嫩、土耳其到希臘，後來定居德國，這一項對 Yusra 成立；右欄第三段寫 Popole 在巴西獲得庇護，文章沒有提到他經過好幾個國家。只有其中一個人符合，不是這一題要的答案。" },
-          { "h": "(E) 與 (F) 為本題最強之誘答", "t": "前者兩個人各有一段看起來相符的敘述，其實時間先後對不上；後者只對其中一個人成立，正是這一題要排除的選項。" }
+          { "h": "(E) 和 (F) 是這一題最強的誘答", "t": "前者兩個人各有一段看起來相符的敘述，其實時間先後對不上；後者只對其中一個人成立，正是這一題要排除的選項。" }
         ],
         "scoring": [
           "這一題要選出對兩個人都正確的選項，所以要劃記 C、D 兩個選項。先劃哪一個都不影響判定。",
-          "多選題之計分方式載於試卷首頁「作答注意事項」：每題 n 個選項，各選項獨立判定；所有選項均答對者，得該題全部之分數；答錯 k 個選項者，得該題 (n−2k)／n 之分數；得分低於零分或所有選項均未作答者，以零分計算。",
-          "本題為六個選項、4 分，故全對得 4 分；錯一個約得 2.67 分；錯兩個約得 1.33 分；錯及三個以上為 0 分。",
+          "多選題怎麼計分，寫在試卷首頁的「作答注意事項」：每題 n 個選項，各選項獨立判定；所有選項均答對者，得該題全部之分數；答錯 k 個選項者，得該題 (n−2k)／n 之分數；得分低於零分或所有選項均未作答者，以零分計算。",
+          "這一題有六個選項、4 分，所以全對得 4 分；錯一個約得 2.67 分；錯兩個約得 1.33 分；錯三個以上是 0 分。",
           "要留意「各選項獨立判定」這句話：少劃一個和多劃一個，扣的分一樣。所以作答時的標準要前後一致，不要因為怕多劃就把標準抬得太嚴；不過錯到三格就是零分，也不能每一項都隨便劃。"
         ]
       }
@@ -908,7 +909,7 @@
           "但這一題的門檻寫在題目裡：要對兩個人都正確。只對其中一個人成立的選項，看起來最像答案，也最容易被勾進去。"
         ],
         "cue": [
-          "官方解析已指出本題之評量目標與作答線索所在。以下就判斷方式補充。",
+          "官方解析已經指出這一題的評量目標和作答線索在哪裡，以下補充判斷的方式。",
           "這一題要選兩個人都符合的選項，所以每一個選項都要回原文核對兩次，左右欄各一次。",
           "(C) 兩場奧運：左欄第三段最後一句寫 both the 2016 Rio Games and 2021 Tokyo Games；右欄第三段寫 his Olympic debut at Rio 2016 和 2021 Tokyo Games。兩個人都符合。",
           "(D) 因戰爭離開家鄉：左欄第二段寫 her house was destroyed in the civil war, so she decided to flee her home country；右欄第一段寫 Escaping from the war zone。兩個人都符合。"
@@ -916,7 +917,7 @@
         "distractors": [
           {
             "h": "(A) Being an Olympic medalist.",
-            "t": "文中未載兩人獲得獎牌；右欄第二段之 for not winning medals 反為未獲獎牌之敘述。"
+            "t": "文章沒有寫兩個人得過獎牌；右欄第二段的 for not winning medals，說的反而是他沒有拿到獎牌。"
           },
           {
             "h": "(B) Growing up in an orphanage.",
@@ -931,14 +932,14 @@
             "t": "左欄第二段寫 Yusra 經過黎巴嫩、土耳其到希臘，後來定居德國，這一項對 Yusra 成立；右欄第三段寫 Popole 在巴西獲得庇護，文章沒有提到他經過好幾個國家。只有其中一個人符合，不是這一題要的答案。"
           },
           {
-            "h": "(E) 與 (F) 為本題最強之誘答",
+            "h": "(E) 和 (F) 是這一題最強的誘答",
             "t": "前者兩個人各有一段看起來相符的敘述，其實時間先後對不上；後者只對其中一個人成立，正是這一題要排除的選項。"
           }
         ],
         "scoring": [
           "這一題要選出對兩個人都正確的選項，所以要劃記 C、D 兩個選項。先劃哪一個都不影響判定。",
-          "多選題之計分方式載於試卷首頁「作答注意事項」：每題 n 個選項，各選項獨立判定；所有選項均答對者，得該題全部之分數；答錯 k 個選項者，得該題 (n−2k)／n 之分數；得分低於零分或所有選項均未作答者，以零分計算。",
-          "本題為六個選項、4 分，故全對得 4 分；錯一個約得 2.67 分；錯兩個約得 1.33 分；錯及三個以上為 0 分。",
+          "多選題怎麼計分，寫在試卷首頁的「作答注意事項」：每題 n 個選項，各選項獨立判定；所有選項均答對者，得該題全部之分數；答錯 k 個選項者，得該題 (n−2k)／n 之分數；得分低於零分或所有選項均未作答者，以零分計算。",
+          "這一題有六個選項、4 分，所以全對得 4 分；錯一個約得 2.67 分；錯兩個約得 1.33 分；錯三個以上是 0 分。",
           "要留意「各選項獨立判定」這句話：少劃一個和多劃一個，扣的分一樣。所以作答時的標準要前後一致，不要因為怕多劃就把標準抬得太嚴；不過錯到三格就是零分，也不能每一項都隨便劃。"
         ]
       }
@@ -968,21 +969,21 @@
           "另一種是把 healthy 原封抄過來。字選對了，形態沒轉。"
         ],
         "cue": [
-          "本題評量能否整合全文訊息、歸納全篇討論之主要議題，並依空格之語法條件作適當之字形變化。",
+          "本題評量能否整合全文訊息、歸納全篇討論的主要議題，並依空格的語法條件做適當的字形變化。",
           "這一句有兩種讀法，兩種都說得通，而且都要填名詞：",
-          "讀法一，三項並列同為介系詞 of 之受詞——the issues of [taste], [price], and [health concerns]；本格即 of 之受詞。",
-          "讀法二，concerns 為三項共用之中心語，只寫一次——the issues of (taste + price + health) concerns，展開即 taste concerns、price concerns、health concerns；本格與 price 並列，而 price 為名詞。",
-          "英文為免把共用的部分說兩次而約分，見規範第六節之分配律。兩條路都通向名詞，故不必先決定採何種讀法。",
+          "讀法一，三項並列，都是介系詞 of 的受詞——the issues of [taste], [price], and [health concerns]；這一格就是 of 的受詞。",
+          "讀法二，concerns 是三項共用的中心語，只寫一次——the issues of (taste + price + health) concerns，展開就是 taste concerns、price concerns、health concerns；這一格和 price 並列，而 price 是名詞。",
+          "英文為了不把共用的部分說兩次，會把它提出來只寫一次，用的就是分配律。兩種讀法都指向名詞，所以不必先決定用哪一種讀法。",
           "不論用哪一種讀法，兩格在句子結構上的地位都一樣；官方參考答案替這一題組列出兩組配對、兩格可以互換，原因就在這裡。",
-          "三項議題之歸納：論及口味者五段——A 段 tasted awful；C 段 It tastes too much like actual meat；D 段 GreenBurger just tastes “beany” to me；E 段 It didn't taste that bad；H 段 they taste good if you add plenty of spices and sauces。",
-          "論及價格者為 F 段 Linda：I did NOT like the price, though.；論及健康者三段——B 段 They are heavily processed with more calories and sodium than meat；E 段 Isn't it supposed to be a healthy choice?；H 段 It's a killer for sure if eaten regularly。",
+          "三項議題的歸納：講到口味的有五段——A 段 tasted awful；C 段 It tastes too much like actual meat；D 段 GreenBurger just tastes “beany” to me；E 段 It didn't taste that bad；H 段 they taste good if you add plenty of spices and sauces。",
+          "講到價格的是 F 段 Linda：I did NOT like the price, though.；講到健康的有三段——B 段 They are heavily processed with more calories and sodium than meat；E 段 Isn't it supposed to be a healthy choice?；H 段 It's a killer for sure if eaten regularly。",
           "文章裡的 taste 只有動詞形（A 段 tasted、C 段和 D 段 tastes、E 段和 H 段 taste），填名詞 taste 拼法不變，變的是詞性；health 全文沒有出現，只有 E 段有形容詞 healthy，要改成名詞 health。"
         ],
         "scoring": [
-          "大考中心《112 學年度學科能力測驗英文考科非選擇題滿分參考答案與評分原則》就本題組列出兩組配對：第 47 題 taste 配第 48 題 health，或第 47 題 health 配第 48 題 taste。兩格先後可互換即由此而來。",
-          "兩組配對裡，沒有一組是兩格填同一個字。所以本題庫在這一題的答案說明寫明兩格不能填同一個單詞，自動判分也照這個原則：同一題組的另一格如果已經填了相同的字，這一格就判為不正確。",
+          "大考中心《112 學年度學科能力測驗英文考科非選擇題滿分參考答案與評分原則》替這一題組列出兩組配對：第 47 題 taste 配第 48 題 health，或第 47 題 health 配第 48 題 taste。兩格先後可以互換，就是從這裡來的。",
+          "兩組配對裡，沒有一組是兩格填同一個字。所以本題庫在這一題的答案說明寫明兩格不能填同一個單詞，自動判分也照這個原則：同一題組的另一格如果已經填了相同的字，這一格就算錯。",
           "這一題要做兩件事：選對字，再做對字形變化，兩件都對才拿滿分。依前面提到的評分原則：完全正確（包括選字及字形變化），得 2 分；字形錯誤或者拼字錯誤，得 1 分；空白、答案錯誤或與答案無關者，得 0 分。",
-          "依此，本格填 health 而寫成 healthy 者，係選對字而形態未轉，得 1 分；本格填 taste 者無形態變化之問題，選字正確即為滿分。"
+          "所以這一格該填 health 卻寫成 healthy 的，是選對了字，但形態錯了，得 1 分；這一格填 taste 沒有形態變化的問題，選對字就是滿分。"
         ],
         "patterns": [
           {
@@ -991,11 +992,11 @@
           },
           {
             "h": "healthy（形）→ health（名）",
-            "t": "名詞加 -y 變形容詞是常見的構詞：health → healthy、wealth → wealthy、taste → tasty、luck → lucky。本格要的是反過來走，由形容詞回到名詞。"
+            "t": "名詞加 -y 變形容詞是常見的構詞：health → healthy、wealth → wealthy、taste → tasty、luck → lucky。這一格要的是反過來，從形容詞回到名詞。"
           },
           {
-            "h": "兼作動詞與名詞的同形字",
-            "t": "本題題幹裡就有三個：focus、price、concern。taste 也是其中之一——It tastes good.（動詞）與 the taste of it（名詞）拼寫相同。"
+            "h": "兼作動詞和名詞的同形字",
+            "t": "這一題的題幹裡就有三個：focus、price、concern。taste 也是其中之一——It tastes good.（動詞）和 the taste of it（名詞）拼寫相同。"
           }
         ]
       }
@@ -1021,29 +1022,29 @@
       "explanation": {
         "think": [
           "兩格可以互換，所以「先決定填哪一個字」比「先決定填哪一格」重要。整串討論的三個議題定下來，剩下的只是分配。",
-          "這一格後面緊接著 concerns，讀起來很像要一個形容詞，於是寫成 healthy concerns 的很常見。",
+          "這一格後面緊接著 concerns，讀起來很像要一個形容詞，所以寫成 healthy concerns 的很常見。",
           "也有人看到 concerns 就想到「大家擔心的事」，往回抄 calories 或 sodium。那兩個字是 B 段和 E 段舉的具體數據，不是議題的名稱。"
         ],
         "cue": [
-          "本題評量能否整合全文訊息、歸納全篇討論之主要議題，並依空格之語法條件作適當之字形變化。",
+          "本題評量能否整合全文訊息、歸納全篇討論的主要議題，並依空格的語法條件做適當的字形變化。",
           "這一句有兩種讀法，兩種都說得通，而且都要填名詞：",
-          "讀法一，三項並列同為介系詞 of 之受詞——the issues of [taste], [price], and [health concerns]；本格即 of 之受詞。",
-          "讀法二，concerns 為三項共用之中心語，只寫一次——the issues of (taste + price + health) concerns，展開即 taste concerns、price concerns、health concerns；本格與 price 並列，而 price 為名詞。",
-          "英文為免把共用的部分說兩次而約分，見規範第六節之分配律。兩條路都通向名詞，故不必先決定採何種讀法。",
+          "讀法一，三項並列，都是介系詞 of 的受詞——the issues of [taste], [price], and [health concerns]；這一格就是 of 的受詞。",
+          "讀法二，concerns 是三項共用的中心語，只寫一次——the issues of (taste + price + health) concerns，展開就是 taste concerns、price concerns、health concerns；這一格和 price 並列，而 price 是名詞。",
+          "英文為了不把共用的部分說兩次，會把它提出來只寫一次，用的就是分配律。兩種讀法都指向名詞，所以不必先決定用哪一種讀法。",
           "不論用哪一種讀法，兩格在句子結構上的地位都一樣；官方參考答案替這一題組列出兩組配對、兩格可以互換，原因就在這裡。",
-          "三項議題之歸納同第 47 題：口味見 A、C、D、E、H 五段，價格見 F 段之 the price，健康見 B、E、H 三段。",
+          "三項議題的歸納和第 47 題相同：口味見 A、C、D、E、H 五段，價格見 F 段的 the price，健康見 B、E、H 三段。",
           "health 全文沒有出現，只有 E 段有形容詞 healthy，要改成名詞 health；文章裡的 taste 只有動詞形，填名詞 taste 拼法不變，變的是詞性。"
         ],
         "scoring": [
-          "大考中心《112 學年度學科能力測驗英文考科非選擇題滿分參考答案與評分原則》就本題組列出兩組配對：第 47 題 taste 配第 48 題 health，或第 47 題 health 配第 48 題 taste。兩格先後可互換即由此而來。",
-          "兩組配對裡，沒有一組是兩格填同一個字。所以本題庫在這一題的答案說明寫明兩格不能填同一個單詞，自動判分也照這個原則：同一題組的另一格如果已經填了相同的字，這一格就判為不正確。",
+          "大考中心《112 學年度學科能力測驗英文考科非選擇題滿分參考答案與評分原則》替這一題組列出兩組配對：第 47 題 taste 配第 48 題 health，或第 47 題 health 配第 48 題 taste。兩格先後可以互換，就是從這裡來的。",
+          "兩組配對裡，沒有一組是兩格填同一個字。所以本題庫在這一題的答案說明寫明兩格不能填同一個單詞，自動判分也照這個原則：同一題組的另一格如果已經填了相同的字，這一格就算錯。",
           "這一題要做兩件事：選對字，再做對字形變化，兩件都對才拿滿分。依前面提到的評分原則：完全正確（包括選字及字形變化），得 2 分；字形錯誤或者拼字錯誤，得 1 分；空白、答案錯誤或與答案無關者，得 0 分。",
-          "依此，本格填 health 而寫成 healthy 者，係選對字而形態未轉，得 1 分；本格填 taste 者無形態變化之問題，選字正確即為滿分。"
+          "所以這一格該填 health 卻寫成 healthy 的，是選對了字，但形態錯了，得 1 分；這一格填 taste 沒有形態變化的問題，選對字就是滿分。"
         ],
         "patterns": [
           {
             "h": "health concerns",
-            "t": "健康方面的顧慮。這是既有的搭配，不是由「名詞可以修飾名詞」推出來的；同一路的還有 safety concerns、privacy concerns、security concerns。concern 作此解時多用複數。要說時間不夠，通行的是 time constraints 或 time pressure。"
+            "t": "健康方面的顧慮。這是既有的搭配，不是由「名詞可以修飾名詞」推出來的；同一路的還有 safety concerns、privacy concerns、security concerns。concern 當這個意思講時，多半用複數。要說時間不夠，通行的是 time constraints 或 time pressure。"
           },
           {
             "h": "三個擺在一起看",
@@ -1051,7 +1052,7 @@
           },
           {
             "h": "healthy（形）→ health（名）",
-            "t": "名詞加 -y 變形容詞是常見的構詞：health → healthy、wealth → wealthy、taste → tasty。本格要的是反過來走，由形容詞回到名詞。"
+            "t": "名詞加 -y 變形容詞是常見的構詞：health → healthy、wealth → wealthy、taste → tasty。這一格要的是反過來，從形容詞回到名詞。"
           }
         ]
       }
@@ -1077,49 +1078,49 @@
       "explanation": {
         "think": [
           "八則留言讀下來，正面反面都有，容易憑「這個人好像沒那麼排斥」就勾進去。",
-          "題目問的不是喜不喜歡，是「在某些條件下自己會選」。兩個條件都要成立：一是這個人自己會選，二是這個選擇繫在某個條件上。",
+          "題目問的不是喜不喜歡，是「在某些條件下自己會選」。兩個條件都要成立：一是這個人自己會選，二是這個選擇要看某個條件。",
           "最容易被勾進去的是 H。那一則裡面就有一個 if，看起來完全符合「條件」兩個字。但那一則的結尾是 So why risk your life?，整段是否定的。"
         ],
         "cue": [
-          "本題評量能否就八則留言逐一判斷發言者本人是否於特定條件下會選擇該產品。",
-          "本題的條件有二，須同時成立：其一為該選擇繫於發言者本人，題幹作 for the chatroom participants themselves；其二為該選擇繫於條件，題幹作 only under certain circumstances。",
-          "(D) Thomas：I'm definitely a carnivore and prefer meat, but I don't see anything wrong with choosing one of the fakey-fakey meaty things once in a while—just for a change. 本人偏好肉類，惟偶一為之則可，條件見 once in a while；同段另載 it works better in recipes that would usually contain beans，為另一項條件。",
-          "(F) Linda：I liked it fine. I did NOT like the price, though. Hopefully that will come down. 本人接受該產品，惟以價格下降為條件。"
+          "本題評量能否逐一判斷八則留言的發言者本人，在特定條件下會不會選擇這項產品。",
+          "這一題的條件有兩個，要同時成立：一是這個選擇關係到發言者本人，題幹寫的是 for the chatroom participants themselves；二是這個選擇要看條件，題幹寫的是 only under certain circumstances。",
+          "(D) Thomas：I'm definitely a carnivore and prefer meat, but I don't see anything wrong with choosing one of the fakey-fakey meaty things once in a while—just for a change. 他本人偏好肉類，不過偶爾吃一次沒問題，條件在 once in a while；同一段還寫了 it works better in recipes that would usually contain beans，這是另一項條件。",
+          "(F) Linda：I liked it fine. I did NOT like the price, though. Hopefully that will come down. 她本人接受這項產品，條件是價格要降下來。"
         ],
         "distractors": [
           {
             "h": "(A) Olivia",
-            "t": "That's a firm NO! 與 tasted awful 為全然否定，未設任何條件。"
+            "t": "That's a firm NO! 和 tasted awful 是完全否定，沒有設任何條件。"
           },
           {
             "h": "(B) Smith",
-            "t": "I haven't tried them 與 I just don't see the point 為未曾嘗試且不認同。該段 Unless you are a strict vegetarian and eschew meat for ethical reasons 一語雖為條件句，所指者為他人之情況，非其本人之選擇。"
+            "t": "I haven't tried them 和 I just don't see the point，說的是他沒吃過，也不認同。這一段的 Unless you are a strict vegetarian and eschew meat for ethical reasons 雖然是條件句，講的是別人的情況，不是他本人的選擇。"
           },
           {
             "h": "(C) Mika",
-            "t": "this is just not something that will ever interest me 明載永不感興趣，ever 一字已排除條件之可能。"
+            "t": "this is just not something that will ever interest me 直接說了永遠不會感興趣，ever 這個字已經排除了有條件的可能。"
           },
           {
             "h": "(E) Rico",
-            "t": "It didn't taste that bad 為對口味之評價，其後 Isn't it supposed to be a healthy choice? 為對健康之質疑。全段未載其本人於何種條件下會選擇該產品。"
+            "t": "It didn't taste that bad 是對口味的評價，後面的 Isn't it supposed to be a healthy choice? 是對健康的質疑。整段都沒有寫他本人在什麼條件下會選擇這項產品。"
           },
           {
             "h": "(G) Ablo",
-            "t": "I can have them every day 與 we cannot thank GreenBurger enough 為無條件之肯定，與題幹 only under certain circumstances 相反。"
+            "t": "I can have them every day 和 we cannot thank GreenBurger enough 是沒有條件的肯定，和題幹的 only under certain circumstances 相反。"
           },
           {
             "h": "(H) Alexander",
-            "t": "they taste good if you add plenty of spices and sauces 雖含 if，該條件所指者為口味如何，非其本人是否會選擇；同段 It's a killer for sure if eaten regularly 與 So why risk your life? 為明確否定。"
+            "t": "they taste good if you add plenty of spices and sauces 雖然有 if，這個條件講的是口味好不好，不是他本人會不會選擇；同一段的 It's a killer for sure if eaten regularly 和 So why risk your life? 是明確的否定。"
           },
           {
-            "h": "(B) 與 (H) 為本題最強之誘答",
+            "h": "(B) 和 (H) 是這一題最強的誘答",
             "t": "這兩則各有一個表示條件的字（Unless、if），但兩個條件都不是在講「本人會不會選擇」。句子裡有條件句，不等於這一題問的條件成立。"
           }
         ],
         "scoring": [
           "這一題要選出兩項條件都成立的選項，所以要劃記 D、F 兩個選項。先劃哪一個都不影響判定。",
-          "多選題之計分方式載於試卷首頁「作答注意事項」：每題 n 個選項，各選項獨立判定；所有選項均答對者，得該題全部之分數；答錯 k 個選項者，得該題 (n−2k)／n 之分數；得分低於零分或所有選項均未作答者，以零分計算。",
-          "本題為八個選項、4 分，代入得每錯一格失 1 分：全對 4 分，錯一格 3 分，錯二格 2 分，錯三格 1 分，錯四格以上 0 分。本題所失為整數，與 111 學測及 115 學測兩份之第 49 題不同——該兩題各為六個選項，每錯一格所失非整數。",
+          "多選題怎麼計分，寫在試卷首頁的「作答注意事項」：每題 n 個選項，各選項獨立判定；所有選項均答對者，得該題全部之分數；答錯 k 個選項者，得該題 (n−2k)／n 之分數；得分低於零分或所有選項均未作答者，以零分計算。",
+          "這一題有八個選項、4 分，代入公式，每錯一格扣 1 分：全對 4 分，錯一格 3 分，錯兩格 2 分，錯三格 1 分，錯四格以上 0 分。這一題扣的分是整數，和 111 學測、115 學測兩份試卷的第 49 題不同——那兩題都是六個選項，每錯一格扣的分不是整數。",
           "這一題不在《112 學年度學科能力測驗英文考科非選擇題滿分參考答案與評分原則》的範圍內：那份文件只列第 47、48、50 三題的滿分參考答案；多選題屬於選擇題部分，計分方式依試卷首頁的說明。",
           "要留意「各選項獨立判定」這句話：少劃一個和多劃一個，扣的分一樣。所以作答時的標準要前後一致，不要因為怕多劃就把標準抬得太嚴；不過錯到四格就是零分，也不能每一項都隨便劃。"
         ]
@@ -1150,15 +1151,15 @@
           "要找的那一句就在 G 段：a GreenBurger does the trick。"
         ],
         "cue": [
-          "本題評量能否依指定條件自文中擷取關鍵語句。",
-          "題幹設有兩項條件，須同時滿足。其一為語意，該片語須等同於 serves the purpose 或 works well；其二為形式，題幹所用者為 phrase，所求者為片語，非單一字詞。",
+          "本題評量能否依指定條件，從文章裡擷取關鍵語句。",
+          "題幹有兩項條件，要同時滿足。一是語意，這個片語要等於 serves the purpose 或 works well；二是形式，題幹用的是 phrase，要的是片語，不是單一字詞。",
           "作答線索在 G 段 Ablo 一則：Especially when a burger craving hits…a GreenBurger does the trick.",
-          "該句所述為「特別想吃漢堡的時候，一個 GreenBurger 就足以應付」，與題幹所給之兩個釋義相合。"
+          "這一句說的是「特別想吃漢堡的時候，一個 GreenBurger 就夠了」，和題幹給的兩個釋義相合。"
         ],
         "scoring": [
-          "滿分參考答案為 does the trick，照原文三字寫出。",
+          "滿分參考答案是 does the trick，照原文把這三個字寫出來。",
           "這一題的滿分答案只有一種寫法：《112 學年度學科能力測驗英文考科非選擇題滿分參考答案與評分原則》在這一題只列了 does the trick，沒有列其他形態或說法。",
-          "評分原則同第 47、48 兩題：完全正確（包括選字及字形變化），得 2 分；字形錯誤或者拼字錯誤，得 1 分；空白、答案錯誤或與答案無關者，得 0 分。",
+          "評分原則和第 47、48 兩題相同：完全正確（包括選字及字形變化），得 2 分；字形錯誤或者拼字錯誤，得 1 分；空白、答案錯誤或與答案無關者，得 0 分。",
           "答 do the trick 的，動詞沒有照原文做第三人稱單數的變化，屬於前面第二項說的字形錯誤，不是選錯語句。官方沒有替這一題逐項舉例，這是本題庫依那一項條文的意思列出的說法。",
           "答 unique 這類單字，或 works well 這類題幹用語，都不符合前面兩項條件：前者不是片語，後者不是文章裡的用語。"
         ],
@@ -1169,11 +1170,11 @@
           },
           {
             "h": "同義的說法",
-            "t": "work、be effective、serve the purpose。題幹所給之 serves the purpose 與 works well 即此二者。"
+            "t": "work、be effective、serve the purpose。題幹給的 serves the purpose 和 works well 就是其中兩個。"
           },
           {
             "h": "a craving hits",
-            "t": "突然很想吃某樣東西。craving 為名詞，常見搭配還有 have a craving for sth。"
+            "t": "突然很想吃某樣東西。craving 是名詞，常見搭配還有 have a craving for sth。"
           }
         ]
       }
@@ -1200,24 +1201,24 @@
         "think": [
           "這一格的左邊是 use、右邊是 intelligence，要補的是一個修飾 intelligence 的字。回文章找的時候，最順手的做法是抓一個看起來像的字就填。",
           "常見的填法有三種：抄烏龜蟻段的 collectively，形態不動就交出去；抓寒鴉段的 social（highly social birds）；或填 groups，把複數一起帶進來。",
-          "social 填進去讀得通，但摘要句同時涵蓋寒鴉與烏龜蟻兩種動物，而 social 只出現在寒鴉那一段，涵蓋不到烏龜蟻。"
+          "social 填進去讀得通，但摘要句同時涵蓋寒鴉和烏龜蟻兩種動物，而 social 只出現在寒鴉那一段，涵蓋不到烏龜蟻。"
         ],
         "cue": [
           "本題評量讀寫綜合應用能力，對應的學習表現為「能以適切的英語文說出或寫出談話或短文的摘要」，並依空格的語法條件做適當的字形變化。",
           "先切塊：use [ ___47___ intelligence ] in both [ solving problems ] and [ ___48___ to new challenging environment ]。",
-          "第一塊：use 的受詞是整個名詞片語，本格放在 intelligence 前面，是它的修飾語。這一層形容詞或名詞都接得上——collective intelligence 的 collective 是形容詞，group intelligence 的 group 是名詞。官方參考答案兩個都收，原因在這裡。",
-          "後兩塊由 both … and … 連接，兩項都是介系詞 in 的受詞。以分配律還原：use ___47___ intelligence in ( solving problems + adapting to new challenging environment ) = use ___47___ intelligence in solving problems + use ___47___ intelligence in adapting to new challenging environment。",
-          "英文寫成並列，是為了不必把共用的部分說兩次。本格就落在共用的那一段裡，所以它填的字要讓還原後的兩句都能單獨成立。要看的是這個，不是文章裡有沒有出現這個字。",
-          "兩段選文的共同處也落在這一點：寒鴉段 enjoy a smooth flight together as a group、following the group pattern、based on information coming from other members；烏龜蟻段 they have to work together to explore alternative routes、By working collectively。兩段講的都是集體智慧，故本格填 group 或 collective。",
-          "social 只出現在寒鴉段的 highly social birds。social intelligence 是既有的說法，但它指與同類相處的能力，還原後的第二句接不上——烏龜蟻重建路徑、改善效率，不是與同類相處。",
-          "摘要和選文之間以換句話說相連，不是回文章找一模一樣的字。",
-          "文中所給的兩個字，形態不同。group 在前言與寒鴉段本來就是名詞（as a group、the group pattern），填進本格拼寫不變；collectively 是副詞（By working collectively），要轉成形容詞 collective。填哪一個字就照哪一條走。"
+          "第一塊：use 的受詞是整個名詞片語，這一格放在 intelligence 前面，是它的修飾語。這一層形容詞或名詞都接得上——collective intelligence 的 collective 是形容詞，group intelligence 的 group 是名詞。官方參考答案兩個都收，原因在這裡。",
+          "後兩塊由 both … and … 連接，兩項都是介系詞 in 的受詞。用分配律還原：use ___47___ intelligence in ( solving problems + adapting to new challenging environment ) = use ___47___ intelligence in solving problems + use ___47___ intelligence in adapting to new challenging environment。",
+          "英文寫成並列，是為了不必把共用的部分說兩次。這一格就落在共用的那一段裡，所以它填的字要讓還原後的兩句都能單獨成立。要看的是這個，不是文章裡有沒有出現這個字。",
+          "兩段選文的共同處也落在這一點：寒鴉段 enjoy a smooth flight together as a group、following the group pattern、based on information coming from other members；烏龜蟻段 they have to work together to explore alternative routes、By working collectively。兩段講的都是集體智慧，所以這一格填 group 或 collective。",
+          "social 只出現在寒鴉段的 highly social birds。social intelligence 是既有的說法，但它指的是和同類相處的能力，還原後的第二句接不上——烏龜蟻重建路徑、改善效率，不是和同類相處。",
+          "摘要和選文之間是用換句話說連起來的，不是回文章找一模一樣的字。",
+          "文章裡給的兩個字，形態不同。group 在前言和寒鴉段本來就是名詞（as a group、the group pattern），填進這一格拼寫不變；collectively 是副詞（By working collectively），要轉成形容詞 collective。填哪一個字就照哪一條走。"
         ],
         "scoring": [
           "大考中心《113 學年度學科能力測驗英文考科非選擇題評分原則》在這一題列出兩個滿分參考答案：group 和 collective。寫其中一個就可以了，不必兩個都寫。",
           "這一題要做兩件事：選對字，再做對字形變化，兩件都對才拿滿分。依前面提到的評分原則：完全正確（包括選字及字形變化），得 2 分；字形錯誤或者拼字錯誤，得 1 分；空白、答案錯誤或與答案無關者，得 0 分。",
           "照這個原則，該填 collective 卻寫成 collectively，是選對了字，但形態錯了，得 1 分；填 group 沒有形態變化的問題，選對字就是滿分；填 groups 也是形態錯誤，得 1 分。官方沒有替這一題逐項舉例，這兩種說法是本題庫依那一項條文的意思列出的。",
-          "作答時宜先將所選之字寫上，不因形態未定而留空。"
+          "作答時最好先把選好的字寫上去，不要因為還沒決定形態就留白。"
         ],
         "patterns": [
           {
@@ -1230,7 +1231,7 @@
           },
           {
             "h": "三個擺在一起看",
-            "t": "They work collectively.（副詞，修飾動詞 work）／collective intelligence（形容詞，修飾名詞 intelligence）／the group pattern（名詞當前位修飾語）。第三種是既有的說法，不是由「名詞可以修飾名詞」推出來的；本文自己用的就是 the group pattern。"
+            "t": "They work collectively.（副詞，修飾動詞 work）／collective intelligence（形容詞，修飾名詞 intelligence）／the group pattern（名詞當前位修飾語）。第三種是既有的說法，不是由「名詞可以修飾名詞」推出來的；這一篇自己用的就是 the group pattern。"
           }
         ]
       }
@@ -1248,7 +1249,7 @@
       "answers": ["adapting"],
       "answerSource": "official",
       "swapGroup": null,
-      "answerNote": "本格須配合 both...and... 的對等結構作字形變化（solving／adapting）。",
+      "answerNote": "這一格要配合 both...and... 的對等結構做字形變化（solving／adapting）。",
       "options": null,
       "optionCount": null,
       "answerKey": null,
@@ -1261,20 +1262,20 @@
         ],
         "cue": [
           "本題評量讀寫綜合應用能力，對應的學習表現為「能以適切的英語文說出或寫出談話或短文的摘要」，並依空格的語法條件做適當的字形變化。",
-          "先切塊：in both [ solving problems ] and [ ___48___ to new challenging environment ]。both … and … 所連接之兩項同為介系詞 in 之受詞，本格為右項。",
-          "並列結構照抄另一邊的形態。依據在左：and 前面那一項是 V-ing，本格就照抄 V-ing。",
-          "以分配律驗算：in ( solving problems + adapting to new challenging environment ) 還原為 in solving problems 與 in adapting to new challenging environment，兩句都能單獨成立，形態就對了。",
-          "同型見 100 年第 19 題：they learned how to preserve the body by drying it out, oiling and then ______ the body in linen。依據同樣在左，by 後面已有 drying、oiling 兩個動名詞，第三項就是 wrapping；該題的誘因在右，空格後面緊接著 the body，容易被「屍體是被包起來的」帶走。",
-          "本題與第 47 題共用這一塊：第 47 題問共用的那一段填什麼字，本題問並列的這一項要什麼形態。",
-          "本格的結構訊號明確，宜從字形變化入手：詞類先定為 V-ing，再回選文選字。",
-          "摘要句 ___48___ to new challenging environment 之對應處為烏龜蟻段末句 adapt to their ever-changing environment，該處 adapt 為原形，本格須轉為 adapting。",
+          "先切塊：in both [ solving problems ] and [ ___48___ to new challenging environment ]。both … and … 連接的兩項，都是介系詞 in 的受詞，這一格是右邊那一項。",
+          "並列結構照抄另一邊的形態。依據在左：and 前面那一項是 V-ing，這一格就照抄 V-ing。",
+          "用分配律驗算：in ( solving problems + adapting to new challenging environment ) 還原成 in solving problems 和 in adapting to new challenging environment，兩句都能單獨成立，形態就對了。",
+          "同樣的句型見 100 年第 19 題：they learned how to preserve the body by drying it out, oiling and then ______ the body in linen。依據同樣在左，by 後面已有 drying、oiling 兩個動名詞，第三項就是 wrapping；那一題的陷阱在右邊，空格後面緊接著 the body，容易被「屍體是被包起來的」帶走。",
+          "這一題和第 47 題共用這一塊：第 47 題問共用的那一段填什麼字，這一題問並列的這一項要什麼形態。",
+          "這一格的結構訊號很明確，最好從字形變化下手：先確定詞類是 V-ing，再回選文選字。",
+          "摘要句 ___48___ to new challenging environment，對應的是烏龜蟻段最後一句 adapt to their ever-changing environment；那裡的 adapt 是原形，這一格要改成 adapting。",
           "寒鴉那一段也有同樣的概念：if a predator (such as a fox) is present, the pattern of their flight will change immediately，也就是隨著環境變化調整行為。"
         ],
         "scoring": [
           "大考中心《113 學年度學科能力測驗英文考科非選擇題評分原則》在這一題列出的滿分參考答案是 adapting，只有這一種寫法。",
           "這一題要做兩件事：選對字，再做對字形變化，兩件都對才拿滿分。依前面提到的評分原則：完全正確（包括選字及字形變化），得 2 分；字形錯誤或者拼字錯誤，得 1 分；空白、答案錯誤或與答案無關者，得 0 分。",
           "照這個原則，填 adapt、adapted 或 adaptation，是選對了字，但形態不符合這一句的結構，得 1 分。官方沒有替這一題逐項舉例，這是本題庫依那一項條文的意思列出的說法。",
-          "作答時宜先將所選之字寫上，不因形態未定而留空。"
+          "作答時最好先把選好的字寫上去，不要因為還沒決定形態就留白。"
         ],
         "patterns": [
           {
@@ -1286,7 +1287,7 @@
             "t": "both 和 and 連接的兩項，詞類要相同：both solving and adapting（兩項都是 V-ing）、both quickly and safely（兩項都是副詞）。並列的幾項裡只要有一項的形態已經確定，其他項就照著用同一種形態。"
           },
           {
-            "h": "介系詞後面的動詞作 V-ing",
+            "h": "介系詞後面的動詞用 V-ing",
             "t": "in solving problems、by working together、before settling on the best route。"
           }
         ]
@@ -1324,11 +1325,11 @@
           "另一個常見的失分是沒看清楚題目問的是 ONES：答案不只一個。"
         ],
         "cue": [
-          "本題以跨文本兩篇短文呈現，評量考生閱讀後能否比較、分析與推論。",
+          "本題用跨文本的兩篇短文呈現，評量考生讀完以後能不能比較、分析和推論。",
           "這一題要選兩種動物都符合的選項，所以每一個選項都要回原文核對兩次，寒鴉那一段一次、烏龜蟻那一段一次。",
           "(C) They share information with their group members. 寒鴉那一段寫 they now focus only on the birds within a fixed distance from them, based on information coming from other members，寒鴉怎麼飛，要看成員之間傳來的訊息；烏龜蟻那一段寫 laying down trails of pheromone (a chemical substance) behind them so that other ants can follow 和 forming a sort of communication network。兩種動物都符合。",
           "(F) They show behavior governed by a unique system of communication. 兩段各寫了一套成員之間傳遞訊息的方式，而且方式不一樣：寒鴉靠 information coming from other members 改變飛行方式，烏龜蟻靠費洛蒙路徑形成 a sort of communication network。兩種動物都符合。",
-          "大考中心公布本題答對率 57%、鑑別度 61。"
+          "大考中心公布這一題的答對率 57%、鑑別度 61。"
         ],
         "distractors": [
           {
@@ -1341,21 +1342,21 @@
           },
           {
             "h": "(D) They establish rules to stay away from enemies.",
-            "t": "寒鴉段所載為遇 predator 時改變飛行方式，以 keep a safe distance between themselves，其目的在 avoid crashing into each other，非訂立規則遠離天敵；烏龜蟻段全段未提及天敵。"
+            "t": "寒鴉段寫的是遇到 predator 時改變飛行方式，來 keep a safe distance between themselves，目的是 avoid crashing into each other，不是訂下規則遠離天敵；烏龜蟻段整段都沒有提到天敵。"
           },
           {
             "h": "(E) They change their nesting sites from time to time.",
-            "t": "烏龜蟻段所改者為 paths 與 alternative routes，非 nests；寒鴉段之 nesting site 為往返之一端，未載更換。"
+            "t": "烏龜蟻段改的是 paths 和 alternative routes，不是 nests；寒鴉段的 nesting site 是來回的其中一端，文章沒有寫要換。"
           },
           {
-            "h": "(A) 與 (E) 為本題最強之誘答",
-            "t": "兩者各有一段字面相近之敘述——strategies 與 find new paths——而該敘述或只對一方成立，或所指者為另一件事。字面相近不等於本題所問之敘述成立。"
+            "h": "(A) 和 (E) 是這一題最強的誘答",
+            "t": "這兩個選項各有一段字面相近的敘述——strategies 和 find new paths——但那段敘述不是只對其中一種動物成立，就是講的是另一件事。字面相近，不等於這一題問的敘述成立。"
           }
         ],
         "scoring": [
           "這一題要選出對兩種動物都成立的選項，所以要劃記 C、F 兩個選項。先劃哪一個都不影響判定。",
-          "多選題之計分方式載於試卷首頁「作答注意事項」：每題 n 個選項，各選項獨立判定；所有選項均答對者，得該題全部之分數；答錯 k 個選項者，得該題 (n−2k)／n 之分數；得分低於零分或所有選項均未作答者，以零分計算。",
-          "本題為六個選項、4 分，故全對得 4 分；錯一個約得 2.67 分；錯兩個約得 1.33 分；錯及三個以上為 0 分。所失非整數，與 112 學測之第 49 題不同——該題為八個選項，每錯一格所失為 1 分。計分之數字一律照本題之選項數實算，不可沿用他題。",
+          "多選題怎麼計分，寫在試卷首頁的「作答注意事項」：每題 n 個選項，各選項獨立判定；所有選項均答對者，得該題全部之分數；答錯 k 個選項者，得該題 (n−2k)／n 之分數；得分低於零分或所有選項均未作答者，以零分計算。",
+          "這一題有六個選項、4 分，所以全對得 4 分；錯一個約得 2.67 分；錯兩個約得 1.33 分；錯三個以上是 0 分。扣的分不是整數，和 112 學測的第 49 題不同——那一題有八個選項，每錯一格扣 1 分。計分的數字一律照這一題的選項數實際去算，不能套用別題。",
           "要留意「各選項獨立判定」這句話：少劃一個和多劃一個，扣的分一樣。該劃 C、F 卻只劃了 C，是 F 這一格判錯；多劃了 A，是 A 這一格判錯，兩種情形扣的分相同。所以作答時的標準要前後一致，不要因為怕多劃就把標準抬得太嚴；不過錯到三格就是零分，也不能每一項都隨便劃。",
           "這一題不在《113 學年度學科能力測驗英文考科非選擇題評分原則》的範圍內：那份文件只列第 47、48、50 三題的滿分參考答案；多選題屬於選擇題部分，計分方式依試卷首頁的「作答注意事項」。"
         ]
@@ -1381,23 +1382,23 @@
       "officialExplanation": null,
       "explanation": {
         "think": [
-          "題目用引號把 “disturbance” 標出來，這個字出現在前言：disturbances arising from the environment。前言講的是所有群居動物，於是把烏龜蟻段的 wind or rain 填進來的很常見。題目問的是寒鴉。",
+          "題目用引號把 “disturbance” 標出來，這個字出現在前言：disturbances arising from the environment。前言講的是所有群居動物，所以把烏龜蟻段的 wind or rain 填進來的很常見。題目問的是寒鴉。",
           "也常見的是整句抄 the pattern of their flight will change immediately。那是干擾造成的結果，不是干擾本身。",
           "還有一種是只寫 predator 或 fox，把前面的冠詞漏掉。"
         ],
         "cue": [
           "本題評量讀寫綜合應用能力，對應的學習表現為「能針對各類選文，以口語或書面回答相關問題」。",
-          "題幹設有兩項條件，須同時滿足。其一為對象，題幹作 for jackdaws，答案須自寒鴉段取得，前言與烏龜蟻段所載之干擾不在其內；其二為所問者為 disturbance 本身，非其所造成之結果。",
+          "題幹有兩項條件，要同時滿足。一是對象，題幹寫的是 for jackdaws，答案要從寒鴉段找，前言和烏龜蟻段寫的干擾不算；二是要問的是 disturbance 本身，不是它造成的結果。",
           "作答線索在寒鴉段：However, if a predator (such as a fox) is present, the pattern of their flight will change immediately.",
-          "該句以 However 承接前句之 Normally, the birds enjoy a smooth flight together as a group，前後即「平常」與「有干擾時」之對比；a predator 為造成改變者，其後 the pattern of their flight will change 為所造成之結果。",
+          "這一句用 However 承接前一句的 Normally, the birds enjoy a smooth flight together as a group，前後就是「平常」和「有干擾時」的對比；a predator 是造成改變的原因，後面的 the pattern of their flight will change 是它造成的結果。",
           "前言的 disturbances 在原卷用粗體標出來，是這一題的指路記號。這個字在選文兩段裡都沒有再出現，要從意思判斷選文裡哪一個詞相當於「干擾」。"
         ],
         "scoring": [
           "大考中心《113 學年度學科能力測驗英文考科非選擇題評分原則》在這一題列出兩個滿分參考答案：a predator 和 a fox。這一題的滿分答案不只一種寫法，寫其中一個就可以了。",
-          "兩個答案分屬原文之兩層：a predator 為選文所述之天敵，a fox 為括號內所舉之例（such as a fox）。官方兩者並收。",
+          "兩個答案分屬原文的兩層：a predator 是選文說的天敵，a fox 是括號裡舉的例子（such as a fox）。官方兩個都收。",
           "評分原則：完全正確（包括選字及字形變化），得 2 分；字形錯誤或者拼字錯誤，得 1 分；空白、答案錯誤或與答案無關者，得 0 分。",
           "官方列出的兩個答案都有不定冠詞 a。答 predator、fox 而漏掉冠詞的，得 1 分。這一類錯誤，110 年試辦考試的評分原則寫得最清楚，原文是「答案不完整（未做字形變化）或拼字、體例（大小寫、定冠詞等）錯誤，得 1 分」。那一條舉的例子是定冠詞，這一題漏掉的 a 是不定冠詞，同樣屬於那一條說的「體例」。",
-          "答 wind or rain 者為烏龜蟻所遇之干擾，非本題所問之對象。"
+          "答 wind or rain 的，那是烏龜蟻遇到的干擾，不是這一題問的對象。"
         ],
         "patterns": [
           {
@@ -1406,11 +1407,11 @@
           },
           {
             "h": "such as",
-            "t": "舉例。a predator (such as a fox) 之括號內所舉者為前一個名詞的例子，不是另立一項。"
+            "t": "舉例。a predator (such as a fox) 括號裡舉的，是前一個名詞的例子，不是另立一項。"
           },
           {
             "h": "disturbance",
-            "t": "干擾。名詞為 disturbance，動詞為 disturb，形容詞為 disturbing。"
+            "t": "干擾。名詞是 disturbance，動詞是 disturb，形容詞是 disturbing。"
           }
         ]
       }
@@ -1428,7 +1429,7 @@
       "answers": ["entertaining", "educating"],
       "answerSource": "official",
       "swapGroup": null,
-      "answerNote": "本格須配合 as well as 前後的對等結構作字形變化（conserving／entertaining、educating）。",
+      "answerNote": "這一格要配合 as well as 前後的對等結構做字形變化（conserving／entertaining、educating）。",
       "options": null,
       "optionCount": null,
       "answerKey": null,
@@ -1440,20 +1441,20 @@
           "也有人填 conserving 那一類已經在句子裡的字，或往 J 則抓 money。"
         ],
         "cue": [
-          "本題評量讀寫綜合應用能力，作答須依空格的語法條件做適當的字形變化。",
-          "先切塊：serve the purposes of [ conserving endangered species ] as well as [ ___47___ visitors ]。as well as 連接的兩項同為介系詞 of 的受詞，本格是右項。",
-          "並列結構照抄另一邊的形態。依據在左：as well as 前面那一項是 V-ing，本格就照抄 V-ing。",
-          "以分配律驗算：serve the purposes of ( conserving endangered species + entertaining visitors ) 還原為 serve the purpose of conserving endangered species 與 serve the purpose of entertaining visitors，兩句都能單獨成立。",
-          "讀任何一篇文章都先把主題放在心裡。本篇前言已經定調：conservation and education 對上 confining animals，動物園的兩面。摘要句講的就是這兩面，本格落在前者，第 48 格落在後者。",
-          "英文避免重複的辦法之一，是同一個概念換一個字再說一次，篇章上稱為詞彙聯結（lexical cohesion）。所以回文章找的不是一模一樣的字，是講同一件事的字；找到之後再依空格的條件改形態。先問概念，再問形態。",
-          "選字有兩條路，官方兩個都收。其一，前言 most modern zoos now focus on conservation and education，education 轉為 educating；其二，A 則 Amy 之 I don't agree with caging animals for our entertainment，entertainment 轉為 entertaining。",
+          "本題評量讀寫綜合應用能力，作答時要看空格的語法條件，做適當的字形變化。",
+          "先切塊：serve the purposes of [ conserving endangered species ] as well as [ ___47___ visitors ]。as well as 連接的兩項，都是介系詞 of 的受詞，這一格是右邊那一項。",
+          "並列結構照抄另一邊的形態。依據在左：as well as 前面那一項是 V-ing，這一格就照抄 V-ing。",
+          "用分配律驗算：serve the purposes of ( conserving endangered species + entertaining visitors ) 還原成 serve the purpose of conserving endangered species 和 serve the purpose of entertaining visitors，兩句都能單獨成立。",
+          "讀任何一篇文章都先把主題放在心裡。這一篇的前言已經定調：conservation and education 對上 confining animals，動物園的兩面。摘要句講的就是這兩面，這一格落在前者，第 48 格落在後者。",
+          "英文避免重複的辦法之一，是同一個概念換一個字再說一次，篇章上叫做詞彙聯結（lexical cohesion）。所以回文章找的不是一模一樣的字，是講同一件事的字；找到之後再依空格的條件改形態。先問概念，再問形態。",
+          "選字有兩條路，官方兩個都收。一是前言的 most modern zoos now focus on conservation and education，把 education 改成 educating；二是 A 則 Amy 的 I don't agree with caging animals for our entertainment，把 entertainment 改成 entertaining。",
           "兩個字在這一句都說得通：動物園的另一項功能，說成教育參觀者或娛樂參觀者都可以。"
         ],
         "scoring": [
           "大考中心公布的滿分參考答案是 entertaining 和 educating，寫其中一個就可以了。",
           "這一題要做兩件事：選對字，再做對字形變化，兩件都對才拿滿分。依 114 學年度學科能力測驗英文考科非選擇題評分原則：完全正確（包括選字及字形變化），得 2 分；字形錯誤或者拼字錯誤，得 1 分；空白、答案錯誤或與答案無關者，得 0 分。",
           "填 entertainment 或 education，是選對了字，但形態錯了，得 1 分。官方沒有替這一題逐項舉例，這是本題庫依那一項條文的意思列出的說法。",
-          "作答時宜先將所選之字寫上，不因形態未定而留空。"
+          "作答時最好先把選好的字寫上去，不要因為還沒決定形態就留白。"
         ],
         "patterns": [
           {
@@ -1466,7 +1467,7 @@
           },
           {
             "h": "名詞轉 V-ing 的一組",
-            "t": "entertainment → entertaining、education → educating、conservation → conserving。三個字在本篇選文裡都出現過名詞形。"
+            "t": "entertainment → entertaining、education → educating、conservation → conserving。三個字在這一篇選文裡都出現過名詞形。"
           }
         ]
       }
@@ -1484,28 +1485,28 @@
       "answers": ["confined", "caged"],
       "answerSource": "official",
       "swapGroup": null,
-      "answerNote": "本格為修飾 the animals 的過去分詞（被動關係）。",
+      "answerNote": "這一格是修飾 the animals 的過去分詞（被動關係）。",
       "options": null,
       "optionCount": null,
       "answerKey": null,
       "officialExplanation": null,
       "explanation": {
         "think": [
-          "看到 the animals 後面接空格，很多人直接想到「動物被關在那裡」，於是填 confining 或 caging——意思抓對了，方向錯了。",
+          "看到 the animals 後面接空格，很多人直接想到「動物被關在那裡」，所以填 confining 或 caging——意思抓對了，方向錯了。",
           "也有人填原形 confine，或填 captivity 這個前言裡的名詞。",
-          "還有一種是把空格看成句子的動詞，於是填 are confined。這一格後面還有 will lose，句子的動詞已經有了。"
+          "還有一種是把空格看成句子的動詞，所以填 are confined。這一格後面還有 will lose，句子的動詞已經有了。"
         ],
         "cue": [
-          "本題評量讀寫綜合應用能力，作答須依空格的語法條件做適當的字形變化。",
-          "先切塊：the animals [ ___48___ there ] will lose the freedom。本句的動詞是 will lose，本格放在名詞 the animals 之後，是它的後位修飾語，不是句子的動詞。",
-          "修飾語用現在分詞還是過去分詞，看它與被修飾的名詞是主動還是被動：動物是被關的那一方，故用過去分詞。",
+          "本題評量讀寫綜合應用能力，作答時要看空格的語法條件，做適當的字形變化。",
+          "先切塊：the animals [ ___48___ there ] will lose the freedom。這一句的動詞是 will lose，這一格放在名詞 the animals 之後，是它的後位修飾語，不是句子的動詞。",
+          "修飾語用現在分詞還是過去分詞，看它和它修飾的名詞是主動還是被動：動物是被關的那一方，所以用過去分詞。",
           "還原成子句就清楚了：the animals ( that are ) confined there。",
-          "選字有兩條路，官方兩個都收。其一，前言 the cost of confining animals，confining 轉為 confined；其二，A 則 Amy 之 caging animals for our entertainment，caging 轉為 caged。",
-          "本題組兩格的字形變化方向不同：第 47 格由名詞轉為 V-ing，本格由 V-ing 轉為過去分詞。"
+          "選字有兩條路，官方兩個都收。一是前言的 the cost of confining animals，把 confining 改成 confined；二是 A 則 Amy 的 caging animals for our entertainment，把 caging 改成 caged。",
+          "這一題組兩格的字形變化方向不同：第 47 格是從名詞改成 V-ing，這一格是從 V-ing 改成過去分詞。"
         ],
         "scoring": [
           "大考中心公布的滿分參考答案是 confined 和 caged，寫其中一個就可以了。",
-          "評分原則同第 47 題：完全正確（包括選字及字形變化），得 2 分；字形錯誤或者拼字錯誤，得 1 分；空白、答案錯誤或與答案無關者，得 0 分。",
+          "評分原則和第 47 題相同：完全正確（包括選字及字形變化），得 2 分；字形錯誤或者拼字錯誤，得 1 分；空白、答案錯誤或與答案無關者，得 0 分。",
           "填 confining、caging，是選對了字，但形態改錯了：那是主動，這一格要的是被動；依前面第二項，得 1 分。官方沒有替這一題逐項舉例，這是本題庫依那一項條文的意思列出的說法。"
         ],
         "patterns": [
@@ -1519,7 +1520,7 @@
           },
           {
             "h": "in captivity",
-            "t": "被圈養、關在籠中。animals in captivity（圈養動物）、captive-bred animals（人工繁殖的動物）。本篇選文前言與 F、H 兩則都用到這一組。"
+            "t": "被圈養、關在籠中。animals in captivity（圈養動物）、captive-bred animals（人工繁殖的動物）。這一篇選文的前言和 F、H 兩則都用到這一組。"
           }
         ]
       }
@@ -1549,41 +1550,41 @@
           "最容易被勾進去的是 F 和 J：F 開頭就說「如果動物園非存在不可」，J 說「動物園會一直存在下去」。兩則讀起來都不像在罵，但也都沒有說動物園好。"
         ],
         "cue": [
-          "本題評量讀寫綜合應用能力，須就十則發言逐一判斷發言者對動物園的態度。選項就是論壇上的十則發言，標記為 (A) 至 (J)；題幹用的是 ONES，答案不只一個。",
-          "本題練的是快速閱讀底下的掃讀，不是精讀：十則不必每一則從頭讀到尾，一則抓一個定調的字詞，態度就出來了。",
-          "(A) Amy：against。(B) Ben：What gives humans the right...?（反詰）。(C) Cathy：unforgettable。(D) Daniel：a good place。(E) Eddie：Is it a good idea...?（反詰）。",
-          "(F) Frank：inevitability。(G) George：educational 與 easier to learn。(H) Henry：nearly impossible to release。(I) Irene：more sensitive and compassionate。(J) Jack：will continue to exist。",
-          "定調字為肯定者四則，即 (C)、(D)、(G)、(I)。",
+          "本題評量讀寫綜合應用能力，要逐一判斷十則發言裡，發言者對動物園的態度。選項就是論壇上的十則發言，標成 (A) 到 (J)；題幹用的是 ONES，答案不只一個。",
+          "這一題練的是快速閱讀底下的掃讀，不是精讀：十則不必每一則從頭讀到尾，一則抓一個定調的字詞，態度就出來了。",
+          "(A) Amy：against。(B) Ben：What gives humans the right...?（反問）。(C) Cathy：unforgettable。(D) Daniel：a good place。(E) Eddie：Is it a good idea...?（反問）。",
+          "(F) Frank：inevitability。(G) George：educational 和 easier to learn。(H) Henry：nearly impossible to release。(I) Irene：more sensitive and compassionate。(J) Jack：will continue to exist。",
+          "定調字是肯定的有四則，就是 (C)、(D)、(G)、(I)。",
           "掃到反問句要停一下：這種句子用問句的形式，意思卻是否定，(B) 和 (E) 都是這一類，不能因為句子沒有否定詞就當成中立。"
         ],
         "distractors": [
           {
-            "h": "(F) 與 (J) 為本題最強之誘答",
-            "t": "兩則都不帶批評的語氣。(F) 之 if zoos are an inevitability 為讓步，所主張者為飼育條件應盡可能改善；(J) 之 Whether or not zoos benefit the animal community, they certainly do make money 為敘述現況而未表態。判斷態度看他有沒有說動物園好，不是看他有沒有罵。"
+            "h": "(F) 和 (J) 是這一題最強的誘答",
+            "t": "兩則都不帶批評的語氣。(F) 的 if zoos are an inevitability 是讓步，他主張的是飼育條件要盡量改善；(J) 的 Whether or not zoos benefit the animal community, they certainly do make money 是在敘述現況，沒有表態。判斷態度看他有沒有說動物園好，不是看他有沒有罵。"
           },
           {
-            "h": "(B) 與 (E) 的反詰句",
+            "h": "(B) 和 (E) 的反問句",
             "t": "(B) 的 does that justify restricting its freedom? 和 (E) 的 Is it a good idea to keep animals in sites not suited to them? 都是用問句的形式表達否定。"
           },
           {
-            "h": "(A) 之讓步子句",
+            "h": "(A) 的讓步子句",
             "t": "though I do understand some of the arguments why they should exist 是讓步，不改變 I'm against zoos 的立場。掃讀時定調的是主要子句。"
           },
           {
             "h": "(H) 的兩句否定",
-            "t": "Most animals in zoos are not endangered 與 it is nearly impossible to release captive-bred animals，直接針對「動物園在保育」這個說法。"
+            "t": "Most animals in zoos are not endangered 和 it is nearly impossible to release captive-bred animals，直接針對「動物園在保育」這個說法。"
           },
           {
-            "h": "難字讀不出來也判得出",
+            "h": "難字讀不出來，也判斷得出來",
             "t": "justify 和 inevitable 在《高中英文參考詞彙表》都列第 5 級。(B) 就算讀不出 justify，前一句 What gives humans the right to capture, confine, or breed other species? 已經定調；(F) 就算讀不出 inevitability，後半 must provide the best possible conditions 是對動物園提要求，不是稱讚。同一則裡通常不只一處線索。"
           }
         ],
         "scoring": [
-          "本題須選出對動物園持正面態度者，故劃記 C、D、G、I 四個選項。劃記之先後不影響判定。",
-          "多選題之計分方式載於試卷首頁「作答注意事項」：每題 n 個選項，各選項獨立判定；所有選項均答對者，得該題全部之分數；答錯 k 個選項者，得該題 (n−2k)／n 之分數；得分低於零分或所有選項均未作答者，以零分計算。",
-          "本題為十個選項、4 分，故全對得 4 分；錯一個 3.2 分；錯兩個 2.4 分；錯三個 1.6 分；錯四個 0.8 分；錯及五個以上為 0 分。選項數為全站八場之最多，每錯一格所失比別場小。計分之數字一律照本題的選項數實算，不可沿用他題。",
-          "要留意「各選項獨立判定」這句話：少劃一個和多劃一個，扣的分一樣。該劃 C、D、G、I 卻只劃了三個，是少劃的那一格判錯；多劃了 F，是 F 這一格判錯，兩種情形扣的分相同。",
-          "本題不在 114 學年度學科能力測驗英文考科非選擇題評分原則的範圍內：該件只列第 47、48、50 三題的滿分參考答案，多選題屬選擇題部分，計分依試卷首頁「作答注意事項」。"
+          "這一題要選出對動物園持正面態度的發言，所以劃記 C、D、G、I 四個選項。先劃哪一個都不影響判定。",
+          "多選題怎麼計分，寫在試卷首頁的「作答注意事項」：每題 n 個選項，各選項獨立判定；所有選項均答對者，得該題全部之分數；答錯 k 個選項者，得該題 (n−2k)／n 之分數；得分低於零分或所有選項均未作答者，以零分計算。",
+          "這一題有十個選項、4 分，所以全對得 4 分；錯一個 3.2 分；錯兩個 2.4 分；錯三個 1.6 分；錯四個 0.8 分；錯五個以上是 0 分。選項數是本題庫八場試卷裡最多的，每錯一格扣的分比別場少。計分的數字一律照這一題的選項數實際去算，不能套用別題。",
+          "要留意「各選項獨立判定」這句話：少劃一個和多劃一個，扣的分一樣。該劃 C、D、G、I 卻只劃了三個，是少劃的那一格判錯；多劃了 F，是 F 這一格判錯，兩種情形扣的分相同。所以作答時的標準要前後一致，不要因為怕多劃就把標準抬得太嚴；不過錯到五格就是零分，也不能每一項都隨便劃。",
+          "這一題不在 114 學年度學科能力測驗英文考科非選擇題評分原則的範圍內：那份文件只列第 47、48、50 三題的滿分參考答案；多選題屬於選擇題部分，計分方式依試卷首頁的「作答注意事項」。"
         ]
       }
     },
@@ -1600,7 +1601,7 @@
       "answers": ["fostering empathy"],
       "answerSource": "official",
       "swapGroup": null,
-      "answerNote": "官方參考答案另收 Fostering empathy.（句首大寫加句點），比對時忽略大小寫與句末標點。",
+      "answerNote": "官方參考答案另外也收 Fostering empathy.（句首大寫加句點），比對時不看大小寫和句末標點。",
       "options": null,
       "optionCount": null,
       "answerKey": null,
@@ -1612,14 +1613,14 @@
           "還有一種是抄 I 則後半的 be more sensitive and compassionate，那是這個片語造成的結果，不是片語本身。"
         ],
         "cue": [
-          "本題評量讀寫綜合應用能力，須依指定條件自文中擷取關鍵語句。",
-          "題幹設有兩項條件，須同時滿足。其一為形式，題幹所用者為 phrase，原卷並將該字標示，所求為片語；其二為語意，該片語須等同於 building the ability to understand and share the feelings of others。",
-          "題幹那一句 building the ability to understand and share the feelings of others，正是文中那個片語的換句話說。這一類題目一律先抓定義句講的概念，再回文找講同一件事的字詞，不是找一模一樣的字。",
+          "本題評量讀寫綜合應用能力，要依指定條件，從文章裡擷取關鍵語句。",
+          "題幹有兩項條件，要同時滿足。一是形式，題幹用的是 phrase，原卷還特別標出這個字，要的是片語；二是語意，這個片語要等於 building the ability to understand and share the feelings of others。",
+          "題幹那一句 building the ability to understand and share the feelings of others，正是文章裡那個片語的換句話說。這一類題目一律先抓定義句講的概念，再回文章找講同一件事的字詞，不是找一模一樣的字。",
           "作答線索在 I 則 Irene 開頭：Fostering empathy…",
-          "該則其後 By seeing an animal up close, the public could be encouraged to be more sensitive and compassionate 為這個片語的展開說明，可用來確認語意，但不是答案本身。"
+          "這一則後面的 By seeing an animal up close, the public could be encouraged to be more sensitive and compassionate，是這個片語的展開說明，可以用來確認語意，但不是答案本身。"
         ],
         "scoring": [
-          "大考中心公布之滿分參考答案為 fostering empathy，另收 Fostering empathy.（句首大寫、句末加句點）。",
+          "大考中心公布的滿分參考答案是 fostering empathy，另外也收 Fostering empathy.（句首大寫、句末加句點）。",
           "這一題的滿分答案不只一種寫法：原文出現在句首，所以大寫、小寫都收，句末有沒有標點也不影響。本題庫比對時不管大小寫和句末標點。",
           "評分原則：完全正確（包括選字及字形變化），得 2 分；字形錯誤或者拼字錯誤，得 1 分；空白、答案錯誤或與答案無關者，得 0 分。",
           "只答 empathy 一個字，不符合題幹要的片語；答 understand and share the feelings，是題幹的用語，不是文章裡的：兩種都不符合前面兩項條件。"
@@ -1631,7 +1632,7 @@
           },
           {
             "h": "empathy",
-            "t": "同理心。形容詞為 empathetic。與 sympathy（同情）不同：前者是設身處地感同身受，後者是為對方的處境難過。"
+            "t": "同理心。形容詞是 empathetic。它和 sympathy（同情）不同：前者是設身處地感同身受，後者是為對方的處境難過。"
           },
           {
             "h": "題目問 phrase 就要給片語",
@@ -1653,7 +1654,7 @@
       "answers": ["innovation"],
       "answerSource": "official",
       "swapGroup": null,
-      "answerNote": "線索為 F. The Pinery 的 innovative，本格須轉為名詞。官方《115學測英文考科非選擇題滿分參考答案與評分原則》公布之答案。",
+      "answerNote": "線索是 F. The Pinery 的 innovative，這一格要改成名詞。這是官方《115學測英文考科非選擇題滿分參考答案與評分原則》公布的答案。",
       "options": null,
       "optionCount": null,
       "answerKey": null,
@@ -1665,23 +1666,23 @@
           "它們填進去，中文都讀得通。問題出在一個更前面的步驟：這一格要的不是「文章裡的哪個字聽起來像新的」，是「題幹自己指定的那一組對比」。"
         ],
         "cue": [
-          "本題評量能否掌握並簡述文章的主旨，並依提示寫出適當的回應。作答線索為題幹 It is a place where the old meets the new：old 對應空格前之 tradition，本格則對應 new。",
-          "與 new 相對應之語意線索見於第一段：However, it does not live in the past.、As numerous new restaurants and shops have sprung up in recent years、not only a cultural center but also a unique commercial zone。",
-          "可供選填之字詞見 F 店 The Pinery：the fruit appears in some innovative menu items。",
-          "本段的線索落點與大考中心《反映意見回覆》所載相同。",
-          "本句後半 local features are perfectly ___48___ with foreign elements 與前半語意成對，惟句構不同：前半之動詞 coexists 已於題幹給出，本格為 with 之受詞，須為名詞；後半之動詞被挖空，該格須補為過去分詞。兩格之對稱在語意，不在句法。"
+          "本題評量能否掌握並簡述文章的主旨，並依提示寫出適當的回應。作答線索是題幹的 It is a place where the old meets the new：old 對應空格前的 tradition，這一格則對應 new。",
+          "和 new 相對應的語意線索在第一段：However, it does not live in the past.、As numerous new restaurants and shops have sprung up in recent years、not only a cultural center but also a unique commercial zone。",
+          "可以填的字在 F 店 The Pinery：the fruit appears in some innovative menu items。",
+          "這一段的線索落點，和大考中心《反映意見回覆》寫的相同。",
+          "這一句後半 local features are perfectly ___48___ with foreign elements 和前半語意成對，不過句子結構不同：前半的動詞 coexists 題幹已經給了，這一格是 with 的受詞，要填名詞；後半的動詞挖空了，那一格要補過去分詞。兩格對稱的是語意，不是句法。"
         ],
         "scoring": [
           "這一大題的作答說明寫明「從文章中找出兩個單詞……並視句型結構需要做適當的字形變化」，所以這一格要做兩件事：選對字，再做對字形變化，兩件都對才拿滿分。",
           "這一題的結構訊號很清楚，可以先從字形變化下手：空格前面是介系詞 with，後面要接名詞，這個判斷不必讀完全文就能做。",
-          "詞性確定後再行選字。文中所給者為形容詞 innovative，本格須轉為名詞 innovation。",
+          "詞性確定了，再來選字。文章裡寫的是形容詞 innovative，這一格要改成名詞 innovation。",
           "評分原則：完全正確（包括選字及字形變化），得 2 分；字形錯誤或者拼字錯誤，得 1 分；空白、答案錯誤或與答案無關者，得 0 分。",
-          "依此，選對字而形態轉錯者（如寫 innovative）仍得 1 分；未寫或選錯字者始為 0 分。作答時宜先將所選之字寫上，不因形態未定而留空。"
+          "所以選對了字，但形態錯了（例如寫 innovative），還是得 1 分；沒有寫或選錯字，才是 0 分。作答時最好先把選好的字寫上去，不要因為還沒決定形態就留白。"
         ],
         "patterns": [
           {
             "h": "coexist with",
-            "t": "與……並存。Tradition coexists harmoniously with innovation."
+            "t": "和……並存。Tradition coexists harmoniously with innovation."
           },
           "innovative（形）→ innovation（名）。同型的字尾變化（-ive 轉 -ion）：active → action、relative → relation、attractive → attraction。",
           {
@@ -1704,34 +1705,34 @@
       "answers": ["blended"],
       "answerSource": "official",
       "swapGroup": null,
-      "answerNote": "線索為 B. After Work 的 blend，本格須轉為過去分詞（be blended with）。官方《115學測英文考科非選擇題滿分參考答案與評分原則》公布之答案。",
+      "answerNote": "線索是 B. After Work 的 blend，這一格要改成過去分詞（be blended with）。這是官方《115學測英文考科非選擇題滿分參考答案與評分原則》公布的答案。",
       "options": null,
       "optionCount": null,
       "answerKey": null,
       "officialExplanation": null,
       "explanation": {
         "think": [
-          "題幹最後一段的 the old meets the new 就在眼前，meet 這個字看起來現成又好用，於是填 met 或 meeting；也有人看到 B 店的 loaded with roast duck，覺得 loaded 也搭得上 with。這三種填法都常見。",
+          "題幹最後一段的 the old meets the new 就在眼前，meet 這個字看起來現成又好用，所以填 met 或 meeting；也有人看到 B 店的 loaded with roast duck，覺得 loaded 也搭得上 with。這三種填法都常見。",
           "這一題和第 47 題是同一個陷阱的兩面：看到一個「文章裡有、文法上也接得下去」的字就停手，沒有回頭確認這一格到底在講哪一件事。"
         ],
         "cue": [
-          "本題評量能否掌握並簡述文章的主旨，並依提示寫出適當的回應。作答線索遍及全文：文中之 indigenous、the traditional way of life、does not live in the past 等概念，與題幹之 local features 及 foreign elements 相互對應。",
-          "題幹此格兩側並陳在地與外來，且以 perfectly 修飾，可歸納出「融合」之概念。",
-          "文中表達該概念之字詞見 B 店 After Work 之末句：A truly unique blend!",
-          "本段的線索說明與大考中心《反映意見回覆》所載相同（該回覆明記「作答線索遍及全文」）。",
-          "本句前半 tradition coexists harmoniously with ___47___ 與本格語意成對，惟句構不同：前半之動詞已給出，該格為 with 之受詞、須為名詞；本格前為 are、後為 with，動詞被挖空，故須補為過去分詞，成 be blended with。兩格之對稱在語意，不在句法。"
+          "本題評量能否掌握並簡述文章的主旨，並依提示寫出適當的回應。作答線索遍及全文：文章裡的 indigenous、the traditional way of life、does not live in the past 這些概念，和題幹的 local features、foreign elements 互相對應。",
+          "題幹這一格的兩邊，一邊是在地、一邊是外來，又用 perfectly 修飾，可以歸納出「融合」這個概念。",
+          "文章裡表達這個概念的字，在 B 店 After Work 的最後一句：A truly unique blend!",
+          "這一段的線索說明，和大考中心《反映意見回覆》寫的相同（那份回覆明白寫著「作答線索遍及全文」）。",
+          "這一句前半 tradition coexists harmoniously with ___47___ 和這一格語意成對，不過句子結構不同：前半的動詞已經給了，那一格是 with 的受詞，要填名詞；這一格前面是 are、後面是 with，動詞挖空了，所以要補過去分詞，成為 be blended with。兩格對稱的是語意，不是句法。"
         ],
         "scoring": [
           "這一題也可以先從字形變化下手：空格前面是 are、後面接 with，是被動語態 be ＿ with 的結構，所以要填過去分詞。",
-          "另有第二項條件：所選之字須能與 with 搭配。依此，met、meeting 雖無語法之誤，然 meet with 之語意與本句不符，不宜。",
-          "二者兼備者為 blend。該字於文中為名詞（A truly unique blend!），本格須轉為過去分詞 blended。",
-          "評分原則同第 47 題：完全正確得 2 分；字形錯誤或拼字錯誤得 1 分；空白、答案錯誤或與答案無關者得 0 分。",
-          "本題組兩格之字形變化方向不同：第 47 題為形容詞轉名詞，第 48 題為名詞轉過去分詞。"
+          "還有第二項條件：選的字要能和 with 搭配。照這個條件，met、meeting 雖然文法沒有錯，但 meet with 的意思和這一句不合，不適合。",
+          "兩項條件都符合的是 blend。這個字在文章裡是名詞（A truly unique blend!），這一格要改成過去分詞 blended。",
+          "評分原則和第 47 題相同：完全正確得 2 分；字形錯誤或拼字錯誤得 1 分；空白、答案錯誤或與答案無關者得 0 分。",
+          "這一題組兩格的字形變化方向不同：第 47 題是從形容詞改成名詞，第 48 題是從名詞改成過去分詞。"
         ],
         "patterns": [
           {
             "h": "be blended with",
-            "t": "與……融合在一起。Local features are perfectly blended with foreign elements."
+            "t": "和……融合在一起。Local features are perfectly blended with foreign elements."
           },
           "blend（名／動）a unique blend（獨特的融合）、blend A with B。",
           "被動語態加介系詞的固定組合，這一類常考：be filled with、be covered with、be equipped with。"
@@ -1751,7 +1752,7 @@
       "answers": null,
       "answerSource": "official",
       "swapGroup": null,
-      "answerNote": "官方選擇題參考答案為 ADE。",
+      "answerNote": "官方選擇題參考答案是 ADE。",
       "options": "blocks",
       "optionCount": 6,
       "answerKey": ["A", "D", "E"],
@@ -1762,30 +1763,30 @@
           "另一個容易失分的地方是題目本身：它問的是三樣東西，答案就是三個字母，不是一個。"
         ],
         "cue": [
-          "本題評量能否將商品性質與店家描述逐項比對。作答線索分見三段：",
-          "（1）十九世紀的油燈 → D 店 Something Different：at this tiny antique store、traditional-style home accessories，屬古董家飾之類別。",
-          "（2）回收塑膠太陽眼鏡 → A 店 Oh Eco：She sells environmentally friendly items such as reusable bottles, bamboo toothbrushes, and soy candles.該段所列舉者為瓶子、牙刷、蠟燭，並未列出太陽眼鏡；判斷之依據為該店主打之類別 environmentally friendly items，與題幹之「回收塑膠」相合。逐項比對之對象為類別，不必逐字對上品名。",
-          "（3）原住民木珠項鍊 → E 店 Beyond World：it carries products only from local makers and small businesses owned by indigenous people，屬在地工藝與原住民商家之類別。"
+          "本題評量能否把商品性質和店家描述逐項比對。作答線索分別在三段：",
+          "（1）十九世紀的油燈 → D 店 Something Different：at this tiny antique store、traditional-style home accessories，屬於古董家飾這一類。",
+          "（2）回收塑膠太陽眼鏡 → A 店 Oh Eco：She sells environmentally friendly items such as reusable bottles, bamboo toothbrushes, and soy candles. 這一段列舉的是瓶子、牙刷、蠟燭，沒有列出太陽眼鏡；判斷的依據是這家店主打的類別 environmentally friendly items，和題幹的「回收塑膠」相合。逐項比對的是類別，不必逐字對上品名。",
+          "（3）原住民木珠項鍊 → E 店 Beyond World：it carries products only from local makers and small businesses owned by indigenous people，屬於在地工藝和原住民商家這一類。"
         ],
         "distractors": [
           {
             "h": "B（After Work）",
-            "t": "handcrafted 一詞近於工藝，然該店所售為手工啤酒與披薩，屬餐飲。"
+            "t": "handcrafted 這個字接近工藝，但那家店賣的是手工啤酒和披薩，屬於餐飲。"
           },
           {
             "h": "C（Aroma Paradise）",
-            "t": "customized 與紀念品之語意相近，然題幹三項商品中並無香氛。"
+            "t": "這家店的香水依顧客的喜好調製（customized），買來當紀念品也說得通，但題幹的三項商品裡沒有香水。"
           },
           {
             "h": "F（The Pinery）",
-            "t": "innovative menu items 所指為菜色，非可售之商品。"
+            "t": "innovative menu items 指的是菜色，不是可以買回家的商品。"
           },
-          "三者之共同處在於：所售為體驗而非可攜帶之物件，與本題所問不符。"
+          "這三家店都對不上題幹的三項商品：B、F 兩家是餐廳，賣的是吃的；C 店的香水可以帶走，但不在陳家要買的清單上。"
         ],
         "scoring": [
-          "作答方式為劃記商店名稱前之英文大寫字母。題幹所購者為三項商品，故須劃記三個選項：A、D、E。劃記之先後不影響判定。",
-          "多選題之計分方式載於試卷首頁「作答注意事項」：每題 n 個選項，各選項獨立判定；所有選項均答對者，得該題全部之分數；答錯 k 個選項者，得該題 (n−2k)／n 之分數；得分低於零分或所有選項均未作答者，以零分計算。",
-          "本題為六個選項、4 分，故全對得 4 分；錯一個約得 2.67 分；錯兩個約得 1.33 分；錯及三個以上為 0 分。",
+          "作答方式是劃記商店名稱前面的英文大寫字母。題幹要買的是三項商品，所以要劃記三個選項：A、D、E。先劃哪一個都不影響判定。",
+          "多選題怎麼計分，寫在試卷首頁的「作答注意事項」：每題 n 個選項，各選項獨立判定；所有選項均答對者，得該題全部之分數；答錯 k 個選項者，得該題 (n−2k)／n 之分數；得分低於零分或所有選項均未作答者，以零分計算。",
+          "這一題有六個選項、4 分，所以全對得 4 分；錯一個約得 2.67 分；錯兩個約得 1.33 分；錯三個以上是 0 分。",
           "要留意「各選項獨立判定」這句話：少劃一個和多劃一個，扣的分一樣。該劃 A、D、E 卻只劃了 A、D，是 E 這一格判錯；多劃了 B，是 B 這一格判錯，兩種情形扣的分相同。所以作答時的標準要前後一致，不要因為怕多劃就把標準抬得太嚴；不過錯到三格就是零分，也不能每一項都隨便劃。",
           "這一段的根據是試卷首頁的「作答注意事項」，不是《非選擇題評分原則》；評分原則只管非選擇題，裡面查不到多選題怎麼計分。"
         ]
@@ -1804,7 +1805,7 @@
       "answers": ["one of a kind"],
       "answerSource": "official",
       "swapGroup": null,
-      "answerNote": "官方《115學測英文考科非選擇題滿分參考答案與評分原則》公布之答案。",
+      "answerNote": "這是官方《115學測英文考科非選擇題滿分參考答案與評分原則》公布的答案。",
       "options": null,
       "optionCount": null,
       "answerKey": null,
@@ -1815,16 +1816,16 @@
           "但題目問的有兩個限制，兩個都要滿足。"
         ],
         "cue": [
-          "本題評量能否依指定條件自文中擷取關鍵語句。題幹設有兩項限制，須同時滿足。",
+          "本題評量能否依指定條件，從文章裡擷取關鍵語句。題幹有兩項限制，要同時滿足。",
           "第一項是說話的人：used by Joseph Tang。Joseph Tang 是 C 店 Aroma Paradise 的店主，全文只有這一段是他說的話。",
-          "其二為形式：題幹所用者為 phrase，原卷並將該字標示，所求者為片語，非單一字詞。",
-          "作答線索即在 C 店該段：“Each store is one of a kind in Wonder Village,” he states."
+          "第二項是形式：題幹用的是 phrase，原卷還特別標出這個字，要的是片語，不是單一字詞。",
+          "作答線索就在 C 店那一段：“Each store is one of a kind in Wonder Village,” he states."
         ],
         "scoring": [
-          "滿分參考答案為 one of a kind，照原文四字寫出，不作任何形態變化，中間不加連字號。",
+          "滿分參考答案是 one of a kind，照原文把這四個字寫出來，不做任何形態變化，中間也不加連字號。",
           "答 unique 不符合前面兩項限制：不是 Joseph Tang 說的話，也不是片語。",
-          "評分原則同第 47 題：完全正確得 2 分；拼字錯誤得 1 分；空白、答案錯誤或與答案無關者得 0 分。",
-          "寫成 one of kind 而漏去 a 者得 1 分。110 年試辦考試之評分原則就此類載之最明，其原文為「答案不完整（未做字形變化）或拼字、體例（大小寫、定冠詞等）錯誤，得 1 分」。該條所舉為定冠詞，本題所漏之 a 為不定冠詞，同屬該條所指之體例。",
+          "評分原則和第 47 題相同：完全正確得 2 分；拼字錯誤得 1 分；空白、答案錯誤或與答案無關者得 0 分。",
+          "寫成 one of kind、漏掉 a 的，得 1 分。這一類錯誤，110 年試辦考試的評分原則寫得最清楚，原文是「答案不完整（未做字形變化）或拼字、體例（大小寫、定冠詞等）錯誤，得 1 分」。那一條舉的例子是定冠詞，這一題漏掉的 a 是不定冠詞，同樣屬於那一條說的「體例」。",
           "這一題的滿分答案只有一種寫法，不過簡答題不一定都是這樣。所以每一題簡答題的解析都會寫明：這一題的答案是不是只有一種寫法。從大考中心公布的滿分參考答案就看得出來，有些題目同時列出好幾種寫法，都算對。"
         ],
         "patterns": [
