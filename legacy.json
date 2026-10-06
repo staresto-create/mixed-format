@@ -126,7 +126,7 @@
         { "n": 2, "q": "Which job has the best benefits in addition to the regular salary?", "answers": ["Reporters & Editors"], "answerNote": "四則之中只有 C 列出彈性工時、工作環境與醫療保險。" },
         { "n": 3, "q": "Wendy is good at writing and she doesn't like to work according to a fixed schedule. Which of the four jobs might be more suitable for her?", "answers": ["Reporters & Editors"], "answerNote": null },
         { "n": 4, "q": "Charles has a strong interest in technology. Which of the four jobs should he apply for?", "answers": ["Service Technician"], "answerNote": null },
-        { "n": 5, "q": "Which advertisement does not need direct contact by making telephone calls? (Write down the letter representing the advertisement.)", "answers": ["C"], "answerNote": "四則之中只有 C 未列電話，僅給傳真。惟 B 寫「寄 P.O. box 594，或打電話安排面試」，亦可不打電話；題幹用單數 the letter，本站推定為 C，此疑義一併載明。" }
+        { "n": 5, "q": "Which advertisement does not need direct contact by making telephone calls? (Write down the letter representing the advertisement.)", "answers": ["C"], "answerNote": "四則裡只有 C 沒有列電話，只給傳真。不過 B 寫「寄 P.O. box 594，或打電話安排面試」，也可以不打電話；題幹用單數 the letter，本題庫判斷答案是 C，這個疑點也一併寫在這裡。" }
       ],
       "answerSource": "derived",
       "bridge": "四個標字母的區塊，讀完要回頭配對，和 MX112-49（八則發言）、MX114-49（十則發言）、MX115-49（六家店）是同一種設計；第 3、4 題先給一個人的條件再回廣告找工作，就是 MX115-49 陳家人買紀念品那一格的作法。",
@@ -153,7 +153,7 @@
         { "n": 2, "q": "What do you think the word \"shed\" means in this passage?", "answers": ["lost"], "answerNote": null },
         { "n": 3, "q": "Why is Howard Chang specifically mentioned in the passage?", "answers": ["he lost the most weight"], "answerNote": null },
         { "n": 4, "q": "Which word in the passage most likely means \"to think about something seriously and carefully, especially before making an important decision\"?", "answers": ["deliberate"], "answerNote": null },
-        { "n": 5, "q": "It can be inferred from the passage that Howard will probably gain his weight back again. What is the clue?", "answers": ["he wanted to eat at McDonald's", "eat at McDonald's", "McDonald's"], "answerNote": "本場僅規定「簡明扼要」，無字數上限，短形式一併收。" }
+        { "n": 5, "q": "It can be inferred from the passage that Howard will probably gain his weight back again. What is the clue?", "answers": ["he wanted to eat at McDonald's", "eat at McDonald's", "McDonald's"], "answerNote": "這一場只規定「簡明扼要」，沒有字數上限，比較短的寫法也一起收。" }
       ],
       "answerSource": "derived",
       "bridge": "第 4 題給一長串英英釋義、要學生回文章挑出那個字，和 MX110T-49、MX115-50 的問法一模一樣。",
@@ -201,7 +201,7 @@
         { "n": 2, "q": "What kinds of people are on the AmazonQuest team?", "answers": ["scientists, teachers, (and) students"], "answerNote": null },
         { "n": 3, "q": "How long did it take the two men to cut down the giant capirana tree?", "answers": ["about 30 minutes"], "answerNote": null },
         { "n": 4, "q": "Between 1970 and 2000, what percentage of the original Amazon Rainforest was cut down?", "answers": ["14 percent"], "answerNote": "須運算：99 − 85 = 14。" },
-        { "n": 5, "q": "According to this report, about how many acres of the Amazon Rainforest are lost every second?", "answers": ["about one acre", "about 1.07 acres"], "answerNote": "須運算：64 acres ÷ 60 秒 ≈ 1.07。題目問 about how many，出題者把每分鐘設為 64 acres，顯然是要學生得出「大約一英畝」；學生按計算機寫 1.07 亦不能算錯，兩種都收。" }
+        { "n": 5, "q": "According to this report, about how many acres of the Amazon Rainforest are lost every second?", "answers": ["about one acre", "about 1.07 acres"], "answerNote": "要計算：64 acres ÷ 60 秒 ≈ 1.07。題目問 about how many，出題者把每分鐘設為 64 acres，顯然是要學生得出「大約一英畝」；學生按計算機寫 1.07 也不能算錯，兩種都收。" }
       ],
       "answerSource": "derived",
       "bridge": "第 1、2、3 題都是回文章定位一句話就能作答，和 MX112-47、MX113-50 屬同一類；第 4、5 題要動筆算，這在八場混合題裡沒有對應。",
@@ -243,7 +243,7 @@
       "questions": [
         { "n": 1, "q": "Where is the earliest written record of the guitar found?", "answers": ["(in) Spain"], "answerNote": "問的是最早的「文字記載」，不是最早的起源地；起源地為 China，是本題的干擾點。" },
         { "n": 2, "q": "What musical instrument was Stradivarius most famous for making?", "answers": ["violins"], "answerNote": null },
-        { "n": 3, "q": "What was Beethoven's first reaction when he was asked to write music for the guitar?", "answers": ["he went into a rage", "(he) refused"], "answerNote": "以 went into a rage 為主答案。refused 亦屬反應，可接受，惟它是那個情緒帶出的動作，文章既已明給情緒詞，只寫 refused 等於漏掉一半。題幹的 first 對照的是後文 eventually，不是區分這兩個動作的先後。" },
+        { "n": 3, "q": "What was Beethoven's first reaction when he was asked to write music for the guitar?", "answers": ["he went into a rage", "(he) refused"], "answerNote": "主要答案是 went into a rage。refused 也算是一種反應，可以接受，不過它是那個情緒帶出來的動作；文章既然已經直接給了表示情緒的詞，只寫 refused 等於漏掉一半。題幹的 first 對照的是後文 eventually，不是區分這兩個動作的先後。" },
         { "n": 4, "q": "What was the challenge that Beethoven could not ignore?", "answers": ["composing music for the guitar", "composing guitar music"], "answerNote": null },
         { "n": 5, "q": "What does \"millions\" in the last line refer to?", "answers": ["millions of people", "people"], "answerNote": null }
       ],
@@ -265,7 +265,7 @@
         { "type": "p", "text": "Unfortunately, sometimes you may find it difficult to smile. Anything from getting a bad grade on a test to losing an important game can make you feel sad. In such hard times, there seems to be no reason to smile. But there is some good part to almost every bad thing. Turning something that seems all bad into something good is one way to help you smile. Hanging around people who are positive and in good moods is another way to help you find your smile again." }
       ],
       "questions": [
-        { "n": 1, "q": "Why is smiling physically easier than frowning?", "answers": ["it takes fewer muscles", "frowning takes twice as many muscles"], "answerNote": "原文由 frown 的角度寫，正說反說皆收，以「用的肌肉較少」為主。" },
+        { "n": 1, "q": "Why is smiling physically easier than frowning?", "answers": ["it takes fewer muscles", "frowning takes twice as many muscles"], "answerNote": "原文是從 frown 的角度寫的，正面說、反面說都收，以「用的肌肉比較少」為主。" },
         { "n": 2, "q": "What kind of feeling can a physical smile help to create?", "answers": ["happier", "happiness"], "answerNote": null },
         { "n": 3, "q": "In what aspect can smiling help a person in his social life?", "answers": ["making friends"], "answerNote": null },
         { "n": 4, "q": "Give one example of \"hard times\" mentioned in the passage.", "answers": ["getting a bad grade", "losing an important game"], "answerNote": "任舉一例。" },
