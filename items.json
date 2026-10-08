@@ -1837,6 +1837,345 @@
           "題目問 phrase 就要給片語、問 word 就要給單字——這一類指示語在混合題裡是常態，作答前先看清楚。"
         ]
       }
+    },
+    {
+      "id": "MX111G-1",
+      "passageId": "MX111G",
+      "year": 111,
+      "number": "1",
+      "answerType": "singleChoice",
+      "points": 2,
+      "instruction": "根據上列四則徵才廣告，回答第 1 至 3 題的問題。",
+      "prompt": "Which advertisement lists the benefits that prospective employees will receive?",
+      "promptEmphasis": [],
+      "answers": null,
+      "answerSource": "official",
+      "selfAssessOnly": false,
+      "swapGroup": null,
+      "answerNote": null,
+      "options": "blocks",
+      "optionCount": 4,
+      "answerKey": [
+        "C"
+      ],
+      "officialExplanation": "本題評量考生能否找尋特定資訊，從條列（list）的訊息中尋找與 benefits 有關的項目，從而確定是哪則廣告。作答線索在廣告 C 第 7 至第 9 行所列之員工的福利。",
+      "officialLabel": "大考中心考試說明的「說明」",
+      "officialSource": "引自大考中心《學科能力測驗英文考科考試說明（111 學年度起適用）》第 17 頁。「第 7 至第 9 行」是照考試說明的排版算的，在這一頁上就是廣告 C 用 ◆ 開頭的那三行。",
+      "explanation": {
+        "think": [
+          "看到 benefits，很多人想到的是錢，所以選 (A)：廣告 A 說這家公司付出大筆佣金。不過薪水、佣金是報酬，benefits 指的是薪水以外，公司提供給員工的東西，例如保險、休假。",
+          "也有人選 (B)，因為廣告 B 說錄取的人會接受訓練。廣告 B 只是交代錄取以後要受訓，沒有把訓練當成員工能得到的東西列出來。"
+        ],
+        "cue": [
+          "題目的關鍵字是 lists 和 benefits：要找的是一則把福利一項一項列出來的廣告。",
+          "廣告 C 用了兩種符號。➢ 開頭的四行列在 Qualifications 下面，是應徵條件；◆ 開頭的三行，是公司提供的東西：Flexible work hours (30 hours per week)、Good work environment and great colleagues、Health insurance and annual leave provided。最後一行的 provided，已經說明這些是公司給員工的。",
+          "這種題目不必把四則從頭讀到尾。先掃讀每一則有沒有條列，再看條列的內容是條件還是福利，答案就出來了。"
+        ],
+        "distractors": [
+          {
+            "h": "(A) A",
+            "t": "the most lucrative compensation plan 和 commissions 講的是收入怎麼算，是報酬，不是福利；(1) 到 (3) 那三項是應徵條件。"
+          },
+          {
+            "h": "(B) B",
+            "t": "a training program 是錄取以後要接受的訓練，廣告沒有把它列成福利。"
+          },
+          {
+            "h": "(D) D",
+            "t": "列了 Duties 和 Qualifications，一個是工作內容，一個是應徵條件，沒有提到員工能得到什麼。"
+          }
+        ],
+        "scoring": [
+          "考試說明的參考答案是 (C)。這一題是單選，不是對就是錯。",
+          "考試說明沒有替這一組題目配分，也沒有附評分原則；本題庫每格算 2 分，只是為了和其他各場的計分方式一致。"
+        ],
+        "patterns": [
+          {
+            "h": "benefits",
+            "t": "福利，指薪水以外公司提供的東西，例如保險、休假；常說 employee benefits。看到這個字，要和 salary（薪水）、compensation（報酬）分開。"
+          },
+          {
+            "h": "prospective employees",
+            "t": "未來的員工，在徵才廣告裡指可能錄取的應徵者。prospective 是「可能成為……的」：prospective students（可能來就讀的學生）、prospective buyers（有意購買的人）。"
+          },
+          {
+            "h": "health insurance／annual leave",
+            "t": "健康保險／年假。leave 當名詞是「休假」：take a day's leave（請一天假）、sick leave（病假）。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MX111G-2",
+      "passageId": "MX111G",
+      "year": 111,
+      "number": "2",
+      "answerType": "singleChoice",
+      "points": 2,
+      "instruction": "根據上列四則徵才廣告，回答第 1 至 3 題的問題。",
+      "prompt": "Which advertisement says that the job offers an opportunity for a good salary?",
+      "promptEmphasis": [],
+      "answers": null,
+      "answerSource": "official",
+      "selfAssessOnly": false,
+      "swapGroup": null,
+      "answerNote": null,
+      "options": "blocks",
+      "optionCount": 4,
+      "answerKey": [
+        "A"
+      ],
+      "officialExplanation": "本題評量考生能否找尋特定資訊（與 good salary 有關者）。作答線索在廣告 A 第二段所提及的 the most lucrative compensation plan、over 3.5 billion NTD in commissions，及 top earners 等關鍵字詞。",
+      "officialLabel": "大考中心考試說明的「說明」",
+      "officialSource": "引自大考中心《學科能力測驗英文考科考試說明（111 學年度起適用）》第 17 頁。",
+      "explanation": {
+        "think": [
+          "題目寫的是 good salary，四則廣告裡卻找不到 salary 這個字，有人就以為四則都沒提，只好用猜的。題目和文章常常換個說法，廣告 A 用的是 compensation、commissions、top earners。",
+          "也有人選 (C)，因為廣告 C 列了好幾項福利，看起來待遇不錯。福利不是薪水，而且廣告 C 沒有一句講到收入。"
+        ],
+        "cue": [
+          "作答線索在廣告 A 第二段：The company offers the most lucrative compensation plan in the industry and has paid over 3.5 billion NTD in commissions in just 6 years in the U.S. We are a group of top earners.",
+          "這三個說法都在講收入：the most lucrative compensation plan 是業界最優渥的報酬制度；over 3.5 billion NTD in commissions 是六年內付出超過新台幣 35 億元的佣金；top earners 是收入頂尖的人。原卷把 3.5 billion NTD in commissions 印成斜體，特別醒目。",
+          "題目的 good salary 和廣告的 lucrative compensation，是同一個意思的兩種說法。題目裡的字在文章裡找不到，就改找意思相同的字。"
+        ],
+        "distractors": [
+          {
+            "h": "(B) B",
+            "t": "廣告 B 講的是應徵條件（電子相關的大學學歷）和錄取以後的訓練，沒有提到待遇。"
+          },
+          {
+            "h": "(C) C",
+            "t": "廣告 C 列的是工時、工作環境、保險和年假，都是福利，沒有一句講到薪水或收入。"
+          },
+          {
+            "h": "(D) D",
+            "t": "廣告 D 只列了工作內容和應徵條件，沒有提到待遇。"
+          }
+        ],
+        "scoring": [
+          "考試說明的參考答案是 (A)。這一題是單選，不是對就是錯。",
+          "考試說明沒有替這一組題目配分，也沒有附評分原則；本題庫每格算 2 分，只是為了和其他各場的計分方式一致。"
+        ],
+        "patterns": [
+          {
+            "h": "lucrative",
+            "t": "很賺錢的、收入優渥的：a lucrative job（很賺錢的工作）、a lucrative business（很賺錢的生意）。"
+          },
+          {
+            "h": "compensation",
+            "t": "報酬、薪酬，包括薪水、獎金等所有收入。另一個常見的意思是「賠償」：compensation for the damage（損害賠償）。"
+          },
+          {
+            "h": "commission",
+            "t": "佣金，依業績抽成的收入；in commissions 是「以佣金的方式」。commission 也常當「委員會」講。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MX111G-3",
+      "passageId": "MX111G",
+      "year": 111,
+      "number": "3",
+      "answerType": "singleChoice",
+      "points": 2,
+      "instruction": "根據上列四則徵才廣告，回答第 1 至 3 題的問題。",
+      "prompt": "Which advertisement does NOT indicate that a college degree is required?",
+      "promptEmphasis": [
+        "NOT"
+      ],
+      "answers": null,
+      "answerSource": "official",
+      "selfAssessOnly": false,
+      "swapGroup": null,
+      "answerNote": null,
+      "options": "blocks",
+      "optionCount": 4,
+      "answerKey": [
+        "D"
+      ],
+      "officialExplanation": "本題評量考生能否找尋特定資訊。作答線索在廣告 A、B、C 皆提及 university degree，廣告 D 僅提及 high school diploma。",
+      "officialLabel": "大考中心考試說明的「說明」",
+      "officialSource": "引自大考中心《學科能力測驗英文考科考試說明（111 學年度起適用）》第 17 頁。",
+      "explanation": {
+        "think": [
+          "題目有 NOT，要找的是「沒有」要求大學學歷的那一則。看漏了 NOT，就會選成寫了 university degree 的 A、B、C 其中一則。",
+          "題目寫 college degree，廣告寫的是 university degree，有人因為字不一樣，就以為四則都沒提。在這裡兩個說法指的是同一件事：大學學歷。"
+        ],
+        "cue": [
+          "四則各找一次學歷：廣告 A 的條件 (2) Have a university degree and experiences in marketing；廣告 B 的 Applicants should possess a university degree in electronics；廣告 C 的 ➢ University degree；廣告 D 在 Qualifications 下面寫的是 High school diploma。",
+          "A、B、C 都要大學學歷，只有 D 要的是高中文憑，所以答案是 (D)。",
+          "NOT 題要四則逐一確認，刪掉三則有提到的，剩下的就是答案。"
+        ],
+        "distractors": [
+          {
+            "h": "(A) A",
+            "t": "條件 (2) 寫明要 a university degree，還要有行銷經驗。"
+          },
+          {
+            "h": "(B) B",
+            "t": "possess a university degree in electronics，不但要大學學歷，還指定電子相關的科系。第 5 題要填的就是這一句。"
+          },
+          {
+            "h": "(C) C",
+            "t": "➢ University degree 列在 Qualifications 下面，是應徵條件。同一組的 Journalism education and/or experience a plus 是加分條件，不是一定要有的。"
+          }
+        ],
+        "scoring": [
+          "考試說明的參考答案是 (D)。這一題是單選，不是對就是錯。",
+          "考試說明沒有替這一組題目配分，也沒有附評分原則；本題庫每格算 2 分，只是為了和其他各場的計分方式一致。"
+        ],
+        "patterns": [
+          {
+            "h": "college degree／university degree",
+            "t": "大學學歷。college 在美式英文裡常泛指大學，go to college 就是上大學。"
+          },
+          {
+            "h": "high school diploma",
+            "t": "高中文憑、高中畢業證書。diploma 是畢業證書；degree 是學位，例如 bachelor's degree（學士學位）。"
+          },
+          {
+            "h": "a must／a plus",
+            "t": "徵才廣告常見的兩種寫法：a must 是一定要有的條件，a plus 是有了會加分的條件。廣告 C 的 Ability to speak and read Chinese a must 和 Journalism education and/or experience a plus 正好各一例。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MX111G-4",
+      "passageId": "MX111G",
+      "year": 111,
+      "number": "4",
+      "answerType": "tableFill",
+      "points": 2,
+      "instruction": "以下為兩名應徵者及其選擇要去應徵的工作，請從廣告中找出這兩名應徵者選擇該工作的主要原因。",
+      "prompt": "（表格）",
+      "promptEmphasis": [],
+      "table": {
+        "head": [
+          "Applicants' Strengths and/or Expectations",
+          "Job Choice",
+          "Major Reasons (descriptions mentioned in the advertisements)"
+        ],
+        "rows": [
+          [
+            "Da-wei is fluent in both Chinese and English. He doesn't like to work according to a fixed schedule.",
+            "C",
+            [
+              "Strong command of English language",
+              "Chinese speaking and reading ability a must",
+              "___4___"
+            ]
+          ],
+          [
+            "Mei-ling graduated from the Department of Electrical Engineering.",
+            "B",
+            [
+              "___5___"
+            ]
+          ]
+        ]
+      },
+      "answers": [
+        "flexible work hours"
+      ],
+      "answerSource": "official",
+      "selfAssessOnly": false,
+      "swapGroup": null,
+      "answerNote": null,
+      "options": null,
+      "optionCount": null,
+      "answerKey": null,
+      "officialExplanation": "本題評量考生能否綜合、分析、推論。作答時根據第 4 題題幹中 Da-wei 的 He doesn't like to work according to a fixed schedule.，推論 Da-wei 需要的是廣告 C 所提及的 flexible work hours。",
+      "officialLabel": "大考中心考試說明的「說明」",
+      "officialSource": "引自大考中心《學科能力測驗英文考科考試說明（111 學年度起適用）》第 17 頁。",
+      "explanation": {
+        "think": [
+          "有人填 Journalism education and/or experience a plus，因為記者、編輯的工作和新聞最有關係。可是 Da-wei 的條件裡沒有提到新聞的學歷或經驗，這一項對不上他。",
+          "也有人填 University degree。那是應徵條件，題目問的是他為什麼選這份工作，要從他的長處和期待去找。"
+        ],
+        "cue": [
+          "表格每一列的左欄是應徵者的長處或期待，右欄是廣告裡對應的描述。先把 Da-wei 那一格拆成兩句：Da-wei is fluent in both Chinese and English. 是長處；He doesn't like to work according to a fixed schedule. 是期待。",
+          "右欄已經給的兩項，對應的是第一句的中英文能力，所以第 4 格要對應第二句：他不喜歡照固定的時間表上班。",
+          "回廣告 C 找和固定時間相反的說法，就是 ◆ Flexible work hours (30 hours per week)。flexible（有彈性的）正好對上 not ... a fixed schedule。",
+          "右欄前兩項的寫法，和廣告 C 不完全一樣：廣告寫 Strong command of English、Ability to speak and read Chinese a must，表格寫 Strong command of English language、Chinese speaking and reading ability a must。考試說明原文就是這樣，本題庫照原文列出。"
+        ],
+        "scoring": [
+          "考試說明的參考答案是 flexible work hours，括號裡的 30 hours per week 沒有列進去。",
+          "考試說明只列這一種寫法。你如果把括號也抄上，比對會顯示不相符，這時對照參考答案，自己判斷要給幾分。",
+          "考試說明沒有替這一組題目配分，也沒有附評分原則；本題庫每格算 2 分，只是為了和其他各場的計分方式一致。"
+        ],
+        "patterns": [
+          {
+            "h": "flexible work hours",
+            "t": "彈性工時。flexible 是「有彈性的、可以變通的」，意思和 fixed（固定的）相反。"
+          },
+          {
+            "h": "according to a fixed schedule",
+            "t": "照固定的時間表。according to 是「依照」；schedule 是時間表、行程。"
+          },
+          {
+            "h": "a strong command of English",
+            "t": "英文能力很強。have a good command of 加上語言，是「精通某種語言」的常見說法。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MX111G-5",
+      "passageId": "MX111G",
+      "year": 111,
+      "number": "5",
+      "answerType": "tableFill",
+      "points": 2,
+      "instruction": "以下為兩名應徵者及其選擇要去應徵的工作，請從廣告中找出這兩名應徵者選擇該工作的主要原因。",
+      "prompt": "（表格）",
+      "promptEmphasis": [],
+      "answers": [
+        "possess a university degree in electronics"
+      ],
+      "answerSource": "official",
+      "selfAssessOnly": false,
+      "swapGroup": null,
+      "answerNote": null,
+      "options": null,
+      "optionCount": null,
+      "answerKey": null,
+      "officialExplanation": "本題評量考生能否綜合、分析、推論。作答時根據第 5 題題幹中 Mei-ling 的個人資格 the Department of Electrical Engineering，推論其符合廣告 B 所列的條件 possess a university degree in electronics。",
+      "officialLabel": "大考中心考試說明的「說明」",
+      "officialSource": "引自大考中心《學科能力測驗英文考科考試說明（111 學年度起適用）》第 17 頁。",
+      "explanation": {
+        "think": [
+          "Mei-ling 那一列只寫她是電機系畢業的，很多人回廣告找 electrical engineering，找不到就卡住了。廣告 B 寫的是 electronics（電子學），要先看出她的電機系學歷對得上這一項。",
+          "也有人填 repair and maintain electronic medical equipment。那是工作內容，題目要的是她選這份工作的主要原因，也就是她的條件符合廣告的哪一項要求。",
+          "還有人只寫 university degree。廣告 A、C 也要大學學歷，只寫這幾個字，看不出她為什麼選 B。"
+        ],
+        "cue": [
+          "左欄 Mei-ling graduated from the Department of Electrical Engineering. 講的是她的學歷，所以右欄要找的是廣告 B 對學歷的要求。",
+          "作答線索在廣告 B 第二段第一句：Applicants should possess a university degree in electronics.",
+          "考試說明的參考答案從 possess 寫起，是照廣告原文寫下整個動詞片語。",
+          "這一格和第 4 格的作法一樣：左欄給應徵者的情況，右欄回廣告找對應的描述。第 4 格對應的是期待，這一格對應的是長處。"
+        ],
+        "scoring": [
+          "考試說明的參考答案是 possess a university degree in electronics。",
+          "考試說明只列這一種寫法。你如果只寫 a university degree in electronics，比對會顯示不相符；考試說明沒有說這樣怎麼給分，請對照參考答案，自己判斷要給幾分。",
+          "考試說明沒有替這一組題目配分，也沒有附評分原則；本題庫每格算 2 分，只是為了和其他各場的計分方式一致。"
+        ],
+        "patterns": [
+          {
+            "h": "possess",
+            "t": "擁有、具備，比 have 正式，徵才廣告常用：possess a degree、possess skills、possess experience。"
+          },
+          {
+            "h": "electronics／Electrical Engineering",
+            "t": "electronics 是電子學；Department of Electrical Engineering 是電機工程學系，也就是電機系。electronic 是形容詞「電子的」，廣告 B 的 electronic medical equipment 就是電子醫療設備。"
+          },
+          {
+            "h": "undergo a training program",
+            "t": "接受訓練課程。undergo 是「經歷、接受」，常接 training、surgery（手術）、changes（變化）。"
+          }
+        ]
+      }
     }
   ]
 }

@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>混合題 · 學測英文</title>
 <meta property="og:title" content="混合題 · 學測英文">
-<meta property="og:description" content="學測英文混合題，110 年試辦考試至 115 年，共八場、33 格、80 分。免費、免註冊、無廣告。">
+<meta property="og:description" content="學測英文混合題，110 年試辦考試至 115 年，共八場、33 格、80 分，另收考試說明示範題一組。免費、免註冊、無廣告。">
 <meta property="og:type" content="website">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@500;700;900&family=Noto+Sans+TC:wght@400;500;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
@@ -109,6 +109,21 @@
   .cardRow .who{font-family:'Times New Roman',Times,'Liberation Serif','Noto Serif','Noto Sans TC',sans-serif; font-weight:700; font-size:15px; margin-bottom:5px;}
   .cardRow .who .ltr{font-family:'Times New Roman',Times,'Liberation Serif','Noto Serif','Noto Sans TC',sans-serif; color:var(--crimson); margin-right:6px;}
   .cardRow .txt{font-size:14.5px; line-height:1.9;}
+  /* 徵才廣告（考試說明示範題） */
+  .adGrid{display:grid; grid-template-columns:1fr 1fr; gap:14px;}
+  .adBox{border:1px solid var(--rule); border-radius:4px; background:#fff; padding:12px 14px; font-size:14.5px; line-height:1.85;}
+  .adBox .adHd{font-weight:700; font-size:15px; margin-bottom:7px; padding-bottom:6px; border-bottom:1px solid var(--rule);}
+  .adBox .adHd .ltr{color:var(--crimson); margin-right:7px;}
+  .adBox p{margin:0 0 8px;}
+  .adBox .adSub{font-weight:700; margin:6px 0 2px;}
+  .adBox .adLi{margin:0 0 2px; padding-left:1.4em; text-indent:-1.4em;}
+  /* 表格填空 */
+  .tblQ{width:100%; border-collapse:collapse; font-size:14px; line-height:1.8; margin:2px 0 6px;}
+  .tblQ th,.tblQ td{border:1px solid var(--rule); padding:8px 10px; text-align:left; vertical-align:top;}
+  .tblQ th{background:#F3EFE0; font-weight:600; font-size:13px; line-height:1.6;}
+  .tblQ td.c{text-align:center; width:64px;}
+  .tblQ .rs{margin:0 0 4px; padding-left:1.2em; text-indent:-1.2em;}
+  .tblQ input.inl{width:calc(100% - 2.2em); max-width:300px;}
   .emph{font-style:normal; font-weight:700; color:var(--ink); border-bottom:1.5px solid var(--crimson);}
 
   /* 簡答題練習區 */
@@ -243,6 +258,13 @@
     body{padding:20px 12px 50px;}
     .card{padding:20px 16px;}
     .cols{grid-template-columns:1fr;}
+    .adGrid{grid-template-columns:1fr;}
+    .tblQ thead{display:none;}
+    .tblQ tr{display:block; border:1px solid var(--rule); border-radius:4px; margin-bottom:10px;}
+    .tblQ td{display:block; border:none; border-bottom:1px dashed var(--rule);}
+    .tblQ tr td:last-child{border-bottom:none;}
+    .tblQ td.c{width:auto; text-align:left;}
+    .tblQ td::before{content:attr(data-lb); display:block; font-size:11.5px; color:var(--ink-soft); line-height:1.5; margin-bottom:2px;}
     .passage{font-size:15px;}
     .qBox{padding:14px 14px;}
     input.inl{width:130px;}
@@ -262,7 +284,7 @@
   <div id="homeView">
     <div class="card">
       <div class="home-lead">開始練習前</div>
-      <p class="home-desc">本題庫收錄學測英文<b>混合題</b>，從 110 學年度試辦考試到 115 學年度，含參考試卷，<b>八場、33 格、80 分</b>。混合題只有學測考。111 學年度起指考改制為分科測驗，分科測驗不考英文，所以這個題型只出現在學測。這裡是照原卷作答：該寫字的就寫字，該劃記的就劃記，寫完自己核對參考答案。</p>
+      <p class="home-desc">本題庫收錄學測英文<b>混合題</b>，從 110 學年度試辦考試到 115 學年度，含參考試卷，<b>八場、33 格、80 分</b>；另外收了大考中心考試說明裡示範混合題的一組題目，不算在這八場裡。混合題只有學測考。111 學年度起指考改制為分科測驗，分科測驗不考英文，所以這個題型只出現在學測。這裡是照原卷作答：該寫字的就寫字，該劃記的就劃記，寫完自己核對參考答案。</p>
 
       <div class="note-box" style="margin:0 0 14px;">
         <b>本題庫另外收了 86 至 92 學年度的簡答題，十場 50 題</b>，可以作答，交卷後自己對照參考答案評分；這一區不列入學習歷程統計，也不計入上面的題數。簡答題要你回文章裡找字、寫出詞或片語，練的正是混合題要動筆寫的那幾格。十場裡有九場，大考中心當年只公布選擇題答案卷，非選擇題參考答案從未公布，這九場的答案是本題庫依原文推出來的，每一場都會標明；只有 91 學年度指定科目考試參考試卷那一場附官方參考答案。
@@ -315,11 +337,11 @@
         <summary><div class="sk-title">這個題型的示範試題，是拿舊題改的</div></summary>
         <div>
           大考中心在《學科能力測驗英文考科考試說明－111 學年度起適用》裡，只用兩組試題示範什麼是混合題，<b>一組標明修改自 108 年研究用試卷，另一組標明出自 108 年研究用試卷</b>。<br><br>
-          其中一組用的是同一篇選文、同一組題目，就是本題庫收錄的 111 學年度參考試卷那一場（考試說明裡編為第 1 至 4 題）。另一組是四則徵才廣告：前三題問哪一則列出福利、哪一則提到好待遇、哪一則沒要求大學學歷；後兩題給兩位應徵者的條件，要考生回廣告裡找出他們選擇該工作的理由，填進表格。<br><br>
+          其中一組用的是同一篇選文、同一組題目，就是本題庫收錄的 111 學年度參考試卷那一場（考試說明裡編為第 1 至 4 題）。另一組是四則徵才廣告：前三題問哪一則列出福利、哪一則提到好待遇、哪一則沒要求大學學歷；後兩題給兩位應徵者的條件，要考生回廣告裡找出他們選擇該工作的理由，填進表格。這一組本題庫也收了，在下面的場次清單裡標「考試說明示範題」，可以照原題作答。<br><br>
           那四則廣告，和 <b>88 年學測</b>試卷裡的四則徵才廣告是同一組，版面與行文大致沿用，但條件與聯絡方式都改過——例如第一則加上了大學學歷要求，第二則由外商改為本地公司，第四則把「外表端正」改為「態度親切」，電話號碼也換了。<br><br>
           更早的例子也有。<b>90 年學測</b>的非選擇題第一大題是簡答題，5 題 10 分，一篇選文配五題，其中一題要求寫出兩項相似處。<b>89 年學測</b>同樣是簡答題，其中一題問文章裡的 shed 是什麼意思，另一題給一段英英釋義，要學生回文章裡找出對應的那個字。<br><br>
           這些題目和現在的混合題不是同一個大題，配分與位置都不同。列在這裡只說明一件事：<b>要你回文章裡找字、要你寫下代表字母、要你把理由填進表格，這些作答方式並不新。</b><br><br>
-          86 至 92 學年度的簡答題共十場，全部收在簡答題練習區，可以作答，交卷後再對照參考答案，入口在本頁最上方。
+          86 至 92 學年度的簡答題共十場，全部收在簡答題練習區，可以作答，交卷後再對照參考答案，入口在本頁最上方。88 學測那四則徵才廣告也在練習區裡，可以和考試說明那一組對照著做。
         </div>
       </details>
 
@@ -380,11 +402,11 @@
 
     <div class="note-box">
       <b>關於本題庫的資料</b><br>
-      <span class="srcLine"><b style="font-size:12.5px;">試題來源：</b>大學入學考試中心。選文、題幹、選項與參考答案都取自大考中心公布的試卷與參考答案。</span>
+      <span class="srcLine"><b style="font-size:12.5px;">試題來源：</b>大學入學考試中心。選文、題幹、選項與參考答案都取自大考中心公布的試卷、參考答案和考試說明。</span>
       <span class="srcLine"><b style="font-size:12.5px;">評分級距：</b>引自大考中心公布的非選擇題參考答案與評分原則。</span>
       <span class="srcLine"><b style="font-size:12.5px;">110 年試辦考試第 47 至 49 格的答案取自大考中心公布的評分原則</b>；第 50 格是多選，不在那份文件的範圍內，答案是本題庫推出來的，每一格都會標明。</span>
       <span class="srcLine">本題庫<b style="font-size:12.5px;">不提供逐篇原始出處</b>。大考中心對正式學測只公告取材類別，沒有公告每一篇的出處，自己去猜出處等於杜撰；參考試卷的試題解析雖然附有資料出處，但為了八場寫法一致，本題庫一律不列。</span>
-      <span class="srcLine">參考試卷與試辦考試屬非正式施測，場次名稱旁會標明。</span>
+      <span class="srcLine">參考試卷、試辦考試與考試說明示範題屬非正式施測，場次名稱旁會標明。</span>
       <span class="srcLine"><b style="font-size:12.5px;">錯誤仍然可能存在</b>，發現任何問題歡迎回報，我會逐筆核對更正。本題庫完全免費、不用註冊、沒有廣告，歡迎自由分享。</span>
     </div>
   </div>
@@ -463,7 +485,7 @@
 
   <footer>
     <div style="font-family:'Noto Sans TC',sans-serif; font-size:13px; line-height:2; margin-bottom:12px;"><a href="https://staresto-create.github.io/JCEE-vocab-questions/" style="color:#9C2C1E; font-weight:700; text-decoration:underline; text-underline-offset:2px; white-space:nowrap;">← 回題庫首頁</a><span style="padding:0 8px; opacity:.5;">·</span><a href="https://staresto-create.github.io/JCEE-vocab-questions/#rules" style="color:#9C2C1E; font-weight:700; text-decoration:underline; text-underline-offset:2px; white-space:nowrap;">🧩 五個詞：拼圖的規則</a></div>
-    資料來源：學測英文混合題，110 年試辦考試至 115 年（大考中心公布）<br>
+    資料來源：學測英文混合題，110 年試辦考試至 115 年，以及 111 學年度起適用的考試說明（大考中心公布）<br>
     © 2026 staresto-create ZZSH · 免費、無廣告的非營利自學題庫 · <a href="https://staresto-create.github.io/JCEE-vocab-questions/#terms" style="color:#9C2C1E; font-weight:700; text-decoration:underline; text-underline-offset:2px; white-space:nowrap;">📖 使用與著作權</a><br>
     <a class="report-btn" href="https://docs.google.com/forms/d/e/1FAIpQLSd6P1s7HqjvOmGqOzNDWcBQQ3F539SifSNiAfXvi6NqD2YP-Q/viewform?usp=pp_url&entry.1257494378=%E6%B7%B7%E5%90%88%E9%A1%8C" target="_blank" rel="noopener">🐛 回報錯誤</a>
   </footer>
@@ -480,7 +502,7 @@ function saveWrongIds(w){ try{ localStorage.setItem(WRONG_KEY, JSON.stringify(w)
 function isTestMode(){ const el=document.getElementById('testModeToggle'); return !!(el && el.checked); }
 
 /* 場次順序：新到舊。不依 year 欄位排序，避免沿用試題的場次排錯位置 */
-const ORDER = ['MX115','MX115R','MX114','MX113','MX112','MX111','MX111R','MX110T'];
+const ORDER = ['MX115','MX115R','MX114','MX113','MX112','MX111','MX111R','MX111G','MX110T'];
 const TYPE_NAME = {
   fill:'填充', short:'簡答', multi:'多選', singleChoice:'單選',
   sentenceNumber:'句子編號', longAnswer:'長句填空', tableFill:'表格填空'
@@ -505,9 +527,12 @@ async function init(){
     return;
   }
   buildKindGrid(); buildSessionList(); renderStatsBox();
-  const pts = ITEMS.reduce((s,it) => s + (it.points||0), 0);
+  /* 考試說明示範題（notCounted）不算進場數、格數、分數 */
+  const cnt = ITEMS.filter(it => !(PASSAGES[it.passageId] || {}).notCounted);
+  const pts = cnt.reduce((s,it) => s + (it.points||0), 0);
+  const nps = Object.values(PASSAGES).filter(p => !p.notCounted).length;
   document.getElementById('headSub').textContent =
-    `學測英文 ・ 110 試辦–115 年 ・ ${Object.keys(PASSAGES).length}場 / ${ITEMS.length}格 / ${pts}分`;
+    `學測英文 ・ 110 試辦–115 年 ・ ${nps}場 / ${cnt.length}格 / ${pts}分`;
 }
 
 /* ---------- 共用 ---------- */
@@ -547,9 +572,9 @@ function buildKindGrid(){
   const kinds = [...new Set(Object.values(PASSAGES).map(kindOf))];
   kinds.sort((a,b) => (a === '正式考試' ? -1 : b === '正式考試' ? 1 : 0));
   kinds.forEach(k => {
-    const n = Object.values(PASSAGES).filter(p => kindOf(p) === k).length;
+    const ps = Object.values(PASSAGES).filter(p => kindOf(p) === k);
     const c = document.createElement('div');
-    c.className = 'chip'; c.textContent = `${k}（${n}場）`;
+    c.className = 'chip'; c.textContent = `${k}（${ps.length}${ps.every(p => p.notCounted) ? '組' : '場'}）`;
     c.onclick = () => { c.classList.toggle('active');
       selectedKinds.has(k) ? selectedKinds.delete(k) : selectedKinds.add(k); buildSessionList(); };
     g.appendChild(c);
@@ -811,6 +836,10 @@ function renderPassage(p){
       `<div class="postRow"><span class="ltr">(${esc(b.label)})</span><span>` +
       (b.speaker ? `<span class="who">${esc(b.speaker)}</span>` : '') +
       `<span class="txt">${esc(b.text)}</span></span></div>`).join('');
+  }else if(p.layout === 'ads'){
+    body = `<div class="adGrid">` + p.blocks.map(b =>
+      `<div class="adBox"><div class="adHd"><span class="ltr">${esc(b.label)}</span>${esc(b.speaker || '')}</div>` +
+      (b.parts || []).map(adPart).join('') + `</div>`).join('') + `</div>`;
   }else if(p.layout === 'cards'){
     body = p.blocks.map(b =>
       `<div class="cardRow"><div class="who"><span class="ltr">(${esc(b.label)})</span>${esc(b.speaker || '')}</div>` +
@@ -819,6 +848,15 @@ function renderPassage(p){
     body = p.blocks.map(b => paras(b.text).map(x => `<p>${esc(x)}</p>`).join('')).join('');
   }
   return `<div class="passage">${intro}${body}</div>`;
+}
+
+/* 徵才廣告的一行：p 段落、li 條列、sub 粗體小標；i 為原卷斜體的字串 */
+function adPart(x){
+  let h = esc(x.x);
+  (x.i || []).forEach(s => { h = h.split(esc(s)).join('<i>' + esc(s) + '</i>'); });
+  if(x.t === 'li')  return `<div class="adLi">${h}</div>`;
+  if(x.t === 'sub') return `<div class="adSub">${h}</div>`;
+  return `<p>${h}</p>`;
 }
 
 /* ---------- 題目 ---------- */
@@ -843,7 +881,21 @@ function inputFor(it, inline){
   return `<input class="blk" type="text" value="${v}" oninput="setResp('${it.id}', this.value)" aria-label="第 ${esc(it.number)} 格">`;
 }
 function stemHtml(g){
-  const raw = g.prompt;
+  if(g.items[0].table) return tableHtml(g);
+  return blanksHtml(g, g.prompt);
+}
+/* 原卷是表格的題組：空格寫成 ___4___，放在表格的格子裡作答 */
+function tableHtml(g){
+  const t = g.items[0].table;
+  const cell = c => Array.isArray(c)
+    ? c.map(x => `<div class="rs">■ ${blanksHtml(g, x)}</div>`).join('')
+    : blanksHtml(g, c);
+  return `<table class="tblQ"><thead><tr>${t.head.map(h => `<th>${esc(h)}</th>`).join('')}</tr></thead><tbody>` +
+    t.rows.map(r => `<tr>${r.map((c, i) =>
+      `<td${i === 1 ? ' class="c"' : ''} data-lb="${esc(t.head[i])}">${cell(c)}</td>`).join('')}</tr>`).join('') +
+    `</tbody></table>`;
+}
+function blanksHtml(g, raw){
   if(!/___[^_]+___/.test(raw)) return emph(raw, g.items[0].promptEmphasis);
   return raw.split(/___([^_]+)___/).map((seg, i) => {
     if(i % 2 === 0) return emph(seg, g.items[0].promptEmphasis);
@@ -854,7 +906,7 @@ function stemHtml(g){
 }
 function renderGroup(p, g){
   const first = g.items[0];
-  const inStem = /___[^_]+___/.test(g.prompt);
+  const inStem = /___[^_]+___/.test(g.prompt) || !!first.table;
   const nums = g.items.map(x => esc(x.number)).join('、');
   const pts  = g.items.reduce((s,x) => s + (x.points||0), 0);
   const type = TYPE_NAME[first.answerType] || first.answerType;
@@ -955,11 +1007,13 @@ function renderPractice(){
   const drv = curItems.some(isDerived)
     ? `<div class="flagNote">大考中心沒有公布這一場非選擇題的參考答案，這一場的答案是<b>本題庫依原文推出來</b>的。你的答案如果和本題庫不同，先回頭看原文，自己判斷得住就算數。</div>` : '';
   const fig = p.figureNote ? `<div class="flagNote">${esc(p.figureNote)}</div>` : '';
+  const demo = p.demoNote ? `<div class="twinNote">${esc(p.demoNote)}</div>` : '';
+  const rule = p.instructionNote ? `<div class="lgRule"><b>原始作答說明：</b>${esc(p.instructionNote)}</div>` : '';
 
   let html = `<div class="card">
     <div class="pTitle">${esc(p.sessionName)} · ${esc(p.title)}</div>
     <div class="tagRow">${tags}</div>
-    ${twin}${drv}${fig}
+    ${twin}${drv}${fig}${demo}${rule}
     ${renderPassage(p)}
   </div>
   <div class="card">
@@ -1106,9 +1160,9 @@ function renderMark(p, it){
 
   const self = isChoice(it) ? '' : renderSelf(it);
   const off = it.officialExplanation
-    ? `<div class="offEx"><span class="lb">大考中心的試題解析</span>` +
+    ? `<div class="offEx"><span class="lb">${esc(it.officialLabel || '大考中心的試題解析')}</span>` +
       String(it.officialExplanation).split('\n').filter(s => s.trim()).map(s => `<p class="exP">${esc(s)}</p>`).join('') +
-      `<span class="src">引自《學科能力測驗（115 學年度起適用）英文考科參考試卷 試題解析》。學測沒有另外公布逐題解析，所以同題組的另一場沒有這一段。</span></div>` : '';
+      `<span class="src">${it.officialSource ? esc(it.officialSource) : '引自《學科能力測驗（115 學年度起適用）英文考科參考試卷 試題解析》。學測沒有另外公布逐題解析，所以同題組的另一場沒有這一段。'}</span></div>` : '';
   const box = (sc === null || sc === undefined) ? '' : (sc === it.points ? ' scored' : (sc === 0 ? ' zero' : ''));
   return `<div class="qBox${box}" style="margin:12px 0 0; background:#FDFCF7;">
     ${yours}${ref}${autoLine}${self}${off}${renderExplanation(it)}
@@ -1179,6 +1233,20 @@ function renderTwin(p){
   </div>`;
 }
 
+/* 考試說明示範題改自舊題：連到簡答題練習區的那一場 */
+function renderRelated(p){
+  const r = p.related;
+  return `<div class="cmpBox">
+    <div class="ct">這四則廣告，是拿舊題改的</div>
+    <p>${esc(r.note)}</p>
+    <button class="ghost-btn" style="font-size:13.5px; padding:8px 14px;" onclick="openLegacySet('${esc(r.legacy)}')">📄 去做 88 學測那一場（簡答題練習區）</button>
+  </div>`;
+}
+async function openLegacySet(id){
+  await showLegacy();
+  if(LEGACY) jumpLegacy(id);
+}
+
 function renderClosing(){
   return `<div class="closeBox">
     <div class="ct">寫完一場，帶走這四個問題</div>
@@ -1207,6 +1275,7 @@ function renderResult(p){
       ${pendTxt}
     </div>
     ${p.sameItemSetAs ? renderTwin(p) : ''}
+    ${p.related ? renderRelated(p) : ''}
     ${renderClosing()}
     <div class="row" style="margin-top:16px;">
       <button class="ghost-btn" onclick="openSession(curPid)">再做一次</button>

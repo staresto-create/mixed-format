@@ -343,6 +343,166 @@
         "https://edition.cnn.com/2017/08/21/sport/popole-misenga-refugee-judoka-rio-judo-world-championships/index.html"
       ],
       "internalNote": "本篇與111學測為同一題組：115參考試卷沿用111學測混合題（參考試卷說明載明部分試題修改自歷年試題或研究用試題）。2026-08-03 以115參原卷（第10頁）逐句比對，選文與三題題幹與111學測完全相同，未做任何文字更動；差異僅在第47題作答說明將「一個單詞（word）」加粗體底線，以及可接受答案範圍較窄。故分場收錄，不合併。"
+    },
+    {
+      "id": "MX111G",
+      "year": 111,
+      "examLabel": "考試說明示範題",
+      "sessionName": "111考試說明",
+      "title": "四則徵才廣告",
+      "topic": "行銷人員、維修技師、記者編輯、導遊四則徵才廣告，以及兩名應徵者的選擇",
+      "layout": "ads",
+      "points": 10,
+      "itemCount": 5,
+      "notCounted": true,
+      "intro": null,
+      "introEmphasis": [],
+      "instructionNote": "第 1 至 5 題為題組，請閱讀下列四則徵才廣告後，將答案畫記或填寫在答題卷之作答區。",
+      "demoNote": "這一組題目取自大考中心《學科能力測驗英文考科考試說明（111 學年度起適用）》，是考試說明用來示範混合題的「例 2」，標明出自 108 年研究用試卷。它不是正式考試，也不是參考試卷，所以不算進本題庫的八場、33 格、80 分。題號照考試說明寫第 1 至 5 題。參考答案和每一題的「說明」都取自考試說明，交卷後列在每一格下面。",
+      "blocks": [
+        {
+          "label": "A",
+          "speaker": "MARKETING PROFESSIONALS",
+          "parts": [
+            {
+              "t": "p",
+              "x": "A major U.S. corporation in the health and nutrition industry has announced the opening of its direct sales division in Taiwan."
+            },
+            {
+              "t": "p",
+              "x": "The company offers the most lucrative compensation plan in the industry and has paid over 3.5 billion NTD in commissions in just 6 years in the U.S. We are a group of top earners.",
+              "i": [
+                "3.5 billion NTD in commissions"
+              ]
+            },
+            {
+              "t": "p",
+              "x": "Applicants should meet the following requirements:"
+            },
+            {
+              "t": "li",
+              "x": "(1) Hold R.O.C. citizenship"
+            },
+            {
+              "t": "li",
+              "x": "(2) Have a university degree and experiences in marketing"
+            },
+            {
+              "t": "li",
+              "x": "(3) Be ambitious, energetic, and willing to learn"
+            },
+            {
+              "t": "p",
+              "x": "If you believe you have what it takes to develop this business, please call (02) 2742-6996."
+            }
+          ]
+        },
+        {
+          "label": "B",
+          "speaker": "Service Technician",
+          "parts": [
+            {
+              "t": "p",
+              "x": "A local company requires a technician to repair and maintain electronic medical equipment."
+            },
+            {
+              "t": "p",
+              "x": "Applicants should possess a university degree in electronics. The selected candidate will undergo a training program to be conducted by our manufacturer's experienced technical personnel."
+            },
+            {
+              "t": "p",
+              "x": "If you are interested in the position, send your resume to P.O. box 594, Kaohsiung, 820. Or contact Ms. Chang at (07) 294-5078 for an interview."
+            }
+          ]
+        },
+        {
+          "label": "C",
+          "speaker": "Wanted: Reporters & Editors",
+          "parts": [
+            {
+              "t": "sub",
+              "x": "Qualifications:"
+            },
+            {
+              "t": "li",
+              "x": "➢ Strong command of English"
+            },
+            {
+              "t": "li",
+              "x": "➢ Ability to speak and read Chinese a must"
+            },
+            {
+              "t": "li",
+              "x": "➢ University degree"
+            },
+            {
+              "t": "li",
+              "x": "➢ Journalism education and/or experience a plus"
+            },
+            {
+              "t": "li",
+              "x": "◆ Flexible work hours (30 hours per week)"
+            },
+            {
+              "t": "li",
+              "x": "◆ Good work environment and great colleagues"
+            },
+            {
+              "t": "li",
+              "x": "◆ Health insurance and annual leave provided"
+            },
+            {
+              "t": "p",
+              "x": "Send résumé and work samples, if available, to Ms. Alice Wu at The Asia Post, alicewu@asiapost.com.tw."
+            }
+          ]
+        },
+        {
+          "label": "D",
+          "speaker": "Southeastern Travel Services",
+          "parts": [
+            {
+              "t": "sub",
+              "x": "OPENINGS"
+            },
+            {
+              "t": "sub",
+              "x": "TOUR GUIDES"
+            },
+            {
+              "t": "sub",
+              "x": "Duties:"
+            },
+            {
+              "t": "li",
+              "x": "• Conduct tours for foreign visitors."
+            },
+            {
+              "t": "li",
+              "x": "• Assist with travel and transportation arrangements."
+            },
+            {
+              "t": "sub",
+              "x": "Qualifications:"
+            },
+            {
+              "t": "p",
+              "x": "Pleasant attitude. High school diploma. Good proficiency in English. Outgoing personality."
+            },
+            {
+              "t": "p",
+              "x": "Call (04) 2723-2172 after 3:00 P.M. Ask for Gary Hu."
+            }
+          ]
+        }
+      ],
+      "related": {
+        "legacy": "LG88",
+        "note": "這四則廣告是拿 88 學年度學測簡答題的四則徵才廣告改的：第一則加上大學學歷要求，第二則從外商改成本地公司，第四則把「外表端正」改成「態度親切」，電話號碼也換了。88 學測那一場收在簡答題練習區，問法不一樣，可以接著做，對照兩份廣告改了哪些地方。"
+      },
+      "zhTranslation": null,
+      "source": null,
+      "internalNote": "2026-10-08 第三十七場依考試說明 PDF（大考中心 file_pool 0J270523662171227536，第 16、17 頁）逐字建檔。原卷廣告 D 的 OPENINGS 後面有一列裝飾用星號，省略（同 legacy.json 的 textPolicy）。廣告 A 的 3.5 billion NTD in commissions 原卷為斜體。表格右欄前兩項 Strong command of English language、Chinese speaking and reading ability a must 和廣告 C 的寫法不同，原卷如此，照錄。不計入八場、33 格、80 分（notCounted）。選項沿用其他場的寫法，以選文各則（A–D）為選項。"
     }
   ]
 }
