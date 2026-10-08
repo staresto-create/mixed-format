@@ -376,6 +376,19 @@
         </div>
       </details>
 
+      <details class="sk-box" id="more">
+        <summary><div class="sk-title">練完可以去哪裡繼續練</div></summary>
+        <div>
+          混合題每年只有一大題，本題庫收的八場很快就做完了。混合題要的兩種能力，總站還有兩個題庫可以接著練，題目都是大考歷屆試題。<br><br>
+          <b>判斷空格要什麼詞性：文意選填</b><br>
+          混合題的填充格，第一步是看空格前後，判斷要什麼詞性、什麼形態，再回文章找字。文意選填也要先做這一步：十個選項放在一起，空格要名詞、動詞還是形容詞，意思接不接得上前後文，判斷對了才挑得出來。兩者的差別是文意選填的選項已經是寫好的字形，不必自己改；混合題找到字以後，還要照空格的需要改字形。文意選填收學測 90 至 115 年、指考 91 至 110 年，共 56 篇、560 題，可以依分類挑題目練，例如「詞性判斷」「代名詞／指示詞」「同義呼應」。<br>
+          <a href="https://staresto-create.github.io/passage-completion/" style="color:var(--crimson); font-weight:700; text-decoration:underline; text-underline-offset:2px;" target="_blank" rel="noopener">文意選填 →</a><br><br>
+          <b>看出前後文怎麼接起來：閱讀測驗的教材頁</b><br>
+          混合題常要你回文章找出某個說法指的是誰、題目的說法對到文章哪一句。110 試辦第 48 格的 his unfriendly former ally，要把好幾段的線索合起來，才知道指的是 Leopold V；考試說明示範題第 2 題問 good salary，廣告裡寫的卻是 the most lucrative compensation plan。閱讀測驗的〈如何看出前後文怎麼接起來〉把這類線索分成九節，例如代名詞指的是誰、換個說法的名詞、正確選項換句話說，每一節都用大考閱讀測驗的文章說明，並附上可以連過去作答的歷屆試題。<br>
+          <a href="https://staresto-create.github.io/reading-comprehension/cues.html" style="color:var(--crimson); font-weight:700; text-decoration:underline; text-underline-offset:2px;" target="_blank" rel="noopener">如何看出前後文怎麼接起來 →</a>
+        </div>
+      </details>
+
       <div class="sec-title">我的學習歷程</div>
       <div class="stats-box" id="statsBox"></div>
       <div class="stats-actions">
@@ -1277,6 +1290,7 @@ function renderResult(p){
     ${p.sameItemSetAs ? renderTwin(p) : ''}
     ${p.related ? renderRelated(p) : ''}
     ${renderClosing()}
+    <div class="twinNote" style="margin:14px 0 0;">想再練判斷空格要什麼詞性，可以做<a href="https://staresto-create.github.io/passage-completion/" target="_blank" rel="noopener">文意選填</a>；想再練找出代名詞和換個說法的名詞指的是什麼，可以看閱讀測驗的<a href="https://staresto-create.github.io/reading-comprehension/cues.html" target="_blank" rel="noopener">〈如何看出前後文怎麼接起來〉</a>。兩個題庫各練什麼，寫在選單頁的「練完可以去哪裡繼續練」。</div>
     <div class="row" style="margin-top:16px;">
       <button class="ghost-btn" onclick="openSession(curPid)">再做一次</button>
       <button class="ghost-btn" onclick="quickStart()">換一場</button>
