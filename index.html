@@ -111,7 +111,15 @@
   .cardRow .txt{font-size:14.5px; line-height:1.9;}
   .emph{font-style:normal; font-weight:700; color:var(--ink); border-bottom:1.5px solid var(--crimson);}
 
-  /* 簡答題展示區 */
+  /* 簡答題練習區 */
+  .lgIn{width:100%; box-sizing:border-box; margin-top:7px; padding:8px 10px; font-size:15px; border:1.5px solid var(--rule); border-radius:4px; background:#fff; font-family:'Times New Roman',Times,'Liberation Serif','Noto Serif','Noto Sans TC',serif;}
+  .lgIn:focus{outline:none; border-color:var(--ink);}
+  .lgMine{font-size:14px; line-height:1.9; margin-top:7px;}
+  .lgMine .lbl{font-family:'IBM Plex Mono','Noto Sans TC',monospace; font-size:11px; color:var(--ink-soft); margin-right:7px;}
+  .lgCmp{font-size:12.5px; line-height:1.75; margin-top:3px;}
+  .lgCmp.ok{color:var(--sage);} .lgCmp.no{color:var(--crimson);}
+  .lgAct{display:flex; flex-wrap:wrap; gap:10px; align-items:center; margin-top:16px;}
+  .lgTotal{font-size:14px; line-height:1.8;}
   .lgNav{display:flex; flex-wrap:wrap; gap:6px; margin:14px 0 2px;}
   .lgNav .chip{font-size:12.5px; padding:5px 12px;}
   .lgHead{display:flex; flex-wrap:wrap; align-items:baseline; gap:9px; font-family:'Noto Serif TC',serif; font-weight:700; font-size:17px; margin-bottom:10px; padding-bottom:9px; border-bottom:1px solid var(--rule);}
@@ -257,8 +265,8 @@
       <p class="home-desc">本題庫收錄學測英文<b>混合題</b>，從 110 學年度試辦考試到 115 學年度，含參考試卷，<b>八場、33 格、80 分</b>。混合題只有學測考。111 學年度起指考改制為分科測驗，分科測驗不考英文，所以這個題型只出現在學測。這裡是照原卷作答：該寫字的就寫字，該劃記的就劃記，寫完自己核對參考答案。</p>
 
       <div class="note-box" style="margin:0 0 14px;">
-        <b>本題庫另外收了 86 至 92 學年度的簡答題，十場 50 題</b>，純展示、不作答、不計分，也不計入上面的題數。十場裡有九場，大考中心當年只公布選擇題答案卷，非選擇題參考答案從未公布，這九場的答案是本題庫依原文推出來的，每一場都會標明；只有 91 學年度指定科目考試參考試卷那一場附官方參考答案。
-        <button class="ghost-btn" style="margin-top:10px; font-size:13.5px; padding:9px 14px;" onclick="showLegacy()">📄 簡答題展示區（86–92 學年度，十場 50 題）</button>
+        <b>本題庫另外收了 86 至 92 學年度的簡答題，十場 50 題</b>，可以作答，交卷後自己對照參考答案評分；這一區不列入學習歷程統計，也不計入上面的題數。簡答題要你回文章裡找字、寫出詞或片語，練的正是混合題要動筆寫的那幾格。十場裡有九場，大考中心當年只公布選擇題答案卷，非選擇題參考答案從未公布，這九場的答案是本題庫依原文推出來的，每一場都會標明；只有 91 學年度指定科目考試參考試卷那一場附官方參考答案。
+        <button class="ghost-btn" style="margin-top:10px; font-size:13.5px; padding:9px 14px;" onclick="showLegacy()">📄 簡答題練習區（86–92 學年度，十場 50 題）</button>
       </div>
 
       <details class="sk-box">
@@ -311,7 +319,7 @@
           那四則廣告，和 <b>88 年學測</b>試卷裡的四則徵才廣告是同一組，版面與行文大致沿用，但條件與聯絡方式都改過——例如第一則加上了大學學歷要求，第二則由外商改為本地公司，第四則把「外表端正」改為「態度親切」，電話號碼也換了。<br><br>
           更早的例子也有。<b>90 年學測</b>的非選擇題第一大題是簡答題，5 題 10 分，一篇選文配五題，其中一題要求寫出兩項相似處。<b>89 年學測</b>同樣是簡答題，其中一題問文章裡的 shed 是什麼意思，另一題給一段英英釋義，要學生回文章裡找出對應的那個字。<br><br>
           這些題目和現在的混合題不是同一個大題，配分與位置都不同。列在這裡只說明一件事：<b>要你回文章裡找字、要你寫下代表字母、要你把理由填進表格，這些作答方式並不新。</b><br><br>
-          86 至 92 學年度的簡答題共十場，全部收在簡答題展示區，可以閱讀，也可以對照選文、題目和參考答案，入口在本頁最上方。
+          86 至 92 學年度的簡答題共十場，全部收在簡答題練習區，可以作答，交卷後再對照參考答案，入口在本頁最上方。
         </div>
       </details>
 
@@ -441,7 +449,9 @@
       </p>
 
       <div class="note-box" style="margin-top:16px;">
-        這一區只給你閱讀，不能作答，也不批改；不列入學習歷程統計，也不算進本題庫的題數。<br><br>
+        <b>怎麼練：</b>每一場的五題都可以作答，寫完按「交卷，看參考答案」。系統會先拿你的答案和參考答案比一次，比對時不分大小寫，也不計較句末標點，<b>那只是建議</b>：參考答案常常不只一種寫法，意思對、字數也合規定的答案，就算和列出來的不一樣，也可能拿分。最後每一題幾分，由你自己按。<br><br>
+        <b>自己評分的三級：</b>當年的評分細則大考中心沒有公布，這裡參考現在混合題的評分原則：答案正確得 2 分，意思對但拼字或字形有錯得 1 分，答錯、空白，或照抄整句、整行得 0 分。多數場次的作答說明都寫明「請勿抄下整句或整行，否則不予計分」。<br><br>
+        這一區不列入學習歷程統計，也不算進本題庫的題數；重新整理頁面，寫過的答案就會清掉。<br><br>
         簡答題和現在的混合題是不同的大題，配分和在試卷上的位置都不一樣。兩種題型作答方式相似的地方，寫在各場的最後面。
       </div>
 
@@ -639,7 +649,7 @@ function goHome(){
   buildSessionList(); window.scrollTo(0,0);
 }
 
-/* ---------- 簡答題展示區（純展示，不計分、不進學習歷程） ---------- */
+/* ---------- 簡答題練習區（可作答、自評；不進學習歷程、不計入題數） ---------- */
 let LEGACY = null;
 
 async function showLegacy(fromHash){
@@ -656,7 +666,7 @@ async function showLegacy(fromHash){
     const res = await fetch('legacy.json');
     LEGACY = await res.json();
   }catch(e){
-    body.innerHTML = '<div class="card"><div class="home-lead">展示區載入失敗</div>' +
+    body.innerHTML = '<div class="card"><div class="home-lead">練習區載入失敗</div>' +
       '<p class="home-desc">請重新整理頁面再試一次。若持續失敗，可用頁尾的回報連結告訴我。</p></div>';
     return;
   }
@@ -696,13 +706,8 @@ function renderLegacy(){
     const tag = official
       ? `<span class="catTag" style="border-color:var(--sage); color:var(--sage);">官方參考答案</span>`
       : `<span class="catTag" style="border-color:var(--gold); color:var(--gold);">本題庫推出的答案</span>`;
-    const qs = s.questions.map(q => {
-      const note = q.answerNote ? `<div class="lgNote">${esc(q.answerNote)}</div>` : '';
-      return `<div class="lgQ"><div class="n">${q.n}.</div><div class="body">` +
-             `<div class="stem">${esc(q.q)}</div>` +
-             `<div class="lgAns"><span class="lbl">${official ? '官方參考答案' : '參考答案（本題庫推出）'}</span>` +
-             `${q.answers.map(esc).join(' ／ ')}</div>${note}</div></div>`;
-    }).join('');
+    const qs = s.questions.map(q => `<div class="lgQ"><div class="n">${q.n}.</div><div class="body" id="lgb_${esc(s.id)}_${q.n}">` +
+             lgQBody(s, q) + `</div></div>`).join('');
     return `<div class="card" id="lg_${esc(s.id)}">
       <div class="lgHead"><span>${esc(s.examLabel)}</span>${tag}
         <span class="catTag">${esc(s.topic)}</span>
@@ -710,9 +715,73 @@ function renderLegacy(){
       <div class="lgRule"><b>原始作答說明：</b>${esc(s.instruction)}</div>
       <div class="passage">${s.passage.map(lgBlock).join('')}</div>
       <div style="margin-top:18px;">${qs}</div>
-      <div class="lgBridge">${esc(s.bridge)}</div>
+      <div class="lgAct" id="lga_${esc(s.id)}">${lgActHtml(s)}</div>
+      <div class="lgBridge" id="lgr_${esc(s.id)}" style="display:${LG_DONE[s.id] ? 'block' : 'none'};">${esc(s.bridge)}</div>
     </div>`;
   }).join('');
+}
+
+/* 作答狀態只存在記憶體：LG_RESP 作答、LG_DONE 是否已交卷、LG_SC 自評分數 */
+const LG_RESP = {}, LG_DONE = {}, LG_SC = {};
+function lgKey(s, q){ return s.id + '_' + q.n; }
+function lgSet(id){ return LEGACY.sets.find(x => x.id === id); }
+function lgQBody(s, q){
+  const k = lgKey(s, q), official = s.answerSource === 'official';
+  let h = `<div class="stem">${esc(q.q)}</div>`;
+  if(!LG_DONE[s.id]){
+    return h + `<input class="lgIn" type="text" value="${esc(LG_RESP[k] || '')}" oninput="LG_RESP['${k}']=this.value" aria-label="第 ${q.n} 題的答案">`;
+  }
+  const mine = norm(LG_RESP[k]);
+  const hit = mine && q.answers.some(a => norm(a) === mine);
+  h += `<div class="lgMine"><span class="lbl">你的答案</span>${mine ? esc(LG_RESP[k]) : '（空白）'}</div>`;
+  h += mine ? `<div class="lgCmp ${hit ? 'ok' : 'no'}">${hit ? '和參考答案相同，已先幫你選 2 分' : '和列出的參考答案不同，對照原文自己判斷意思對不對'}</div>` : '';
+  h += `<div class="lgAns"><span class="lbl">${official ? '官方參考答案' : '參考答案（本題庫推出）'}</span>${q.answers.map(esc).join(' ／ ')}</div>`;
+  if(q.answerNote) h += `<div class="lgNote">${esc(q.answerNote)}</div>`;
+  const sc = LG_SC[k];
+  const tiers = [[2,'答案正確'],[1,'意思對，但拼字或字形有錯'],[0,'答錯、空白，或照抄整句']];
+  h += `<div class="selfRow"><span class="sl">你給自己幾分：</span>` + tiers.map(t =>
+       `<button class="selfBtn${sc === t[0] ? ' on' : ''}" onclick="lgScore('${esc(s.id)}',${q.n},${t[0]})"><b>${t[0]} 分</b>${t[1]}</button>`).join('') + `</div>`;
+  return h;
+}
+function lgActHtml(s){
+  if(!LG_DONE[s.id]){
+    return `<button class="big-btn" style="width:auto; padding:10px 18px;" onclick="lgSubmit('${esc(s.id)}')">交卷，看參考答案</button>`;
+  }
+  const ks = s.questions.map(q => lgKey(s, q)), got = ks.filter(k => LG_SC[k] !== undefined);
+  const sum = got.reduce((a, k) => a + LG_SC[k], 0);
+  const tot = got.length === ks.length
+    ? `這一場你給自己 <b>${sum}</b> 分（滿分 10 分）。`
+    : `還有 ${ks.length - got.length} 題沒有評分；評完會算出這一場的總分。`;
+  const warn = s.answerSource === 'official' ? '' : '這一場的參考答案是本題庫依原文推出來的，大考中心沒有公布。';
+  return `<div class="lgTotal">${tot}${warn ? '<br><span style="color:var(--gold);">' + warn + '</span>' : ''}</div>` +
+         `<button class="ghost-btn" style="font-size:13px; padding:7px 12px;" onclick="lgRedo('${esc(s.id)}')">清掉重做</button>`;
+}
+function lgRefresh(s){
+  s.questions.forEach(q => { document.getElementById('lgb_' + s.id + '_' + q.n).innerHTML = lgQBody(s, q); });
+  document.getElementById('lga_' + s.id).innerHTML = lgActHtml(s);
+  document.getElementById('lgr_' + s.id).style.display = LG_DONE[s.id] ? 'block' : 'none';
+}
+function lgSubmit(id){
+  const s = lgSet(id);
+  const blank = s.questions.filter(q => !norm(LG_RESP[lgKey(s, q)])).length;
+  if(blank && !confirm(`還有 ${blank} 題沒寫，確定要交卷嗎？`)) return;
+  LG_DONE[id] = true;
+  // 和參考答案相同的先預選 2 分，空白的預選 0 分；其餘留給自己判斷
+  s.questions.forEach(q => {
+    const k = lgKey(s, q), mine = norm(LG_RESP[k]);
+    if(!mine) LG_SC[k] = 0;
+    else if(q.answers.some(a => norm(a) === mine)) LG_SC[k] = 2;
+  });
+  lgRefresh(s);
+}
+function lgScore(id, n, v){
+  const s = lgSet(id); LG_SC[id + '_' + n] = v; lgRefresh(s);
+}
+function lgRedo(id){
+  const s = lgSet(id);
+  s.questions.forEach(q => { const k = lgKey(s, q); delete LG_RESP[k]; delete LG_SC[k]; });
+  delete LG_DONE[id]; lgRefresh(s);
+  document.getElementById('lg_' + id).scrollIntoView({behavior:'smooth', block:'start'});
 }
 function openSession(pid){
   curPid = pid; graded = false; resp = {}; scores = {}; auto = {}; recIdx = {};
@@ -1190,7 +1259,7 @@ function showHistory(){
   window.scrollTo(0,0);
 }
 
-/* ---------- #legacy 路由：總站卡片可直接連進展示區 ---------- */
+/* ---------- #legacy 路由：總站卡片可直接連進練習區 ---------- */
 function routeHash(){
   const open = document.getElementById('legacyView').style.display === 'block';
   if(location.hash === '#legacy'){ if(!open) showLegacy(true); }

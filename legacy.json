@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "簡答題展示區（86–92 學年度）",
-    "purpose": "純展示。不做練習、不進學習歷程統計、不計入全站題數。",
+    "purpose": "可作答，交卷後自評。不進學習歷程統計、不計入全站題數。",
     "counts": { "sets": 10, "questions": 50, "pointsPerSet": 10 },
     "answerSourceKey": {
       "official": "有大考中心公布之參考答案佐證",
@@ -39,7 +39,7 @@
         { "n": 5, "q": "In the poem, which word rhymes with 'depart'?", "answers": ["heart"], "answerNote": null }
       ],
       "answerSource": "derived",
-      "bridge": "第 2、3 題是「用釋義換原文的字」，和現在混合題的 MX110T-49、MX112-50、MX114-50、MX115-50 問法相同。",
+      "bridge": "第 2、3 題是「用釋義換原文的字」，和現在混合題的 110 試辦第 49 格、112 學測第 50 格、114 學測第 50 格、115 學測第 50 格問法相同。",
       "internalNote": "第 5 題問押韻，十場中僅此一題涉及詩律。答案卷未公布非選答案。"
     },
     {
@@ -71,7 +71,7 @@
         { "n": 5, "q": "Which of the following words best describes the rain in this poem: boring, harsh, depressing, heavy, hopeful, or musical?", "answers": ["musical"], "answerNote": null }
       ],
       "answerSource": "derived",
-      "bridge": "第 2、4 題一個問同義、一個問反義，答案都要回詩裡找出那個字，和 MX111-48、MX115R-48 是同一種問法。",
+      "bridge": "第 2、4 題一個問同義、一個問反義，答案都要回詩裡找出那個字，和 111 學測第 48 格、115 參考試卷第 48 格是同一種問法。",
       "internalNote": "著作權：Langston Hughes 卒於 1967 年，我國著作權法保護期間為著作人死亡後 50 年，2017 年底屆滿；本詩 1921 年首次發表，在美國亦屬公共領域。可全文收錄，勿再誤判。十場中唯一以詩為選文者——同樣的問法套在不同文體上，值得對學生點出。"
     },
     {
@@ -129,7 +129,7 @@
         { "n": 5, "q": "Which advertisement does not need direct contact by making telephone calls? (Write down the letter representing the advertisement.)", "answers": ["C"], "answerNote": "四則裡只有 C 沒有列電話，只給傳真。不過 B 寫「寄 P.O. box 594，或打電話安排面試」，也可以不打電話；題幹用單數 the letter，本題庫判斷答案是 C，這個疑點也一併寫在這裡。" }
       ],
       "answerSource": "derived",
-      "bridge": "四個標字母的區塊，讀完要回頭配對，和 MX112-49（八則發言）、MX114-49（十則發言）、MX115-49（六家店）是同一種設計；第 3、4 題先給一個人的條件再回廣告找工作，就是 MX115-49 陳家人買紀念品那一格的作法。",
+      "bridge": "四個標字母的區塊，讀完要回頭配對，和 112 學測第 49 格（八則發言）、114 學測第 49 格（十則發言）、115 學測第 49 格（六家店）是同一種設計；第 3、4 題先給一個人的條件再回廣告找工作，就是 115 學測第 49 格陳家人買紀念品那一格的作法。",
       "internalNote": "本組與大考中心 108 年研究用試卷的版本為同一組廣告，版面與行文大致沿用，但條件與聯絡方式改過多處（A：Taiwan citizen → Hold R.O.C. citizenship，且 Have interest or experience in marketing → Have a university degree and experiences in marketing，電話補上 (02)；B：An international company → A local company，service → repair，possess degree → possess a university degree，2945-0027 → (07) 294-5078；C：great co-workers → great colleagues，Medical insurance, etc. → Health insurance and annual leave provided，Fax 至 The China Post → 電子郵件寄給 Ms. Alice Wu at The Asia Post；D：Good appearance. → Pleasant attitude.，Good Knowledge of English → Good proficiency in English，2703-2172 → (04) 2723-2172，Ask for Gary → Ask for Gary Hu）。其中 A 加上大學學歷要求，正是示範試題第 3 題（哪一則沒要求大學學歷）成立的關鍵；B 由外商改為本地公司，則使 88 年第 1 題（哪幾則非外商刊登）在新版失去依據。該版本為《學科能力測驗英文考科考試說明－111 學年度起適用》混合題型示範試題 [例 2]。另：同一組廣告亦為該年英文作文題目（兩段分述最想與最不想做的工作），十場中有兩場一篇選文同時支撐簡答題與作文，另一場為 92 學測補考。原卷 C 之條列符號為特殊字元，已正規化為 •；D 之裝飾星號列已省略。"
     },
     {
@@ -156,7 +156,7 @@
         { "n": 5, "q": "It can be inferred from the passage that Howard will probably gain his weight back again. What is the clue?", "answers": ["he wanted to eat at McDonald's", "eat at McDonald's", "McDonald's"], "answerNote": "這一場只規定「簡明扼要」，沒有字數上限，比較短的寫法也一起收。" }
       ],
       "answerSource": "derived",
-      "bridge": "第 4 題給一長串英英釋義、要學生回文章挑出那個字，和 MX110T-49、MX115-50 的問法一模一樣。",
+      "bridge": "第 4 題給一長串英英釋義、要學生回文章挑出那個字，和 110 試辦第 49 格、115 學測第 50 格的問法一模一樣。",
       "internalNote": "第 5 題要學生指出推論的依據，不是問結論，十場中僅此一題。"
     },
     {
@@ -178,7 +178,7 @@
         { "n": 5, "q": "What activity shows that a mother chimpanzee and a human mother are very similar to each other?", "answers": ["nursing (its) young"], "answerNote": null }
       ],
       "answerSource": "derived",
-      "bridge": "第 1 題要從文章裡撈出兩個並列項目填進去，和 MX111R-50A、MX111R-50B 那兩格表格填空的作法相同。",
+      "bridge": "第 1 題要從文章裡找出兩個並列項目填進去，和 111 參考試卷第 50(A)、50(B) 格那兩格表格填空的作法相同。",
       "internalNote": "第 2 題屬「答案不在字面上」，八場混合題中反而少見。"
     },
     {
@@ -204,7 +204,7 @@
         { "n": 5, "q": "According to this report, about how many acres of the Amazon Rainforest are lost every second?", "answers": ["about one acre", "about 1.07 acres"], "answerNote": "要計算：64 acres ÷ 60 秒 ≈ 1.07。題目問 about how many，出題者把每分鐘設為 64 acres，顯然是要學生得出「大約一英畝」；學生按計算機寫 1.07 也不能算錯，兩種都收。" }
       ],
       "answerSource": "derived",
-      "bridge": "第 1、2、3 題都是回文章定位一句話就能作答，和 MX112-47、MX113-50 屬同一類；第 4、5 題要動筆算，這在八場混合題裡沒有對應。",
+      "bridge": "第 1、2、3 題都是回文章定位一句話就能作答，和 112 學測第 47 格、113 學測第 50 格屬同一類；第 4、5 題要動筆算，這在八場混合題裡沒有對應。",
       "internalNote": "十場中唯一需要換算的簡答題。"
     },
     {
@@ -226,7 +226,7 @@
         { "n": 5, "q": "According to some studies, how often do men interrupt as compared with women?", "answers": ["three times as often"], "answerNote": null }
       ],
       "answerSource": "derived",
-      "bridge": "五題全是回文章定位、抓出關鍵詞就能作答，和 MX112-47、MX113-50 的問法相同。",
+      "bridge": "五題全是回文章定位、抓出關鍵詞就能作答，和 112 學測第 47 格、113 學測第 50 格的問法相同。",
       "internalNote": "91學測補考答案卷（910430ans.doc 轉製，Type 3 自訂編碼，文字無法抽出）已於 2026-08-03 轉圖檔判讀：五科皆僅列選擇題題號與答案，英文考科無非選擇題答案。故本場答案為本站推得，此待辦已結案。"
     },
     {
@@ -248,7 +248,7 @@
         { "n": 5, "q": "What does \"millions\" in the last line refer to?", "answers": ["millions of people", "people"], "answerNote": null }
       ],
       "answerSource": "derived",
-      "bridge": "第 5 題問文中某個詞指的是什麼，和 MX110T-48 問「his unfriendly former ally」指誰是同一種問法。",
+      "bridge": "第 5 題問文中某個詞指的是什麼，和 110 試辦第 48 格問「his unfriendly former ally」指誰是同一種問法。",
       "internalNote": "第 1 題的干擾點值得對學生點出：起源地與最早文字記載是兩件事。"
     },
     {
@@ -272,7 +272,7 @@
         { "n": 5, "q": "What particular group of people are cited in the passage to show that smiling is not learned?", "answers": ["children born blind"], "answerNote": null }
       ],
       "answerSource": "derived",
-      "bridge": "第 4 題要回文章舉出一個具體例子、第 5 題要指出文中舉證的那一群人，都是定位一句話就能作答，和 MX112-47、MX113-50 同一類。",
+      "bridge": "第 4 題要回文章舉出一個具體例子、第 5 題要指出文中舉證的那一群人，都是定位一句話就能作答，和 112 學測第 47 格、113 學測第 50 格同一類。",
       "internalNote": "該年英文作文題明寫「除了簡答題選文中所提及的方法外」，作文與簡答題共用同一篇選文；88 年亦然，十場中共兩場如此。92學測補考答案卷已於 2026-08-03 確認：英文考科僅列第 1–55 題選擇題答案，無非選擇題答案。"
     },
     {
@@ -296,7 +296,7 @@
         { "n": 5, "q": "What does the author think of the prices of most image-linked products?", "answers": ["(They are) too high", "(too) expensive(.)"], "answerNote": null }
       ],
       "answerSource": "official",
-      "bridge": "第 1 題要從全文撈出四個並列項目，和 MX111R-50A、MX111R-50B 的表格填空作法相同。",
+      "bridge": "第 1 題要從全文找出四個並列項目，和 111 參考試卷第 50(A)、50(B) 格的表格填空作法相同。",
       "internalNote": "十場中唯一有官方參考答案者。官方以斜線並列可接受形式、以括號標示可省略部分，與現行混合題「可接受答案範圍」是同一套邏輯，建站時應優先呈現，並以此作為其餘八場答案寫法的體例依據。卷別：大學入學考試中心「認識指定科目考試」英文考科參考試卷，考試時間 80 分鐘，選擇題 55 題（該卷有倒扣），非選擇題為簡答題五題＋作文一題。此場證明簡答題不是學測獨有。"
     }
   ]
