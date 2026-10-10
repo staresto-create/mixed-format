@@ -420,6 +420,7 @@
       <span class="srcLine"><b style="font-size:12.5px;">110 年試辦考試第 47 至 49 格的答案取自大考中心公布的評分原則</b>；第 50 格是多選，不在那份文件的範圍內，答案是本題庫推出來的，每一格都會標明。</span>
       <span class="srcLine">本題庫<b style="font-size:12.5px;">不提供逐篇原始出處</b>。大考中心對正式學測只公告取材類別，沒有公告每一篇的出處，自己去猜出處等於杜撰；參考試卷的試題解析雖然附有資料出處，但為了八場寫法一致，本題庫一律不列。</span>
       <span class="srcLine">參考試卷、試辦考試與考試說明示範題屬非正式施測，場次名稱旁會標明。</span>
+      <span class="srcLine"><b style="font-size:12.5px;">改編練習</b>是本題庫自己改編的題目：文章改編自歷屆學測閱讀測驗，題目照 113、114 學測混合題的版面和題型出題，參考答案與解析都由本題庫撰寫。它們不是大考中心的試題，不算進八場、33 格、80 分。</span>
       <span class="srcLine"><b style="font-size:12.5px;">錯誤仍然可能存在</b>，發現任何問題歡迎回報，我會逐筆核對更正。本題庫完全免費、不用註冊、沒有廣告，歡迎自由分享。</span>
     </div>
   </div>
@@ -515,7 +516,7 @@ function saveWrongIds(w){ try{ localStorage.setItem(WRONG_KEY, JSON.stringify(w)
 function isTestMode(){ const el=document.getElementById('testModeToggle'); return !!(el && el.checked); }
 
 /* 場次順序：新到舊。不依 year 欄位排序，避免沿用試題的場次排錯位置 */
-const ORDER = ['MX115','MX115R','MX114','MX113','MX112','MX111','MX111R','MX111G','MX110T'];
+const ORDER = ['MX115','MX115R','MX114','MX113','MX112','MX111','MX111R','MX111G','MX110T','MXA95','MXA103'];
 const TYPE_NAME = {
   fill:'填充', short:'簡答', multi:'多選', singleChoice:'單選',
   sentenceNumber:'句子編號', longAnswer:'長句填空', tableFill:'表格填空'

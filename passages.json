@@ -503,6 +503,101 @@
       "zhTranslation": null,
       "source": null,
       "internalNote": "2026-10-08 第三十七場依考試說明 PDF（大考中心 file_pool 0J270523662171227536，第 16、17 頁）逐字建檔。原卷廣告 D 的 OPENINGS 後面有一列裝飾用星號，省略（同 legacy.json 的 textPolicy）。廣告 A 的 3.5 billion NTD in commissions 原卷為斜體。表格右欄前兩項 Strong command of English language、Chinese speaking and reading ability a must 和廣告 C 的寫法不同，原卷如此，照錄。不計入八場、33 格、80 分（notCounted）。選項沿用其他場的寫法，以選文各則（A–D）為選項。"
+    },
+    {
+      "id": "MXA95",
+      "year": 95,
+      "examLabel": "改編練習",
+      "sessionName": "改編練習（一）",
+      "title": "二語學習的腦部差異",
+      "topic": "早學者與晚學者使用大腦語言區的差異",
+      "layout": "two-column",
+      "points": 10,
+      "itemCount": 4,
+      "notCounted": true,
+      "intro": "Do children and adults learn a second language in the same way? To answer this question, Joy Hirsch, a neuroscientist in New York, studied the brains of two groups of bilingual people with an instrument called an MRI (magnetic resonance imaging). People from both groups were placed inside the scanner, which allowed Hirsch to see which parts of the brain were getting more blood and were more active. They were then asked to think about what they had done the day before, first in one language and then the other. They could not speak out loud, because any movement would disrupt the scanning. Hirsch looked specifically at two language centers in the brain—Broca’s area, believed to control speech production, and Wernicke’s area, thought to process meaning.",
+      "introEmphasis": [],
+      "blocks": [
+        {
+          "label": "Early learners",
+          "speaker": null,
+          "text": "Those in the first group had picked up a second language in childhood. Whichever language they were thinking in, the same part of Wernicke’s area became active, and in Broca’s area, too, one region served both languages. Hirsch believes that when language is first being programmed in young children, their brains may mix all languages together in a single area. How a child is taught may also play a part: mothers teach a baby to speak by using methods such as touch, sound, and sight."
+        },
+        {
+          "label": "Late learners",
+          "speaker": null,
+          "text": "In Wernicke’s area, people who came to a second language later in life showed the same pattern as the first group: one part handled both languages. Broca’s area told another story. There, they used a special part for their second language, near the one activated for their native tongue. According to Hirsch, once the programming of language in the brain is complete, a different part of the brain must take over a new language. It is also possible that adults simply acquire languages differently, since learning a language by sitting in a high school class is hardly like learning it at home as a baby."
+        }
+      ],
+      "demoNote": "這一組是本題庫的改編練習，不是大考中心的試題。文章改編自 95 學測閱讀測驗第 53 至 56 題（閱讀測驗站可以找到原題），照 113 學測混合題寒鴉、烏龜蟻那一組的兩欄版面和題型出題，共四題、10 分。參考答案和解析都是本題庫寫的，不算進本題庫的八場、33 格、80 分。",
+      "zhTranslation": null,
+      "source": null,
+      "internalNote": "第三百五十九場建檔。改編自 95 學測閱讀測驗（g95p4），照 113 學測混合題版面；四個分身與 Gemini 盲測，答案一致。"
+    },
+    {
+      "id": "MXA103",
+      "year": 103,
+      "examLabel": "改編練習",
+      "sessionName": "改編練習（二）",
+      "title": "大規模線上開放課程（MOOCs）",
+      "topic": "MOOCs 的優點與疑慮：九則討論區貼文",
+      "layout": "posts",
+      "points": 10,
+      "itemCount": 4,
+      "notCounted": true,
+      "intro": "A MOOC, or massive open online course, aims at providing large-scale interactive participation and open access via the web. Besides videos, readings, and problem sets, MOOCs offer user forums that help build a community for students, professors, and teaching assistants. Ever since 2011, when Professor Sebastian Thrun of Stanford University opened his artificial intelligence course to anyone and 160,000 students in more than 190 countries signed up, MOOCs have been shaking up the world of higher education. Would you take a MOOC? Share your thoughts on this forum.",
+      "introEmphasis": [],
+      "blocks": [
+        {
+          "label": "A",
+          "speaker": "Alan",
+          "text": "Count me in! Courses taught by professors at some of the best universities in the world, and they don't cost a cent? For cash-strapped students like me, that's hard to beat."
+        },
+        {
+          "label": "B",
+          "speaker": "Bella",
+          "text": "A brain is not a computer. We are not blank hard drives waiting to be filled with data. What I remember most from school is the teachers who cared about me, not the facts they taught."
+        },
+        {
+          "label": "C",
+          "speaker": "Chris",
+          "text": "Free online courses are a great way to increase the enrollment of students who could never afford a big-name university. All you need is Internet access."
+        },
+        {
+          "label": "D",
+          "speaker": "Diana",
+          "text": "One course for 160,000 people? That's a one-size-fits-all model. Every learner is different, and no single course can meet everyone's needs."
+        },
+        {
+          "label": "E",
+          "speaker": "Ethan",
+          "text": "There's a lot of excitement and fear around MOOCs right now. I'm not ready to pick a side yet. Let's see where they are in ten years."
+        },
+        {
+          "label": "F",
+          "speaker": "Fiona",
+          "text": "College is more than lectures. You make friends, join clubs, and learn to live on your own. Online students will miss out on all of that."
+        },
+        {
+          "label": "G",
+          "speaker": "Gary",
+          "text": "People say online learning is lonely, but the course I took had a busy forum. Students and teaching assistants answered each other's questions within minutes."
+        },
+        {
+          "label": "H",
+          "speaker": "Helen",
+          "text": "Watching videos is no substitute for asking a professor for help face to face. Real learning happens when you can raise your hand and get an answer right away."
+        },
+        {
+          "label": "I",
+          "speaker": "Ivan",
+          "text": "Learning from top professors without leaving home sounds wonderful on paper. But how many people actually finish? With no one keeping an eye on them, many students will simply drop out."
+        }
+      ],
+      "demoNote": "這一組是本題庫的改編練習，不是大考中心的試題。文章改編自 103 學測閱讀測驗第 49 至 52 題（閱讀測驗站可以找到原題），照 114 學測混合題動物園論壇那一組的貼文版面和題型出題，共四題、10 分。參考答案和解析都是本題庫寫的，不算進本題庫的八場、33 格、80 分。",
+      "zhTranslation": null,
+      "source": null,
+      "internalNote": "第三百五十九場建檔。改編自 103 學測閱讀測驗（g103p3），照 114 學測混合題版面；九則貼文為本題庫依原文論點撰寫。"
     }
   ]
 }

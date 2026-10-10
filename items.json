@@ -12,7 +12,8 @@
     "answerSource": {
       "official": "有大考中心公布之參考答案或評分原則佐證",
       "derived": "本題庫依原文推出，還沒有和官方文件核對",
-      "缺此欄位": "沿用建檔時未標記狀態，待回頭補標"
+      "缺此欄位": "沿用建檔時未標記狀態，待回頭補標",
+      "adapted": "本題庫的改編練習，參考答案由本題庫撰寫"
     },
     "note": "評分級距（2／1／0）為全題型共通，定義見 passages.json 的 meta.gradingTiers，不於各題重複。"
   },
@@ -2173,6 +2174,519 @@
           {
             "h": "undergo a training program",
             "t": "接受訓練課程。undergo 是「經歷、接受」，常接 training、surgery（手術）、changes（變化）。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MXA95-47",
+      "passageId": "MXA95",
+      "year": 95,
+      "number": "47",
+      "answerType": "fill",
+      "points": 2,
+      "instruction": "下列簡短敘述摘記上方文章重點。請從文章中找出最適當的單詞（word）填入下列句子空格中，並視句型結構需要做適當的字形變化，使句子語意完整、語法正確，並符合全文文意。每格限填一個單詞（word）。",
+      "prompt": "Unlike early learners, late learners tend to ___47___ a separate region of Broca’s area for their second language. Hirsch explains this ___48___ between the two groups partly by the way languages are programmed in young children’s brains.",
+      "promptEmphasis": [],
+      "answers": [
+        "activate",
+        "use"
+      ],
+      "answerSource": "adapted",
+      "swapGroup": null,
+      "answerNote": "這一格前面是 tend to，要填原形動詞（activate 或 use）。",
+      "options": null,
+      "optionCount": null,
+      "answerKey": null,
+      "officialExplanation": null,
+      "explanation": {
+        "think": [
+          "空格前面是 tend to，很多人回文章抓 Late learners 那一欄的 activated，直接照抄，形態沒改。",
+          "也有人抓 used（they used a special part），一樣忘了改回原形。",
+          "還有人抓 handled（one part handled both languages）。那一句的主詞是腦區，講的是 Wernicke’s area 一區處理兩種語言；這一格的主詞是學習者，放進去意思不通。"
+        ],
+        "cue": [
+          "本題評量讀寫綜合應用能力，對應的學習表現為「能以適切的英語文說出或寫出談話或短文的摘要」，並依空格的語法條件做適當的字形變化。",
+          "先切塊：Unlike early learners, [ late learners ] tend to [ ___(47)___ a separate region of Broca’s area ] for their second language。",
+          "tend to 的 to 是不定詞的 to，不是介系詞。不定詞就是 to + 原形動詞，所以這一格要填原形；look forward to 的 to 是介系詞，後面才接 V-ing。",
+          "題幹開頭的 Unlike early learners 先告訴你要拿兩組對照：早學者在 Broca’s area 是 one region served both languages，晚學者則是 used a special part for their second language, near the one activated for their native tongue。題幹的 a separate region 就是 a special part 的換句話說。",
+          "Late learners 那一欄裡，講「用到某個腦區」的動詞有兩個：used（they used a special part）和 activated（the one activated for their native tongue，這裡是過去分詞）。兩個都是「用到、啟動某個腦區」，放進這一格都通，改回原形就是 use 或 activate。"
+        ],
+        "scoring": [
+          "本題庫的參考答案是 activate 和 use，寫其中一個就可以了。",
+          "這一題要做兩件事：選對字，再做對字形變化，兩件都對才拿滿分。比照大考中心學測英文考科非選擇題評分原則：完全正確（包括選字及字形變化），得 2 分；字形錯誤或者拼字錯誤，得 1 分；空白、答案錯誤或與答案無關者，得 0 分。",
+          "照這個原則，填 activated、used，是選對了字，但形態錯了，得 1 分。填 handle，意思不通，得 0 分。",
+          "作答時最好先把選好的字寫上去，不要因為還沒決定形態就留白。"
+        ],
+        "patterns": [
+          {
+            "h": "tend to + 原形動詞",
+            "t": "往往會、傾向於。Late learners tend to use a separate region for their second language."
+          },
+          {
+            "h": "activate（動）／active（形）／activation（名）",
+            "t": "啟動、使活躍。the one activated for their native tongue 就是 the one which was activated for their native tongue，省略 which was 以後，過去分詞 activated 留在 the one 後面修飾它，意思是「處理母語時啟動的那一區」。這一區是啟動的對象，不是去啟動別的東西，所以用過去分詞。"
+          },
+          {
+            "h": "unlike + 名詞",
+            "t": "和……不同。Unlike early learners, late learners use a separate region."
+          }
+        ]
+      }
+    },
+    {
+      "id": "MXA95-48",
+      "passageId": "MXA95",
+      "year": 95,
+      "number": "48",
+      "answerType": "fill",
+      "points": 2,
+      "instruction": "下列簡短敘述摘記上方文章重點。請從文章中找出最適當的單詞（word）填入下列句子空格中，並視句型結構需要做適當的字形變化，使句子語意完整、語法正確，並符合全文文意。每格限填一個單詞（word）。",
+      "prompt": "Unlike early learners, late learners tend to ___47___ a separate region of Broca’s area for their second language. Hirsch explains this ___48___ between the two groups partly by the way languages are programmed in young children’s brains.",
+      "promptEmphasis": [],
+      "answers": [
+        "difference"
+      ],
+      "answerSource": "adapted",
+      "swapGroup": null,
+      "answerNote": "this 後面接單數名詞，形容詞 different、副詞 differently 要改成名詞 difference。",
+      "options": null,
+      "optionCount": null,
+      "answerKey": null,
+      "officialExplanation": null,
+      "explanation": {
+        "think": [
+          "空格前面是 this，很多人回頭抓 different（a different part of the brain），形容詞照抄。",
+          "也有人抓 differently（acquire languages differently），或寫成複數 differences。",
+          "還有人抓 pattern（showed the same pattern as the first group）。this pattern 讀起來很順，可是後面接 between the two groups，「兩組之間的模式」說不通。"
+        ],
+        "cue": [
+          "先切塊：Hirsch explains [ this ___(48)___ between the two groups ] partly by [ the way languages are programmed in young children’s brains ]。",
+          "this 是指示形容詞，後面接單數名詞；整塊是 explains 的受詞，所以這一格要填單數名詞。",
+          "between the two groups 決定了這個名詞的意思：上一句才說晚學者另用一區、早學者共用一區，兩組之間的是「差異」。",
+          "文章裡有形容詞 different（a different part of the brain must take over a new language）和副詞 differently（adults simply acquire languages differently），改成名詞就是 difference。",
+          "partly by the way languages are programmed 對應兩欄講腦中語言「程式設定」的句子：Early learners 那一欄的 when language is first being programmed in young children，以及 Late learners 那一欄的 once the programming of language in the brain is complete。題幹寫 partly（部分是因為），是因為文章還提到另一個原因，也就是學習方式不同：How a child is taught may also play a part。"
+        ],
+        "scoring": [
+          "本題庫的參考答案是 difference，只有這一種寫法。",
+          "評分原則和第 47 題相同：完全正確（包括選字及字形變化），得 2 分；字形錯誤或者拼字錯誤，得 1 分；空白、答案錯誤或與答案無關者，得 0 分。",
+          "照這個原則，填 different、differently，是選對了字，但形態錯了，得 1 分；this 後面要接單數，寫成 differences 也是形態錯，得 1 分。填 pattern，意思不符合 between the two groups，得 0 分。"
+        ],
+        "patterns": [
+          {
+            "h": "the difference between A and B",
+            "t": "A 和 B 之間的差異。Hirsch explains this difference between the two groups partly by the way languages are programmed."
+          },
+          {
+            "h": "explain A by B",
+            "t": "用 B 來解釋 A。"
+          },
+          {
+            "h": "differ（動）／different（形）／differently（副）／difference（名）",
+            "t": "同一個字的四種詞類。摘要題常考把文章裡的形容詞或副詞改成名詞。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MXA95-49",
+      "passageId": "MXA95",
+      "year": 95,
+      "number": "49",
+      "answerType": "multi",
+      "points": 4,
+      "instruction": "多選題",
+      "prompt": "From (A) to (F) below, choose the ONES that are true for both early and late learners.",
+      "promptEmphasis": [],
+      "answers": null,
+      "answerSource": "adapted",
+      "swapGroup": null,
+      "answerNote": null,
+      "options": [
+        {
+          "label": "A",
+          "text": "The meaning of both languages was processed in the same part of their brains."
+        },
+        {
+          "label": "B",
+          "text": "A single region of Broca’s area served both of their languages."
+        },
+        {
+          "label": "C",
+          "text": "They had to remain silent while the scanner was running."
+        },
+        {
+          "label": "D",
+          "text": "A different region, near the one for their native tongue, handled their second language."
+        },
+        {
+          "label": "E",
+          "text": "Most of their second-language learning happened in a classroom."
+        },
+        {
+          "label": "F",
+          "text": "They were asked to describe aloud what they had done the day before."
+        }
+      ],
+      "optionCount": 6,
+      "answerKey": [
+        "A",
+        "C"
+      ],
+      "officialExplanation": null,
+      "explanation": {
+        "think": [
+          "兩欄分開讀都很順，讀完容易照著「早學者那一欄寫了什麼、晚學者那一欄寫了什麼」各勾一個。這一題的門檻寫在題目裡：要對兩組都成立。",
+          "只對其中一組成立的選項，看起來最像答案，也最容易勾進去，(B)、(D) 就是這一種。",
+          "另一個常見的失分是只核對兩欄，沒有回頭看前言：(C) 的依據在前言，不在任何一欄。"
+        ],
+        "cue": [
+          "本題用兩欄對照的方式呈現，評量考生讀完以後能不能比較、分析和推論。",
+          "每一個選項都要回原文核對兩次，早學者那一欄一次、晚學者那一欄一次；講受試過程的選項，還要回前言找。",
+          "(A) The meaning of both languages was processed in the same part of their brains. 前言寫 Wernicke’s area, thought to process meaning；Early learners 那一欄寫 the same part of Wernicke’s area became active，Late learners 那一欄寫 showed the same pattern as the first group: one part handled both languages。選項沒有寫 Wernicke’s area，而是換成它的功能「處理意思的部位」，這是換字改寫。兩組都符合。",
+          "(C) They had to remain silent while the scanner was running. 前言寫 People from both groups were placed inside the scanner，接著寫 They could not speak out loud, because any movement would disrupt the scanning。選項把 could not speak out loud 換成 remain silent。兩組都符合。"
+        ],
+        "distractors": [
+          {
+            "h": "(B) A single region of Broca’s area served both of their languages.",
+            "t": "只有早學者符合：in Broca’s area, too, one region served both languages。晚學者那一欄寫 Broca’s area told another story，第二語言另用 a special part。用字和原文幾乎一樣，只是把一組的事實套在兩組身上。"
+          },
+          {
+            "h": "(D) A different region, near the one for their native tongue, handled their second language.",
+            "t": "只有晚學者符合：they used a special part for their second language, near the one activated for their native tongue。早學者兩種語言用的是同一區。"
+          },
+          {
+            "h": "(E) Most of their second-language learning happened in a classroom.",
+            "t": "早學者那一欄完全沒有提到教室，講的是小時候 mothers teach a baby to speak，所以不是兩組都成立。晚學者那一欄的 high school class 出現在推測句裡，是拿來和在家學語言比較；就算晚學者成立，也只有一組。"
+          },
+          {
+            "h": "(F) They were asked to describe aloud what they had done the day before.",
+            "t": "前半對、後半錯。前言寫 asked to think about what they had done the day before，可是也寫 They could not speak out loud。選項把 think about 換成 describe aloud，兩組都不符合。"
+          },
+          {
+            "h": "(B) 和 (D) 是這一題最強的誘答",
+            "t": "兩個選項分開看都是文章寫的事實，用字也和原文很接近，可是各只對其中一組成立，屬於部分正確。題目要的是兩組都成立。113 學測混合題第 49 題的 (A) 也是這種只對其中一種動物成立的選項。"
+          }
+        ],
+        "scoring": [
+          "這一題要選出對兩組都成立的選項，所以要劃記 A、C 兩個選項。先劃哪一個都不影響判定。",
+          "多選題怎麼計分，比照試卷首頁的「作答注意事項」：每題 n 個選項，各選項獨立判定；所有選項均答對者，得該題全部之分數；答錯 k 個選項者，得該題 (n−2k)／n 之分數；得分低於零分或所有選項均未作答者，以零分計算。",
+          "這一題有六個選項、4 分，所以全對得 4 分；錯一個約得 2.67 分；錯兩個約得 1.33 分；錯三個以上是 0 分。",
+          "要留意「各選項獨立判定」這句話：少劃一個和多劃一個，扣的分一樣。該劃 A、C 卻只劃了 A，是 C 這一格判錯；多劃了 B，是 B 這一格判錯，兩種情形扣的分相同。所以作答時的標準要前後一致，不要因為怕多劃就把標準抬得太嚴；不過錯到三格就是零分，也不能每一項都隨便劃。"
+        ],
+        "patterns": [
+          {
+            "h": "remain silent",
+            "t": "保持沉默。選項用它改寫原文的 could not speak out loud。"
+          },
+          {
+            "h": "process",
+            "t": "處理（資訊）。Wernicke’s area is thought to process meaning."
+          },
+          {
+            "h": "the one",
+            "t": "代替前面提過的單數名詞，避免重複。near the one activated for their native tongue 的 the one 指 part。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MXA95-50",
+      "passageId": "MXA95",
+      "year": 95,
+      "number": "50",
+      "answerType": "short",
+      "points": 2,
+      "instruction": "簡答",
+      "prompt": "Which word in the passage most likely means “to stop something from going on in its usual way”?",
+      "promptEmphasis": [],
+      "answers": [
+        "disrupt"
+      ],
+      "answerSource": "adapted",
+      "swapGroup": null,
+      "answerNote": null,
+      "options": null,
+      "optionCount": null,
+      "answerKey": null,
+      "officialExplanation": null,
+      "explanation": {
+        "think": [
+          "題目的定義是「讓某件事沒辦法照常進行」，有人抓 Early learners 那一欄的 mix（may mix all languages together）。那是「混在一起」，不是打斷。",
+          "也有人把 disrupt 記成 disturb（打擾）。disturb 是另一個字，文章裡沒有。",
+          "還有人找到 disrupt 卻改成 disruption：題目要的是文章裡的那個字，原文是什麼字形就寫什麼字形。"
+        ],
+        "cue": [
+          "本題評量讀寫綜合應用能力，要依指定條件，從文章裡擷取關鍵字詞。",
+          "定義用 to stop … 開頭，是動詞的釋義，所以要在文章裡找動詞。",
+          "前言寫 They could not speak out loud, because any movement would disrupt the scanning。because 前後是因果：只要一動，掃描就沒辦法照常進行，所以受試者不能出聲。disrupt 的位置和意思都對得上定義。"
+        ],
+        "scoring": [
+          "本題庫的參考答案是 disrupt。原文就是原形，不必改字形。",
+          "評分原則：完全正確（包括選字及字形變化），得 2 分；字形錯誤或者拼字錯誤，得 1 分；空白、答案錯誤或與答案無關者，得 0 分。",
+          "照這個原則，寫成 disrupted、disruption，是選對了字，但形態和原文不同，得 1 分。填 mix 或 disturb，意思不符合定義或不是文章裡的字，得 0 分。"
+        ],
+        "patterns": [
+          {
+            "h": "disrupt（動）／disruption（名）／disruptive（形）",
+            "t": "打斷、擾亂。Heavy rain disrupted train services across the island."
+          },
+          {
+            "h": "any + 名詞（肯定句）",
+            "t": "任何、只要有。any movement would disrupt the scanning，意思是「只要一動，就會……」。"
+          },
+          {
+            "h": "take over",
+            "t": "接手、接管。a different part of the brain must take over a new language"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MXA103-47",
+      "passageId": "MXA103",
+      "year": 103,
+      "number": "47",
+      "answerType": "fill",
+      "points": 2,
+      "instruction": "請根據選文內容，從文章中選出兩個單詞，分別填入下列句子空格，並視句型結構需要作適當的字形變化，使句子語意完整、語法正確，且符合全文文意。每格限填一個單詞（word）。",
+      "prompt": "Huge numbers of students around the world can ___47___ in MOOCs at the same time, often for free. Critics, however, argue that the face-to-face ___48___ between professors and students in a real classroom cannot be replaced.",
+      "promptEmphasis": [],
+      "answers": [
+        "enroll",
+        "participate",
+        "enrol"
+      ],
+      "answerSource": "adapted",
+      "swapGroup": null,
+      "answerNote": "can 後面接原形動詞，而且要能接 in：enroll in、participate in。",
+      "options": null,
+      "optionCount": null,
+      "answerKey": null,
+      "officialExplanation": null,
+      "explanation": {
+        "think": [
+          "前言寫 large-scale interactive participation，很多人直接抄 participation，形態沒改。",
+          "也有人抓 Chris 那一則的 enrollment，一樣是名詞照抄。",
+          "還有人抓前言的 signed up。sign up 是兩個字，這一格只能填一個單詞；單寫 sign 是「簽名」，意思就不對了。"
+        ],
+        "cue": [
+          "本題評量讀寫綜合應用能力，對應的學習表現為「能以適切的英語文說出或寫出談話或短文的摘要」，並依空格的語法條件做適當的字形變化。",
+          "先切塊：[ Huge numbers of students around the world ] can [ ___(47)___ in MOOCs ] at the same time, often for free。",
+          "can 是助動詞，後面接原形動詞，所以這一格要填原形。",
+          "空格後面是 in MOOCs，要找能接 in 的動詞：enroll in（報名、選修課程）、participate in（參加）。",
+          "Huge numbers of students … at the same time 對應前言的 160,000 students in more than 190 countries signed up；often for free 對應 Alan 的 don't cost a cent 和 Chris 的 Free online courses。",
+          "文章裡兩個字都是名詞：前言的 participation、Chris 那一則的 enrollment，分別改成動詞 participate、enroll。"
+        ],
+        "scoring": [
+          "本題庫的參考答案是 enroll 和 participate，寫其中一個就可以了；英式拼法 enrol 也給滿分。",
+          "這一題要做兩件事：選對字，再做對字形變化，兩件都對才拿滿分。比照大考中心學測英文考科非選擇題評分原則：完全正確（包括選字及字形變化），得 2 分；字形錯誤或者拼字錯誤，得 1 分；空白、答案錯誤或與答案無關者，得 0 分。",
+          "照這個原則，填 enrollment、participation，是選對了字，但形態錯了，得 1 分。只填 sign，意思不對，得 0 分。",
+          "作答時最好先把選好的字寫上去，不要因為還沒決定形態就留白。"
+        ],
+        "patterns": [
+          {
+            "h": "enroll in",
+            "t": "報名、選修課程。About 160,000 students enrolled in the course. 名詞是 enrollment。"
+          },
+          {
+            "h": "participate in",
+            "t": "參加。意思和 take part in 相同，participate 比較正式。名詞是 participation。"
+          },
+          {
+            "h": "huge numbers of + 複數名詞",
+            "t": "大量的……。Huge numbers of students can enroll at the same time."
+          }
+        ]
+      }
+    },
+    {
+      "id": "MXA103-48",
+      "passageId": "MXA103",
+      "year": 103,
+      "number": "48",
+      "answerType": "fill",
+      "points": 2,
+      "instruction": "請根據選文內容，從文章中選出兩個單詞，分別填入下列句子空格，並視句型結構需要作適當的字形變化，使句子語意完整、語法正確，且符合全文文意。每格限填一個單詞（word）。",
+      "prompt": "Huge numbers of students around the world can ___47___ in MOOCs at the same time, often for free. Critics, however, argue that the face-to-face ___48___ between professors and students in a real classroom cannot be replaced.",
+      "promptEmphasis": [],
+      "answers": [
+        "interaction",
+        "interactions"
+      ],
+      "answerSource": "adapted",
+      "swapGroup": null,
+      "answerNote": "the face-to-face 後面接名詞，形容詞 interactive 要改成名詞 interaction。",
+      "options": null,
+      "optionCount": null,
+      "answerKey": null,
+      "officialExplanation": null,
+      "explanation": {
+        "think": [
+          "前言寫 large-scale interactive participation，很多人照抄形容詞 interactive。",
+          "也有人往 Helen 那一則找，抓 help（asking a professor for help face to face）。the face-to-face help 讀起來好像也通，可是 between professors and students 講的是雙方互相往來，help 只是一方幫另一方。",
+          "還有人寫動詞 interact，接在 the face-to-face 後面接不上。"
+        ],
+        "cue": [
+          "本題評量讀寫綜合應用能力，對應的學習表現為「能以適切的英語文說出或寫出談話或短文的摘要」，並依空格的語法條件做適當的字形變化。",
+          "先切塊：Critics, however, argue that [ the face-to-face ___(48)___ between professors and students in a real classroom ] cannot be replaced。",
+          "方括號裡是 that 子句的主詞。the face-to-face 是冠詞加形容詞，後面要接名詞。",
+          "between professors and students 表示雙方之間的往來，所以要的是「互動」：前言的形容詞 interactive 改成名詞 interaction。",
+          "摘要句的 Critics 指反對 MOOCs 的人，最貼近的是 Helen 那一則：Watching videos is no substitute for asking a professor for help face to face。cannot be replaced 就是 no substitute for 的換句話說。"
+        ],
+        "scoring": [
+          "本題庫的參考答案是 interaction。寫成複數 interactions，句子一樣通，也給滿分。",
+          "評分原則和第 47 題相同：完全正確（包括選字及字形變化），得 2 分；字形錯誤或者拼字錯誤，得 1 分；空白、答案錯誤或與答案無關者，得 0 分。",
+          "照這個原則，填 interactive、interact，是選對了字，但形態錯了，得 1 分。填 help，意思不符合 between professors and students，得 0 分。"
+        ],
+        "patterns": [
+          {
+            "h": "face-to-face（形）／face to face（副）",
+            "t": "幾個字合起來放在名詞前面當一個形容詞時，要用連字號連成一組，讀的人才知道它們是一起的：the face-to-face interaction。Helen 寫的 asking a professor for help face to face 放在句尾當副詞，一般不加連字號。"
+          },
+          {
+            "h": "interact（動）／interactive（形）／interaction（名）",
+            "t": "interact with others（和別人互動）／interactive forums（互動式討論區）／face-to-face interaction（面對面的互動）。"
+          },
+          {
+            "h": "be no substitute for",
+            "t": "比不上、取代不了。Watching videos is no substitute for asking a professor for help face to face."
+          }
+        ]
+      }
+    },
+    {
+      "id": "MXA103-49",
+      "passageId": "MXA103",
+      "year": 103,
+      "number": "49",
+      "answerType": "multi",
+      "points": 4,
+      "instruction": "多選題",
+      "prompt": "From (A) to (I) in the above forum discussion, which ONES show a positive attitude toward MOOCs?",
+      "promptEmphasis": [],
+      "answers": null,
+      "answerSource": "adapted",
+      "swapGroup": null,
+      "answerNote": null,
+      "options": "blocks",
+      "optionCount": 9,
+      "answerKey": [
+        "A",
+        "C",
+        "G"
+      ],
+      "officialExplanation": null,
+      "explanation": {
+        "think": [
+          "九則貼文一路讀下來，語氣有濃有淡，容易只憑第一句的感覺就勾。",
+          "最容易勾錯的是 I：Ivan 第一句說 sounds wonderful on paper，可是接下來整則都在擔心。",
+          "也容易漏掉 G：Gary 開頭先引別人說的 online learning is lonely，讀到 but 之後才是他自己的看法。E 的 excitement 也會把人帶進去。"
+        ],
+        "cue": [
+          "本題評量讀寫綜合應用能力，要逐一判斷九則發言裡，發言者對 MOOCs 的態度。選項就是論壇上的九則發言，標成 (A) 到 (I)；題幹用的是 ONES，答案不只一個。",
+          "題目問的是 positive attitude toward MOOCs，對 MOOCs 持正面態度，不是「沒有反對」。",
+          "每一則都要讀到最後一句。要是中間出現 but，後面那一句才是發言者真正的立場。",
+          "(A) Alan：Count me in! 是「算我一份」，接著說名校教授的課 don't cost a cent，that's hard to beat（很難找到更好的了）。正面。",
+          "(C) Chris：Free online courses are a great way to increase the enrollment of students who could never afford a big-name university。正面。",
+          "(G) Gary：先引 People say online learning is lonely，接著用 but 轉折，說自己修的課 had a busy forum，同學和助教 answered each other's questions within minutes。他用自己的經驗反駁別人的說法，態度是正面的。"
+        ],
+        "distractors": [
+          {
+            "h": "(E) Ethan",
+            "t": "There's a lot of excitement and fear around MOOCs，接著說 I'm not ready to pick a side yet。excitement 和 fear 並列，他還在觀望，態度中立，不是正面。"
+          },
+          {
+            "h": "(I) Ivan",
+            "t": "前半正面、後半反對。第一句說 sounds wonderful on paper，on paper 是「表面上看來」，暗示實際上未必如此；But 之後問 how many people actually finish，最後擔心 many students will simply drop out。屬於部分正確的誘答。"
+          },
+          {
+            "h": "(B)、(D)、(F)、(H)",
+            "t": "四則都是反對或擔憂：Bella 說 A brain is not a computer，記得的是 the teachers who cared about me；Diana 批評 one-size-fits-all；Fiona 說線上學生 will miss out on 大學生活；Helen 認為看影片 is no substitute for 當面向教授求助。"
+          },
+          {
+            "h": "(E) 和 (I) 是這一題最強的誘答",
+            "t": "Ethan 的 excitement、Ivan 的 sounds wonderful 都是正面的字眼，只讀到那裡就會勾進去。可是 Ethan 接著說還不想選邊，Ivan 在 But 之後轉到反對，兩則都不是正面態度。至於 Gary 那一則方向正好相反：先引別人的負面說法，but 之後說出自己的正面經驗，所以要勾。"
+          }
+        ],
+        "scoring": [
+          "這一題要選出對 MOOCs 持正面態度的發言，所以劃記 A、C、G 三個選項。先劃哪一個都不影響判定。",
+          "多選題怎麼計分，比照試卷首頁的「作答注意事項」：每題 n 個選項，各選項獨立判定；所有選項均答對者，得該題全部之分數；答錯 k 個選項者，得該題 (n−2k)／n 之分數；得分低於零分或所有選項均未作答者，以零分計算。",
+          "這一題有九個選項、4 分，所以全對得 4 分；錯一個約得 3.11 分；錯兩個約得 2.22 分；錯三個約得 1.33 分；錯四個約得 0.44 分；錯五個以上是 0 分。",
+          "要留意「各選項獨立判定」這句話：少劃一個和多劃一個，扣的分一樣。該劃 A、C、G 卻漏了 G，是 G 這一格判錯；多劃了 I，是 I 這一格判錯，兩種情形扣的分相同。所以作答時的標準要前後一致，不要因為怕多劃就把標準抬得太嚴；不過錯到五格就是零分，也不能每一項都隨便劃。"
+        ],
+        "patterns": [
+          {
+            "h": "Count me in!",
+            "t": "算我一份。相反的說法是 Count me out!（別算我）。"
+          },
+          {
+            "h": "on paper",
+            "t": "表面上看來、理論上（實際上未必）。The plan sounds wonderful on paper."
+          },
+          {
+            "h": "pick a side",
+            "t": "選邊站。I'm not ready to pick a side yet."
+          },
+          {
+            "h": "drop out (of)",
+            "t": "中途退出、輟學。Many students will simply drop out."
+          }
+        ]
+      }
+    },
+    {
+      "id": "MXA103-50",
+      "passageId": "MXA103",
+      "year": 103,
+      "number": "50",
+      "answerType": "short",
+      "points": 2,
+      "instruction": "簡答題",
+      "prompt": "Which phrase in the forum discussion most likely means “to not have the chance to enjoy or benefit from something”?",
+      "promptEmphasis": [
+        "phrase"
+      ],
+      "answers": [
+        "miss out on",
+        "miss out"
+      ],
+      "answerSource": "adapted",
+      "swapGroup": null,
+      "answerNote": "只寫 miss out（沒有 on）也給滿分。",
+      "options": null,
+      "optionCount": null,
+      "answerKey": null,
+      "officialExplanation": null,
+      "explanation": {
+        "think": [
+          "題目問的是 phrase，看到 not have the chance 就只寫 miss 一個字的很常見。",
+          "也有人抓 Ivan 的 drop out。那是「中途退出」，是自己不念了，不是錯過機會。",
+          "還有人抄題目定義裡的 benefit from，那是題目給的解釋，不是貼文裡的字。"
+        ],
+        "cue": [
+          "本題評量讀寫綜合應用能力，要依指定條件，從文章裡擷取關鍵語句。",
+          "題幹有兩項條件，要同時滿足。一是形式，題幹用的是 phrase，要的是片語；二是語意，這個片語要等於 to not have the chance to enjoy or benefit from something。",
+          "Fiona 那一則先列出大學生活的好處：You make friends, join clubs, and learn to live on your own，接著說 Online students will miss out on all of that。on 後面接的 all of that 就是錯過的東西，也就是前一句那些好處，線上學生沒機會享受，正好對上定義。"
+        ],
+        "scoring": [
+          "本題庫的參考答案是 miss out on，只寫 miss out 也給滿分。",
+          "miss out 本身就是片語動詞，意思是錯過對自己有好處的機會；後面要接錯過的東西時才加 on，例如 miss out on all of that。少了 on，意思並沒有改變，所以兩種都收。",
+          "評分原則：完全正確（包括選字及字形變化），得 2 分；字形錯誤或者拼字錯誤，得 1 分；空白、答案錯誤或與答案無關者，得 0 分。",
+          "只寫 miss 一個字，不符合題幹要的片語；寫 drop out，意思不符合定義：兩種都不符合前面兩項條件。"
+        ],
+        "patterns": [
+          {
+            "h": "miss out (on sth)",
+            "t": "錯過（好機會）。If you skip the class trip, you'll miss out on all the fun."
+          },
+          {
+            "h": "all of that",
+            "t": "指前面提過的整件事。You make friends, join clubs, and learn to live on your own. Online students will miss out on all of that."
+          },
+          {
+            "h": "one-size-fits-all",
+            "t": "一體適用的（常帶貶意，表示不考慮個別差異）。a one-size-fits-all model"
           }
         ]
       }
