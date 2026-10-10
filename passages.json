@@ -1053,6 +1053,471 @@
       "zhTranslation": null,
       "source": null,
       "internalNote": "第三百五十九場建檔。改編自 g95p2；命題分身出題，兩次盲測、四方審閱（引文事實、文法、學生讀者、大考體例）後裁定修訂。"
+    },
+    {
+      "id": "MXA-g114p2",
+      "year": 114,
+      "examLabel": "改編練習",
+      "sessionName": "改編練習（十三）",
+      "title": "恐怖電影的利弊",
+      "topic": "看恐怖電影可能帶來的好處與風險",
+      "layout": "two-column",
+      "points": 10,
+      "itemCount": 4,
+      "notCounted": true,
+      "intro": "With their zombies and serial killers, horror movies are too frightening to be fun for some people. Many others, though, enjoy a good fear spectacle and will line up to see the latest scary film. Given such varied tastes, new studies have begun to untangle the benefits and risks of these movies.",
+      "introEmphasis": [],
+      "blocks": [
+        {
+          "label": "Possible benefits",
+          "speaker": null,
+          "text": "One benefit centers on the idea of so-called “safe fear.” Viewers face the terror from the comfort of their own couch or a theater seat, far from any real danger. In such a controlled setting, these films may actually lessen the negative impact of fear on viewers and help them become tougher. Moreover, as people get absorbed in the story, they tend to see events from the characters’ perspective and unconsciously rehearse the plot. Researchers believe that this is how viewers pick up tips on handling real-world threats. Studies also suggest that the thrill and excitement of a scary film can be therapeutic, allowing people to release bottled-up emotions and feel a sense of relief once the movie is over. This probably explains why horror and pandemic thrillers were the most-watched films on digital movie apps during the COVID-19 pandemic."
+        },
+        {
+          "label": "Possible risks",
+          "speaker": null,
+          "text": "Researchers have also found, however, that horror movies can do harm to some viewers. People who are prone to anxiety may panic after watching a thriller. For those who have been through unpleasant experiences, the themes and images on screen may trigger trauma and make their symptoms worse. Sleep can suffer as well: the fear and anxiety that linger after the film may keep people awake all night, leaving them tired and irritable the next day. Specialists also warn that frightening films can be harmful to children. Kids under 14 who watch horror movies have a greater chance of developing anxiety in adulthood. Worse still, exposure to graphic violence and bloodshed can make them less sensitive to real-life violence and more accepting of aggression."
+        }
+      ],
+      "demoNote": "這一組是本題庫的改編練習，不是大考中心的試題。文章改編自 114 學測閱讀測驗第 39 至 42 題（閱讀測驗站可以找到原題），照 113 學測混合題寒鴉、烏龜蟻那一組的兩欄版面和題型出題，共四題、10 分。參考答案和解析都是本題庫寫的，不算進本題庫的八場、33 格、80 分。",
+      "zhTranslation": null,
+      "source": null,
+      "internalNote": "第三百六十場建檔。改編自 g114p2；命題分身出題，兩次盲測、四方審閱（引文事實、文法、學生讀者、大考體例）後裁定修訂。"
+    },
+    {
+      "id": "MXA-g112p2",
+      "year": 112,
+      "examLabel": "改編練習",
+      "sessionName": "改編練習（十四）",
+      "title": "大象與茶園",
+      "topic": "印度阿薩姆茶園裡的亞洲象與茶農：排水溝的危險與大象友善茶認證",
+      "layout": "two-column",
+      "points": 10,
+      "itemCount": 4,
+      "notCounted": true,
+      "intro": "When you sip your morning tea, you are probably not aware that those leaves can mean injury, or even death, for the Asian elephants that roam India’s tea gardens. In the state of Assam, the animals and the people who grow tea share the same land, and the two sides need it for very different reasons.",
+      "introEmphasis": [],
+      "blocks": [
+        {
+          "label": "Elephants",
+          "speaker": null,
+          "text": "Because they use tea plantations as landmarks when finding their way through forests, the elephants almost inevitably have to cross the farms. Pregnant females, moreover, often treat tea-growing areas as safe shelters for giving birth, since fewer humans are around. Yet the farms hide a grave danger: the drainage trenches that run through them. Calves, still unused to rough ground, can all too easily tumble into one and get hurt, and once injured, they may be unable to climb back out. If a mother tries to dig her baby free, the thick mud can smother them both. Elephants are also known to resist leaving their sick or dying behind, so a whole herd may linger beside a trench holding a trapped calf for hours, unwilling to move on until all hope is gone."
+        },
+        {
+          "label": "The tea business",
+          "speaker": null,
+          "text": "Tea farms in Assam keep multiplying, eating into the elephants’ habitats and threatening their numbers. Since much of the forest land used for tea there is flat, growers must dig drainage trenches so that water does not accumulate and damage the shrubs. Is there a way for elephants to coexist with this prosperous business? An organization called Elephant Friendly Tea has taken the initiative to find one. It has set up a certification program to reward growers who take precautions to protect the animals, and it urges consumers to buy from such brands. So far, only smaller brands have earned the label, but the idea is catching on. The group believes that once people learn more about the risk tea poses to these endangered animals, they may be more motivated to choose elephant-friendly tea."
+        }
+      ],
+      "demoNote": "這一組是本題庫的改編練習，不是大考中心的試題。文章改編自 112 學測閱讀測驗第 39 至 42 題（閱讀測驗站可以找到原題），照 113 學測混合題寒鴉、烏龜蟻那一組的兩欄版面和題型出題，共四題、10 分。參考答案和解析都是本題庫寫的，不算進本題庫的八場、33 格、80 分。",
+      "zhTranslation": null,
+      "source": null,
+      "internalNote": "第三百六十場建檔。改編自 g112p2；命題分身出題，兩次盲測、四方審閱（引文事實、文法、學生讀者、大考體例）後裁定修訂。"
+    },
+    {
+      "id": "MXA-g97p4",
+      "year": 97,
+      "examLabel": "改編練習",
+      "sessionName": "改編練習（十五）",
+      "title": "疼痛的預期與感受",
+      "topic": "預期疼痛和真的感受到疼痛時，大腦的反應",
+      "layout": "two-column",
+      "points": 10,
+      "itemCount": 4,
+      "notCounted": true,
+      "intro": "If you touch a hot stove, you know it’s going to hurt. Yet if you convince yourself beforehand that the pain won’t be so bad, you might not suffer as much. A recent study sheds light on this. Researchers worked with 10 volunteers, ages 24 to 46, each wearing a device that gave out 20-second-long pulses of heat to the right leg. The heat came at three levels, producing mild, moderate, or severe pain. During training, the volunteers would hear a tone, sit through a period of silence, and then feel a pulse. A day or two later, the real experiment began.",
+      "introEmphasis": [],
+      "blocks": [
+        {
+          "label": "Expecting pain",
+          "speaker": null,
+          "text": "Over the course of training, the volunteers learned to associate the length of the silent pause with the intensity of the upcoming heat pulse: the longer the wait, the stronger the pulse and the more severe the pain. Simply by timing the silence, they could tell whether mild, moderate, or severe pain was on its way. In the real experiment, the researchers found that as the volunteers expected higher levels of pain, the parts of the brain involved in learning, memory, emotion, and touch grew more active."
+        },
+        {
+          "label": "Feeling pain",
+          "speaker": null,
+          "text": "When the heat actually hit during the experiment, much the same regions came to life. In other words, the part of the brain that reacts to severe pain is largely the same part that reacts to the mere expectation of it. What a person anticipates can even shape how much a pulse seems to hurt. When volunteers expected only mild or moderate pain but then received severe pain, they reported feeling 28 percent less pain than when they expected severe pain and actually got it. The study thus emphasizes that pain has both physical and psychological elements. Understanding how it works in the mind and brain could eventually give doctors tools for helping patients cope with painful medical treatments."
+        }
+      ],
+      "demoNote": "這一組是本題庫的改編練習，不是大考中心的試題。文章改編自 97 學測閱讀測驗第 53 至 56 題（閱讀測驗站可以找到原題），照 113 學測混合題寒鴉、烏龜蟻那一組的兩欄版面和題型出題，共四題、10 分。參考答案和解析都是本題庫寫的，不算進本題庫的八場、33 格、80 分。",
+      "zhTranslation": null,
+      "source": null,
+      "internalNote": "第三百六十場建檔。改編自 g97p4；命題分身出題，兩次盲測、四方審閱（引文事實、文法、學生讀者、大考體例）後裁定修訂。"
+    },
+    {
+      "id": "MXA-g108p4",
+      "year": 108,
+      "examLabel": "改編練習",
+      "sessionName": "改編練習（十六）",
+      "title": "除蟲彈的論壇討論",
+      "topic": "除蟲彈對床蝨效果有限、易燃與殘留毒性：九則討論區貼文",
+      "layout": "posts",
+      "points": 10,
+      "itemCount": 4,
+      "notCounted": true,
+      "intro": "Got itchy rashes from bug bites? Many people use “foggers,” or “bug bombs,” to clear the annoying crawlers out of their homes, trusting the pesticide to penetrate every place where the insects hide. Yet when Ohio State University researchers tested three commercially sold foggers on five groups of live bedbugs for two hours, the products had little—if any—effect. Would you set off a bug bomb at home? Share your thoughts on this forum.",
+      "introEmphasis": [],
+      "blocks": [
+        {
+          "label": "A",
+          "speaker": "Aiden",
+          "text": "These bites have left itchy rashes all over my arms. Tonight I'm setting off a bug bomb in every room, and those crawlers won't stand a chance."
+        },
+        {
+          "label": "B",
+          "speaker": "Bianca",
+          "text": "The fog is exactly what sends them running. The moment the pests sense the chemicals, they squeeze into the walls and other hideaways, and there's no getting at them after that."
+        },
+        {
+          "label": "C",
+          "speaker": "Carlos",
+          "text": "I can see the appeal of a mist that seeps into every hiding spot. But then I read about the Ohio State study: the foggers did next to nothing to the bedbugs. I'm done with foggers."
+        },
+        {
+          "label": "D",
+          "speaker": "Dmitri",
+          "text": "Bedbugs are harder to kill than you'd think. Even the ones that do come into contact with the mist could be resistant to the pesticide. So what's the point?"
+        },
+        {
+          "label": "E",
+          "speaker": "Eun-ji",
+          "text": "Nobody talks about the cleanup. The chemicals rain down on your counters, furniture, floors, and walls, leaving an oily, toxic film behind. With a toddler crawling around, that's far too dangerous for my family."
+        },
+        {
+          "label": "F",
+          "speaker": "Franco",
+          "text": "Yes, the gas is highly flammable, and yes, it might go up in flames if you're careless. Read the label, follow every step, and you'll be fine. I'll keep using bug bombs."
+        },
+        {
+          "label": "G",
+          "speaker": "Giulia",
+          "text": "Nothing beats fog, if you ask me. I'm sure it drifts under the bed and into every corner where those bugs hide. That's why I'm a fan."
+        },
+        {
+          "label": "H",
+          "speaker": "Hector",
+          "text": "I used to swear by foggers. That was before I learned the gas can ignite or even explode when the product is mishandled. These days, I treat a bug bomb as a last resort."
+        },
+        {
+          "label": "I",
+          "speaker": "Imani",
+          "text": "Bedbugs live in cracks and crevices, under sheets and mattresses, and deep in carpets. A cloud floating around the room will never get in there. Leave this one to the professionals."
+        }
+      ],
+      "demoNote": "這一組是本題庫的改編練習，不是大考中心的試題。文章改編自 108 學測閱讀測驗第 53 至 56 題（閱讀測驗站可以找到原題），照 114 學測混合題動物園論壇那一組的貼文版面和題型出題，共四題、10 分。參考答案和解析都是本題庫寫的，不算進本題庫的八場、33 格、80 分。",
+      "zhTranslation": null,
+      "source": null,
+      "internalNote": "第三百六十場建檔。改編自 g108p4；命題分身出題，兩次盲測、四方審閱（引文事實、文法、學生讀者、大考體例）後裁定修訂。"
+    },
+    {
+      "id": "MXA-z98p3",
+      "year": 98,
+      "examLabel": "改編練習",
+      "sessionName": "改編練習（十七）",
+      "title": "孩子該不該當志工的論壇討論",
+      "topic": "兒童志願服務的意義與疑慮：八則討論區貼文",
+      "layout": "posts",
+      "points": 10,
+      "itemCount": 4,
+      "notCounted": true,
+      "intro": "Every year, millions of children around the globe lend a hand to their communities. This weekend, for example, nine-year-old Camille Mahlknecht and her neighbors in Agoura Hills, California, plan to pick up trash during their city's annual cleanup. Schools and parents, too, are contributing to a rise in youth service. But should kids really be spending their free time this way? Share your thoughts on this forum.",
+      "introEmphasis": [],
+      "blocks": [
+        {
+          "label": "A",
+          "speaker": "Amir",
+          "text": "After his grandmother died of a heart attack, ten-year-old Nathan White and five other boys jumped rope in shifts for two and a half hours, raising over US$1,200 for the American Heart Association. Who says kids can't make a difference?"
+        },
+        {
+          "label": "B",
+          "speaker": "Beatriz",
+          "text": "A few bags of litter won't keep a charity afloat. Let's be honest: it's adults' donations that pay the bills, not nine-year-olds with trash bags."
+        },
+        {
+          "label": "C",
+          "speaker": "Chen",
+          "text": "Plenty of schools offer community service activities these days. Some teachers link volunteer projects to classroom lessons; others make service work a requirement. I'm only passing along information here, not judging it."
+        },
+        {
+          "label": "D",
+          "speaker": "Dana",
+          "text": "Raising money for a good cause is admirable, no doubt. However, ten-year-olds should be focusing on their own schoolwork. Weekends are for homework and rest, not charity drives."
+        },
+        {
+          "label": "E",
+          "speaker": "Emeka",
+          "text": "During a recession, the call for money and other aid keeps growing, yet many charities see donations drop sharply. Together, kids put in thousands of volunteer hours a year, and that can fill in some of those gaps. That matters."
+        },
+        {
+          "label": "F",
+          "speaker": "Freya",
+          "text": "I used to think volunteering could wait until kids were older. Then I learned that those who start young are twice as likely to keep doing good deeds into adulthood. Now my daughter and I volunteer together."
+        },
+        {
+          "label": "G",
+          "speaker": "Gustavo",
+          "text": "Make service compulsory, as some teachers do, and it stops being volunteering in any real sense. Kids already have plenty on their plates. Let children be children."
+        },
+        {
+          "label": "H",
+          "speaker": "Hana",
+          "text": "Wissam, a twelve-year-old in Lebanon, putting on a play at an orphanage and bringing potted plants to seniors? That's heartwarming. Whether every child should do the same is another matter. I'm still on the fence."
+        }
+      ],
+      "demoNote": "這一組是本題庫的改編練習，不是大考中心的試題。文章改編自 98 指考閱讀測驗第 44 至 47 題（閱讀測驗站可以找到原題），照 114 學測混合題動物園論壇那一組的貼文版面和題型出題，共四題、10 分。參考答案和解析都是本題庫寫的，不算進本題庫的八場、33 格、80 分。",
+      "zhTranslation": null,
+      "source": null,
+      "internalNote": "第三百六十場建檔。改編自 z98p3；命題分身出題，兩次盲測、四方審閱（引文事實、文法、學生讀者、大考體例）後裁定修訂。"
+    },
+    {
+      "id": "MXA-g105p1",
+      "year": 105,
+      "examLabel": "改編練習",
+      "sessionName": "改編練習（十八）",
+      "title": "日本血型性格論的論壇討論",
+      "topic": "血型決定性格的說法、各種應用與血型歧視：九則討論區貼文",
+      "layout": "posts",
+      "points": 10,
+      "itemCount": 4,
+      "notCounted": true,
+      "intro": "In Japan, many believe that blood type decides a person's temperament. Type As are thought to be sensitive perfectionists and good team players, though overly anxious; type Os, curious and generous but stubborn; type ABs, artistic yet unpredictable; and type Bs, cheerful but eccentric and selfish. Though there is no scientific evidence behind it, the belief turns up everywhere in books, magazines, and TV shows. Is it just a game, or does it go too far? Tell us what you think on this forum.",
+      "introEmphasis": [],
+      "blocks": [
+        {
+          "label": "A",
+          "speaker": "Arjun",
+          "text": "Smart companies use every tool they have. In 1990, Mitsubishi Electronics reportedly announced an all-AB team, citing “their ability to make plans.” Matching people to roles by blood type just makes sense."
+        },
+        {
+          "label": "B",
+          "speaker": "Brooke",
+          "text": "If it helped Japan's women's softball team win gold at the Beijing Olympics, why knock it? The team reportedly used blood types to customize training for each player. Results speak for themselves."
+        },
+        {
+          "label": "C",
+          "speaker": "Connor",
+          "text": "Sure, flipping through blood-type charts in magazines is a fun way to kill time. But kindergartens planning little kids' lessons around blood groups? That crosses a line."
+        },
+        {
+          "label": "D",
+          "speaker": "Darius",
+          "text": "Personality decided by what's in your veins? No study has ever backed that up. It's a horoscope in a lab coat, and too many people fall for it."
+        },
+        {
+          "label": "E",
+          "speaker": "Emiko",
+          "text": "Interesting tidbit: one former prime minister revealed in his profile that he was type A, while his rival was type B. Make of that what you will."
+        },
+        {
+          "label": "F",
+          "speaker": "Fatima",
+          "text": "Some call it harmless fun. Tell that to the kids bullied over their blood type, the couples torn apart, and the people passed over for jobs. That's discrimination, plain and simple."
+        },
+        {
+          "label": "G",
+          "speaker": "Greg",
+          "text": "I used to roll my eyes at blood-type talk. Then I read that type Os are curious, generous, and stubborn—that's me to a T. I'm a believer now."
+        },
+        {
+          "label": "H",
+          "speaker": "Hiroshi",
+          "text": "It even reaches politics. In 2011, a minister was forced to resign after only a week in office when his bad-tempered run-in with local authorities aired on TV. His excuse? Being type B. Give me a break."
+        },
+        {
+          "label": "I",
+          "speaker": "Isabela",
+          "text": "I'll admit the blood-type page in magazines is good for a laugh. That said, using it to hand out job assignments is a different story. Keep it out of the office."
+        }
+      ],
+      "demoNote": "這一組是本題庫的改編練習，不是大考中心的試題。文章改編自 105 學測閱讀測驗第 41 至 44 題（閱讀測驗站可以找到原題），照 114 學測混合題動物園論壇那一組的貼文版面和題型出題，共四題、10 分。參考答案和解析都是本題庫寫的，不算進本題庫的八場、33 格、80 分。",
+      "zhTranslation": null,
+      "source": null,
+      "internalNote": "第三百六十場建檔。改編自 g105p1；命題分身出題，兩次盲測、四方審閱（引文事實、文法、學生讀者、大考體例）後裁定修訂。"
+    },
+    {
+      "id": "MXA-z103p4",
+      "year": 103,
+      "examLabel": "改編練習",
+      "sessionName": "改編練習（十九）",
+      "title": "基因改造蚊子的論壇討論",
+      "topic": "用基因改造蚊子防治瘧疾的期待與疑慮：九則討論區貼文",
+      "layout": "posts",
+      "points": 10,
+      "itemCount": 4,
+      "notCounted": true,
+      "intro": "Malaria is caused by a parasite that mosquitoes carry. To tackle it, researchers have genetically altered a bacterium inside these mosquitoes so that it releases compounds toxic to the parasite. The insects can then no longer infect humans. At the time this research was reported, an estimated 250 million people suffered from malaria each year and about one million died, many of them children, yet no effective or approved vaccine existed. Is genetic modification the answer, or are we moving too fast? Share your views on this forum.",
+      "introEmphasis": [],
+      "blocks": [
+        {
+          "label": "A",
+          "speaker": "Aisha",
+          "text": "A million deaths a year is a staggering toll. If engineered mosquitoes can stop the parasite in its tracks, I say release them as soon as it's safe. Every year we wait, more children die."
+        },
+        {
+          "label": "B",
+          "speaker": "Bruno",
+          "text": "We'd be setting genetically engineered organisms loose with no clear idea of their long-term effect on ecosystems. Environmental activists are right to worry."
+        },
+        {
+          "label": "C",
+          "speaker": "Chen",
+          "text": "The parasite has to be blocked completely. If even a few slip past this defense, their offspring will likely become resistant, and scientists will be back where they started. Count me out."
+        },
+        {
+          "label": "D",
+          "speaker": "Dominic",
+          "text": "What sold me is how precise this is. The compounds harm neither people nor the mosquitoes carrying them. Only the parasite dies, and that's exactly the kind of targeted weapon disease control needs."
+        },
+        {
+          "label": "E",
+          "speaker": "Esther",
+          "text": "Getting a bacterium to poison the parasite is a remarkable achievement. The catch? Lab mosquitoes will never replace wild ones unless they gain a competitive advantage. Until scientists solve that, I can't back this plan."
+        },
+        {
+          "label": "F",
+          "speaker": "Farid",
+          "text": "Nobody can say what these insects will do to human health decades from now. I'm not willing to take that gamble without an answer."
+        },
+        {
+          "label": "G",
+          "speaker": "Gabriela",
+          "text": "Granted, winning public approval won't happen overnight, and there's a long way to go. Even so, a method that leaves mosquitoes incapable of infecting anyone deserves our support."
+        },
+        {
+          "label": "H",
+          "speaker": "Hamza",
+          "text": "Scientists now want to genetically modify the world around us. Is that progress or arrogance? I can't decide, so I'll wait for more research before I take a stand."
+        },
+        {
+          "label": "I",
+          "speaker": "Ines",
+          "text": "Using these insects to wipe out a disease that kills so many children would be wonderful, no question. My problem is releasing lab-made creatures into nature before anyone understands the long-term consequences."
+        }
+      ],
+      "demoNote": "這一組是本題庫的改編練習，不是大考中心的試題。文章改編自 103 指考閱讀測驗第 48 至 51 題（閱讀測驗站可以找到原題），照 114 學測混合題動物園論壇那一組的貼文版面和題型出題，共四題、10 分。參考答案和解析都是本題庫寫的，不算進本題庫的八場、33 格、80 分。",
+      "zhTranslation": null,
+      "source": null,
+      "internalNote": "第三百六十場建檔。改編自 z103p4；命題分身出題，兩次盲測、四方審閱（引文事實、文法、學生讀者、大考體例）後裁定修訂。"
+    },
+    {
+      "id": "MXA-g108p2",
+      "year": 108,
+      "examLabel": "改編練習",
+      "sessionName": "改編練習（二十）",
+      "title": "北美原住民的圖騰柱",
+      "topic": "北美西北海岸原住民的圖騰柱：五張卡片介紹迎賓柱、屋柱、紀念柱、墓葬柱與羞辱柱",
+      "layout": "cards",
+      "points": 10,
+      "itemCount": 4,
+      "notCounted": true,
+      "intro": "Totem poles in North America are tall posts carved with symbols or figures by the Aboriginal peoples of the Northwest Coast. Cut from large, straight trees and painted in vibrant colors, they are far more than unique works of art. For generations, these coastal communities have passed on their knowledge through oral traditions, and a totem pole was the customary way to tell the story of a particular family or clan. Despite the threats posed by the cultural and political encroachment of colonial forces, the art of totem pole carving has survived, and Aboriginal carvers still create totems today as symbols of cultural pride and clan kinship. Depending on where it was placed and the occasion it was carved for, a pole fell into one of several categories, five of which are described below.",
+      "introEmphasis": [],
+      "blocks": [
+        {
+          "label": "1",
+          "speaker": "Welcome Poles",
+          "text": "Welcome poles were put up on village beachfronts, where they greeted guests arriving by canoe."
+        },
+        {
+          "label": "2",
+          "speaker": "House Poles",
+          "text": "House poles were found inside the homes of high-ranking chiefs, and the family’s history was carefully carved into each one. Placed along the front or rear walls of the house, these poles did practical work as well: they helped hold up the main beam of the roof."
+        },
+        {
+          "label": "3",
+          "speaker": "Memorial Poles",
+          "text": "A memorial pole was erected in front of a house in memory of a deceased chief or a high-ranking clan member. Its carvings depicted the person’s accomplishments or family history."
+        },
+        {
+          "label": "4",
+          "speaker": "Mortuary Poles",
+          "text": "Mortuary poles were likewise raised to honor the dead, but they differed from memorial poles: a burial box sat at the top of the pole, and inside it lay the remains of the deceased."
+        },
+        {
+          "label": "5",
+          "speaker": "Shame Poles",
+          "text": "Shame poles are the one kind that can now be seen only in museums, whereas many examples of the other kinds can still be found in various locations along the west coast of North America. In the past, a chief would have such a pole carved to embarrass and ridicule another chief who had done something wrong. Once the wrong was made right, the pole was taken down."
+        }
+      ],
+      "demoNote": "這一組是本題庫的改編練習，不是大考中心的試題。文章改編自 108 學測閱讀測驗第 45 至 48 題（閱讀測驗站可以找到原題），照 115 學測混合題奇幻部落那一組的卡片版面出題，題型比照 113 學測，共四題、10 分。參考答案和解析都是本題庫寫的，不算進本題庫的八場、33 格、80 分。",
+      "zhTranslation": null,
+      "source": null,
+      "internalNote": "第三百六十場建檔。改編自 g108p2；命題分身出題，兩次盲測、四方審閱（引文事實、文法、學生讀者、大考體例）後裁定修訂。"
+    },
+    {
+      "id": "MXA-z94p3",
+      "year": 94,
+      "examLabel": "改編練習",
+      "sessionName": "改編練習（二十一）",
+      "title": "企業進軍新市場的三類問題",
+      "topic": "企業進入新市場時遇到的政治／法律、經濟、文化三類問題，以可口可樂在印度和加拿大旅遊廣告為例",
+      "layout": "cards",
+      "points": 10,
+      "itemCount": 4,
+      "notCounted": true,
+      "intro": "When a company ventures into new markets, it will have to deal with all sorts of problems. Broadly speaking, these problems fall into six categories: cultural, economic, geographical, political/legal, religious, and technological. The cards below take a closer look at three of them.",
+      "introEmphasis": [],
+      "blocks": [
+        {
+          "label": "1",
+          "speaker": "Political and Legal Issues",
+          "text": "A company entering a foreign country is, in a sense, an alien in the local business climate, and that status can cause trouble. Coca-Cola learned this lesson in India, where it was told to either reveal its secret formula or leave the country. Coke chose to leave. Several years later, it was welcomed back, only to face harassment and constant interference from political activists."
+        },
+        {
+          "label": "2",
+          "speaker": "Economic Issues",
+          "text": "Economic problems can affect the very properties of a product. A company is therefore often forced to make adaptations to its goods so that they meet the needs of the local market. To handle such problems, the company should first assess how economically developed the market is. Useful measures include the level of revenue, the buying power of local consumers, and the state of the infrastructure. Indicators like these provide vital information for planning a marketing strategy."
+        },
+        {
+          "label": "3",
+          "speaker": "Cultural Factors",
+          "text": "For researchers studying new markets, cultural factors may well be the biggest challenge of all. Markets that share similarities on various grounds often turn out to be dissimilar when it comes to culture, and such differences can exist even within a single country. Travel advertising in Canada is a case in point: it is divided between English-speaking and French-speaking audiences. The pictures in ads for English speakers show a wife alone, whereas those for French speakers show a husband and wife together. The reason is that French-speaking Canadians are more strongly bound by family ties."
+        }
+      ],
+      "demoNote": "這一組是本題庫的改編練習，不是大考中心的試題。文章改編自 94 指考閱讀測驗第 54 至 56 題（閱讀測驗站可以找到原題），照 115 學測混合題奇幻部落那一組的卡片版面出題，題型比照 113 學測，共四題、10 分。參考答案和解析都是本題庫寫的，不算進本題庫的八場、33 格、80 分。",
+      "zhTranslation": null,
+      "source": null,
+      "internalNote": "第三百六十場建檔。改編自 z94p3；命題分身出題，兩次盲測、四方審閱（引文事實、文法、學生讀者、大考體例）後裁定修訂。"
+    },
+    {
+      "id": "MXA-g107p4",
+      "year": 107,
+      "examLabel": "改編練習",
+      "sessionName": "改編練習（二十二）",
+      "title": "搖籃曲的作用",
+      "topic": "最早的巴比倫搖籃曲、寶寶回應的是什麼、歌詞的用處與對母親的意義：四張卡片",
+      "layout": "cards",
+      "points": 10,
+      "itemCount": 4,
+      "notCounted": true,
+      "intro": "Lullabies have been sung to infants for thousands of years. Yet what exactly do these songs do, and for whom? The four cards below look at what researchers have found.",
+      "introEmphasis": [],
+      "blocks": [
+        {
+          "label": "1",
+          "speaker": "A Lullaby from Babylon",
+          "text": "Some 4,000 years ago, someone in ancient Babylon wrote down what may be the first lullaby ever recorded. It is a rather threatening song. The baby is scolded for disturbing the house god with its crying and is warned of terrifying consequences: if the crying does not stop, a demon will eat the child. The baby may well have drifted off while listening, but the song’s message is far from comforting. In fact, the song may strike us as more frightening than sleep-inducing. And it is not alone: many lullabies, including those still sung today, carry dark undertones."
+        },
+        {
+          "label": "2",
+          "speaker": "What Babies Respond To",
+          "text": "Research has shown that lullabies, when used correctly, can soothe an infant and possibly even help it heal. What the baby is reacting to, however, is not the content of the song. Instead, it is the caregiver’s voice, together with the rhythm and melody of the music."
+        },
+        {
+          "label": "3",
+          "speaker": "What the Words Are For",
+          "text": "If babies are not responding to the words, what purpose do the words serve? Studies suggest that some lullabies give advice, as the Babylonian one does with its warning to stop crying. Quite a few others offer the singer a space to sing the unsung and say the unsayable. The lyrics of such songs can indeed be interpreted as a reflection of the caregiver’s emotions."
+        },
+        {
+          "label": "4",
+          "speaker": "A Song for the Mother",
+          "text": "Researchers believe that much of what lullabies do is help a mother vocalize her worries and concerns. A mother’s fear of losing her child makes particular sense, since the infant and toddler years are fragile ones. Because mother and child share a special physical bond during this period, mothers feel free to sing to their children about their own fears and anxieties. In this way, lullabies serve as therapy for the mother. The songs also seem to be trying to work a little magic, as if the mother were saying through her singing, “Sadness has already touched this house; there is no need to come by again.”"
+        }
+      ],
+      "demoNote": "這一組是本題庫的改編練習，不是大考中心的試題。文章改編自 107 學測閱讀測驗第 53 至 56 題（閱讀測驗站可以找到原題），照 115 學測混合題奇幻部落那一組的卡片版面出題，題型比照 113 學測，共四題、10 分。參考答案和解析都是本題庫寫的，不算進本題庫的八場、33 格、80 分。",
+      "zhTranslation": null,
+      "source": null,
+      "internalNote": "第三百六十場建檔。改編自 g107p4；命題分身出題，兩次盲測、四方審閱（引文事實、文法、學生讀者、大考體例）後裁定修訂。"
     }
   ]
 }
