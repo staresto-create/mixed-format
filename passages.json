@@ -598,6 +598,461 @@
       "zhTranslation": null,
       "source": null,
       "internalNote": "第三百五十九場建檔。改編自 103 學測閱讀測驗（g103p3），照 114 學測混合題版面；九則貼文為本題庫依原文論點撰寫。"
+    },
+    {
+      "id": "MXA-z108p3",
+      "year": 108,
+      "examLabel": "改編練習",
+      "sessionName": "改編練習（三）",
+      "title": "語言與嗅覺描述的文化差異",
+      "topic": "英語使用者與雨林狩獵採集族群（Maniq、Jahai）描述氣味的差異",
+      "layout": "two-column",
+      "points": 10,
+      "itemCount": 4,
+      "notCounted": true,
+      "intro": "Is talking about smell equally hard in every language? Researchers who compared English with Maniq and Jahai, two languages spoken by neighboring groups of hunter-gatherers, found a striking contrast. Interestingly, the contrast seems to have very little to do with what the human nose can actually do. The researchers suggest instead that people’s surroundings may play a significant role.",
+      "introEmphasis": [],
+      "blocks": [
+        {
+          "label": "English speakers",
+          "speaker": null,
+          "text": "In English, there is no straightforward way to talk about smell. Because the language lacks dedicated odor terminology, its speakers are often forced to fall back on odor sources such as “flowery” and “vanilla,” or on metaphors like “sweet” and “oriental,” in their descriptions of smell. Their noses are not to blame. According to a recent study, English speakers are capable of discriminating more than a trillion different odors. The gap, then, lies between what they can sense and what they can say. Many of them inhabit the post-industrial West and do not depend on smells to survive in their environment. This, the researchers believe, may explain why their language offers so few words for odors."
+        },
+        {
+          "label": "Rainforest hunter-gatherers",
+          "speaker": null,
+          "text": "The Maniq, a group of hunter-gatherers in southern Thailand, can describe smells using at least fifteen different terms. These words express nothing but smells and are not applicable across other sensory domains. The Jahai, a neighboring population, likewise have a dozen words for various odors. Both groups live in tropical rainforests that remain largely untouched by humans, so they are surrounded by smells at all times. To survive there, they evaluate their surroundings through their noses. Smell helps them identify animals worth hunting and recognize objects or events, such as spoiled food, that can pose a danger."
+        }
+      ],
+      "demoNote": "這一組是本題庫的改編練習，不是大考中心的試題。文章改編自 108 指考閱讀測驗第 44 至 47 題（閱讀測驗站可以找到原題），照 113 學測混合題寒鴉、烏龜蟻那一組的兩欄版面和題型出題，共四題、10 分。參考答案和解析都是本題庫寫的，不算進本題庫的八場、33 格、80 分。",
+      "zhTranslation": null,
+      "source": null,
+      "internalNote": "第三百五十九場建檔。改編自 z108p3；命題分身出題，兩次盲測、四方審閱（引文事實、文法、學生讀者、大考體例）後裁定修訂。"
+    },
+    {
+      "id": "MXA-z101p1",
+      "year": 101,
+      "examLabel": "改編練習",
+      "sessionName": "改編練習（四）",
+      "title": "幽默的兩面：貶低式幽默與自貶式幽默",
+      "topic": "貶低式幽默（put-down humor）與自貶式幽默（hate-me humor）的對照",
+      "layout": "two-column",
+      "points": 10,
+      "itemCount": 4,
+      "notCounted": true,
+      "intro": "A good sense of humor is widely admired, and people who have one are often thought of as happy and socially confident. Yet humor is a double-edged sword. It can forge stronger relationships and help us cope with life, but it can also eat away at self-esteem and antagonize those around us. Its friendly side shows up in bonding humor. People who use bonding humor crack jokes and generally lighten the mood. They are perceived as being skilled at reducing the tension in uncomfortable situations. Their humor often draws on experiences that everyone in the group has shared, and sometimes they even laugh off their own misfortunes. The basic message behind their jokes is this: We’re all alike, the same things strike us as funny, and we’re all in this together. Other types of humor, however, show that being funny is not necessarily a sign of good social skills or well-being; in some cases, humor may actually take a toll on the way we relate to others.",
+      "introEmphasis": [],
+      "blocks": [
+        {
+          "label": "Put-Down Humor",
+          "speaker": null,
+          "text": "Put-down humor is an aggressive style that relies on teasing to criticize and manipulate others. Aimed at politicians, as it often is, it can be hilarious and largely harmless. In everyday life, however, it can do real damage. Picture someone telling a group of friends an embarrassing story about another friend. When challenged, the teaser may claim to be “just kidding” and thereby dodge responsibility. Though some people regard such humor as socially acceptable, it can wound the person on the receiving end and strain personal relationships."
+        },
+        {
+          "label": "Hate-Me Humor",
+          "speaker": null,
+          "text": "In hate-me humor, the joker becomes the butt of the joke for the amusement of others. Comedians John Belushi and Chris Farley relied on this style, and both suffered for their success in show business. In small doses, such self-mockery can be endearing. Routinely offering oneself up to be humiliated, though, erodes self-respect and fosters depression and anxiety."
+        }
+      ],
+      "demoNote": "這一組是本題庫的改編練習，不是大考中心的試題。文章改編自 101 指考閱讀測驗第 36 至 39 題（閱讀測驗站可以找到原題），照 113 學測混合題寒鴉、烏龜蟻那一組的兩欄版面和題型出題，共四題、10 分。參考答案和解析都是本題庫寫的，不算進本題庫的八場、33 格、80 分。",
+      "zhTranslation": null,
+      "source": null,
+      "internalNote": "第三百五十九場建檔。改編自 z101p1；命題分身出題，兩次盲測、四方審閱（引文事實、文法、學生讀者、大考體例）後裁定修訂。"
+    },
+    {
+      "id": "MXA-g91bp4",
+      "year": 91,
+      "examLabel": "改編練習",
+      "sessionName": "改編練習（五）",
+      "title": "數位相機與底片相機",
+      "topic": "數位相機與傳統底片相機的優缺點對照",
+      "layout": "two-column",
+      "points": 10,
+      "itemCount": 4,
+      "notCounted": true,
+      "intro": "“I have a regular film camera, but I just don’t use it much,” said Ms. Lowery, a 23-year-old computer programmer. In many consumers’ minds, digital cameras have risen from mere gadgets to must-have items, and salespeople expect them to be popular gifts this holiday season. How do these newcomers compare with the film cameras most families still own?",
+      "introEmphasis": [],
+      "blocks": [
+        {
+          "label": "Digital cameras",
+          "speaker": null,
+          "text": "Shoppers can choose from plenty of models, from simple $200 point-and-shoot snappers to $1,000 wonders loaded with every feature an advanced amateur could want. Beyond showing each shot instantly on a small color screen, these cameras can hold dozens, sometimes hundreds, of images, which can easily be printed at home or sent by e-mail. Going digital does involve extra costs—memory cards for storage and special paper for printing—yet many buyers have been willing to make the switch. “The prices have come down and the quality has gone up,” said Yossi Fogel at B & H Photo in New York. With a large memory card, he added, you can shoot and shoot and never worry about changing a roll. Households with digital cameras now make up only about 10 percent of the total, but that figure is certain to grow as manufacturers introduce more models whose quality matches that of film cameras. Soon, even professionals will use them."
+        },
+        {
+          "label": "Film cameras",
+          "speaker": null,
+          "text": "About 90 percent of American households still rely on film cameras, though film has its drawbacks. When Ms. Lowery got married last year, many of her pictures didn’t come out right, and the money she had spent on film for those shots was wasted. Film is also a burden on the road. “Who wants to travel with 30 rolls of film?” Fogel asked. A roll holds only so many pictures, and once it is used up, the photographer has to stop and put in a new one. “How many times have you missed a picture because you failed to reload the film?”"
+        }
+      ],
+      "demoNote": "這一組是本題庫的改編練習，不是大考中心的試題。文章改編自 91 學測補考閱讀測驗第 51 至 55 題（閱讀測驗站可以找到原題），照 113 學測混合題寒鴉、烏龜蟻那一組的兩欄版面和題型出題，共四題、10 分。參考答案和解析都是本題庫寫的，不算進本題庫的八場、33 格、80 分。",
+      "zhTranslation": null,
+      "source": null,
+      "internalNote": "第三百五十九場建檔。改編自 g91bp4；命題分身出題，兩次盲測、四方審閱（引文事實、文法、學生讀者、大考體例）後裁定修訂。"
+    },
+    {
+      "id": "MXA-z100p2",
+      "year": 100,
+      "examLabel": "改編練習",
+      "sessionName": "改編練習（六）",
+      "title": "動物實驗的論壇討論",
+      "topic": "動物實驗的必要性與倫理爭議：九則討論區貼文",
+      "layout": "posts",
+      "points": 10,
+      "itemCount": 4,
+      "notCounted": true,
+      "intro": "Each year, some 50 to 100 million animals are used in research worldwide, with mice and rats the most common. Europe, which already has the world's most restrictive laws on animal experiments, is now reforming them to bring down the number of animals in labs. Supporters call such testing vital to medicine; critics point to the stress and pain it causes. Where do you stand? Share your views on this forum.",
+      "introEmphasis": [],
+      "blocks": [
+        {
+          "label": "A",
+          "speaker": "Amanda",
+          "text": "Think how much medicine has learned from lab animals. Experiments on them have taught humanity a great deal and saved countless lives. As far as I'm concerned, the research has to go on."
+        },
+        {
+          "label": "B",
+          "speaker": "Brian",
+          "text": "Making animals go through painful procedures just to test a new drug? In an ideal world, nobody would do that, and I say we start behaving as if we lived in one."
+        },
+        {
+          "label": "C",
+          "speaker": "Carol",
+          "text": "The official figures are misleading. America reports only 1.1 million lab animals a year, but mice and rats aren't even counted there, despite being the animals labs rely on most."
+        },
+        {
+          "label": "D",
+          "speaker": "Derek",
+          "text": "I hate to think of lab mice in pain. Even so, there are still vast gaps in what doctors know, and until those gaps are bridged, we can't do without animal testing."
+        },
+        {
+          "label": "E",
+          "speaker": "Emma",
+          "text": "Researchers tend to publish only successful experiments. Results that don't fit the hypothesis get quietly shelved, so other labs end up repeating the same failed tests, and more animals die for nothing."
+        },
+        {
+          "label": "F",
+          "speaker": "Felix",
+          "text": "Sure, lab animals have helped scientists make some breakthroughs. Then again, every study costs a fortune and drags on for years. That money and time could do far more good somewhere else."
+        },
+        {
+          "label": "G",
+          "speaker": "Grace",
+          "text": "There's no question that animal research must continue. What Europe is doing makes sense, though: use as few animals as possible and turn to human tissue or computer models instead."
+        },
+        {
+          "label": "H",
+          "speaker": "Howard",
+          "text": "Europe already regulates animal research more closely than anywhere else, yet its scientists still use about 12 million animals a year. If even those rules can't prevent that, maybe it's time to end these experiments altogether."
+        },
+        {
+          "label": "I",
+          "speaker": "Iris",
+          "text": "Animal testing may well save lives, but before I take a side, I want honest numbers. Japan and China keep even less complete records than America, so nobody knows the real total."
+        }
+      ],
+      "demoNote": "這一組是本題庫的改編練習，不是大考中心的試題。文章改編自 100 指考閱讀測驗第 40 至 43 題（閱讀測驗站可以找到原題），照 114 學測混合題動物園論壇那一組的貼文版面和題型出題，共四題、10 分。參考答案和解析都是本題庫寫的，不算進本題庫的八場、33 格、80 分。",
+      "zhTranslation": null,
+      "source": null,
+      "internalNote": "第三百五十九場建檔。改編自 z100p2；命題分身出題，兩次盲測、四方審閱（引文事實、文法、學生讀者、大考體例）後裁定修訂。"
+    },
+    {
+      "id": "MXA-g110tp3",
+      "year": 110,
+      "examLabel": "改編練習",
+      "sessionName": "改編練習（七）",
+      "title": "印度的單一時區之爭",
+      "topic": "維持單一時區還是改制：九則討論區貼文",
+      "layout": "posts",
+      "points": 10,
+      "itemCount": 4,
+      "notCounted": true,
+      "intro": "For decades, India's time zone has been a hotly debated issue. When time zones were officially set up in 1884, the country used two of them: Calcutta Time and Bombay Time. Indian Standard Time (IST) arrived in 1906, but the two older clocks stayed in use until 1948 and 1955 respectively. Today the whole country, 3,000 km wide, still lives by one clock. Should India stay with one time zone? Share your views on this forum.",
+      "introEmphasis": [],
+      "blocks": [
+        {
+          "label": "A",
+          "speaker": "Aarav",
+          "text": "One nation, one clock. Our single time zone may be a legacy of British rule, but it is also a sign of our unity. Splitting it would send the wrong message."
+        },
+        {
+          "label": "B",
+          "speaker": "Bina",
+          "text": "Here in the Northeast, the sun can rise as early as 4 a.m. in summer and set by 4 p.m. in winter. Hours of precious daylight slip away outside office hours."
+        },
+        {
+          "label": "C",
+          "speaker": "Chetan",
+          "text": "Think of all the trains and flights crossing this country every hour. Schedule them on two different clocks, and one mix-up over departure times could cost lives. Safety comes first."
+        },
+        {
+          "label": "D",
+          "speaker": "Divya",
+          "text": "When the sun sets before the workday ends, offices keep their lights on for hours and electricity consumption soars. Productivity suffers, too. A second time zone is long overdue."
+        },
+        {
+          "label": "E",
+          "speaker": "Esha",
+          "text": "I'm proud of what our shared clock means to us. Still, pride won't get kids to bed on time. Out west, where the sun sets late, children sleep less, and their schooling pays the price."
+        },
+        {
+          "label": "F",
+          "speaker": "Farhan",
+          "text": "Sure, the system has its flaws, and I've heard the Northeast's complaints. But picture resetting your watch every time you cross into another state. Two clocks would only breed confusion."
+        },
+        {
+          "label": "G",
+          "speaker": "Gita",
+          "text": "Our single clock is failing poor kids. Studies show that sleep deprivation from late sunsets hits them hardest, since their homes are often noisy and lack window shades or proper beds."
+        },
+        {
+          "label": "H",
+          "speaker": "Harish",
+          "text": "The government has turned down every request for more time zones, citing railway and flight safety. I wonder whether it will ever change its mind."
+        },
+        {
+          "label": "I",
+          "speaker": "Isha",
+          "text": "A second time zone would give the east back its lost daylight. Then again, rewriting every train and airline timetable sounds like a nightmare. Honestly, I'm still on the fence."
+        }
+      ],
+      "demoNote": "這一組是本題庫的改編練習，不是大考中心的試題。文章改編自 110 年試辦考試閱讀測驗第 43 至 46 題（閱讀測驗站可以找到原題），照 114 學測混合題動物園論壇那一組的貼文版面和題型出題，共四題、10 分。參考答案和解析都是本題庫寫的，不算進本題庫的八場、33 格、80 分。",
+      "zhTranslation": null,
+      "source": null,
+      "internalNote": "第三百五十九場建檔。改編自 g110tp3；命題分身出題，兩次盲測、四方審閱（引文事實、文法、學生讀者、大考體例）後裁定修訂。"
+    },
+    {
+      "id": "MXA-z107p4",
+      "year": 107,
+      "examLabel": "改編練習",
+      "sessionName": "改編練習（八）",
+      "title": "斯瓦巴全球種子庫的爭議",
+      "topic": "種子庫保存作物多樣性的優點與疑慮：九則討論區貼文",
+      "layout": "posts",
+      "points": 10,
+      "itemCount": 4,
+      "notCounted": true,
+      "intro": "Built beneath a mountain on an Arctic island halfway between Norway and the North Pole, the Svalbard Global Seed Vault is meant to shield the world's crop diversity from catastrophe. Its seed samples come from almost every country on Earth. Yet a growing body of opinion holds that the world's faith in the Vault is misplaced. Is it really the best way to secure our food supply? Share your views on this forum.",
+      "introEmphasis": [],
+      "blocks": [
+        {
+          "label": "A",
+          "speaker": "Alice",
+          "text": "Seeds of the crops we depend on, backed up in one place under solid rock? That's exactly what we need. When farmers and scientists search for genes to improve today's crops, they'll know just where to look."
+        },
+        {
+          "label": "B",
+          "speaker": "Brian",
+          "text": "You can't box up diversity and store it in a single container, no matter how thick the walls are. Crops never stand still, and pests and diseases are always adapting."
+        },
+        {
+          "label": "C",
+          "speaker": "Carol",
+          "text": "The Vault isn't just storage. It's meant to help breed new varieties that can handle climate change and feed a rising population. I'd call that a smart investment."
+        },
+        {
+          "label": "D",
+          "speaker": "Derek",
+          "text": "According to new research, as much as 75 percent of global crop diversity lies outside the big seed banks. It's held by some of the world's most marginal farmers, not by institutions."
+        },
+        {
+          "label": "E",
+          "speaker": "Emma",
+          "text": "Locked deep under an Arctic mountain, those seeds are about as secure as seeds can be. Still, global warming will bring challenges that remain unforeseen, and no vault can prepare crops for what nobody sees coming."
+        },
+        {
+          "label": "F",
+          "speaker": "Fiona",
+          "text": "A seed bank can neither make up for the practical knowledge of farmers on the ground nor compete with their ingenuity. Seeds alone are not enough."
+        },
+        {
+          "label": "G",
+          "speaker": "Gavin",
+          "text": "This whole debate comes down to one question: should we work with communities in the fields or with institutions? Funding is so hard to find that we can't do both."
+        },
+        {
+          "label": "H",
+          "speaker": "Henry",
+          "text": "Sure, one vault won't solve every problem farmers face. But it already holds more than 860,000 samples, and if catastrophe strikes, that backup could make all the difference."
+        },
+        {
+          "label": "I",
+          "speaker": "Ivy",
+          "text": "The idea behind the Vault is a noble one. Yet fifty or a hundred years from now, will a single isolated vault really help farmers cope with climate change? I'm not convinced."
+        }
+      ],
+      "demoNote": "這一組是本題庫的改編練習，不是大考中心的試題。文章改編自 107 指考閱讀測驗第 48 至 51 題（閱讀測驗站可以找到原題），照 114 學測混合題動物園論壇那一組的貼文版面和題型出題，共四題、10 分。參考答案和解析都是本題庫寫的，不算進本題庫的八場、33 格、80 分。",
+      "zhTranslation": null,
+      "source": null,
+      "internalNote": "第三百五十九場建檔。改編自 z107p4；命題分身出題，兩次盲測、四方審閱（引文事實、文法、學生讀者、大考體例）後裁定修訂。"
+    },
+    {
+      "id": "MXA-g99p3",
+      "year": 99,
+      "examLabel": "改編練習",
+      "sessionName": "改編練習（九）",
+      "title": "房屋交換的論壇討論",
+      "topic": "換屋旅行的好處與失竊、清潔等疑慮：八則討論區貼文",
+      "layout": "posts",
+      "points": 10,
+      "itemCount": 4,
+      "notCounted": true,
+      "intro": "No budget for a vacation? More and more travelers are trying home exchanges—swapping houses with strangers. Several websites now match up swappers, and HomeExchanges bills itself as the world's largest home exchange club, with some 28,000 listings and a 30% jump in membership this year. For an annual fee of usually less than US$100, members can browse apartments, villas, suburban homes, and farms around the world. Exchange sites suggest an agreement spelling out who shoulders which responsibilities if a problem arises. Would you give it a try? Share your thoughts on this forum.",
+      "introEmphasis": [],
+      "blocks": [
+        {
+          "label": "A",
+          "speaker": "Alice",
+          "text": "A free place to stay abroad? Sign me up! If the other family agrees to swap cars as well, I can skip the rental counter, too. That's a vacation my wallet can handle."
+        },
+        {
+          "label": "B",
+          "speaker": "Brian",
+          "text": "Hand my house keys to someone I've never met? No way. What if they wreck the furniture or walk off with my laptop? A cheap trip isn't worth that kind of gamble."
+        },
+        {
+          "label": "C",
+          "speaker": "Chloe",
+          "text": "Villas, farms, apartments all over the globe—the choices sound like a dream. Then I picture coming home to a sticky kitchen floor and a sink full of dirty dishes. My standards are strict, so I'll pass."
+        },
+        {
+          "label": "D",
+          "speaker": "David",
+          "text": "Relax. Nobody is going to fly across an ocean or drive 600 miles just to steal your TV. Besides, while your guests are sleeping in your bed, you're sleeping in theirs. Both sides have every reason to behave."
+        },
+        {
+          "label": "E",
+          "speaker": "Emma",
+          "text": "Curious how it works? Members join for a yearly fee, browse the listings, and make first contact by e-mail. Phone calls usually follow, and most pairs discuss the details at length."
+        },
+        {
+          "label": "F",
+          "speaker": "Frank",
+          "text": "That signed agreement the sites suggest? I suppose it's some comfort. Still, would it hold up in court? Comfort is not protection, so I'm sticking with hotels."
+        },
+        {
+          "label": "G",
+          "speaker": "Grace",
+          "text": "Swapping homes is hardly a new idea. The group Intervac has been arranging exchanges since 1953. What has changed is that more and more of the matching now happens online."
+        },
+        {
+          "label": "H",
+          "speaker": "Hannah",
+          "text": "Our biggest complaint from last summer's swap? The kitchen we came back to was far from sparkling. Annoying, yes. But will it sour me on future exchanges? Not a chance—we've already booked the next one."
+        }
+      ],
+      "demoNote": "這一組是本題庫的改編練習，不是大考中心的試題。文章改編自 99 學測閱讀測驗第 49 至 52 題（閱讀測驗站可以找到原題），照 114 學測混合題動物園論壇那一組的貼文版面和題型出題，共四題、10 分。參考答案和解析都是本題庫寫的，不算進本題庫的八場、33 格、80 分。",
+      "zhTranslation": null,
+      "source": null,
+      "internalNote": "第三百五十九場建檔。改編自 g99p3；命題分身出題，兩次盲測、四方審閱（引文事實、文法、學生讀者、大考體例）後裁定修訂。"
+    },
+    {
+      "id": "MXA-g92p3",
+      "year": 92,
+      "examLabel": "改編練習",
+      "sessionName": "改編練習（十）",
+      "title": "醫學的三個分支",
+      "topic": "科學醫學、民俗醫學與信仰治療：三張卡片介紹三種治病的方式",
+      "layout": "cards",
+      "points": 10,
+      "itemCount": 4,
+      "notCounted": true,
+      "intro": "How have people tried to cure the sick over the centuries? Broadly speaking, there are three branches of medicine, and each one goes about healing in its own way.",
+      "introEmphasis": [],
+      "blocks": [
+        {
+          "label": "1",
+          "speaker": "Scientific Medicine",
+          "text": "Also known as “doctor medicine,” this branch is believed to date from the 4th century BC. Doctors in this tradition begin by observing sicknesses closely and searching for logical patterns. From there, they gain an understanding of the human body and decide which treatments are likely to help. Although this approach achieves remarkable results today, it probably did not cure many patients in the ancient world."
+        },
+        {
+          "label": "2",
+          "speaker": "Folk Medicine",
+          "text": "Also called “natural cures,” folk medicine is practiced by people with little formal schooling, who treat sicknesses with various herbs. Like trained doctors, these folk healers rely on observation and logic, but they are not so aware of it. They simply try one remedy after another until they hit on something that seems effective, and from then on they stick with it. Folk medicine was already flourishing long before scientific medicine came along, and in ancient times it cured more patients than its scientific rival did."
+        },
+        {
+          "label": "3",
+          "speaker": "Faith Healing",
+          "text": "Faith healing takes many forms. The cure may be as simple as touching a holy man and being healed immediately. At other times, a magician may make you a magic charm or say a spell over you. Some religious groups also run special healing shrines, a kind of “health spa” for the sick. There, visitors rest, get plenty of sleep, eat healthy food, drink water instead of wine, and exercise in various ways. They also talk with priests and pray to the gods. If you are feeling depressed or have been pushing yourself too hard, a stay at one of these places may be just what you need to feel better."
+        }
+      ],
+      "demoNote": "這一組是本題庫的改編練習，不是大考中心的試題。文章改編自 92 學測閱讀測驗第 48 至 51 題（閱讀測驗站可以找到原題），照 115 學測混合題奇幻部落那一組的卡片版面出題，題型比照 113 學測，共四題、10 分。參考答案和解析都是本題庫寫的，不算進本題庫的八場、33 格、80 分。",
+      "zhTranslation": null,
+      "source": null,
+      "internalNote": "第三百五十九場建檔。改編自 g92p3；命題分身出題，兩次盲測、四方審閱（引文事實、文法、學生讀者、大考體例）後裁定修訂。"
+    },
+    {
+      "id": "MXA-g109p3",
+      "year": 109,
+      "examLabel": "改編練習",
+      "sessionName": "改編練習（十一）",
+      "title": "橄欖油的等級與保存",
+      "topic": "特級初榨、初榨、精製三種橄欖油的等級差異與保存須知",
+      "layout": "cards",
+      "points": 10,
+      "itemCount": 4,
+      "notCounted": true,
+      "intro": "Probably the most widely used oil in the kitchen, olive oil is made by crushing olives with stone or steel blades to release their oil. Not every bottle, however, offers the same quality. For years, olive oil tasters have used descriptive terms such as “pure” and “light” to evaluate the quality of olive oil. Now the International Olive Council (IOC) is seeking input on test methods, hoping to make the testing process more transparent and its results more accurate. It has also proposed redefining the term “olive oil” so that virgin and pure olive oil can be clearly told apart. Below is a guide to the three main grades, followed by some advice on storage.",
+      "introEmphasis": [],
+      "blocks": [
+        {
+          "label": "1",
+          "speaker": "Extra Virgin Olive Oil",
+          "text": "The finest grade comes from the first pressing of the olives and has a very low acidity rate, under 1%. To qualify as “extra virgin,” the oil must pass an official laboratory test as well as a sensory evaluation by a trained tasting panel. It has to be free from impurities. At the same time, it should exhibit some fruitiness, a pleasant bitter flavor, and a peppery sensation in the mouth."
+        },
+        {
+          "label": "2",
+          "speaker": "Virgin Olive Oil",
+          "text": "Ranked second, virgin olive oil is also made from the first pressing. Its acidity, however, is slightly higher, though still below 2%."
+        },
+        {
+          "label": "3",
+          "speaker": "Pure Olive Oil",
+          "text": "The cheapest of the three, pure olive oil is refined to strip away its impurities and then blended to improve its flavor. It is recommended for all-purpose cooking."
+        },
+        {
+          "label": "4",
+          "speaker": "Storage Tips",
+          "text": "Packaging and storage have an impact on quality, too. Olive oil spoils quickly when exposed to direct sunlight, so store it in the dark at 16-18°C. Moisture and oxygen speed up oxidation and thus shorten its shelf life. Plastic containers are a poor choice. They seldom provide adequate protection from light, heat, or moisture, and tiny particles in the plastic can leak into the oil, lowering its quality even further."
+        }
+      ],
+      "demoNote": "這一組是本題庫的改編練習，不是大考中心的試題。文章改編自 109 學測閱讀測驗第 49 至 52 題（閱讀測驗站可以找到原題），照 115 學測混合題奇幻部落那一組的卡片版面出題，題型比照 113 學測，共四題、10 分。參考答案和解析都是本題庫寫的，不算進本題庫的八場、33 格、80 分。",
+      "zhTranslation": null,
+      "source": null,
+      "internalNote": "第三百五十九場建檔。改編自 g109p3；命題分身出題，兩次盲測、四方審閱（引文事實、文法、學生讀者、大考體例）後裁定修訂。"
+    },
+    {
+      "id": "MXA-g95p2",
+      "year": 95,
+      "examLabel": "改編練習",
+      "sessionName": "改編練習（十二）",
+      "title": "茶的歷史與三種茶",
+      "topic": "茶的傳播歷史，以及紅茶、綠茶、烏龍茶的製作方式",
+      "layout": "cards",
+      "points": 10,
+      "itemCount": 4,
+      "notCounted": true,
+      "intro": "Tea was the first brewed beverage. The Chinese emperor Shen Nung introduced the drink in 2737 B.C., and by A.D. 780, the writer Lu Yu could report that there were “tens of thousands” of teas. Around A.D. 800, Chinese tea arrived in Japan. Europe had to wait until the early 1600s, when trade opened up between Europe and the Far East; in those days, China was the main supplier of tea to the world. The picture changed in 1834, when tea cultivation began in India. From there, it spread to Sri Lanka, Thailand, Burma, and other parts of Southeast Asia, and today Java, South Africa, South America, and areas of the Caucasus produce tea as well. Tea is enjoyed worldwide as a refreshing and stimulating drink, and because so many people continue to drink its many varieties, it will probably remain the world’s most popular drink. The cards below introduce three main kinds.",
+      "introEmphasis": [],
+      "blocks": [
+        {
+          "label": "1",
+          "speaker": "Black Tea",
+          "text": "Most of the tea sold on the international market is black. Young leaves and leaf buds are picked on a clear, sunny day and allowed to dry in the sun for about an hour. After being lightly rolled, they spend some time in a fermentation room, where they take on their scent and red color. Next, they are heated several times. Finally, the leaves are dried in a basket over a charcoal fire."
+        },
+        {
+          "label": "2",
+          "speaker": "Green Tea",
+          "text": "Compared with black tea, green tea follows a far shorter process. Its leaves are heated in steam, rolled, and then dried."
+        },
+        {
+          "label": "3",
+          "speaker": "Oolong Tea",
+          "text": "Oolong tea goes through a process similar to that of black tea, but without the fermentation time."
+        }
+      ],
+      "demoNote": "這一組是本題庫的改編練習，不是大考中心的試題。文章改編自 95 學測閱讀測驗第 45 至 48 題（閱讀測驗站可以找到原題），照 115 學測混合題奇幻部落那一組的卡片版面出題，題型比照 113 學測，共四題、10 分。參考答案和解析都是本題庫寫的，不算進本題庫的八場、33 格、80 分。",
+      "zhTranslation": null,
+      "source": null,
+      "internalNote": "第三百五十九場建檔。改編自 g95p2；命題分身出題，兩次盲測、四方審閱（引文事實、文法、學生讀者、大考體例）後裁定修訂。"
     }
   ]
 }
