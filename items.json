@@ -7899,6 +7899,2614 @@
           }
         ]
       }
+    },
+    {
+      "id": "MXA-z109bp4-47",
+      "passageId": "MXA-z109bp4",
+      "year": 109,
+      "number": "47",
+      "answerType": "fill",
+      "points": 2,
+      "instruction": "下列簡短敘述摘記上方文章重點。請從文章中找出最適當的單詞（word）填入下列句子空格中，並視句型結構需要做適當的字形變化，使句子語意完整、語法正確，並符合全文文意。每格限填一個單詞（word）。",
+      "prompt": "Under the Gold Standard, the rate at which pounds were exchanged for dollars depended on how much the price of gold in pounds ___47___ from its price in dollars. Under the Bretton Woods System that came next, countries had to keep their exchange rates fixed, and they were granted ___48___ to change them only in extraordinary times.",
+      "promptEmphasis": [],
+      "answers": [
+        "differed"
+      ],
+      "answerSource": "adapted",
+      "swapGroup": null,
+      "answerNote": "how much 子句的動詞要和主要子句的 depended 一致，名詞 difference 要改成過去式動詞 differed。",
+      "options": null,
+      "optionCount": null,
+      "answerKey": null,
+      "officialExplanation": null,
+      "explanation": {
+        "think": [
+          "空格前面是 how much the price of gold in pounds，後面接 from，很多人回文章抓 The Gold Standard 那一欄的 difference（The difference in the price of gold became the exchange rate），名詞照抄，形態沒改。",
+          "也有人想到要改成動詞，卻寫成 differ 或 differs。主要子句的 depended 是過去式，講的又是 1930 年代的事，空格的時態要和它一致。",
+          "還有人抓 The Bretton Woods System 那一欄的 change（they were permitted to change it），寫成 changed，或是抓前言的 fall（may rise or fall），寫成 fell。這兩個字講的是價格前後漲跌了多少；這一格要比的卻是同一盎司黃金用英鎊和用美元標價的落差，意思對不上。"
+        ],
+        "cue": [
+          "本題評量讀寫綜合應用能力，對應的學習表現為「能以適切的英語文說出或寫出談話或短文的摘要」，並依空格的語法條件做適當的字形變化。",
+          "先切塊：Under the Gold Standard, [ the rate at which pounds were exchanged for dollars ] depended on [ how much the price of gold in pounds ___(47)___ from its price in dollars ]。",
+          "how much 帶出的名詞子句當 depended on 的受詞。子句的主詞是 the price of gold in pounds，空格是這個子句的動詞；主要子句的 depended 用過去式，子句講的也是過去的事，所以這一格要填過去式動詞。",
+          "空格後面的 from 決定了這個動詞的意思：拿英鎊標的金價和美元標的金價相比，看兩者「相差多少」，要用 differ from。",
+          "The Gold Standard 那一欄先舉例：an ounce of gold was worth either 4.24 British pounds or 35 U.S. dollars，接著寫 The difference in the price of gold became the exchange rate between the two currencies。35 除以 4.24 大約是 8.25，也就是說，兩個金價差多少倍，一英鎊就換多少美元。文章用的是名詞 difference，改成動詞的過去式就是 differed。"
+        ],
+        "scoring": [
+          "本題庫的參考答案是 differed，只有這一種寫法。",
+          "這一題要做兩件事：選對字，再做對字形變化，兩件都對才拿滿分。比照大考中心學測英文考科非選擇題評分原則：完全正確（包括選字及字形變化），得 2 分；字形錯誤或者拼字錯誤，得 1 分；空白、答案錯誤或與答案無關者，得 0 分。",
+          "照這個原則，填 difference、differ、differs，是選對了字，但形態錯了，得 1 分。填 changed、fell，意思和 from its price in dollars 對不上，得 0 分。",
+          "作答時最好先把選好的字寫上去，不要因為還沒決定形態就留白。"
+        ],
+        "patterns": [
+          {
+            "h": "A differ from B",
+            "t": "A 和 B 不同。前面加上 how much，就是「A 和 B 相差多少」。名詞的說法是 the difference in + 名詞，例如文章的 The difference in the price of gold。"
+          },
+          {
+            "h": "differ（動）／different（形）／difference（名）",
+            "t": "同一個字的三種詞類。摘要題常把文章裡的名詞改成動詞來考，改成動詞以後，還要依主詞和時間決定時態。"
+          },
+          {
+            "h": "the rate at which + 子句",
+            "t": "the rate at which pounds were exchanged for dollars 可以拆成 the rate 和子句 pounds were exchanged for dollars 兩部分，子句原本的結尾是 at the rate。which 代替 the rate，是介系詞 at 的受詞，所以 at 和 which 一起移到子句前面，意思是「英鎊換成美元的比率」。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MXA-z109bp4-48",
+      "passageId": "MXA-z109bp4",
+      "year": 109,
+      "number": "48",
+      "answerType": "fill",
+      "points": 2,
+      "instruction": "下列簡短敘述摘記上方文章重點。請從文章中找出最適當的單詞（word）填入下列句子空格中，並視句型結構需要做適當的字形變化，使句子語意完整、語法正確，並符合全文文意。每格限填一個單詞（word）。",
+      "prompt": "Under the Gold Standard, the rate at which pounds were exchanged for dollars depended on how much the price of gold in pounds ___47___ from its price in dollars. Under the Bretton Woods System that came next, countries had to keep their exchange rates fixed, and they were granted ___48___ to change them only in extraordinary times.",
+      "promptEmphasis": [],
+      "answers": [
+        "permission"
+      ],
+      "answerSource": "adapted",
+      "swapGroup": null,
+      "answerNote": "were granted 後面要接名詞，過去分詞 permitted 要改成名詞 permission。",
+      "options": null,
+      "optionCount": null,
+      "answerKey": null,
+      "officialExplanation": null,
+      "explanation": {
+        "think": [
+          "空格前面是 were granted，很多人回文章抓 The Bretton Woods System 那一欄的 permitted（they were permitted to change it），直接照抄。were granted 後面再接一個過去分詞，句子就不通了。",
+          "也有人改成 permit。permit 當名詞是許可證這一類的文件，是可數名詞，前面要有冠詞；這一格要的是「准許」這件事，要用不可數的 permission。",
+          "還有人抓同一欄的 aid（foreign aid）或 The Gold Standard 那一欄的 money（printed more money）。were granted aid、were granted money 文法上都通，可是文章裡的 aid 是美國給外國的援助，money 是印出來的鈔票，「得到援助或鈔票來調整匯率」說不通，題幹要的是「准許調整匯率」。"
+        ],
+        "cue": [
+          "本題評量讀寫綜合應用能力，對應的學習表現為「能以適切的英語文說出或寫出談話或短文的摘要」，並依空格的語法條件做適當的字形變化。",
+          "先切塊：Under the Bretton Woods System that came next, [ countries ] had to keep [ their exchange rates fixed ], and [ they ] were granted [ ___(48)___ to change them ] only in extraordinary times。",
+          "were granted 是 grant sb sth（給某人某樣東西）的被動語態。they 是得到東西的一方，空格是他們得到的東西，所以要填名詞。",
+          "空格後面的 to change them 是不定詞，放在名詞後面，說明這是做什麼的許可；名詞後面接 to 加原形動詞，意思就是「做……的許可」。",
+          "The Bretton Woods System 那一欄寫 All of them were expected to maintain a fixed exchange rate, though they were permitted to change it in extraordinary times。題幹的 had to keep their exchange rates fixed 是 were expected to maintain a fixed exchange rate 的換句話說，only in extraordinary times 對應 though 後面那一半。",
+          "文章用的是動詞 permit 的過去分詞 permitted，改成名詞就是 permission。"
+        ],
+        "scoring": [
+          "本題庫的參考答案是 permission，只有這一種寫法。",
+          "評分原則和第 47 題相同：完全正確（包括選字及字形變化），得 2 分；字形錯誤或者拼字錯誤，得 1 分；空白、答案錯誤或與答案無關者，得 0 分。",
+          "照這個原則，填 permitted、permit，是選對了字，但形態錯了，得 1 分。填 aid、money，意思不符合題幹，得 0 分。"
+        ],
+        "patterns": [
+          {
+            "h": "permit（動）／permission（名）",
+            "t": "動詞 permit 是准許，常用被動 be permitted to 加原形動詞。名詞 permission 是「准許、許可」，不可數；permit 也可以當名詞，重音移到第一音節，指的是許可證。"
+          },
+          {
+            "h": "be expected to + 原形動詞",
+            "t": "照規定應該、理應。All of them were expected to maintain a fixed exchange rate. 這裡的 expected 是「要求」，不是「預料」。"
+          },
+          {
+            "h": "keep + 受詞 + 形容詞／過去分詞",
+            "t": "讓……保持某種狀態。had to keep their exchange rates fixed 的 fixed 是補語，說明匯率保持在固定的狀態；匯率是受到固定的一方，所以用過去分詞。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MXA-z109bp4-49",
+      "passageId": "MXA-z109bp4",
+      "year": 109,
+      "number": "49",
+      "answerType": "multi",
+      "points": 4,
+      "instruction": "多選題",
+      "prompt": "From (A) to (F) below, choose the ONES that are true for both the Gold Standard and the Bretton Woods System.",
+      "promptEmphasis": [],
+      "answers": null,
+      "answerSource": "adapted",
+      "swapGroup": null,
+      "answerNote": null,
+      "options": [
+        {
+          "label": "A",
+          "text": "The worth of a U.S. dollar could be measured in gold."
+        },
+        {
+          "label": "B",
+          "text": "Other nations tied the value of their own money to the U.S. dollar."
+        },
+        {
+          "label": "C",
+          "text": "It came before the floating system in use today."
+        },
+        {
+          "label": "D",
+          "text": "It was the main way of valuing currencies before World War I."
+        },
+        {
+          "label": "E",
+          "text": "It was formally brought to an end in 1971."
+        },
+        {
+          "label": "F",
+          "text": "It made the British pound the reserve currency for international trade."
+        }
+      ],
+      "optionCount": 6,
+      "answerKey": [
+        "A",
+        "C"
+      ],
+      "officialExplanation": null,
+      "explanation": {
+        "think": [
+          "兩欄各講一套制度，時間一前一後，讀完往往只記得各自的特色，看到選項就回其中一欄去對，對得上就勾。這一題的門檻寫在題目裡：要對兩套制度都成立。",
+          "(B)、(D)、(E) 的用字都很接近原文，各對得上其中一欄，最容易勾進去。",
+          "(A)、(C) 的線索不像 (B)、(D) 那樣一眼就對得上。(A) 在金本位那一欄是用一盎司黃金值多少錢的例子帶出來，在布列敦森林體系那一欄卻只是一句概括的話；(C) 的線索更不在兩欄裡，而在前言。只核對兩欄的話，很容易漏掉。"
+        ],
+        "cue": [
+          "本題用兩欄對照的方式呈現，評量考生讀完以後能不能比較、分析和推論。",
+          "每一個選項都要分別拿到 The Gold Standard 和 The Bretton Woods System 兩欄去核對，只要有一欄不成立，就不能選；講制度先後的選項，還要回前言找。",
+          "(A) The worth of a U.S. dollar could be measured in gold. The Gold Standard 那一欄寫 an ounce of gold was worth either 4.24 British pounds or 35 U.S. dollars，一盎司黃金值 35 美元，美元的價值就能用黃金換算；The Bretton Woods System 那一欄寫 Since every country knew how much gold a dollar was worth。選項把兩處換成 could be measured in gold。兩套制度都符合。",
+          "(C) It came before the floating system in use today. 前言先寫 Today, exchange rates operate under the floating system that the Jamaica Agreement formalized in 1976，接著寫 Before that, two earlier systems shaped how currencies were valued；兩欄講的就是這兩套較早的制度，一套在 World War I 以前，一套到 1971 年廢除，都在 1976 年以前。選項把 Before that 和 earlier systems 換成 came before the floating system，把 Today 換成 in use today。兩套制度都符合。"
+        ],
+        "distractors": [
+          {
+            "h": "(B) Other nations tied the value of their own money to the U.S. dollar.",
+            "t": "只有布列敦森林體系符合：nations based the value of their own currencies on the dollar。金本位那一欄說的是紙幣代表政府自己持有的黃金，英鎊和美元的匯率由兩國的金價相比得出，沒有哪一國以美元為準。"
+          },
+          {
+            "h": "(D) It was the main way of valuing currencies before World War I.",
+            "t": "只有金本位符合：Before World War I, most currencies were valued according to the Gold Standard。布列敦森林體系是 after World War II 才建立的。"
+          },
+          {
+            "h": "(E) It was formally brought to an end in 1971.",
+            "t": "只有布列敦森林體系符合：the system was finally abolished in 1971。金本位那一欄寫的是 began to break down during World War II，和 1971 年無關。"
+          },
+          {
+            "h": "(F) It made the British pound the reserve currency for international trade.",
+            "t": "兩欄都不符合。布列敦森林體系選作國際儲備貨幣的是美元：the U.S. dollar was chosen as the international reserve currency for trade。金本位那一欄的英鎊只是拿來和美元算匯率的例子，one pound bought 8.25 dollars 說的是一英鎊換得到 8.25 美元，不是英鎊成了儲備貨幣。選項把美元的角色安在英鎊身上，錯在歸屬。"
+          },
+          {
+            "h": "(B) 和 (D) 是這一題最強的誘答",
+            "t": "兩個選項分開看都是文章寫的事實，用字也貼近原文，可是各只對其中一套制度成立，屬於部分正確。題目要的是兩套制度都成立。113 學測混合題第 49 題的 (A) 也是這種只對其中一種動物成立的選項。"
+          }
+        ],
+        "scoring": [
+          "這一題要選出對兩套制度都成立的選項，所以要劃記 A、C 兩個選項。先劃哪一個都不影響判定。",
+          "多選題怎麼計分，比照試卷首頁的「作答注意事項」：每題 n 個選項，各選項獨立判定；所有選項均答對者，得該題全部之分數；答錯 k 個選項者，得該題 (n−2k)／n 之分數；得分低於零分或所有選項均未作答者，以零分計算。",
+          "這一題有六個選項、4 分，所以全對得 4 分；錯一個約得 2.67 分；錯兩個約得 1.33 分；錯三個以上是 0 分。",
+          "要留意「各選項獨立判定」這句話：少劃一個和多劃一個，扣的分一樣。該劃 A、C 卻只劃了 A，是 C 這一格判錯；多劃了 D，是 D 這一格判錯，兩種情形扣的分相同。所以作答時的標準要前後一致，不要因為怕多劃就把標準抬得太嚴；不過錯到三格就是零分，也不能每一項都隨便劃。"
+        ],
+        "patterns": [
+          {
+            "h": "base A on B",
+            "t": "以 B 作為 A 的基準。nations based the value of their own currencies on the dollar，各國以美元為準來訂自己貨幣的價值。選項 (B) 改寫成 tie A to B，意思相同。"
+          },
+          {
+            "h": "how much gold a dollar was worth",
+            "t": "worth 後面要接受詞，這個受詞就是 how much gold，原本放在 a dollar was worth 的後面。how much gold 帶有疑問詞，放進名詞子句時要移到子句最前面，所以 worth 後面看起來是空的。"
+          },
+          {
+            "h": "operate under + 名詞",
+            "t": "在……之下運作。exchange rates operate under the floating system，意思是匯率依照浮動匯率制度來定。under 後面常接制度、規定這一類的名詞。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MXA-z109bp4-50",
+      "passageId": "MXA-z109bp4",
+      "year": 109,
+      "number": "50",
+      "answerType": "short",
+      "points": 2,
+      "instruction": "簡答",
+      "prompt": "Which phrase in the passage most likely means “to move or develop as quickly as something else”?",
+      "promptEmphasis": [
+        "phrase"
+      ],
+      "answers": [
+        "keep pace with",
+        "keep pace"
+      ],
+      "answerSource": "adapted",
+      "swapGroup": null,
+      "answerNote": "只寫 keep pace（沒有 with）也給滿分。",
+      "options": null,
+      "optionCount": null,
+      "answerKey": null,
+      "officialExplanation": null,
+      "explanation": {
+        "think": [
+          "題目的定義是「以和另一樣東西一樣快的速度前進、發展」，有人抓同一句的 fast-changing（a fast-changing global economy）。那是形容經濟變得很快，講的是變化本身，不是跟上別人。",
+          "也有人抓同一欄的 stepped up（the U.S. stepped up its military spending）。step up 是增加、加強，沒有和別的東西比速度的意思。",
+          "還有人只寫 pace 一個字。題目要的是片語，少了 keep，pace 只是「速度」，不能表達「跟上」。"
+        ],
+        "cue": [
+          "本題評量讀寫綜合應用能力，要依指定條件，從文章裡擷取關鍵語句。",
+          "定義用 to move … 開頭，是動詞的釋義，題幹又寫 phrase，所以要在文章裡找一個動詞片語。",
+          "The Bretton Woods System 那一欄寫 Unfortunately, the system could not keep pace with a fast-changing global economy。下一句接著說明怎麼跟不上：美國增加支出，黃金不夠支應全世界流通的美元。全球經濟變得快，制度卻改不過來，keep pace with 的位置和意思都對得上定義；定義裡的 something else 就是 with 後面的 a fast-changing global economy。"
+        ],
+        "scoring": [
+          "本題庫的參考答案是 keep pace with，只寫 keep pace 也給滿分。",
+          "keep pace 本身就是片語，意思是跟上速度；後面要說出跟上什麼的時候才加 with，例如 keep pace with a fast-changing global economy。少了 with，意思並沒有改變，所以兩種都收。",
+          "評分原則：完全正確（包括選字及字形變化），得 2 分；字形錯誤或者拼字錯誤，得 1 分；空白、答案錯誤或與答案無關者，得 0 分。",
+          "寫成 kept pace with、keeping pace with，選對了片語，但形態和原文不同，得 1 分。只寫 pace 一個字，少了片語其餘的 keep，不符合題幹要的片語，得 0 分，和 114 學測混合題第 50 題只答 empathy 的處理相同。寫 fast-changing 或 stepped up，意思不符合定義，得 0 分。"
+        ],
+        "patterns": [
+          {
+            "h": "keep pace with + 名詞",
+            "t": "跟上……的速度。the system could not keep pace with a fast-changing global economy。意思相近的說法還有 keep up with。"
+          },
+          {
+            "h": "fast-changing",
+            "t": "複合形容詞，由 fast 和 changing 組成，意思是 changing fast，變化很快的。放在名詞前面時，中間要加連字號。"
+          },
+          {
+            "h": "no longer",
+            "t": "不再。it no longer held enough gold to cover all the dollars circulating around the world。後面的 circulating around the world 是現在分詞片語，修飾 dollars，等於在 circulating 前面補上 that were，意思是「在全世界流通的美元」。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MXA-g99rp2-47",
+      "passageId": "MXA-g99rp2",
+      "year": 102,
+      "number": "47",
+      "answerType": "fill",
+      "points": 2,
+      "instruction": "下列簡短敘述摘記上方文章重點。請從文章中找出最適當的單詞（word）填入下列句子空格中，並視句型結構需要做適當的字形變化，使句子語意完整、語法正確，並符合全文文意。每格限填一個單詞（word）。",
+      "prompt": "Valuing independence, Canadian parents are more willing to sit down and ___47___ the matter with their children when the two sides disagree. Italian parents, by contrast, are stricter with their children and ___48___ more of them.",
+      "promptEmphasis": [],
+      "answers": [
+        "discuss"
+      ],
+      "answerSource": "adapted",
+      "swapGroup": null,
+      "answerNote": "這一格和 sit 並列，都接在不定詞 to 後面，名詞 discussions 要改成原形動詞 discuss。",
+      "options": null,
+      "optionCount": null,
+      "answerKey": null,
+      "officialExplanation": null,
+      "explanation": {
+        "think": [
+          "空格前面是 sit down and，很多人回 Canada 那一欄抓 discussions（more willing to enter into discussions with their children），名詞照抄，形態沒改。",
+          "也有人知道要改成動詞，卻寫成 discussing 或 discussed。這一格和左邊的 sit 並列，要和它用同一種形態。",
+          "還有人抓同一欄的 tolerant，改成動詞 tolerate。tolerate the matter 是「容忍這件事」，和題幹「坐下來和孩子一起……」接不起來；坐下來和孩子一起做的，是討論。"
+        ],
+        "cue": [
+          "本題評量讀寫綜合應用能力，對應的學習表現為「能以適切的英語文說出或寫出談話或短文的摘要」，並依空格的語法條件做適當的字形變化。",
+          "先切塊：Valuing independence, [ Canadian parents ] are more willing to [ sit down ] and [ ___(47)___ the matter with their children ] when the two sides disagree。",
+          "are more willing to 的 to 是不定詞的 to，後面接原形動詞。and 連接的兩項都是這個 to 後面的動詞，左邊的 sit 是原形，這一格也要用原形；空格後面緊接著受詞 the matter，所以這個動詞還要能直接帶受詞。",
+          "題幹開頭的 Valuing independence 和句尾的 when the two sides disagree，對應 Canada 那一欄的 Canadian parents place great value on independence, and when disagreements arise, they are more willing to enter into discussions with their children。也就是說，題幹的 the two sides disagree 是 disagreements arise 的換句話說。",
+          "文章用的是名詞片語 enter into discussions，摘要要的是動詞，名詞 discussions 要改回動詞 discuss。discuss 是及物動詞，後面直接接 the matter，不必加 about。"
+        ],
+        "scoring": [
+          "本題庫的參考答案是 discuss，只有這一種寫法。",
+          "這一題要做兩件事：選對字，再做對字形變化，兩件都對才拿滿分。比照大考中心學測英文考科非選擇題評分原則：完全正確（包括選字及字形變化），得 2 分；字形錯誤或者拼字錯誤，得 1 分；空白、答案錯誤或與答案無關者，得 0 分。",
+          "照這個原則，填 discussion、discussions、discussing，是選對了字，但形態錯了，得 1 分。填 tolerate，意思接不上題幹，得 0 分。",
+          "作答時最好先把選好的字寫上去，不要因為還沒決定形態就留白。"
+        ],
+        "patterns": [
+          {
+            "h": "discuss（動）／discussion（名）",
+            "t": "討論。discuss 是及物動詞，後面直接接受詞（discuss the matter），中間不加 about；改成名詞以後，才用 a discussion about。文章的 enter into discussions with their children 是「和孩子展開討論」。"
+          },
+          {
+            "h": "be willing to + 原形動詞",
+            "t": "願意做……。they are more willing to enter into discussions with their children，to 後面接原形動詞 enter；題幹的 are more willing to sit down and ___ 也是同一個句型，and 後面那一項一樣接在 to 後面。"
+          },
+          {
+            "h": "分詞構句",
+            "t": "題幹開頭的 Valuing independence 是分詞構句，省略的主詞和主要子句相同，都是 Canadian parents，意思是「因為重視獨立」。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MXA-g99rp2-48",
+      "passageId": "MXA-g99rp2",
+      "year": 102,
+      "number": "48",
+      "answerType": "fill",
+      "points": 2,
+      "instruction": "下列簡短敘述摘記上方文章重點。請從文章中找出最適當的單詞（word）填入下列句子空格中，並視句型結構需要做適當的字形變化，使句子語意完整、語法正確，並符合全文文意。每格限填一個單詞（word）。",
+      "prompt": "Valuing independence, Canadian parents are more willing to sit down and ___47___ the matter with their children when the two sides disagree. Italian parents, by contrast, are stricter with their children and ___48___ more of them.",
+      "promptEmphasis": [],
+      "answers": [
+        "demand"
+      ],
+      "answerSource": "adapted",
+      "swapGroup": null,
+      "answerNote": "主詞 Italian parents 是複數、現在式，形容詞 demanding 要改成原形動詞 demand。",
+      "options": null,
+      "optionCount": null,
+      "answerKey": null,
+      "officialExplanation": null,
+      "explanation": {
+        "think": [
+          "空格前面是 are stricter with their children and，很多人回 France and Italy 那一欄抓 demanding（are stricter and more demanding），形容詞照抄，形態沒改。",
+          "也有人知道要改成動詞，卻寫成 demands。主詞 Italian parents 是複數，現在式動詞不加 s。",
+          "還有人抓同一欄的 control 填進去。control 在文章裡是名詞，當動詞用拼寫沒有變，不合這一格要改字形的條件；而且填進去讀起來像「管更多個孩子」，意思也不對。"
+        ],
+        "cue": [
+          "本題評量讀寫綜合應用能力，對應的學習表現為「能以適切的英語文說出或寫出談話或短文的摘要」，並依空格的語法條件做適當的字形變化。",
+          "先切塊：Italian parents, by contrast, [ are stricter with their children ] and [ ___(48)___ more of them ]。",
+          "and 連接兩個述語，主詞都是 Italian parents：一個是 are stricter with their children，另一個從這一格開始。空格後面接 more of them，要填能帶受詞的動詞；主詞是複數，時態是現在式，所以用原形。",
+          "依據在 France and Italy 那一欄：Italian parents, in contrast, are stricter and more demanding, while French parents fall somewhere in the middle。文章用的是形容詞 demanding（要求很多的），摘要改寫成動詞片語，demanding 要改回動詞 demand。",
+          "demand 當動詞時，要求的對象用 of 帶出，demand more of them 就是「對孩子要求得更多」，和文章的 more demanding 意思相同。題幹的 by contrast 把這一句和第 47 題那一句對照：加拿大的父母願意和孩子討論，義大利的父母則管得嚴、要求多。"
+        ],
+        "scoring": [
+          "本題庫的參考答案是 demand，只有這一種寫法。",
+          "評分原則和第 47 題相同：完全正確（包括選字及字形變化），得 2 分；字形錯誤或者拼字錯誤，得 1 分；空白、答案錯誤或與答案無關者，得 0 分。",
+          "照這個原則，填 demanding、demands、demanded，是選對了字，但形態錯了，得 1 分。填 control，不必改字形，意思也不對，得 0 分。"
+        ],
+        "patterns": [
+          {
+            "h": "demand more of + 人",
+            "t": "對某人要求更多。demand 當動詞時，要求的對象用 of 帶出，題幹的 demand more of them 就是「對孩子要求更多」。"
+          },
+          {
+            "h": "demanding（形）",
+            "t": "要求很多的、要求嚴格的。文章的 stricter and more demanding 是兩個比較級並列，一個說管得嚴，一個說要求多。"
+          },
+          {
+            "h": "by contrast／in contrast",
+            "t": "相對地、相較之下。用來帶出和前面對照的一方；文章用 in contrast，題幹換成 by contrast，兩種說法都可以。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MXA-g99rp2-49",
+      "passageId": "MXA-g99rp2",
+      "year": 102,
+      "number": "49",
+      "answerType": "multi",
+      "points": 4,
+      "instruction": "多選題",
+      "prompt": "From (A) to (F) below, choose the ONES that are true for both Canadian and Italian parents.",
+      "promptEmphasis": [],
+      "answers": null,
+      "answerSource": "adapted",
+      "swapGroup": null,
+      "answerNote": null,
+      "options": [
+        {
+          "label": "A",
+          "text": "They are open to talking over disagreements with their children."
+        },
+        {
+          "label": "B",
+          "text": "In terms of how strict they are with their children, they are unlike French parents."
+        },
+        {
+          "label": "C",
+          "text": "They prize independence but keep a firm hand on their children."
+        },
+        {
+          "label": "D",
+          "text": "They themselves filled out the survey that the study was based on."
+        },
+        {
+          "label": "E",
+          "text": "Claes connected their parenting to the values promoted through education where they live."
+        },
+        {
+          "label": "F",
+          "text": "They come from a place that stresses respect for authority and asking permission."
+        }
+      ],
+      "optionCount": 6,
+      "answerKey": [
+        "B",
+        "E"
+      ],
+      "officialExplanation": null,
+      "explanation": {
+        "think": [
+          "兩欄一欄講加拿大、一欄講法國和義大利，讀完容易照著欄位各勾一個，忘了題目要的是對加拿大和義大利的父母都成立。",
+          "只對其中一國成立的選項，看起來最像答案，也最容易勾進去，(A)、(F) 就是這一種：(A) 只對加拿大的父母成立，(F) 只對義大利成立。",
+          "第二欄同時寫了法國和義大利，核對的時候要把兩國分開。題目問的是義大利，法國的情形不能拿來核對。"
+        ],
+        "cue": [
+          "本題用兩欄對照的方式呈現，評量考生讀完以後能不能比較、分析和推論。",
+          "每一個選項都要回原文核對兩次，Canada 那一欄一次、France and Italy 那一欄裡講義大利的句子一次；講研究怎麼做的選項，還要回前言找。",
+          "(B) In terms of how strict they are with their children, they are unlike French parents. Canada 那一欄寫 Put simply, they are more lenient with their children than parents in France and Italy are；France and Italy 那一欄寫 Italian parents, in contrast, are stricter and more demanding, while French parents fall somewhere in the middle。也就是說，加拿大的父母比法國的父母寬鬆，義大利的父母比法國的父母嚴格，兩國的父母站在兩端，法國在中間。選項先用 In terms of how strict they are with their children 把比較的範圍限定在管教的寬嚴，在這一方面，加拿大和義大利的父母都和法國的父母不一樣，再用 unlike 改寫兩欄的比較。兩國都符合。",
+          "(E) Claes connected their parenting to the values promoted through education where they live. Canada 那一欄寫 Claes explained this gap in terms of education，接著說北美洲 has its own democratic and educational values, which promote individualization；France and Italy 那一欄寫 Claes traced this side of the picture to education as well，接著說義大利 promotes respect for authority, control, and the need for permission。選項把 explained … in terms of 和 traced … to 合寫成 connected … to，兩國都符合。"
+        ],
+        "distractors": [
+          {
+            "h": "(A) They are open to talking over disagreements with their children.",
+            "t": "只有加拿大的父母符合：when disagreements arise, they are more willing to enter into discussions with their children。義大利的父母是 stricter and more demanding，文章沒有說他們會和孩子討論意見不合的地方。"
+          },
+          {
+            "h": "(C) They prize independence but keep a firm hand on their children.",
+            "t": "前半對加拿大成立、後半對義大利成立，合起來兩國都不符合。加拿大的父母 place great value on independence，可是 exercise less control，管得比較少；義大利重視的是 respect for authority, control, and the need for permission，文章沒有說義大利的父母重視獨立。選項的 keep a firm hand on 是「嚴加管教」，正好和加拿大的 less control 相反。"
+          },
+          {
+            "h": "(D) They themselves filled out the survey that the study was based on.",
+            "t": "對象錯了，兩國都不符合。前言寫 a research team led by Professor Michel Claes surveyed 1,256 students in Canada, France, and Italy，填問卷的是學生，不是父母。"
+          },
+          {
+            "h": "(F) They come from a place that stresses respect for authority and asking permission.",
+            "t": "只有義大利的父母符合：Italy, he observed, promotes respect for authority, control, and the need for permission。加拿大那一欄正好相反：tolerance and understanding are favored there, while systems of control are rejected。"
+          },
+          {
+            "h": "(A) 和 (F) 是這一題最強的誘答",
+            "t": "兩個選項分開看都是文章寫的事實，可是 (A) 只對加拿大的父母成立，(F) 只對義大利的父母成立，屬於部分正確。題目要的是兩國都成立。113 學測混合題第 49 題的 (A) 也是這種只對其中一種動物成立的選項。"
+          }
+        ],
+        "scoring": [
+          "這一題要選出對加拿大和義大利的父母都成立的選項，所以要劃記 B、E 兩個選項。先劃哪一個都不影響判定。",
+          "多選題怎麼計分，比照試卷首頁的「作答注意事項」：每題 n 個選項，各選項獨立判定；所有選項均答對者，得該題全部之分數；答錯 k 個選項者，得該題 (n−2k)／n 之分數；得分低於零分或所有選項均未作答者，以零分計算。",
+          "這一題有六個選項、4 分，所以全對得 4 分；錯一個約得 2.67 分；錯兩個約得 1.33 分；錯三個以上是 0 分。",
+          "要留意「各選項獨立判定」這句話：少劃一個和多劃一個，扣的分一樣。該劃 B、E 卻只劃了 B，是 E 這一格判錯；多劃了 A，是 A 這一格判錯，兩種情形扣的分相同。所以作答時的標準要前後一致，不要因為怕多劃就把標準抬得太嚴；不過錯到三格就是零分，也不能每一項都隨便劃。"
+        ],
+        "patterns": [
+          {
+            "h": "in terms of + 名詞",
+            "t": "在……方面、從……的角度。選項 (B) 用它限定比較的範圍；文章的 Claes explained this gap in terms of education 也是同一個說法，意思是從教育的角度解釋這個差距。"
+          },
+          {
+            "h": "be lenient with + 人",
+            "t": "對某人寬容、管得鬆。they are more lenient with their children than parents in France and Italy are，句尾的 are 代替 are more lenient with their children，避免重複。"
+          },
+          {
+            "h": "A, while B",
+            "t": "while 在這裡表示對比，不是「當……的時候」。Italian parents, in contrast, are stricter and more demanding, while French parents fall somewhere in the middle."
+          }
+        ]
+      }
+    },
+    {
+      "id": "MXA-g99rp2-50",
+      "passageId": "MXA-g99rp2",
+      "year": 102,
+      "number": "50",
+      "answerType": "short",
+      "points": 2,
+      "instruction": "簡答",
+      "prompt": "Which word in the passage most likely means “to put into use a power or right that one has”?",
+      "promptEmphasis": [],
+      "answers": [
+        "exercise"
+      ],
+      "answerSource": "adapted",
+      "swapGroup": null,
+      "answerNote": null,
+      "options": null,
+      "optionCount": null,
+      "answerKey": null,
+      "officialExplanation": null,
+      "explanation": {
+        "think": [
+          "題目的定義是「運用自己擁有的權力或權利」，有人抓 control（exercise less control）。control 在那一句是 exercise 的受詞，指的是管控的權力本身，不是「運用」這個動作。",
+          "也有人抓 promote（which promote individualization）。promote 是「提倡、促進」，講的是推廣某種價值，不是運用權力。",
+          "還有人看到 exercise 只想到「運動」，覺得意思不對就跳過。這個字也可以當「運用、行使」，exercise control 就是「行使管控」。"
+        ],
+        "cue": [
+          "本題評量讀寫綜合應用能力，要依指定條件，從文章裡擷取關鍵字詞。",
+          "定義用 to put into use 開頭，是動詞的釋義，所以要在文章裡找動詞。",
+          "Canada 那一欄寫 They are also more tolerant and exercise less control。and 連接兩個描述加拿大父母的部分：比較寬容，管得也比較少。exercise 的受詞是 control，exercise less control 就是「比較少行使管控」，exercise 的位置和意思都對得上定義。",
+          "下一句 Put simply, they are more lenient with their children than parents in France and Italy are 用 Put simply 把前面的話換成更簡單的說法，也印證 exercise less control 說的是「管得少」。"
+        ],
+        "scoring": [
+          "本題庫的參考答案是 exercise。原文就是原形，不必改字形。",
+          "評分原則：完全正確（包括選字及字形變化），得 2 分；字形錯誤或者拼字錯誤，得 1 分；空白、答案錯誤或與答案無關者，得 0 分。",
+          "照這個原則，寫成 exercised、exercising，是選對了字，但形態和原文不同，得 1 分。填 control 或 promote，意思不符合定義，得 0 分。"
+        ],
+        "patterns": [
+          {
+            "h": "exercise control",
+            "t": "行使管控、管束。exercise 除了「運動」，也可以當「運用、行使」，後面接 control、power、authority 這一類名詞。"
+          },
+          {
+            "h": "put simply",
+            "t": "簡單地說。意思和 in other words 相近，用來把前面的話換成更簡單的說法。"
+          },
+          {
+            "h": "place great value on + 名詞",
+            "t": "非常重視……。Canadian parents place great value on independence."
+          }
+        ]
+      }
+    },
+    {
+      "id": "MXA-z96p3-47",
+      "passageId": "MXA-z96p3",
+      "year": 96,
+      "number": "47",
+      "answerType": "fill",
+      "points": 2,
+      "instruction": "下列簡短敘述摘記上方文章重點。請從文章中找出最適當的單詞（word）填入下列句子空格中，並視句型結構需要做適當的字形變化，使句子語意完整、語法正確，並符合全文文意。每格限填一個單詞（word）。",
+      "prompt": "In places such as Sierra Leone and Angola, citizens have ___47___ terror and violence at the hands of the groups that control the local diamond trade. While the KPCS works to keep conflict diamonds off the market, the 2006 movie Blood Diamond was expected to make the issue more widely known, though the attention it drew might prove ___48___ rather than lasting.",
+      "promptEmphasis": [],
+      "answers": [
+        "suffered"
+      ],
+      "answerSource": "adapted",
+      "swapGroup": null,
+      "answerNote": "have 後面接過去分詞，名詞 suffering 要改成 suffered。",
+      "options": null,
+      "optionCount": null,
+      "answerKey": null,
+      "officialExplanation": null,
+      "explanation": {
+        "think": [
+          "空格前面是 have，很多人回文章找到衝突鑽石交易那一欄最後一句的 suffering（so much chaos and suffering），名詞照抄，形態沒改。",
+          "也有人想到要用動詞，卻寫成原形 suffer，忘了 have 後面要接過去分詞。",
+          "還有人抓同一欄的 terrorized（have terrorized citizens），因為前面同樣是 have，抄起來很順手；可是這一格的主詞是 citizens，他們是受害的一方，寫成 citizens have terrorized，意思就變成人民去恐嚇別人了。"
+        ],
+        "cue": [
+          "本題評量讀寫綜合應用能力，對應的學習表現為「能以適切的英語文說出或寫出談話或短文的摘要」，並依空格的語法條件做適當的字形變化。",
+          "先切塊：In places such as Sierra Leone and Angola, [ citizens ] have [ ___(47)___ terror and violence ] at the hands of [ the groups that control the local diamond trade ]。",
+          "have 在這裡是助動詞，後面接過去分詞，組成現在完成式，表示從過去延續到現在、到現在還看得到影響的事情。所以這一格要填過去分詞，而且是能接受詞 terror and violence 的及物動詞。",
+          "at the hands of 的意思是「在……手下、由……造成」，後面接的是加害的一方；主詞 citizens 則是承受的一方。這一格要找的，是「承受、遭受」痛苦的動詞。",
+          "衝突鑽石交易那一欄寫 groups in control of the local diamond trade have terrorized citizens and even killed them，又寫 countries where diamonds are the source of so much chaos and suffering。題幹的 terror and violence 是 terrorized 和 killed 的換句話說，人民承受的就是那一欄的 suffering。",
+          "文章裡用的是名詞 suffering，改成過去分詞就是 suffered。suffer 當及物動詞，後面可以直接接 terror、violence、loss 這一類表示痛苦或損失的名詞。"
+        ],
+        "scoring": [
+          "本題庫的參考答案是 suffered，只有這一種寫法。",
+          "這一題要做兩件事：選對字，再做對字形變化，兩件都對才拿滿分。比照大考中心學測英文考科非選擇題評分原則：完全正確（包括選字及字形變化），得 2 分；字形錯誤或者拼字錯誤，得 1 分；空白、答案錯誤或與答案無關者，得 0 分。",
+          "照這個原則，填 suffering、suffer、suffers，是選對了字，但形態錯了，得 1 分。填 terrorized，主詞和受詞的關係顛倒，意思不通，得 0 分。",
+          "作答時最好先把選好的字寫上去，不要因為還沒決定形態就留白。"
+        ],
+        "patterns": [
+          {
+            "h": "suffer + 名詞",
+            "t": "遭受、承受（痛苦或損失），後面直接接受詞：suffer terror、suffer losses、suffer an injury。"
+          },
+          {
+            "h": "suffer from + 名詞",
+            "t": "受……所苦，後面多半接病痛或長期的問題，例如 suffer from headaches；和直接接受詞的 suffer 要分開記。"
+          },
+          {
+            "h": "at the hands of + 人",
+            "t": "在……手下、由……造成，後面接加害的一方：at the hands of the groups that control the local diamond trade。"
+          },
+          {
+            "h": "suffer（動）／suffering（名）",
+            "t": "suffering 當名詞是「苦難、痛苦」，常和 pain、chaos 這一類字並列：so much chaos and suffering。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MXA-z96p3-48",
+      "passageId": "MXA-z96p3",
+      "year": 96,
+      "number": "48",
+      "answerType": "fill",
+      "points": 2,
+      "instruction": "下列簡短敘述摘記上方文章重點。請從文章中找出最適當的單詞（word）填入下列句子空格中，並視句型結構需要做適當的字形變化，使句子語意完整、語法正確，並符合全文文意。每格限填一個單詞（word）。",
+      "prompt": "In places such as Sierra Leone and Angola, citizens have ___47___ terror and violence at the hands of the groups that control the local diamond trade. While the KPCS works to keep conflict diamonds off the market, the 2006 movie Blood Diamond was expected to make the issue more widely known, though the attention it drew might prove ___48___ rather than lasting.",
+      "promptEmphasis": [],
+      "answers": [
+        "temporary"
+      ],
+      "answerSource": "adapted",
+      "swapGroup": null,
+      "answerNote": "prove 後面接形容詞，又和 rather than 後面的 lasting 對等，副詞 temporarily 要改成形容詞 temporary。",
+      "options": null,
+      "optionCount": null,
+      "answerKey": null,
+      "officialExplanation": null,
+      "explanation": {
+        "think": [
+          "空格前面是 prove，很多人回文章找到前言的 if only temporarily，副詞照抄，形態沒改。",
+          "也有人抓同一句的 mainstream（make the issue more mainstream），因為兩個字靠得很近；可是 mainstream 是「主流的」，放進這一格以後，和 rather than 後面的 lasting 對不起來，意思不通。",
+          "還有人把 temporary 拼成 temporory 或 temperary，選字對了，拼字錯了。"
+        ],
+        "cue": [
+          "本題評量讀寫綜合應用能力，對應的學習表現為「能以適切的英語文說出或寫出談話或短文的摘要」，並依空格的語法條件做適當的字形變化。",
+          "先切塊：though [ the attention it drew ] might prove [ ___(48)___ rather than lasting ]。",
+          "prove 在這裡是連綴動詞，意思是「結果是、到頭來是」，用法和 turn out to be 相近，後面接形容詞，說明主詞 the attention 的狀態。",
+          "rather than 連接的兩項，前後兩項在句子裡的作用要相同。rather than 後面的 lasting 是形容詞，當 prove 的補語，所以這一格也要放形容詞，當同一個補語。",
+          "lasting 是「持久的」，這一格要的是和它相反的意思：只維持一陣子。前言寫 the 2006 movie Blood Diamond ... was expected to help make the issue more mainstream, if only temporarily，if only temporarily 就是「即使只是一時的」。",
+          "文章裡用的是副詞 temporarily，改成形容詞就是 temporary。"
+        ],
+        "scoring": [
+          "本題庫的參考答案是 temporary，只有這一種寫法。",
+          "評分原則和第 47 題相同：完全正確（包括選字及字形變化），得 2 分；字形錯誤或者拼字錯誤，得 1 分；空白、答案錯誤或與答案無關者，得 0 分。",
+          "照這個原則，填 temporarily，是選對了字，但形態錯了，得 1 分；拼成 temporory，是拼字錯誤，也得 1 分。填 mainstream，意思和 rather than lasting 接不上，得 0 分。"
+        ],
+        "patterns": [
+          {
+            "h": "A rather than B",
+            "t": "是 A 而不是 B。前後兩項在句子裡的作用要相同：這一題的 temporary 和 lasting，兩項都是 prove 的補語。"
+          },
+          {
+            "h": "prove + 形容詞",
+            "t": "結果是、到頭來是，例如 prove useful、prove difficult。這裡的 prove 不是「證明」，是連綴動詞。"
+          },
+          {
+            "h": "temporary（形）／temporarily（副）",
+            "t": "暫時的、一時的。反義字是 lasting、permanent。"
+          },
+          {
+            "h": "if only + 副詞／形容詞",
+            "t": "即使只是……。這裡的 if only 是 even if only 的用法，不是「要是……就好了」。make the issue more mainstream, if only temporarily，意思是「讓這個議題更受關注，即使只是一時的」。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MXA-z96p3-49",
+      "passageId": "MXA-z96p3",
+      "year": 96,
+      "number": "49",
+      "answerType": "multi",
+      "points": 4,
+      "instruction": "多選題",
+      "prompt": "From (A) to (F) below, choose the ONES that are true for both the conflict diamond trade and the KPCS.",
+      "promptEmphasis": [],
+      "answers": null,
+      "answerSource": "adapted",
+      "swapGroup": null,
+      "answerNote": null,
+      "options": [
+        {
+          "label": "A",
+          "text": "It grew out of a campaign launched in 2000."
+        },
+        {
+          "label": "B",
+          "text": "It reaches beyond the borders of any one country."
+        },
+        {
+          "label": "C",
+          "text": "It helps pay for the activities of armed groups."
+        },
+        {
+          "label": "D",
+          "text": "It has drawn a great deal of media attention."
+        },
+        {
+          "label": "E",
+          "text": "Countries or groups that deal in diamonds play a part in it."
+        },
+        {
+          "label": "F",
+          "text": "It deals with diamonds only after they have been cut and polished."
+        }
+      ],
+      "optionCount": 6,
+      "answerKey": [
+        "B",
+        "E"
+      ],
+      "officialExplanation": null,
+      "explanation": {
+        "think": [
+          "兩欄分開讀都很順，讀完容易照著「衝突鑽石交易那一欄寫了什麼、KPCS 那一欄寫了什麼」各勾一個。這一題的門檻寫在題目裡：要對兩欄都成立。",
+          "只對其中一欄成立的選項，看起來最像答案，也最容易勾進去，(A)、(C) 就是這一種。",
+          "另一個常見的失分是只核對兩欄，沒有回頭看前言：(D) 講的媒體報導，依據在前言，不在任何一欄。"
+        ],
+        "cue": [
+          "本題用兩欄對照的方式呈現，評量考生讀完以後能不能比較、分析和推論。",
+          "每一個選項都要回原文核對兩次，衝突鑽石交易那一欄一次、The KPCS 那一欄一次；講媒體報導的選項，還要回前言找。",
+          "(B) It reaches beyond the borders of any one country. 衝突鑽石交易那一欄先列出四個受害的國家：Sierra Leone, Angola, Liberia, and the Democratic Republic of Congo，又寫叛軍控制區的鑽石 are being smuggled into neighboring countries and then exported as conflict-free stones；The KPCS 那一欄寫這個機制是 an international organization，追蹤的是進入 a participating country 的原鑽，發起的也是 countries in southern Africa。選項沒有照抄 international，而是換成「不只在一個國家之內」，這是換字改寫。兩欄都符合。",
+          "(E) Countries or groups that deal in diamonds play a part in it. 衝突鑽石交易那一欄寫 groups in control of the local diamond trade have terrorized citizens，掌控鑽石交易的武裝團體就是這門交易的一方；The KPCS 那一欄寫 countries in southern Africa with a legitimate diamond trade began a campaign in 2000，接著寫 Their efforts resulted in the Kimberley Process Certification Scheme，有合法鑽石交易的國家就是促成這個機制的一方。兩欄都寫到 diamond trade，選項把它換成 deal in diamonds，這是換字改寫。兩欄都符合。"
+        ],
+        "distractors": [
+          {
+            "h": "(A) It grew out of a campaign launched in 2000.",
+            "t": "只有 KPCS 符合：countries in southern Africa with a legitimate diamond trade began a campaign in 2000，接著寫 Their efforts resulted in the Kimberley Process Certification Scheme。衝突鑽石交易那一欄沒有提到任何起始的年份，這個運動反而是為了阻止它才發起的。"
+          },
+          {
+            "h": "(C) It helps pay for the activities of armed groups.",
+            "t": "只有衝突鑽石交易符合：前言寫衝突鑽石是 diamonds sold to fund the unlawful operations of rebel, military, and terrorist groups，選項把 fund 換成 help pay for。KPCS 的方向正好相反，它的目標是 to make the world free of conflict diamonds，要切斷的就是這條財源。"
+          },
+          {
+            "h": "(D) It has drawn a great deal of media attention.",
+            "t": "方向相反。前言寫 The press pays little attention to the link between terror and diamonds，衝突鑽石交易很少見報；電影 Blood Diamond 也只是 was expected to help make the issue more mainstream, if only temporarily，是期待，不是已經成真。至於 KPCS，文章完全沒有提到媒體。兩欄都不符合。"
+          },
+          {
+            "h": "(F) It deals with diamonds only after they have been cut and polished.",
+            "t": "The KPCS 那一欄兩次都寫 rough diamond（all rough diamonds、every rough diamond），也就是還沒切割、拋光的原鑽，選項的方向正好相反；衝突鑽石交易那一欄只寫 Diamonds mined in some rebel-held areas，沒有提到切割、拋光。兩欄都不符合。"
+          },
+          {
+            "h": "(A) 和 (C) 是這一題最強的誘答",
+            "t": "兩個選項分開看都是文章寫的事實，可是各只對其中一欄成立，屬於部分正確。題目要的是兩欄都成立。113 學測混合題第 49 題的 (A) 也是這種只對其中一種動物成立的選項。"
+          }
+        ],
+        "scoring": [
+          "這一題要選出對兩欄都成立的選項，所以要劃記 B、E 兩個選項。先劃哪一個都不影響判定。",
+          "多選題怎麼計分，比照試卷首頁的「作答注意事項」：每題 n 個選項，各選項獨立判定；所有選項均答對者，得該題全部之分數；答錯 k 個選項者，得該題 (n−2k)／n 之分數；得分低於零分或所有選項均未作答者，以零分計算。",
+          "這一題有六個選項、4 分，所以全對得 4 分；錯一個約得 2.67 分；錯兩個約得 1.33 分；錯三個以上是 0 分。",
+          "要留意「各選項獨立判定」這句話：少劃一個和多劃一個，扣的分一樣。該劃 B、E 卻只劃了 B，是 E 這一格判錯；多劃了 A，是 A 這一格判錯，兩種情形扣的分相同。所以作答時的標準要前後一致，不要因為怕多劃就把標準抬得太嚴；不過錯到三格就是零分，也不能每一項都隨便劃。"
+        ],
+        "patterns": [
+          {
+            "h": "grow out of + 名詞",
+            "t": "由……發展而來。選項用它改寫原文的 Their efforts resulted in the Kimberley Process Certification Scheme。"
+          },
+          {
+            "h": "result in + 名詞",
+            "t": "導致、促成，前面是原因，後面是結果；result from 正好相反，後面接的是原因。"
+          },
+          {
+            "h": "deal in + 名詞",
+            "t": "買賣、經營（某種貨品）。選項用 deal in diamonds 改寫原文的 diamond trade；deal with 是「處理」，意思不同。"
+          },
+          {
+            "h": "rough diamond",
+            "t": "原鑽，指還沒切割、拋光的鑽石。rough 在這裡是「未加工的」，不是「粗糙的」。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MXA-z96p3-50",
+      "passageId": "MXA-z96p3",
+      "year": 96,
+      "number": "50",
+      "answerType": "short",
+      "points": 2,
+      "instruction": "簡答",
+      "prompt": "Which word in the passage most likely means “allowed by law and carried out in a proper and acceptable way”?",
+      "promptEmphasis": [],
+      "answers": [
+        "legitimate"
+      ],
+      "answerSource": "adapted",
+      "swapGroup": null,
+      "answerNote": null,
+      "options": null,
+      "optionCount": null,
+      "answerKey": null,
+      "officialExplanation": null,
+      "explanation": {
+        "think": [
+          "題目的定義是「合乎法律，而且做法正當、可以接受」，有人抓前言的 unlawful（the unlawful operations of rebel, military, and terrorist groups）。這個字確實和法律有關，可是 un- 是否定字首，unlawful 是「不合法的」，意思正好相反。",
+          "也有人抓 conflict-free（exported as conflict-free stones）。那是「和衝突無關的」，講的是鑽石的來源，不是合不合法；而且文章裡這些鑽石其實是走私出去的。",
+          "還有人找到 legitimate 卻改成 legitimately 或 legal：題目要的是文章裡的那個字，原文是什麼字形就寫什麼字形。"
+        ],
+        "cue": [
+          "本題評量讀寫綜合應用能力，要依指定條件，從文章裡擷取關鍵字詞。",
+          "定義用 allowed by law ... 開頭，是形容詞的釋義，所以要在文章裡找形容詞。",
+          "The KPCS 那一欄寫 countries in southern Africa with a legitimate diamond trade began a campaign in 2000。這些國家要阻止的，是前言說的那種資助叛軍、軍隊和恐怖組織 unlawful operations 的鑽石交易；拿來和它對照的，就是合法、正當的鑽石買賣。legitimate 的位置和意思都對得上定義。"
+        ],
+        "scoring": [
+          "本題庫的參考答案是 legitimate。原文就是這個字形，不必改字形。",
+          "評分原則：完全正確（包括選字及字形變化），得 2 分；字形錯誤或者拼字錯誤，得 1 分；空白、答案錯誤或與答案無關者，得 0 分。",
+          "照這個原則，寫成 legitimately，是選對了字，但形態和原文不同，得 1 分。填 unlawful、conflict-free，意思不符合定義；填 legal，不是文章裡的字，都得 0 分。"
+        ],
+        "patterns": [
+          {
+            "h": "legitimate（形）／legitimately（副）",
+            "t": "合法的、正當的。常見的搭配有 a legitimate business、a legitimate reason。"
+          },
+          {
+            "h": "lawful（形）／unlawful（形）",
+            "t": "合法的／不合法的。un- 是否定字首，加在字前面，意思就反過來：unlawful、unfair、unknown。"
+          },
+          {
+            "h": "make A free of B",
+            "t": "使 A 擺脫 B。an international organization that aims to make the world free of conflict diamonds"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MXA-g102p3-47",
+      "passageId": "MXA-g102p3",
+      "year": 102,
+      "number": "47",
+      "answerType": "fill",
+      "points": 2,
+      "instruction": "請根據選文內容，從文章中選出兩個單詞，分別填入下列句子空格，並視句型結構需要作適當的字形變化，使句子語意完整、語法正確，且符合全文文意。每格限填一個單詞（word）。",
+      "prompt": "Drivers who test positive on an ABT can legally be ___47___ by the police, yet many of them claim that all they drank was an energy drink. According to the study, a breath test given right after ___48___ of an energy drink is far more likely to show alcohol than one given 15 minutes later.",
+      "promptEmphasis": [],
+      "answers": [
+        "arrested"
+      ],
+      "answerSource": "adapted",
+      "swapGroup": null,
+      "answerNote": "can legally be 後面接過去分詞，而且要能接 by the police：be arrested by。原形 arrest 要改成過去分詞 arrested。",
+      "options": null,
+      "optionCount": null,
+      "answerKey": null,
+      "officialExplanation": null,
+      "explanation": {
+        "think": [
+          "看到 be 後面空一格，很多人回前言抓 allows the police to arrest the driver，把原形 arrest 照抄上去。",
+          "也有人寫成 arresting。be arresting 等於把駕駛人當成去逮捕別人的一方，方向正好反了。",
+          "還有人抓 Deepika 那一則的 tested（When volunteers were tested within a minute of finishing）。單看 be tested 放進去好像說得通，可是這一句的主詞是酒測已經呈陽性的駕駛人，檢測已經做過了，再說警察可以替他們做檢測，前後接不起來。"
+        ],
+        "cue": [
+          "本題評量讀寫綜合應用能力，對應的學習表現為「能以適切的英語文說出或寫出談話或短文的摘要」，並依空格的語法條件做適當的字形變化。",
+          "先切塊：[ Drivers who test positive on an ABT ] can legally be [ ___(47)___ by the police ], yet [ many of them ] claim that all they drank was an energy drink。",
+          "can 是助動詞，後面接原形 be；be 後面接什麼，要看駕駛人和這個動作的關係。去逮捕的是警察，駕駛人是承受動作的一方，所以接過去分詞，組成「be + 過去分詞」。空格後面的 by the police 帶出做動作的一方，也說明這一格要用被動。",
+          "依據在前言：A “positive” result, one over the legal limit, allows the police to arrest the driver。題幹的 Drivers who test positive on an ABT 對應 A “positive” result；legally 說的是法律允許警察這麼做，對應 allows the police to arrest the driver，只是改從駕駛人這一邊來說。",
+          "題幹後半的 yet many of them claim that all they drank was an energy drink，對應前言下一句：Yet many drivers who failed the test have insisted that all they drank was a “non-alcoholic” energy drink。",
+          "所以把文章裡的 arrest 改成過去分詞 arrested。"
+        ],
+        "scoring": [
+          "本題庫的參考答案是 arrested，只有這一種寫法。",
+          "這一題要做兩件事：選對字，再做對字形變化，兩件都對才拿滿分。比照大考中心學測英文考科非選擇題評分原則：完全正確（包括選字及字形變化），得 2 分；字形錯誤或者拼字錯誤，得 1 分；空白、答案錯誤或與答案無關者，得 0 分。",
+          "照這個原則，填 arrest、arrests、arresting，是選對了字，但形態錯了，得 1 分。填 tested，意思不通，得 0 分。",
+          "作答時最好先把選好的字寫上去，不要因為還沒決定形態就留白。"
+        ],
+        "patterns": [
+          {
+            "h": "allow + 受詞 + to V",
+            "t": "讓……可以、准許……。A “positive” result, one over the legal limit, allows the police to arrest the driver. 這一句的主詞是檢測結果，要逮捕的駕駛人放在 arrest 後面當受詞；要是改成駕駛人當主詞，動詞就要用「be + 過去分詞」，寫成 be arrested。"
+          },
+          {
+            "h": "test positive",
+            "t": "檢測呈陽性，相反是 test negative。positive 是形容詞，放在 test 後面說明檢測的結果，就像 turn red 的 red 說明變成什麼顏色，所以不用副詞。"
+          },
+          {
+            "h": "all + 主詞 + 動詞 + was …",
+            "t": "……的只有……。all they drank was a “non-alcoholic” energy drink，意思是「他們喝的只有不含酒精的能量飲料」。all 後面省略了關係代名詞 that，all they drank 整塊是句子的主詞，指「喝下去的全部東西」這一件事，所以動詞用單數 was。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MXA-g102p3-48",
+      "passageId": "MXA-g102p3",
+      "year": 102,
+      "number": "48",
+      "answerType": "fill",
+      "points": 2,
+      "instruction": "請根據選文內容，從文章中選出兩個單詞，分別填入下列句子空格，並視句型結構需要作適當的字形變化，使句子語意完整、語法正確，且符合全文文意。每格限填一個單詞（word）。",
+      "prompt": "Drivers who test positive on an ABT can legally be ___47___ by the police, yet many of them claim that all they drank was an energy drink. According to the study, a breath test given right after ___48___ of an energy drink is far more likely to show alcohol than one given 15 minutes later.",
+      "promptEmphasis": [],
+      "answers": [
+        "consumption"
+      ],
+      "answerSource": "adapted",
+      "swapGroup": null,
+      "answerNote": "介系詞 after 後面接名詞，而且後面要能接 of an energy drink。過去分詞 consumed 要改成名詞 consumption。",
+      "options": null,
+      "optionCount": null,
+      "answerKey": null,
+      "officialExplanation": null,
+      "explanation": {
+        "think": [
+          "Femi 那一則寫 after it was consumed，很多人直接把 consumed 抄上去，也有人寫原形 consume。",
+          "也有人抓前言的 drinking（whether someone has been drinking and driving），照抄上去。單看 after drinking 很順，可是動名詞 drinking 後面直接接受詞，說成 after drinking + 飲料，不加 of；這一格後面已經有 of，填 drinking 就接不上。",
+          "還有人抓前言的 finished（after they finished a full can or bottle），改成 finishing，問題和 drinking 一樣，after finishing of 也接不上。"
+        ],
+        "cue": [
+          "本題評量讀寫綜合應用能力，對應的學習表現為「能以適切的英語文說出或寫出談話或短文的摘要」，並依空格的語法條件做適當的字形變化。",
+          "先切塊：According to the study, [ a breath test given right after ___(48)___ of an energy drink ] is far more likely to show alcohol than [ one given 15 minutes later ]。",
+          "after 是介系詞，後面要接名詞或動名詞。如果是動名詞，喝下去的東西直接放在後面當受詞；這一格後面接的是 of an energy drink，所以要填的是名詞，用 of 帶出喝下去的東西。",
+          "作答線索在 Femi 那一則：No drink registered on tests given 15 minutes after it was consumed。consume 是「喝下、吃下」，consumed 在這裡和 was 組成被動；改成名詞就是 consumption。",
+          "題幹這一整句，是把 Deepika 和 Femi 兩則放在一起比較：Deepika 說 When volunteers were tested within a minute of finishing, the device detected alcohol for 11 of the 27 drinks；Femi 說喝完 15 分鐘後再測，沒有一種飲料測得出酒精。",
+          "這一題組兩格的字形變化方向不同：第 47 格是從原形改成過去分詞，這一格是從過去分詞改成名詞。"
+        ],
+        "scoring": [
+          "本題庫的參考答案是 consumption，只有這一種寫法。",
+          "評分原則和第 47 題相同：完全正確（包括選字及字形變化），得 2 分；字形錯誤或者拼字錯誤，得 1 分；空白、答案錯誤或與答案無關者，得 0 分。",
+          "照這個原則，填 consumed、consume、consuming，是選對了字，但形態錯了，得 1 分。填 drinking、finishing，後面的 of 接不上，得 0 分。"
+        ],
+        "patterns": [
+          {
+            "h": "consume（動）／consumption（名）／consumer（名）",
+            "t": "consume 是吃下、喝下，也可以指消耗；consumption 是吃喝下去這件事，也可以指吃喝下去的量；consumer 是消費者。"
+          },
+          {
+            "h": "介系詞 + 名詞 + of／介系詞 + 動名詞 + 受詞",
+            "t": "after + consumption of + 飲料，和 after + drinking + 飲料，意思一樣。用名詞的時候，喝下去的東西要用 of 帶出來；用動名詞的時候，動名詞保留動詞的性質，後面直接接受詞。"
+          },
+          {
+            "h": "far + 比較級 + than",
+            "t": "far more likely to show alcohol than one given 15 minutes later。far 修飾比較級，表示「……得多」；one 代替前面提過的 a breath test，避免重複。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MXA-g102p3-49",
+      "passageId": "MXA-g102p3",
+      "year": 102,
+      "number": "49",
+      "answerType": "multi",
+      "points": 4,
+      "instruction": "多選題",
+      "prompt": "From (A) to (H) in the above forum discussion, which ONES show a positive attitude toward the claims of drivers who blame an energy drink for failing an ABT?",
+      "promptEmphasis": [],
+      "answers": null,
+      "answerSource": "adapted",
+      "swapGroup": null,
+      "answerNote": null,
+      "options": "blocks",
+      "optionCount": 8,
+      "answerKey": [
+        "A",
+        "D",
+        "G"
+      ],
+      "officialExplanation": null,
+      "explanation": {
+        "think": [
+          "八則貼文一路讀下來，語氣有濃有淡，容易只憑第一句的感覺就勾。",
+          "最容易勾錯的是 C 和 H：Callum 第一句承認這些飲料 contain a trace of alcohol，Hassan 第一句稱讚這是 a clever experiment，可是兩則轉折以後都不相信這些駕駛人。",
+          "也容易漏掉 G：Greta 開頭說 My first reaction was to roll my eyes，讀起來像不相信，讀到 Now I think 之後才是她現在的看法。至於 E，Esme 沒有一句批評駕駛人，也容易勾進去。"
+        ],
+        "cue": [
+          "本題評量讀寫綜合應用能力，要逐一判斷八則發言裡，發言者相不相信這些駕駛人的說法。選項就是論壇上的八則發言，標成 (A) 到 (H)；題幹用的是 ONES，答案不只一個。",
+          "題目問的是 a positive attitude toward the claims of drivers who blame an energy drink for failing an ABT，也就是傾向相信這些駕駛人的說法，不是「沒有批評他們」。像 Esme 那樣說不知道誰對、還不選邊的中立立場，不算正面。",
+          "每一則都要讀到最後一句。要是中間出現 But 這一類轉折詞，或像 My concern is、Now I think 這樣帶出另一種看法的說法，後面那一句才是發言者真正的立場。",
+          "(A) Andre：開頭說 “Non-alcoholic” on a label doesn't mean zero，接著引實驗結果，除了一種以外，這些飲料的酒精含量都超過 0.005%，最後說 I'd give these drivers the benefit of the doubt，也就是在沒有證據以前先相信他們。要勾。",
+          "(D) Deepika：先引實驗結果，受試者喝完一分鐘內接受檢測，27 種飲料裡有 11 種測得出酒精；接著說 That's far too many to write off every one of these drivers as a liar，她認為數字這麼多，不能把這些駕駛人一律當成說謊的人。要勾。",
+          "(G) Greta：先說 My first reaction was to roll my eyes，翻白眼表示一開始不相信；接著用 Then 帶出她讀到的數字，27 種飲料裡有 9 種酒精含量至少 0.096%。這個 0.096% 是飲料本身的酒精含量，前言的 0.08% 是血液酒精濃度的法定上限，兩個數字講的是不同的東西，不能直接比大小；Greta 是看到含酒精的飲料不少，才改變看法。她最後說 Now I think some of these drivers could be telling the truth。她的看法前後不同，現在的立場在 Now I think 後面，所以要勾。這一則的方向和 (C)、(H) 正好相反：先不相信，看了數字以後才相信。"
+        ],
+        "distractors": [
+          {
+            "h": "(C) Callum",
+            "t": "前半像正面、後半反對。第一句 Sure, these drinks contain a trace of alcohol 先承認飲料裡有酒精，接著用 But 轉折，問這麼少的量 enough for a breath test to pick up?，再說 I seriously doubt it，最後說 My bet is that these drivers had something much stronger。他認為這些駕駛人喝的是更烈的酒，屬於部分正確的誘答。他的看法和 Deepika 引的實驗結果不同，可是這一題問的是發言者的立場，不是看法對不對。"
+          },
+          {
+            "h": "(H) Hassan",
+            "t": "前半正面、後半反對。第一句 It's a clever experiment, and I'm glad someone ran it 稱讚的是這項實驗；接著用 My concern is that 帶出他擔心的事：every drunk driver will now hide behind it，最後說 I'd take their stories with a grain of salt，對這些駕駛人的說法存疑。他肯定的是實驗，不是駕駛人的說法，也屬於部分正確的誘答。"
+          },
+          {
+            "h": "(E) Esme",
+            "t": "開頭說 Whether these drivers are lying or not, I honestly can't say，接著說 I won't side with either camp yet，還不打算選邊。態度中立，不是正面。"
+          },
+          {
+            "h": "(B)、(F)",
+            "t": "兩則都不相信這些駕駛人：Bridget 說 “It was just an energy drink” is the oldest trick in the book（老掉牙的藉口），接著說 I'm convinced most of these drivers had a few beers；Femi 先引實驗結果，喝完 15 分鐘後再測，沒有一種飲料測得出酒精，又認為駕駛人很少這麼快就接受檢測，所以說 I'm not buying the excuse。"
+          },
+          {
+            "h": "(C) 和 (H) 是這一題最強的誘答",
+            "t": "Callum 的 contain a trace of alcohol、Hassan 的 a clever experiment，讀起來都像是站在駕駛人這一邊，只讀到第一句就會勾進去。可是 Callum 在 But 之後、Hassan 在 My concern is that 之後，都轉到不相信這些駕駛人，兩則都不是答案。"
+          }
+        ],
+        "scoring": [
+          "這一題要選出對這些駕駛人的說法持正面態度的發言，所以劃記 A、D、G 三個選項。先劃哪一個都不影響判定。",
+          "多選題怎麼計分，比照試卷首頁的「作答注意事項」：每題 n 個選項，各選項獨立判定；所有選項均答對者，得該題全部之分數；答錯 k 個選項者，得該題 (n−2k)／n 之分數；得分低於零分或所有選項均未作答者，以零分計算。",
+          "這一題有八個選項、4 分，所以全對得 4 分；錯一個得 3 分；錯兩個得 2 分；錯三個得 1 分；錯四個以上是 0 分。",
+          "要留意「各選項獨立判定」這句話：少劃一個和多劃一個，扣的分一樣。該劃 A、D、G 卻漏了 G，是 G 這一格判錯；多劃了 C，是 C 這一格判錯，兩種情形扣的分相同。所以作答時的標準要前後一致，不要因為怕多劃就把標準抬得太嚴；不過錯到四格就是零分，也不能每一項都隨便劃。"
+        ],
+        "patterns": [
+          {
+            "h": "give … the benefit of the doubt",
+            "t": "在沒有確實證據以前，先選擇相信對方。I'd give these drivers the benefit of the doubt."
+          },
+          {
+            "h": "write off … as …",
+            "t": "認定……是……，多半帶貶意。That's far too many to write off every one of these drivers as a liar."
+          },
+          {
+            "h": "take … with a grain of salt",
+            "t": "對……半信半疑。I'd take their stories with a grain of salt."
+          },
+          {
+            "h": "all but one",
+            "t": "除了一個以外全部。all but one of the drinks had more than 0.005% alcohol。這裡的 but 是介系詞，意思是「除了」。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MXA-g102p3-50",
+      "passageId": "MXA-g102p3",
+      "year": 102,
+      "number": "50",
+      "answerType": "short",
+      "points": 2,
+      "instruction": "簡答題",
+      "prompt": "Which word in the forum discussion most likely means “a very small amount of something that is hard to notice”?",
+      "promptEmphasis": [],
+      "answers": [
+        "trace"
+      ],
+      "answerSource": "adapted",
+      "swapGroup": null,
+      "answerNote": "Callum 那一則 a trace of alcohol 的 trace。",
+      "options": null,
+      "optionCount": null,
+      "answerKey": null,
+      "officialExplanation": null,
+      "explanation": {
+        "think": [
+          "題目的定義是「很少、不容易察覺的量」，有人抓前言的 level（a blood alcohol level），或 Andre 那一則的 zero。level 是含量、濃度，本身沒有「很少」的意思；zero 是完全沒有，不是很少。",
+          "也有人抓 Bridget 那一則的 a few（had a few beers）。a few 是兩個字，不是題目要的 word，而且它修飾的是可數名詞，說的是幾瓶啤酒，不是很少的量。",
+          "還有人找到 trace 卻寫成複數 traces：題目要的是文章裡的那個字，原文是什麼字形就寫什麼字形。"
+        ],
+        "cue": [
+          "本題評量讀寫綜合應用能力，要依指定條件，從文章裡擷取關鍵字詞。",
+          "定義用 a very small amount of something 開頭，是名詞的釋義，所以要在文章裡找名詞。",
+          "作答線索在 Callum 那一則：Sure, these drinks contain a trace of alcohol. But enough for a breath test to pick up? 他承認飲料裡有一點酒精，接著質疑這麼少的量，呼氣檢測根本測不出來。「量很少、不容易察覺」正是 trace 的意思。",
+          "Andre 那一則說這些飲料的酒精含量超過 0.005%，講的也是很少的量，可以拿來確認語意；不過那是數字，不是題目要的字。"
+        ],
+        "scoring": [
+          "本題庫的參考答案是 trace。原文就是這個字形，不必改字形。",
+          "評分原則：完全正確（包括選字及字形變化），得 2 分；字形錯誤或者拼字錯誤，得 1 分；空白、答案錯誤或與答案無關者，得 0 分。",
+          "照這個原則，寫成 traces，是選對了字，但形態和原文不同，得 1 分。填 level、zero 或 a few，意思不符合定義或不是一個單詞，得 0 分。"
+        ],
+        "patterns": [
+          {
+            "h": "a trace of + 名詞",
+            "t": "微量的……。these drinks contain a trace of alcohol。trace 當動詞，意思是追查、追溯。"
+          },
+          {
+            "h": "enough for + 名詞 + to V",
+            "t": "足以讓……做某事。enough for a breath test to pick up，for 後面的 a breath test 是 to pick up 這個動作的做事者。Callum 這一句省略了主詞和動詞，補回去就是「那樣的量夠不夠讓呼氣檢測測出來」。"
+          },
+          {
+            "h": "pick up",
+            "t": "（儀器）偵測到、測出。意思和 Deepika 那一則的 the device detected alcohol for 11 of the 27 drinks 裡的 detect 相同，pick up 是比較口語的說法。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MXA-g99rp4-47",
+      "passageId": "MXA-g99rp4",
+      "year": 102,
+      "number": "47",
+      "answerType": "fill",
+      "points": 2,
+      "instruction": "請根據選文內容，從文章中選出兩個單詞，分別填入下列句子空格，並視句型結構需要作適當的字形變化，使句子語意完整、語法正確，且符合全文文意。每格限填一個單詞（word）。",
+      "prompt": "No one knows ___47___ why fast-moving action games help players make better decisions. There is also some ___48___ in the finding that “The Sims 2,” a game in which players run an entire virtual world, brought them no such benefit.",
+      "promptEmphasis": [],
+      "answers": [
+        "precisely"
+      ],
+      "answerSource": "adapted",
+      "swapGroup": null,
+      "answerNote": "空格夾在 knows 和 why 子句中間，要填修飾 knows 的副詞。形容詞 precise 要改成副詞 precisely。",
+      "options": null,
+      "optionCount": null,
+      "answerKey": null,
+      "officialExplanation": null,
+      "explanation": {
+        "think": [
+          "空格前後是 knows 和 why，很多人回 Felipe 那一則抓 The precise reason，把形容詞 precise 照抄上去。",
+          "也有人改成名詞 precision，讀起來像「知道精確度」，放進這一句說不通。",
+          "還有人抓 Adebayo 那一則的 more accurate，改成 accurately。文法上一樣是副詞，可是 accurate 講的是結果準確、沒有出錯，像 accurate decisions；說「確切知道是什麼原因」，英文習慣用 know precisely why，不用 accurately。"
+        ],
+        "cue": [
+          "本題評量讀寫綜合應用能力，對應的學習表現為「能以適切的英語文說出或寫出談話或短文的摘要」，並依空格的語法條件做適當的字形變化。",
+          "先切塊：[ No one ] knows [ ___(47)___ ] [ why fast-moving action games help players make better decisions ]。",
+          "這一句的主詞和動詞都有了，就是 No one knows；why 帶出的子句是 knows 的受詞。空格夾在動詞和受詞中間，不能填名詞，也不能填動詞，要填修飾 knows 的副詞，說明「知道得多確切」。",
+          "依據在 Felipe 那一則：The precise reason for this effect is still unknown。題幹把 still unknown 換成 No one knows，再把名詞 reason 換成 why 帶出的子句。名詞換掉了，原本修飾名詞的形容詞 precise 也要改成修飾動詞的副詞，所以是 precisely。",
+          "題幹的 why fast-moving action games help players make better decisions，就是 Felipe 說的 this effect：Gwen 那一則提到 fast-moving titles like “Call of Duty 2” made players better decision-makers。"
+        ],
+        "scoring": [
+          "本題庫的參考答案是 precisely，只有這一種寫法。",
+          "這一題要做兩件事：選對字，再做對字形變化，兩件都對才拿滿分。比照大考中心學測英文考科非選擇題評分原則：完全正確（包括選字及字形變化），得 2 分；字形錯誤或者拼字錯誤，得 1 分；空白、答案錯誤或與答案無關者，得 0 分。",
+          "照這個原則，填 precise、precision，是選對了字，但形態錯了，得 1 分。填 accurately，不符合這一句的意思和用法，得 0 分。",
+          "作答時最好先把選好的字寫上去，不要因為還沒決定形態就留白。"
+        ],
+        "patterns": [
+          {
+            "h": "precise（形）／precisely（副）／precision（名）",
+            "t": "確切的、精確的。the precise reason（確切的原因）改寫成 know precisely why（確切知道為什麼）：名詞 reason 換成 why 子句以後，修飾語也從形容詞換成副詞。"
+          },
+          {
+            "h": "疑問詞帶出的名詞子句",
+            "t": "why 子句當 knows 的受詞時，子句裡用直述句的語序，主詞在動詞前面：why fast-moving action games help players，不寫成疑問句的「why do + 主詞 + 動詞」。"
+          },
+          {
+            "h": "reserve judgment",
+            "t": "暫不下判斷、先不表態。until someone explains the link to gaming, I’m reserving judgment."
+          }
+        ]
+      }
+    },
+    {
+      "id": "MXA-g99rp4-48",
+      "passageId": "MXA-g99rp4",
+      "year": 102,
+      "number": "48",
+      "answerType": "fill",
+      "points": 2,
+      "instruction": "請根據選文內容，從文章中選出兩個單詞，分別填入下列句子空格，並視句型結構需要作適當的字形變化，使句子語意完整、語法正確，且符合全文文意。每格限填一個單詞（word）。",
+      "prompt": "No one knows ___47___ why fast-moving action games help players make better decisions. There is also some ___48___ in the finding that “The Sims 2,” a game in which players run an entire virtual world, brought them no such benefit.",
+      "promptEmphasis": [],
+      "answers": [
+        "irony"
+      ],
+      "answerSource": "adapted",
+      "swapGroup": null,
+      "answerNote": "some 後面接名詞，而且要能接 in the finding：there is some irony in。副詞 ironically 要改成名詞 irony。",
+      "options": null,
+      "optionCount": null,
+      "answerKey": null,
+      "officialExplanation": null,
+      "explanation": {
+        "think": [
+          "空格前面是 some，很多人回 Elif 那一則抓開頭的 Rather ironically，把副詞 ironically 照抄上去。",
+          "也有人改成形容詞 ironic。some 後面要接名詞，形容詞放在這裡缺了它修飾的對象。",
+          "還有人抓 Elif 那一則的 benefit（no such benefit），填 some benefit。文法說得通，可是同一句後半說的是 no such benefit，前面說這項發現有好處、後面又說沒有好處，意思對不起來。"
+        ],
+        "cue": [
+          "本題評量讀寫綜合應用能力，對應的學習表現為「能以適切的英語文說出或寫出談話或短文的摘要」，並依空格的語法條件做適當的字形變化。",
+          "先切塊：There is also [ some ___(48)___ ] in [ the finding ] that [ “The Sims 2,” a game in which players run an entire virtual world, brought them no such benefit ]。",
+          "There is 後面接名詞，some 也要接名詞，所以這一格要填名詞。that 子句說明 the finding 的內容：The Sims 2 要玩家經營整個虛擬世界，照理最該練到做決定的能力，結果卻沒有。預期和結果正好相反，就是「諷刺」。",
+          "依據在 Elif 那一則：Rather ironically, players of “The Sims 2,” a game where you organize an entire simulated world, saw no such benefit。題幹的 a game in which players run an entire virtual world 對應 a game where you organize an entire simulated world，所以把副詞 ironically 改成名詞 irony。",
+          "這一題組兩格的字形變化方向不同：第 47 格是從形容詞改成副詞，這一格是從副詞改成名詞。"
+        ],
+        "scoring": [
+          "本題庫的參考答案是 irony，只有這一種寫法。",
+          "評分原則和第 47 題相同：完全正確（包括選字及字形變化），得 2 分；字形錯誤或者拼字錯誤，得 1 分；空白、答案錯誤或與答案無關者，得 0 分。",
+          "照這個原則，填 ironically、ironic，是選對了字，但形態錯了，得 1 分。填 benefit，和同一句的 no such benefit 互相矛盾，得 0 分。"
+        ],
+        "patterns": [
+          {
+            "h": "ironic（形）／ironically（副）／irony（名）",
+            "t": "諷刺、出乎意料。結果和預期正好相反時用這一組字。Rather ironically 放在句首，是說話的人對整句事實下的評語，不是在修飾某一個動作。"
+          },
+          {
+            "h": "the finding that + 子句",
+            "t": "……這項發現。that 子句說明 finding 的內容，叫做同位語子句；the fact that、the idea that 也是同一種結構。"
+          },
+          {
+            "h": "a game where … ／ a game in which …",
+            "t": "先行詞 game 是遊戲這個「場合」，關係副詞 where 可以換成 in which，兩種寫法意思相同。文章寫 a game where you organize an entire simulated world，題幹改成 a game in which players run an entire virtual world。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MXA-g99rp4-49",
+      "passageId": "MXA-g99rp4",
+      "year": 102,
+      "number": "49",
+      "answerType": "multi",
+      "points": 4,
+      "instruction": "多選題",
+      "prompt": "From (A) to (I) in the above forum discussion, which ONES show a positive attitude toward playing action video games?",
+      "promptEmphasis": [],
+      "answers": null,
+      "answerSource": "adapted",
+      "swapGroup": null,
+      "answerNote": null,
+      "options": "blocks",
+      "optionCount": 9,
+      "answerKey": [
+        "A",
+        "D",
+        "G"
+      ],
+      "officialExplanation": null,
+      "explanation": {
+        "think": [
+          "九則貼文一路讀下來，語氣有濃有淡，容易只憑第一句的感覺就勾。",
+          "最容易勾錯的是 C 和 I：Camila 開頭說 Faster decision-making sounds wonderful for my students，Ingrid 開頭說 Impressive as these results are，讀起來都像支持，可是兩則後半都不贊成讓孩子多玩電玩。",
+          "也容易漏掉 G：Gwen 第一句說她以前站在認為電玩 ruin concentration 的老師那一邊，讀起來像反對，讀到 Then 之後才知道她改變了看法。至於 F 和 H，兩則都在講研究內容，語氣平和，沒有一句批評，也容易勾進去。"
+        ],
+        "cue": [
+          "本題評量讀寫綜合應用能力，要逐一判斷九則發言裡，發言者對玩動作電玩的態度。選項就是論壇上的九則發言，標成 (A) 到 (I)；題幹用的是 ONES，答案不只一個。",
+          "題目問的是 positive attitude toward playing action video games，重點在玩動作電玩這件事：要對它持正面態度，不是「沒有反對」，也不是「覺得這項研究很有意思」。",
+          "每一則都要讀到最後一句。要是中間出現 The thing is 這一類帶出不同意見的說法，或像 Impressive as these results are 這樣先讓一步的句型，後面那一句才是發言者真正的立場。",
+          "(A) Adebayo：開頭說 Finally, some good news for gamers!，接著引研究說 action gamers make faster and more accurate decisions，最後說下次媽媽叫他關掉遊戲機，他要把這項研究拿給她看。正面。",
+          "(D) Declan：說最讓他佩服的是 non-gamers acquired faster reaction times after only 50 hours of training，接著說 Hardly a huge sacrifice!，最後說 I’m downloading “Unreal Tournament” tonight。他當天晚上就要開始玩，正面。",
+          "(G) Gwen：先說 I used to side with the teachers who say games ruin concentration，used to 交代這是她以前的看法；接著用 Then 帶出讀到研究以後的轉變，最後說 Consider me a convert（就當我改變立場了）。這一則的方向和 (C)、(I) 正好相反：先反對、後支持，所以要勾。"
+        ],
+        "distractors": [
+          {
+            "h": "(C) Camila",
+            "t": "前半正面、後半反對。第一句說 Faster decision-making sounds wonderful for my students，接著用 The thing is（問題是）轉折，說 half my class already can’t stay focused through a single lesson, and more gaming won’t fix that。她肯定的是做決定變快這個好處，可是認為多玩電玩解決不了學生不專心的問題，屬於部分正確的誘答。"
+          },
+          {
+            "h": "(I) Ingrid",
+            "t": "前半正面、後半反對。Impressive as these results are 是讓步的句型，意思是「這些結果雖然令人佩服」；後面的主要子句 I won’t let my daughter spend her evenings on violent action games 才是她的立場，最後一句還說做決定快，對她來說遠不如善良、健康重要。也屬於部分正確的誘答。"
+          },
+          {
+            "h": "(F)、(H)",
+            "t": "兩則都在講研究內容，態度中立。Felipe 說 The precise reason for this effect is still unknown，最後說 I’m reserving judgment；Hyun-woo 解釋大腦怎麼做決定，最後說 I’m not taking sides。兩個人都沒有表態支持，不是正面。"
+          },
+          {
+            "h": "(B)、(E)",
+            "t": "兩則都是反對。Bethany 說暴力遊戲讓她的兩個兒子 moody and withdrawn，最後說 No research will convince me those games are good for kids；Elif 從 The Sims 2 沒有帶來同樣的好處，推論到 I doubt any game will。這是 Elif 個人的推論，文章裡的研究結果是快節奏的動作遊戲有效。"
+          },
+          {
+            "h": "(C) 和 (I) 是這一題最強的誘答",
+            "t": "Camila 的 sounds wonderful、Ingrid 的 Impressive 都是正面的字眼，只讀到第一句就會勾進去。可是 Camila 在 The thing is 之後、Ingrid 在讓步子句之後，都轉到不贊成讓孩子多玩電玩，兩則都不是正面態度。"
+          }
+        ],
+        "scoring": [
+          "這一題要選出對玩動作電玩持正面態度的發言，所以劃記 A、D、G 三個選項。先劃哪一個都不影響判定。",
+          "多選題怎麼計分，比照試卷首頁的「作答注意事項」：每題 n 個選項，各選項獨立判定；所有選項均答對者，得該題全部之分數；答錯 k 個選項者，得該題 (n−2k)／n 之分數；得分低於零分或所有選項均未作答者，以零分計算。",
+          "這一題有九個選項、4 分，所以全對得 4 分；錯一個約得 3.11 分；錯兩個約得 2.22 分；錯三個約得 1.33 分；錯四個約得 0.44 分；錯五個以上是 0 分。",
+          "要留意「各選項獨立判定」這句話：少劃一個和多劃一個，扣的分一樣。該劃 A、D、G 卻漏了 G，是 G 這一格判錯；多劃了 C，是 C 這一格判錯，兩種情形扣的分相同。所以作答時的標準要前後一致，不要因為怕多劃就把標準抬得太嚴；不過錯到五格就是零分，也不能每一項都隨便劃。"
+        ],
+        "patterns": [
+          {
+            "h": "形容詞 + as + 主詞 + be, …",
+            "t": "雖然……。Impressive as these results are 意思和 although 帶出的讓步子句相同，只是把形容詞移到句首，語氣比較強。讀這種句子，立場看逗號後面的主要子句。"
+          },
+          {
+            "h": "used to + 原形動詞",
+            "t": "以前曾經……（現在不再）。I used to side with the teachers 本身就表示現在已經不是這樣，所以讀到 used to，就要留意後面會說出現在的看法。"
+          },
+          {
+            "h": "side with",
+            "t": "站在……那一邊、支持……的看法。side 在這裡當動詞用。"
+          },
+          {
+            "h": "The thing is, …",
+            "t": "問題是……。口語裡用來帶出和前面不同的意見，後面才是說話的人在意的重點。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MXA-g99rp4-50",
+      "passageId": "MXA-g99rp4",
+      "year": 102,
+      "number": "50",
+      "answerType": "short",
+      "points": 2,
+      "instruction": "簡答題",
+      "prompt": "Which word in the forum discussion most likely means “to make small changes to something so that it becomes more exact”?",
+      "promptEmphasis": [],
+      "answers": [
+        "refine"
+      ],
+      "answerSource": "adapted",
+      "swapGroup": null,
+      "answerNote": "Hyun-woo 那一則 calculate and refine probabilities 的 refine。",
+      "options": null,
+      "optionCount": null,
+      "answerKey": null,
+      "officialExplanation": null,
+      "explanation": {
+        "think": [
+          "定義用 to make small changes 開頭，有人抓 Camila 那一則的 fix（more gaming won’t fix that）。fix 是修理、解決問題，不是一點一點調整，讓它更精確。",
+          "也有人抓 Hyun-woo 同一句的 calculate。calculate 是計算，算出一個數字，不是把已經有的東西改得更準。",
+          "還有人找到 refine 卻改成 refined 或 refinement：題目要的是文章裡的那個字，原文是什麼字形就寫什麼字形。"
+        ],
+        "cue": [
+          "本題評量讀寫綜合應用能力，要依指定條件，從文章裡擷取關鍵字詞。",
+          "定義用 to make … 開頭，是動詞的釋義，所以要在文章裡找動詞。",
+          "作答線索在 Hyun-woo 那一則：our brains constantly calculate and refine probabilities, gathering small pieces of information until there’s enough to decide。大腦先算出機率，再隨著蒐集到的零碎資訊不斷修正，判斷就越來越準。refine 正好對上定義裡的 small changes 和 more exact。"
+        ],
+        "scoring": [
+          "本題庫的參考答案是 refine。原文就是原形，不必改字形。",
+          "評分原則：完全正確（包括選字及字形變化），得 2 分；字形錯誤或者拼字錯誤，得 1 分；空白、答案錯誤或與答案無關者，得 0 分。",
+          "照這個原則，寫成 refined、refining、refinement，是選對了字，但形態和原文不同，得 1 分。填 fix 或 calculate，意思不符合定義，得 0 分。"
+        ],
+        "patterns": [
+          {
+            "h": "refine（動）／refinement（名）",
+            "t": "修正、使更精確。refined 也可以當形容詞，意思是「精緻的、有教養的」，例如 refined manners。"
+          },
+          {
+            "h": "constantly",
+            "t": "不斷地。our brains constantly calculate and refine probabilities 用現在簡單式，加上 constantly，說的是大腦一直都在做的事。"
+          },
+          {
+            "h": "until + 子句",
+            "t": "直到……為止。gathering small pieces of information until there’s enough to decide：until 子句說明蒐集要持續到什麼時候，也就是資訊夠了才停下來做決定。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MXA-z109bp2-47",
+      "passageId": "MXA-z109bp2",
+      "year": 109,
+      "number": "47",
+      "answerType": "fill",
+      "points": 2,
+      "instruction": "請根據選文內容，從文章中選出兩個單詞，分別填入下列句子空格，並視句型結構需要作適當的字形變化，使句子語意完整、語法正確，且符合全文文意。每格限填一個單詞（word）。",
+      "prompt": "Although most storm chasers have no formal training in meteorology, many put in long hours of study to become ___47___ about the atmosphere and the way storms develop. On the road, however, even careful chasers face risks: a downburst, for instance, can strike when they least ___48___ it and push their cars around.",
+      "promptEmphasis": [],
+      "answers": [
+        "knowledgeable"
+      ],
+      "answerSource": "adapted",
+      "swapGroup": null,
+      "answerNote": "become 後面接形容詞當補語，而且要能接 about：become knowledgeable about。Elena 那一則的名詞 knowledge 要改成形容詞 knowledgeable。",
+      "options": null,
+      "optionCount": null,
+      "answerKey": null,
+      "officialExplanation": null,
+      "explanation": {
+        "think": [
+          "Elena 那一則寫 that knowledge is what makes chasing so rewarding，很多人直接抄名詞 knowledge，形態沒改。",
+          "也有人往前言抓 curiosity，改成形容詞 curious，因為 curious about 也是常見的搭配。可是題幹說的是花很長的時間讀書，讀書讀到「好奇」說不通，讀到「懂得多」才合理。",
+          "還有人寫 familiar 或 expert。這兩個字意思接近，可是文章裡沒有，題目要的是從文章裡選出來的字。"
+        ],
+        "cue": [
+          "本題評量讀寫綜合應用能力，對應的學習表現為「能以適切的英語文說出或寫出談話或短文的摘要」，並依空格的語法條件做適當的字形變化。",
+          "先切塊：[ Although most storm chasers have no formal training in meteorology ], [ many ] put in long hours of study [ to become ___(47)___ about the atmosphere and the way storms develop ]。",
+          "become 是連綴動詞，後面要接形容詞當主詞補語，說明主詞變成什麼樣子；空格後面又接 about，所以要找的是「對……懂得很多」的形容詞。be knowledgeable about 是固定搭配，意思是「對……很有研究、很懂」。",
+          "依據在 Elena 那一則：Most of us aren't professional meteorologists, but we're not reckless either. I've spent years studying the atmosphere and how storms form, and that knowledge is what makes chasing so rewarding。題幹的 have no formal training in meteorology 是 aren't professional meteorologists 的換句話說，put in long hours of study 對應 I've spent years studying，the way storms develop 對應 how storms form。",
+          "Elena 用的是名詞 knowledge，在句子裡當主詞；題幹的空格在 become 後面，要的是形容詞，所以把 knowledge 加上字尾 -able，改成 knowledgeable。",
+          "前半句的 Although 引導讓步子句：雖然多數追風者沒受過正式訓練，還是有很多人肯下功夫。空格要填的，就是下了功夫以後得到的結果。"
+        ],
+        "scoring": [
+          "本題庫的參考答案是 knowledgeable，只有這一種寫法。",
+          "這一題要做兩件事：選對字，再做對字形變化，兩件都對才拿滿分。比照大考中心學測英文考科非選擇題評分原則：完全正確（包括選字及字形變化），得 2 分；字形錯誤或者拼字錯誤，得 1 分；空白、答案錯誤或與答案無關者，得 0 分。",
+          "照這個原則，填 knowledge、knowledgeably，是選對了字，但形態錯了，得 1 分。填 curious，雖然接得上 about，可是和 put in long hours of study 意思不合，得 0 分；填 familiar，不是文章裡的字，也是 0 分。",
+          "作答時最好先把選好的字寫上去，不要因為還沒決定形態就留白。"
+        ],
+        "patterns": [
+          {
+            "h": "be knowledgeable about",
+            "t": "對……很有研究、很懂。題幹的空格填好以後，就是 become knowledgeable about 的說法。意思相近的說法還有 be familiar with（對……熟悉）。"
+          },
+          {
+            "h": "knowledge（名）／knowledgeable（形）",
+            "t": "that knowledge is what makes chasing so rewarding 用的是名詞；空格在 become 後面，要用形容詞。字尾 -able 多半加在動詞後面（predictable、avoidable），knowledgeable 是加在名詞後面的例子。"
+          },
+          {
+            "h": "put in + 時間或心力",
+            "t": "投入（時間、心力）。put in long hours of study 是「花很長的時間讀書」；put in effort 是「下功夫」。"
+          },
+          {
+            "h": "Although 引導的讓步子句",
+            "t": "Although most storm chasers have no formal training in meteorology, many put in long hours of study。Although 已經帶出轉折的意思，所以後面的主要子句不再加 but，兩個連接詞重複就多餘了。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MXA-z109bp2-48",
+      "passageId": "MXA-z109bp2",
+      "year": 109,
+      "number": "48",
+      "answerType": "fill",
+      "points": 2,
+      "instruction": "請根據選文內容，從文章中選出兩個單詞，分別填入下列句子空格，並視句型結構需要作適當的字形變化，使句子語意完整、語法正確，且符合全文文意。每格限填一個單詞（word）。",
+      "prompt": "Although most storm chasers have no formal training in meteorology, many put in long hours of study to become ___47___ about the atmosphere and the way storms develop. On the road, however, even careful chasers face risks: a downburst, for instance, can strike when they least ___48___ it and push their cars around.",
+      "promptEmphasis": [],
+      "answers": [
+        "expect"
+      ],
+      "answerSource": "adapted",
+      "swapGroup": null,
+      "answerNote": "when they least ___ it 的空格是子句的動詞，主詞 they 是複數、現在式，用原形：when they least expect it。Bao 那一則的副詞 unexpectedly 要還原成動詞 expect。",
+      "options": null,
+      "optionCount": null,
+      "answerKey": null,
+      "officialExplanation": null,
+      "explanation": {
+        "think": [
+          "Bao 那一則寫 a downburst struck unexpectedly，很多人直接抄 unexpectedly，或只拿掉字首 un-，寫成 expected、expectedly。",
+          "也有人看到 they least ___ it，就往 Corinne 那一則抓 outrun。outrun 不必改字形，放進去意思也不通：「在追風者最跑不贏它的時候」不是英文的說法。",
+          "還有人寫 predict 或 notice。意思說得通，可是文章裡沒有這兩個字。"
+        ],
+        "cue": [
+          "本題評量讀寫綜合應用能力，對應的學習表現為「能以適切的英語文說出或寫出談話或短文的摘要」，並依空格的語法條件做適當的字形變化。",
+          "先切塊：On the road, however, even careful chasers face risks: [ a downburst ], for instance, can strike [ when they least ___(48)___ it ] and push their cars around。",
+          "when 引導的是副詞子句，they 是主詞，空格是動詞，it 是受詞，指前面的 a downburst。子句的主詞 they 是複數，講的又是一般情形，用現在簡單式，動詞不加 -s；least 是副詞，放在動詞前面，意思是「最不……」。",
+          "when + 主詞 + least expect it 是固定說法，意思是「在最料想不到的時候」，常用來說意外發生的時機。",
+          "依據在 Bao 那一則：until the afternoon a downburst struck unexpectedly and pushed my car sideways across the road。題幹的 push their cars around 對應 pushed my car sideways across the road；struck unexpectedly 是「出乎意料地襲來」，換個方向說，就是在追風者最料想不到的時候襲來。",
+          "unexpectedly 拆開來是 un-（否定）+ expected + -ly（副詞字尾），把否定和副詞的部分拿掉，剩下的就是動詞 expect。這一題組兩格的字形變化方向不同：第 47 格是名詞改成形容詞，這一格是副詞還原成動詞。"
+        ],
+        "scoring": [
+          "本題庫的參考答案是 expect，只有這一種寫法。",
+          "評分原則和第 47 題相同：完全正確（包括選字及字形變化），得 2 分；字形錯誤或者拼字錯誤，得 1 分；空白、答案錯誤或與答案無關者，得 0 分。",
+          "照這個原則，填 unexpectedly、expected、expects、expecting，是選對了字，但形態錯了，得 1 分。填 outrun，意思不通，得 0 分；填 predict、notice，不是文章裡的字，也是 0 分。"
+        ],
+        "patterns": [
+          {
+            "h": "least expect it",
+            "t": "在最料想不到的時候（前面接 when 和主詞）。least 是 little 的最高級，放在動詞前面當副詞，意思是「最不……」。"
+          },
+          {
+            "h": "字首 un- 和字尾 -ly",
+            "t": "unexpectedly（出乎意料地）、unforgettable（令人難忘的）都是字首 un- 帶出否定的意思。拆掉字首、字尾，常常就找得到原來的動詞：expect、forget。"
+          },
+          {
+            "h": "push something around",
+            "t": "把……推來推去。109 指考補考原題文章的說法是 push automobiles around，題幹寫成 push their cars around。"
+          },
+          {
+            "h": "for instance",
+            "t": "例如，和 for example 同義。可以放在句中，前後用逗號隔開：a downburst, for instance, can strike。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MXA-z109bp2-49",
+      "passageId": "MXA-z109bp2",
+      "year": 109,
+      "number": "49",
+      "answerType": "multi",
+      "points": 4,
+      "instruction": "多選題",
+      "prompt": "From (A) to (I) in the above forum discussion, which ONES show a positive attitude toward storm chasing?",
+      "promptEmphasis": [],
+      "answers": null,
+      "answerSource": "adapted",
+      "swapGroup": null,
+      "answerNote": null,
+      "options": "blocks",
+      "optionCount": 9,
+      "answerKey": [
+        "A",
+        "E",
+        "H"
+      ],
+      "officialExplanation": null,
+      "explanation": {
+        "think": [
+          "九則貼文裡，講危險和麻煩的占了一大半，讀到後來很容易以為每一則都在反對，結果把 Haruto 那一則漏掉。Haruto 一開頭就承認 you can drive all day and come home empty-handed，讀到這裡很像在抱怨。",
+          "最容易勾錯的是 B 和 I：Bao 開頭說 For years I lived for the thrill of the chase，Irene 開頭說 Chasing in the name of science, I can understand，兩則前面都像在支持，後面才轉到反對。",
+          "也有人漏掉 E，因為 Elena 一開頭說 Most of us aren't professional meteorologists，讀起來像在承認追風者的缺點。"
+        ],
+        "cue": [
+          "本題評量讀寫綜合應用能力，要逐一判斷九則發言裡，發言者對追風暴的態度。選項就是論壇上的九則發言，標成 (A) 到 (I)；題幹用的是 ONES，答案不只一個。",
+          "題目問的是 positive attitude toward storm chasing，對追風暴持正面態度，不是「沒有反對」。",
+          "每一則都要讀到最後一句，因為發言者的立場常常在轉折之後才定下來。轉折的寫法也各不相同：Bao 用破折號帶出 until，Irene 用 however，Haruto 則是先用 Sure 讓步，再用 Even so 轉回來。",
+          "(A) Austin：Nothing compares to watching a storm churn across the open plains，是說沒有什麼比得上看風暴在平原上翻騰；接著 I chase for the sheer adventure of it，說他追風暴就是為了冒險本身。態度是正面的。",
+          "(E) Elena：她先承認 Most of us aren't professional meteorologists，接著用 but we're not reckless either 說追風者也不是莽撞的人，最後 that knowledge is what makes chasing so rewarding，說多年讀來的知識，正是追風暴這麼有收穫的原因。正面。",
+          "(H) Haruto：Sure, you can drive all day and come home empty-handed 是讓步，承認可能開了一整天的車卻空手而回；接著 Even so, I wouldn't trade it for anything，說就算這樣，拿什麼來換他都不要，最後 One unforgettable storm makes up for a dozen quiet skies，一場難忘的風暴就能彌補十幾次的落空。他承認缺點，結論卻是值得，態度是正面的。"
+        ],
+        "distractors": [
+          {
+            "h": "(B) Bao",
+            "t": "前半正面、後半反對。For years I lived for the thrill of the chase 是說多年來他就是為了追逐的刺激而活；破折號後面的 until the afternoon a downburst struck unexpectedly，說有一天下午下爆氣流突然襲來，把他的車橫著推過整條路，最後 My chasing days are over，他不再追風暴了。現在的態度是負面的，屬於部分正確的誘答。"
+          },
+          {
+            "h": "(I) Irene",
+            "t": "前半讓步、後半反對。Chasing in the name of science, I can understand 是把受詞提到句首，意思是「為了科學去追，我可以理解」；however 之後，她說很多追風者根本不在乎研究，只是想找刺激，最後 Frankly, they should stay home。她只接受為科學而追的那一部分，對多數人追風暴的做法是反對的，也屬於部分正確的誘答。"
+          },
+          {
+            "h": "(C)、(D)、(F)、(G)",
+            "t": "四則都在講追風暴的風險或代價：Corinne 說閃電是 the one hazard nobody can outrun，最後 No photo is worth that gamble；Deshawn 說大雨大到幾乎看不清自己的引擎蓋，最後反問 How is that anyone's idea of fun?；Fabian 說小路上擠滿搶點閱的 YouTuber，擔心 somebody is going to die for a viral clip；Gemma 列了一長串裝備，再加上開幾千英里只為了短短看一眼風暴，最後 Count me out。四則都是負面態度。"
+          },
+          {
+            "h": "(B) 和 (I) 是這一題最強的誘答",
+            "t": "Bao 的 lived for the thrill、Irene 的 I can understand 都是正面的字眼，只讀到那裡就會勾進去。可是 Bao 在 until 之後說 My chasing days are over；Irene 理解的只是為科學去追，對其他追風者，她說 they should stay home。兩則都不是正面態度。"
+          }
+        ],
+        "scoring": [
+          "這一題要選出對追風暴持正面態度的發言，所以劃記 A、E、H 三個選項。先劃哪一個都不影響判定。",
+          "多選題怎麼計分，比照試卷首頁的「作答注意事項」：每題 n 個選項，各選項獨立判定；所有選項均答對者，得該題全部之分數；答錯 k 個選項者，得該題 (n−2k)／n 之分數；得分低於零分或所有選項均未作答者，以零分計算。",
+          "這一題有九個選項、4 分，所以全對得 4 分；錯一個約得 3.11 分；錯兩個約得 2.22 分；錯三個約得 1.33 分；錯四個約得 0.44 分；錯五個以上是 0 分。",
+          "要留意「各選項獨立判定」這句話：少劃一個和多劃一個，扣的分一樣。該劃 A、E、H 卻漏了 H，是 H 這一格判錯；多劃了 B，是 B 這一格判錯，兩種情形扣的分相同。所以作答時的標準要前後一致，不要因為怕多劃就把標準抬得太嚴；不過錯到五格就是零分，也不能每一項都隨便劃。"
+        ],
+        "patterns": [
+          {
+            "h": "live for",
+            "t": "為了……而活、以……為最大的樂趣。For years I lived for the thrill of the chase."
+          },
+          {
+            "h": "Even so",
+            "t": "即使如此、儘管這樣，是表示讓步的轉折詞，常放在句首，承接前面讓步的內容。Sure, you can drive all day and come home empty-handed. Even so, I wouldn't trade it for anything."
+          },
+          {
+            "h": "受詞提到句首",
+            "t": "Chasing in the name of science, I can understand 是把 understand 的受詞提到句首。英文把受詞往前移，是為了強調、聚焦這一部分。Irene 接著用 however 帶出其他追風者的情形，所以讀到這種句子，要留意後面有沒有對照。"
+          },
+          {
+            "h": "Count me out.",
+            "t": "別算我一份、我不參加。相反的說法是 Count me in.（算我一份）。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MXA-z109bp2-50",
+      "passageId": "MXA-z109bp2",
+      "year": 109,
+      "number": "50",
+      "answerType": "short",
+      "points": 2,
+      "instruction": "簡答題",
+      "prompt": "Which word in the forum discussion most likely means “without having gotten what you set out to find”?",
+      "promptEmphasis": [],
+      "answers": [
+        "empty-handed"
+      ],
+      "answerSource": "adapted",
+      "swapGroup": null,
+      "answerNote": null,
+      "options": null,
+      "optionCount": null,
+      "answerKey": null,
+      "officialExplanation": null,
+      "explanation": {
+        "think": [
+          "題目給的定義是「沒有得到原本出門想找的東西」，看到 empty 就只寫 empty 的很常見。empty-handed 是用連字號連起來的一個字，少了 handed 就不是這個意思。",
+          "也有人抄 Haruto 最後的 quiet skies，覺得天空平靜就是沒追到風暴。可是 quiet skies 說的是天氣，不是人的處境，而且題目要的是一個字。",
+          "還有人抄 Gemma 的 a brief glimpse of a storm，那是說只看到一眼，不是什麼都沒看到。"
+        ],
+        "cue": [
+          "本題評量讀寫綜合應用能力，要依指定條件，從文章裡擷取關鍵字詞。",
+          "題幹有兩項條件，要同時滿足。一是形式，題幹用的是 word，要的是一個字；二是語意，這個字要等於 without having gotten what you set out to find。empty-handed 用連字號連成一個字，詞典也把它列為一個形容詞詞條，所以整個寫出來才算一個 word。",
+          "定義用 without 開頭，說明的是一種狀態：做了一件事，結果什麼也沒得到。所以要在文章裡找描述這種狀態的字。",
+          "作答線索在 Haruto 那一則：Sure, you can drive all day and come home empty-handed。開了一整天的車，回家時兩手空空，沒看到想追的風暴，正好對上定義。",
+          "empty-handed 照字面是「手裡空空的」，引申為「空手而回、一無所獲」，常接在 come home、return 這類動詞後面。"
+        ],
+        "scoring": [
+          "本題庫的參考答案是 empty-handed。原文就是這個字形，不必改字形。",
+          "評分原則：完全正確（包括選字及字形變化），得 2 分；字形錯誤或者拼字錯誤，得 1 分；空白、答案錯誤或與答案無關者，得 0 分。",
+          "照這個原則，漏寫連字號、寫成 empty handed，是選對了字，但拼法和原文不同，得 1 分。只寫 empty 或 handed，少了複合字的另一半，意思不完整，得 0 分；寫 quiet skies 或 a brief glimpse，意思不符合定義，也是 0 分。"
+        ],
+        "patterns": [
+          {
+            "h": "come home empty-handed",
+            "t": "空手而回、一無所獲。Sure, you can drive all day and come home empty-handed."
+          },
+          {
+            "h": "make up for",
+            "t": "彌補。One unforgettable storm makes up for a dozen quiet skies. 後面接名詞或 V-ing。"
+          },
+          {
+            "h": "wouldn't trade it for anything",
+            "t": "拿什麼來換都不要，表示非常珍惜。Even so, I wouldn't trade it for anything."
+          },
+          {
+            "h": "-handed 構成的複合形容詞",
+            "t": "empty-handed（空手的）、left-handed（慣用左手的）、single-handed（獨力的）。名詞 hand 加上 -ed，再用連字號接上前面的形容詞。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MXA-z103p3-47",
+      "passageId": "MXA-z103p3",
+      "year": 103,
+      "number": "47",
+      "answerType": "fill",
+      "points": 2,
+      "instruction": "請根據選文內容，從文章中選出兩個單詞，分別填入下列句子空格，並視句型結構需要作適當的字形變化，使句子語意完整、語法正確，且符合全文文意。每格限填一個單詞（word）。",
+      "prompt": "The details of every Bitcoin transaction become ___47___ knowledge, so anyone can look up the balance of any address. Because Bitcoin is exploring untested ideas, no one can make a reliable ___48___ about where it is headed.",
+      "promptEmphasis": [],
+      "answers": [
+        "public"
+      ],
+      "answerSource": "adapted",
+      "swapGroup": null,
+      "answerNote": "空格在名詞 knowledge 前面，要填修飾它的形容詞：public knowledge（人人都知道的事）。副詞 publicly 要改成形容詞 public。",
+      "options": null,
+      "optionCount": null,
+      "answerKey": null,
+      "officialExplanation": null,
+      "explanation": {
+        "think": [
+          "Eva 那一則寫 stored publicly on the network forever，很多人直接把副詞 publicly 抄上去。可是空格後面緊接著名詞 knowledge，修飾名詞要用形容詞，副詞放不進去。",
+          "也有人想到名詞，寫成 publicity。publicity 是「宣傳、媒體的關注」，放在 knowledge 前面不成一個說法，意思也不是「公開」。",
+          "還有人抓同一句的 forever。交易紀錄永遠存在網路上是事實，可是 forever 是副詞，一樣不能修飾 knowledge；何況「永久保存」也推不出 so 後面「任何人都查得到」的結果。"
+        ],
+        "cue": [
+          "本題評量讀寫綜合應用能力，對應的學習表現為「能以適切的英語文說出或寫出談話或短文的摘要」，並依空格的語法條件做適當的字形變化。",
+          "先切塊：[ The details of every Bitcoin transaction ] become [ ___(47)___ knowledge ], so [ anyone ] can look up [ the balance of any address ]。",
+          "become 是連綴動詞，後面接的是說明主詞變成什麼的補語，這裡的補語是名詞 knowledge。空格夾在 become 和 knowledge 中間，作用是修飾 knowledge，說明是「什麼樣的」知識，所以要填形容詞。副詞修飾的是動詞、形容詞或整個句子，不能直接修飾名詞，所以 publicly 放不進來。",
+          "so 後面是結果：任何人都查得到任何一個地址的餘額。交易的細節要變成什麼樣的知識，才會有這個結果？就是人人都看得到的「公開」知識。public knowledge 是英文常用的說法，指大家都知道、誰都查得到的事。",
+          "作答線索在 Eva 那一則：Every payment I made would be stored publicly on the network forever. Anyone could check my balance。題幹的 look up the balance of any address 對應 check my balance；publicly 是副詞，改成形容詞就是 public。",
+          "這一題組兩格的字形變化方向不同：這一格是從副詞改成形容詞，第 48 格是從動詞改成名詞。"
+        ],
+        "scoring": [
+          "本題庫的參考答案是 public，只有這一種寫法。",
+          "這一題要做兩件事：選對字，再做對字形變化，兩件都對才拿滿分。比照大考中心學測英文考科非選擇題評分原則：完全正確（包括選字及字形變化），得 2 分；字形錯誤或者拼字錯誤，得 1 分；空白、答案錯誤或與答案無關者，得 0 分。",
+          "照這個原則，填 publicly、publicity，是選對了字，但形態錯了，得 1 分。填 forever，語法和意思都接不上，得 0 分。",
+          "作答時最好先把選好的字寫上去，不要因為還沒決定形態就留白。"
+        ],
+        "patterns": [
+          {
+            "h": "become public knowledge",
+            "t": "變成人人都知道的事。public 是形容詞，修飾名詞 knowledge。另一個常見的說法是 make it public（把它公開），make 後面接受詞再接形容詞，說明受詞變成什麼狀態。"
+          },
+          {
+            "h": "public（形）／publicly（副）／publicity（名）",
+            "t": "公開的／公開地／宣傳、媒體的關注。stored publicly 是「公開存放」；publicity 和「公開」的意思不同，不要混在一起。"
+          },
+          {
+            "h": "look up",
+            "t": "查詢、查找。look up the balance of any address（查任何一個地址的餘額）。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MXA-z103p3-48",
+      "passageId": "MXA-z103p3",
+      "year": 103,
+      "number": "48",
+      "answerType": "fill",
+      "points": 2,
+      "instruction": "請根據選文內容，從文章中選出兩個單詞，分別填入下列句子空格，並視句型結構需要作適當的字形變化，使句子語意完整、語法正確，且符合全文文意。每格限填一個單詞（word）。",
+      "prompt": "The details of every Bitcoin transaction become ___47___ knowledge, so anyone can look up the balance of any address. Because Bitcoin is exploring untested ideas, no one can make a reliable ___48___ about where it is headed.",
+      "promptEmphasis": [],
+      "answers": [
+        "prediction"
+      ],
+      "answerSource": "adapted",
+      "swapGroup": null,
+      "answerNote": "a reliable 後面接單數名詞，而且要能接 about：make a prediction 再用 about 帶出內容。過去分詞 predicted 要改成名詞 prediction。",
+      "options": null,
+      "optionCount": null,
+      "answerKey": null,
+      "officialExplanation": null,
+      "explanation": {
+        "think": [
+          "Finn 那一則寫 its future can’t be predicted，很多人把 predicted 照抄，或改回原形 predict。a reliable 後面要接名詞，動詞放不進去。",
+          "也有人寫成複數 predictions。前面有不定冠詞 a，後面只能接單數名詞。",
+          "還有人抓 Gloria 那一則的 choose，改成名詞 choice。make a choice 是「做選擇」，比特幣將來會走到哪裡，不是誰可以選的，意思不通。"
+        ],
+        "cue": [
+          "本題評量讀寫綜合應用能力，對應的學習表現為「能以適切的英語文說出或寫出談話或短文的摘要」，並依空格的語法條件做適當的字形變化。",
+          "先切塊：Because Bitcoin is exploring untested ideas, [ no one ] can make [ a reliable ___(48)___ about where it is headed ]。",
+          "a 是不定冠詞，reliable 是形容詞，兩個都要接名詞，所以這一格要填單數名詞。about where it is headed 說明這個名詞的內容，也就是比特幣將來的走向。",
+          "Because 子句是原因：比特幣在探索沒人試過的概念，所以沒有人能對它的走向做出可靠的「預測」。題幹的 untested ideas 對應 Isla 那一則的 ideas that have never been attempted。",
+          "作答線索在 Finn 那一則：Sure, it’s an experiment, and its future can’t be predicted。題幹的 where it is headed 就是 its future 的換句話說；predicted 是過去分詞，改成名詞就是 prediction。",
+          "make a prediction 是「做出預測」，預測的內容用 about 帶出來；英文常用 make 搭配名詞表示做某個動作。"
+        ],
+        "scoring": [
+          "本題庫的參考答案是 prediction，只有這一種寫法。",
+          "評分原則和第 47 題相同：完全正確（包括選字及字形變化），得 2 分；字形錯誤或者拼字錯誤，得 1 分；空白、答案錯誤或與答案無關者，得 0 分。",
+          "照這個原則，填 predict、predicted、predictions，是選對了字，但形態錯了，得 1 分。填 choice，意思不通，得 0 分。"
+        ],
+        "patterns": [
+          {
+            "h": "make a prediction",
+            "t": "做出預測，預測的內容用 about 帶出來。英文常用 make 搭配名詞表示做某個動作，例如 make a prediction（預測）、make a purchase（購買）。"
+          },
+          {
+            "h": "predict（動）／prediction（名）／unpredictable（形）",
+            "t": "its future can’t be predicted 是「它的未來無法預測」。字首 un- 表示「不」，所以 unpredictable 是「無法預測的」。"
+          },
+          {
+            "h": "where it is headed",
+            "t": "它往哪裡走、它的走向。be headed 後面接方向，常用來講一件事未來會怎麼發展，意思接近 its future。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MXA-z103p3-49",
+      "passageId": "MXA-z103p3",
+      "year": 103,
+      "number": "49",
+      "answerType": "multi",
+      "points": 4,
+      "instruction": "多選題",
+      "prompt": "From (A) to (I) in the above forum discussion, which ONES show a positive attitude toward using Bitcoin?",
+      "promptEmphasis": [],
+      "answers": null,
+      "answerSource": "adapted",
+      "swapGroup": null,
+      "answerNote": null,
+      "options": "blocks",
+      "optionCount": 9,
+      "answerKey": [
+        "A",
+        "C",
+        "F"
+      ],
+      "officialExplanation": null,
+      "explanation": {
+        "think": [
+          "這一題的選項是九則貼文，每一則都不長，很容易讀完第一句就決定要不要勾。",
+          "最容易勾錯的是 D 和 G：Desmond 第一句說這是 a brilliant idea，Gloria 第一句說 I like that，可是兩則後半都轉到不想用。",
+          "也容易漏掉 F：Finn 開頭先承認比特幣是一場實驗、未來沒人能預測，讀起來像在潑冷水，讀到 Still 之後才是他自己的看法。至於 H，Hamid 語氣平和，還教大家怎麼安全地用，看起來像支持，也容易勾進去。"
+        ],
+        "cue": [
+          "本題評量讀寫綜合應用能力，要逐一判斷九則發言裡，發言者對使用比特幣的態度。選項就是論壇上的九則發言，標成 (A) 到 (I)；題幹用的是 ONES，答案不只一個。",
+          "題目問的是 positive attitude toward using Bitcoin，要找的是願意用比特幣、或認為值得用的人，不是「沒有反對」的人。",
+          "判斷立場要看每一則最後落在哪裡。要是中間出現 The trouble is、But、Still 這一類轉折詞，後面那一句通常才是發言者真正的主張。",
+          "(A) Anika：她的親戚住在地球另一邊，付款 reaches her in seconds, with no bank in the middle，她覺得 sounds perfect，最後一句是 I’m signing up today。正面。",
+          "(C) Clara：她原本最怕 losing money over a single typo，後來知道系統 detects such slips，而且 usually won’t send money to an invalid address，最後說 I’m in。顧慮解除以後就加入，正面。",
+          "(F) Finn：先用 Sure 讓一步，承認 it’s an experiment, and its future can’t be predicted；接著用 Still 轉折，說使用的人越多，比特幣就越不像實驗，最後說 I’d rather help it grow than watch from the sidelines。他真正的主張在 Still 後面，態度是正面的。這一則的方向和 (D)、(G) 正好相反：先說缺點，轉折以後才說出自己的支持，所以要勾。"
+        ],
+        "distractors": [
+          {
+            "h": "(D) Desmond",
+            "t": "前半正面、後半反對。第一句說 Paying anyone, anywhere, with no single authority in control is a brilliant idea，接著用 The trouble is 轉折，說 the price can soar or plunge within days，最後說 I’ll stay away until things settle down。他欣賞的是這個構想，現在卻不打算用，屬於部分正確的誘答。"
+          },
+          {
+            "h": "(G) Gloria",
+            "t": "前半正面、後半反對。第一句說 I like that nobody can tell who’s behind an address，接著用 But 轉折，說要是付錯人，only the receiver could choose to return my money，最後說 Not worth it。她喜歡的是別人查不出身分這一點，結論卻是不值得，也屬於部分正確的誘答。"
+          },
+          {
+            "h": "(H) Hamid",
+            "t": "Jump in or stay out—it’s up to you 是說用不用由各人決定；接著提醒 payments can’t be undone，要用的話只和信得過的人或 businesses with an established reputation 往來。他是在給建議，沒有表示自己支持或反對，態度中立，不是正面。"
+          },
+          {
+            "h": "(B)、(E)、(I)",
+            "t": "三則都是反對：Bartek 說 there’s no undo button，最後說 I’ll pass；Eva 擔心 Anyone could check my balance，最後說 No thanks；Isla 說 Anything that experimental is a high-risk asset，最後說 I’ll sit this one out。"
+          },
+          {
+            "h": "(D) 和 (G) 是這一題最強的誘答",
+            "t": "Desmond 的 a brilliant idea、Gloria 的 I like that 都是正面的字眼，只讀第一句就會勾進去。可是 Desmond 在 The trouble is 之後、Gloria 在 But 之後，都轉到不打算用比特幣，兩則都不是正面態度。"
+          }
+        ],
+        "scoring": [
+          "這一題要選出對使用比特幣持正面態度的發言，所以劃記 A、C、F 三個選項。先劃哪一個都不影響判定。",
+          "多選題怎麼計分，比照試卷首頁的「作答注意事項」：每題 n 個選項，各選項獨立判定；所有選項均答對者，得該題全部之分數；答錯 k 個選項者，得該題 (n−2k)／n 之分數；得分低於零分或所有選項均未作答者，以零分計算。",
+          "這一題有九個選項、4 分，所以全對得 4 分；錯一個約得 3.11 分；錯兩個約得 2.22 分；錯三個約得 1.33 分；錯四個約得 0.44 分；錯五個以上是 0 分。",
+          "要留意「各選項獨立判定」這句話：少劃一個和多劃一個，扣的分一樣。該劃 A、C、F 卻漏了 F，是 F 這一格判錯；多劃了 D，是 D 這一格判錯，兩種情形扣的分相同。所以作答時的標準要前後一致，不要因為怕多劃就把標準抬得太嚴；不過錯到五格就是零分，也不能每一項都隨便劃。"
+        ],
+        "patterns": [
+          {
+            "h": "Sure, … Still, …",
+            "t": "先讓一步，再說出自己的主張。Sure 是承認對方說得有道理，Still 帶出「儘管如此」。讀這種句子，立場看 Still 後面。"
+          },
+          {
+            "h": "The trouble is, …",
+            "t": "問題是……。用來帶出前面那件好事的缺點，後面通常就是發言者的結論。"
+          },
+          {
+            "h": "would rather … than …",
+            "t": "寧可……，也不要……。I’d rather help it grow than watch from the sidelines. than 前後兩項都用原形動詞，因為兩項都接在 would rather 後面，作用相同。"
+          },
+          {
+            "h": "sit … out",
+            "t": "不參加、在一旁觀望。I’ll sit this one out.（這一次我不參加。）"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MXA-z103p3-50",
+      "passageId": "MXA-z103p3",
+      "year": 103,
+      "number": "50",
+      "answerType": "short",
+      "points": 2,
+      "instruction": "簡答題",
+      "prompt": "Which word in the forum discussion most likely means “the general opinion that people have of someone, based on how that person has behaved in the past”?",
+      "promptEmphasis": [],
+      "answers": [
+        "reputation"
+      ],
+      "answerSource": "adapted",
+      "swapGroup": null,
+      "answerNote": "Hamid 那一則 businesses with an established reputation 的 reputation。",
+      "options": null,
+      "optionCount": null,
+      "answerKey": null,
+      "officialExplanation": null,
+      "explanation": {
+        "think": [
+          "Hamid 那一則前面寫 deal only with people you trust，有人抓 trust。trust 是自己對別人的信任，不是大家對某人的整體評價。",
+          "也有人抓同一句的 established，或寫成兩個字 established reputation。題目問的是 word，只要一個單詞；established 是「已經建立的」，用來修飾 reputation，本身不是評價。",
+          "還有人抓 Eva 那一則的 history。my whole history 指的是她過去的付款紀錄，是做過的事本身，不是別人對她的看法。"
+        ],
+        "cue": [
+          "本題評量讀寫綜合應用能力，要依指定條件，從文章裡擷取關鍵字詞。",
+          "定義用 the general opinion 開頭，是名詞的釋義，所以要在文章裡找名詞。",
+          "作答線索在 Hamid 那一則：Just bear in mind that payments can’t be undone, so deal only with people you trust or businesses with an established reputation。付款撤不回來，所以要找過去表現好、大家都認可的商家；reputation 就是根據過去的作為得來的整體評價，正好對上定義裡的 based on how that person has behaved in the past。"
+        ],
+        "scoring": [
+          "本題庫的參考答案是 reputation。原文就是這個字形，不必改字形。",
+          "評分原則：完全正確（包括選字及字形變化），得 2 分；字形錯誤或者拼字錯誤，得 1 分；空白、答案錯誤或與答案無關者，得 0 分。",
+          "照這個原則，寫成 reputations 或形容詞 reputable，是選對了字，但形態和原文不同，得 1 分。填 trust 或 history，意思不符合定義，得 0 分。"
+        ],
+        "patterns": [
+          {
+            "h": "an established reputation",
+            "t": "已經建立起來的信譽，也就是經過一段時間、大家都認可的好名聲。形容詞 reputable 是「信譽好的」。"
+          },
+          {
+            "h": "bear in mind (that) + 子句",
+            "t": "記住、別忘了。Just bear in mind that payments can’t be undone. 意思和 keep in mind 相同。"
+          },
+          {
+            "h": "deal with",
+            "t": "和……往來、打交道。deal only with people you trust（只和信得過的人往來）。deal with 也有「處理」的意思，要看前後文判斷。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MXA-g93p4-47",
+      "passageId": "MXA-g93p4",
+      "year": 93,
+      "number": "47",
+      "answerType": "fill",
+      "points": 2,
+      "instruction": "下列簡短敘述摘記上方文章重點。請從文章中找出最適當的單詞（word）填入下列句子空格中，並視句型結構需要做適當的字形變化，使句子語意完整、語法正確，並符合全文文意。每格限填一個單詞（word）。",
+      "prompt": "Peanuts, who fears losing his grandfather, is kept company by Dooley, whose rich ___47___ leads him to try a ritual from comic books. “Beyond the Ridge,” which reads like a prayer, aims to ___48___ young readers that death is merely a change of worlds.",
+      "promptEmphasis": [],
+      "answers": [
+        "imagination"
+      ],
+      "answerSource": "adapted",
+      "swapGroup": null,
+      "answerNote": "rich 是形容詞，後面要接它修飾的名詞，形容詞 imaginative 要改成名詞 imagination。",
+      "options": null,
+      "optionCount": null,
+      "answerKey": null,
+      "officialExplanation": null,
+      "explanation": {
+        "think": [
+          "空格前面是 whose rich，很多人回 Everywhere 那一張卡片抓 imaginative（With Dooley’s imaginative help），形容詞照抄。",
+          "也有人看到同一張卡片寫 Dooley keeps Peanuts company，就填 company。whose rich company 文法上接得起來，可是 company 是「陪伴」，陪伴本身不會讓 Dooley 想到去試漫畫書裡的儀式，放進去意思不通。",
+          "還有人抓卡片最後的 hope 或 love。那是 Peanuts 最後體會到的東西，不是 Dooley 想出這個儀式的原因；而且英文不說 rich hope、rich love。"
+        ],
+        "cue": [
+          "本題評量讀寫綜合應用能力，對應的學習表現為「能以適切的英語文說出或寫出談話或短文的摘要」，並依空格的語法條件做適當的字形變化。",
+          "先切塊：[ Peanuts ], who fears losing his grandfather, is kept company by [ Dooley ], [ whose rich ___(47)___ ] leads him to try a ritual from comic books。",
+          "whose 是關係代名詞的所有格，意思是「他的」，後面一定接名詞。whose rich ___ 合起來是 leads 的主詞，rich 是形容詞，修飾這個名詞；動詞 leads 加了 -s，主詞是單數，所以這一格要填單數名詞。",
+          "Everywhere 那一張寫 Dooley tries to save Grandfather with a ritual he picked up from comic books，最後一句寫 With Dooley’s imaginative help, Peanuts discovers the healing power of hope and love。卡片用 imaginative 形容 Dooley 的幫忙，題幹把這份想像力寫成他去試儀式的原因。卡片裡的 imaginative 是形容詞，改成名詞就是 imagination。",
+          "a rich imagination 是英文常用的搭配，意思是「想像力豐富」，所以 rich 和這一格也接得很順。"
+        ],
+        "scoring": [
+          "本題庫的參考答案是 imagination，只有這一種寫法。",
+          "這一題要做兩件事：選對字，再做對字形變化，兩件都對才拿滿分。比照大考中心學測英文考科非選擇題評分原則：完全正確（包括選字及字形變化），得 2 分；字形錯誤或者拼字錯誤，得 1 分；空白、答案錯誤或與答案無關者，得 0 分。",
+          "照這個原則，填 imaginative，是選對了字，但形態錯了，得 1 分；動詞 leads 要搭單數主詞，寫成 imaginations 也是形態錯，得 1 分。填 company、hope 或 love，意思對不上這一句，得 0 分。",
+          "作答時最好先把選好的字寫上去，不要因為還沒決定形態就留白。"
+        ],
+        "patterns": [
+          {
+            "h": "whose + 名詞",
+            "t": "關係代名詞的所有格。whose 一方面表示「他的」，一方面也做連接詞的工作，把後面的子句接到 Dooley 身上，所以不必再寫 and his。whose 後面一定接名詞：whose rich imagination。"
+          },
+          {
+            "h": "imagine（動）／imaginative（形）／imagination（名）",
+            "t": "imaginative 是「富有想像力的」，imagination 是「想像力」。rich imagination（豐富的想像力）是常用的搭配。"
+          },
+          {
+            "h": "keep + 人 + company",
+            "t": "陪伴某人。Dooley keeps Peanuts company. company 在這裡是不可數名詞，意思是「陪伴」，不是「公司」。"
+          },
+          {
+            "h": "pick up",
+            "t": "（沒有刻意去學）學會、學到。a ritual he picked up from comic books"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MXA-g93p4-48",
+      "passageId": "MXA-g93p4",
+      "year": 93,
+      "number": "48",
+      "answerType": "fill",
+      "points": 2,
+      "instruction": "下列簡短敘述摘記上方文章重點。請從文章中找出最適當的單詞（word）填入下列句子空格中，並視句型結構需要做適當的字形變化，使句子語意完整、語法正確，並符合全文文意。每格限填一個單詞（word）。",
+      "prompt": "Peanuts, who fears losing his grandfather, is kept company by Dooley, whose rich ___47___ leads him to try a ritual from comic books. “Beyond the Ridge,” which reads like a prayer, aims to ___48___ young readers that death is merely a change of worlds.",
+      "promptEmphasis": [],
+      "answers": [
+        "reassure"
+      ],
+      "answerSource": "adapted",
+      "swapGroup": null,
+      "answerNote": "aims to 後面要填原形動詞，名詞 reassurance 要改成動詞 reassure。",
+      "options": null,
+      "optionCount": null,
+      "answerKey": null,
+      "officialExplanation": null,
+      "explanation": {
+        "think": [
+          "空格前面是 aims to，很多人回 Beyond the Ridge 那一張抓 reassurance（This is the reassurance the author offers his readers），名詞照抄。",
+          "也有人抓同一張的 expresses，改回原形 express 填進去。express 後面接的是想法或感受，不能先接人、再接 that 子句，放進這一格文法上接不起來。",
+          "還有人抓同一句的 offers，寫成 offer。offer 後面接人以後，還要再接一樣東西，也接不了 that 子句。"
+        ],
+        "cue": [
+          "本題評量讀寫綜合應用能力，對應的學習表現為「能以適切的英語文說出或寫出談話或短文的摘要」，並依空格的語法條件做適當的字形變化。",
+          "先切塊：[ “Beyond the Ridge,” ] which reads like a prayer, aims to [ ___(48)___ young readers ] [ that death is merely a change of worlds ]。",
+          "aim to 的 to 是不定詞的 to，不是介系詞。不定詞就是 to + 原形動詞，所以這一格要填原形動詞。",
+          "這個動詞後面先接人（young readers），再接 that 子句，說明要讓讀者相信什麼。能這樣用的動詞，意思多半是「讓人知道、讓人相信」，這一句講的又是死亡這種沉重的話題，所以要找「讓人安心」的動詞。",
+          "Beyond the Ridge 那一張開頭寫 There is no death, only a change of worlds. This is the reassurance the author offers his readers。題幹的 death is merely a change of worlds 對應卡片第一句，aims to ___ young readers 對應 the reassurance the author offers his readers。卡片裡的 reassurance 是名詞，改成動詞就是 reassure；reassure 人 that …，意思是「讓某人放心，相信……」。"
+        ],
+        "scoring": [
+          "本題庫的參考答案是 reassure，只有這一種寫法。",
+          "評分原則和第 47 題相同：完全正確（包括選字及字形變化），得 2 分；字形錯誤或者拼字錯誤，得 1 分；空白、答案錯誤或與答案無關者，得 0 分。",
+          "照這個原則，填 reassurance，是選對了字，但形態錯了，得 1 分；aims to 後面要接原形，寫成 reassures、reassured 也是形態錯，得 1 分。填 express 或 offer，後面接不了「人 + that 子句」，得 0 分。"
+        ],
+        "patterns": [
+          {
+            "h": "reassure + 人 + that 子句",
+            "t": "讓某人放心，相信……。名詞是 reassurance（讓人安心的話），形容詞是 reassuring（令人安心的）。"
+          },
+          {
+            "h": "aim to + 原形動詞",
+            "t": "目的是、打算做到。aims to reassure 說的是這本書想替讀者做的事。"
+          },
+          {
+            "h": "read like + 名詞",
+            "t": "讀起來像……。Reading like a prayer, the book expresses specific beliefs about dying. 開頭的 Reading like a prayer 是分詞構句，它的主詞就是後面的 the book，所以用現在分詞 reading。"
+          },
+          {
+            "h": "be based on",
+            "t": "根據……、以……為基礎。a book based on the customs of the Plains Indians in America，based 前面省略了 which is。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MXA-g93p4-49",
+      "passageId": "MXA-g93p4",
+      "year": 93,
+      "number": "49",
+      "answerType": "multi",
+      "points": 4,
+      "instruction": "多選題",
+      "prompt": "From (A) to (F) below, choose the ONES that are true for both “Everywhere” and “Tuck Everlasting.”",
+      "promptEmphasis": [],
+      "answers": null,
+      "answerSource": "adapted",
+      "swapGroup": null,
+      "answerNote": null,
+      "options": [
+        {
+          "label": "A",
+          "text": "Someone in the story takes, or means to take, the life of a living creature."
+        },
+        {
+          "label": "B",
+          "text": "Characters dread something that might happen."
+        },
+        {
+          "label": "C",
+          "text": "A family member’s life is truly at risk."
+        },
+        {
+          "label": "D",
+          "text": "Adults in the family are kept busy looking after a relative."
+        },
+        {
+          "label": "E",
+          "text": "A ritual taken from comic books saves someone’s life."
+        },
+        {
+          "label": "F",
+          "text": "A young character calls the family together for a talk."
+        }
+      ],
+      "optionCount": 6,
+      "answerKey": [
+        "A",
+        "B"
+      ],
+      "officialExplanation": null,
+      "explanation": {
+        "think": [
+          "四張卡片分開讀都很好懂，Everywhere 和 Tuck Everlasting 又都牽涉到生死，讀完容易覺得兩本書差不多，看到講生死的選項就勾。這一題的門檻寫在題目裡：要對兩本書都成立。",
+          "只對其中一本成立的選項，看起來最像答案，也最容易勾進去，(C)、(D)、(E) 都是這一種。",
+          "(C) 最容易失分：Tuck 太太確實判了死刑，可是卡片接著說她死不了，只讀到判刑那一句就作答的人，會把它勾進去。"
+        ],
+        "cue": [
+          "本題用卡片並列的方式呈現，評量考生讀完以後能不能比較、分析和推論。",
+          "每一個選項都要回原文核對兩次，Everywhere 那一張一次、Tuck Everlasting 那一張一次。",
+          "(A) Someone in the story takes, or means to take, the life of a living creature. Everywhere 那一張寫 Dooley tries to save Grandfather with a ritual he picked up from comic books: kill a turtle and trade its soul for the old man’s，Dooley 要用的儀式是殺一隻烏龜；Tuck Everlasting 那一張寫 Mrs. Tuck kills him，Tuck 太太殺了那個男人。選項把 kill 換成 take the life of，又用 means to take 涵蓋「打算殺」的情形，這是換字改寫。兩本都符合。",
+          "(B) Characters dread something that might happen. Everywhere 那一張寫 the boy is heartbroken at the thought of losing him，Peanuts 怕的是祖父可能過世；Tuck Everlasting 那一張寫 they fear that their secret will be revealed once the attempt is made to carry out her sentence，Tuck 一家怕的是行刑的時候祕密曝光。兩件事都還沒發生，選項用 dread 和 might happen 把它們概括起來。兩本都符合。"
+        ],
+        "distractors": [
+          {
+            "h": "(C) A family member’s life is truly at risk.",
+            "t": "只有 Everywhere 符合：Peanuts’ beloved grandfather has suffered a heart attack，祖父心臟病發作，性命確實有危險。Tuck 太太雖然 jailed and sentenced to be executed，卡片接著寫 Although her family knows she cannot be killed，她其實死不了，選項的 truly 在這本書不成立。"
+          },
+          {
+            "h": "(D) Adults in the family are kept busy looking after a relative.",
+            "t": "只有 Everywhere 符合：While the adults in the family attend to the sick man。Tuck Everlasting 那一張沒有寫家裡的大人在照顧誰，Tuck 一家擔心的是祕密會不會曝光。"
+          },
+          {
+            "h": "(E) A ritual taken from comic books saves someone’s life.",
+            "t": "說得太過頭，而且只和 Everywhere 有關。卡片寫的是 Dooley tries to save Grandfather，tries to 只說他嘗試，沒有說祖父救活了；最後一句 Peanuts discovers the healing power of hope and love 講的是 Peanuts 體會到的道理，不是儀式的結果。Tuck Everlasting 那一張根本沒有提到儀式。"
+          },
+          {
+            "h": "(F) A young character calls the family together for a talk.",
+            "t": "歸屬錯了。a young girl calls a family meeting 寫在第 3 張卡片，講的是另一本書，和這兩本書都沒有關係。"
+          },
+          {
+            "h": "(C) 和 (E) 是這一題最強的誘答",
+            "t": "兩個選項都只對 Everywhere 成立，屬於部分正確。(C) 要讀到 Tuck Everlasting 那一張後半的 Although her family knows she cannot be killed，才知道 Tuck 太太的性命其實沒有危險；(E) 要分清楚「嘗試」和「做到」，卡片只寫 tries to，又用 Peanuts 體會到希望和愛的療癒力量收尾，容易讓人以為祖父得救了。題目要的是兩本書都成立。"
+          }
+        ],
+        "scoring": [
+          "這一題要選出對 Everywhere 和 Tuck Everlasting 都成立的選項，所以要劃記 A、B 兩個選項。先劃哪一個都不影響判定。",
+          "多選題怎麼計分，比照試卷首頁的「作答注意事項」：每題 n 個選項，各選項獨立判定；所有選項均答對者，得該題全部之分數；答錯 k 個選項者，得該題 (n−2k)／n 之分數；得分低於零分或所有選項均未作答者，以零分計算。",
+          "這一題有六個選項、4 分，所以全對得 4 分；錯一個約得 2.67 分；錯兩個約得 1.33 分；錯三個以上是 0 分。",
+          "要留意「各選項獨立判定」這句話：少劃一個和多劃一個，扣的分一樣。該劃 A、B 卻只劃了 A，是 B 這一格判錯；多劃了 C，是 C 這一格判錯，兩種情形扣的分相同。所以作答時的標準要前後一致，不要因為怕多劃就把標準抬得太嚴；不過錯到三格就是零分，也不能每一項都隨便劃。"
+        ],
+        "patterns": [
+          {
+            "h": "take the life of + 人或動物",
+            "t": "奪走……的性命。選項用它改寫原文的 kill，說法比較正式。"
+          },
+          {
+            "h": "dread",
+            "t": "非常害怕、擔心（還沒發生的事）。選項用它概括原文的 heartbroken at the thought of losing him 和 they fear。"
+          },
+          {
+            "h": "be sentenced to + 名詞／原形動詞",
+            "t": "判處……。to 後面最常接刑罰的名詞，例如 sentenced to death（判處死刑）、to life imprisonment（判處無期徒刑）；也可以接原形動詞，像文章的 she is jailed and sentenced to be executed，後面的 be executed 是被動語態，因為 Tuck 太太是處決的對象。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MXA-g93p4-50",
+      "passageId": "MXA-g93p4",
+      "year": 93,
+      "number": "50",
+      "answerType": "short",
+      "points": 2,
+      "instruction": "簡答",
+      "prompt": "Which phrase in the passage most likely means “a buyer who offers to pay more than anyone else”?",
+      "promptEmphasis": [
+        "phrase"
+      ],
+      "answers": [
+        "highest bidder",
+        "the highest bidder"
+      ],
+      "answerSource": "adapted",
+      "swapGroup": null,
+      "answerNote": "連冠詞寫成 the highest bidder 也給滿分。",
+      "options": null,
+      "optionCount": null,
+      "answerKey": null,
+      "officialExplanation": null,
+      "explanation": {
+        "think": [
+          "題目問的是 phrase，只寫 bidder 一個字的很常見。bidder 是出價的人，少了 highest，就沒有「出價比誰都高」的意思。",
+          "也有人抓同一句的 sell the water。那是賣方要做的事，定義講的卻是買方。",
+          "還有人抓第 3 張卡片的 rich people。有錢人不一定出價最高，那一張卡片也沒有人在買東西。"
+        ],
+        "cue": [
+          "本題評量讀寫綜合應用能力，要依指定條件，從文章裡擷取關鍵語句。",
+          "題幹有兩項條件，要同時滿足。一是形式，題幹用的是 phrase，要的是片語；二是語意，這個片語要等於 a buyer who offers to pay more than anyone else。",
+          "Tuck Everlasting 那一張寫 When a man learns their secret, he threatens to sell the water to the highest bidder。把東西賣給出價最高的人，是拍賣的說法：bid 是出價，bidder 是出價的人，highest 表示出的價比其他人都高，正好對上定義。"
+        ],
+        "scoring": [
+          "本題庫的參考答案是 highest bidder，連冠詞寫成 the highest bidder 也給滿分。",
+          "評分原則：完全正確（包括選字及字形變化），得 2 分；字形錯誤或者拼字錯誤，得 1 分；空白、答案錯誤或與答案無關者，得 0 分。",
+          "照這個原則，寫成複數 highest bidders，是選對了片語，但形態和原文不同，得 1 分。",
+          "只寫 bidder，不是題幹要的片語，少了 highest 也沒有「出價最高」的意思；寫 rich people 或 sell the water，意思不符合定義。這幾種都不符合前面的條件，得 0 分。"
+        ],
+        "patterns": [
+          {
+            "h": "sell + 物 + to the highest bidder",
+            "t": "賣給出價最高的人。he threatens to sell the water to the highest bidder"
+          },
+          {
+            "h": "bid（名／動）／bidder（名）",
+            "t": "出價／出價的人。字尾 -er 表示做這個動作的人；bid 是短母音加一個子音結尾的單音節字，加 -er 的時候要重複字尾的 d。"
+          },
+          {
+            "h": "threaten to + 原形動詞",
+            "t": "揚言要、威脅要。he threatens to sell the water"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MXA-g97p3-47",
+      "passageId": "MXA-g97p3",
+      "year": 97,
+      "number": "47",
+      "answerType": "fill",
+      "points": 2,
+      "instruction": "下列簡短敘述摘記上方文章重點。請從文章中找出最適當的單詞（word）填入下列句子空格中，並視句型結構需要做適當的字形變化，使句子語意完整、語法正確，並符合全文文意。每格限填一個單詞（word）。",
+      "prompt": "Unless the work takes place somewhere cold, a sculptor has to hurry to bring the piece to ___47___ before it begins to melt. At a wedding banquet, a pair of ice-sculpted swans may decorate the table, standing for the bond that now ___48___ the bride and groom in marriage.",
+      "promptEmphasis": [],
+      "answers": [
+        "completion"
+      ],
+      "answerSource": "adapted",
+      "swapGroup": null,
+      "answerNote": "bring the piece to 的 to 是介系詞，後面要填名詞，過去分詞 completed 要改成名詞 completion。",
+      "options": null,
+      "optionCount": null,
+      "answerKey": null,
+      "officialExplanation": null,
+      "explanation": {
+        "think": [
+          "空格前面是 to，很多人一看到 to 就當成不定詞，回第 3 張卡片抓 completed，改回原形 complete 填進去。",
+          "也有人照抄 completed（some sculptures can be completed in as little as ten minutes），形態沒改。",
+          "還有人抓同一張卡片的 finish（the sculptor has to work fast to finish）。意思很接近，可是 finish 放進去，to finish 會讀成不定詞，接在 bring the piece 後面說不通；而且文章裡的 finish 不必改字形，不是這一格要的字。"
+        ],
+        "cue": [
+          "本題評量讀寫綜合應用能力，對應的學習表現為「能以適切的英語文說出或寫出談話或短文的摘要」，並依空格的語法條件做適當的字形變化。",
+          "先切塊：Unless [ the work takes place somewhere cold ], [ a sculptor ] has to hurry to bring [ the piece ] to [ ___(47)___ ] before it begins to melt。",
+          "這一句有兩個 to，作用不一樣。hurry to bring 的 to 後面接原形動詞 bring，是不定詞的 to；bring the piece to 的 to 前面已經有動詞 bring 和受詞 the piece，後面要說的是把作品帶到什麼狀態，這個 to 是介系詞，所以這一格要填名詞。",
+          "題幹的前半對應第 3 張卡片 Racing the Clock 的 If the sculpting does not take place in a cold environment, the sculptor has to work fast to finish；before it begins to melt 對應同一張卡片的 before melting takes its toll。也就是說，這一格要的是「完成作品」這個意思。",
+          "同一張卡片講完成作品的字是 completed，出現兩次：how quickly a piece must be completed 和 some sculptures can be completed in as little as ten minutes，兩處都是過去分詞。改成名詞就是 completion，bring … to completion 就是「把……完成」。"
+        ],
+        "scoring": [
+          "本題庫的參考答案是 completion，只有這一種寫法。",
+          "這一題要做兩件事：選對字，再做對字形變化，兩件都對才拿滿分。比照大考中心學測英文考科非選擇題評分原則：完全正確（包括選字及字形變化），得 2 分；字形錯誤或者拼字錯誤，得 1 分；空白、答案錯誤或與答案無關者，得 0 分。",
+          "照這個原則，填 complete、completed，是選對了字，但形態錯了，得 1 分。填 finish，to finish 會讀成不定詞，句子說不通，得 0 分。",
+          "作答時最好先把選好的字寫上去，不要因為還沒決定形態就留白。"
+        ],
+        "patterns": [
+          {
+            "h": "bring … to completion",
+            "t": "把……完成。這裡的 to 是介系詞，後面接名詞，表示把東西帶到某個狀態；同樣的說法還有 bring … to an end（結束）、bring … to life（使……活起來）。"
+          },
+          {
+            "h": "complete（動／形）／completion（名）",
+            "t": "完成。文章寫 how quickly a piece must be completed，題幹改用名詞 completion。"
+          },
+          {
+            "h": "take its toll",
+            "t": "造成損害。before melting takes its toll，意思是「在融化造成損害以前」。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MXA-g97p3-48",
+      "passageId": "MXA-g97p3",
+      "year": 97,
+      "number": "48",
+      "answerType": "fill",
+      "points": 2,
+      "instruction": "下列簡短敘述摘記上方文章重點。請從文章中找出最適當的單詞（word）填入下列句子空格中，並視句型結構需要做適當的字形變化，使句子語意完整、語法正確，並符合全文文意。每格限填一個單詞（word）。",
+      "prompt": "Unless the work takes place somewhere cold, a sculptor has to hurry to bring the piece to ___47___ before it begins to melt. At a wedding banquet, a pair of ice-sculpted swans may decorate the table, standing for the bond that now ___48___ the bride and groom in marriage.",
+      "promptEmphasis": [],
+      "answers": [
+        "unites"
+      ],
+      "answerSource": "adapted",
+      "swapGroup": null,
+      "answerNote": "主詞 the bond 是單數，子句又有 now，名詞 union 要改成現在式第三人稱單數的動詞 unites。",
+      "options": null,
+      "optionCount": null,
+      "answerKey": null,
+      "officialExplanation": null,
+      "explanation": {
+        "think": [
+          "很多人回第 4 張卡片抓 union（the union of the new couple），名詞照抄。",
+          "也有人改成了動詞，卻寫成 unite 或 united。前面的 the bond 是單數，句子又有 now，要用現在式第三人稱單數，所以是 unites。",
+          "還有人抓同一句的 representing，改成 represents。放進去變成「現在代表新郎新娘的那份關係」，可是題幹要說的是這份關係把兩個人結合在一起，意思不對。"
+        ],
+        "cue": [
+          "本題評量讀寫綜合應用能力，對應的學習表現為「能以適切的英語文說出或寫出談話或短文的摘要」，並依空格的語法條件做適當的字形變化。",
+          "先切塊：At a wedding banquet, [ a pair of ice-sculpted swans ] may decorate the table, standing for [ the bond that now ___(48)___ the bride and groom in marriage ]。",
+          "that 引導形容詞子句修飾 the bond，在子句裡當主詞，後面要接動詞；空格後面的 the bride and groom 是這個動詞的受詞，in marriage 再說明兩個人因為什麼結合在一起，所以這一格要填及物動詞。先行詞 the bond 是單數，子句又有 now，動詞要用現在式第三人稱單數。",
+          "第 4 張卡片 Ice at the Table 寫 it is common to see a pair of ice-sculpted swans representing the union of the new couple。題幹的 standing for 是 representing 的換句話說，the bride and groom 就是 the new couple。",
+          "union 是名詞「結合」，動詞是 unite；配合單數主詞和現在式，改成 unites。unite … in marriage 是「使……結為夫妻」的固定說法，同一張卡片的 holds（hold a dinner party）放進去不能和 in marriage 搭配，也就排除了。"
+        ],
+        "scoring": [
+          "本題庫的參考答案是 unites，只有這一種寫法。",
+          "評分原則和第 47 題相同：完全正確（包括選字及字形變化），得 2 分；字形錯誤或者拼字錯誤，得 1 分；空白、答案錯誤或與答案無關者，得 0 分。",
+          "照這個原則，填 union、unite、united，是選對了字，但形態錯了，得 1 分。填 represents 或 holds，意思不符合「使兩個人結為夫妻」，得 0 分。"
+        ],
+        "patterns": [
+          {
+            "h": "unite（動）／union（名）",
+            "t": "結合、聯合。the union of the new couple 是「新人的結合」；動詞的用法如 unite … in marriage（使……結為夫妻）。"
+          },
+          {
+            "h": "stand for",
+            "t": "代表、象徵，和 represent 意思相近。題幹用 standing for 改寫原文的 representing。"
+          },
+          {
+            "h": "It is common to + 原形動詞",
+            "t": "……是常見的事。it is common to see a pair of ice-sculpted swans 用虛主詞 it 代替後面的不定詞片語 to see …；真正的主詞很長，放到後面，句子比較不會頭重腳輕。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MXA-g97p3-49",
+      "passageId": "MXA-g97p3",
+      "year": 97,
+      "number": "49",
+      "answerType": "multi",
+      "points": 4,
+      "instruction": "多選題",
+      "prompt": "From (A) to (F) below, choose the ONES that are true for both the blocks from the Clinebell Company and the much larger blocks.",
+      "promptEmphasis": [],
+      "answers": null,
+      "answerSource": "adapted",
+      "swapGroup": null,
+      "answerNote": null,
+      "options": [
+        {
+          "label": "A",
+          "text": "They come from places outside Asia."
+        },
+        {
+          "label": "B",
+          "text": "They are examples of ice that is suitable for carving."
+        },
+        {
+          "label": "C",
+          "text": "They come from North America."
+        },
+        {
+          "label": "D",
+          "text": "They can be bought from a company in Colorado."
+        },
+        {
+          "label": "E",
+          "text": "They are see-through and are used at large sculpting events."
+        },
+        {
+          "label": "F",
+          "text": "They are obtained from more than one part of the world."
+        }
+      ],
+      "optionCount": 6,
+      "answerKey": [
+        "A",
+        "B"
+      ],
+      "officialExplanation": null,
+      "explanation": {
+        "think": [
+          "四張卡片分開讀都很好懂，可是兩種冰塊分在第 1、2 張卡片，讀完容易照著「哪一張卡片寫了什麼」就勾。這一題的門檻寫在題目裡：要對 Clinebell 公司的冰塊和更大的冰塊都成立。",
+          "只對其中一種冰塊成立，或是一半對、一半錯的選項，看起來最像答案，也最容易勾進去，(C)、(E) 就是這一種。",
+          "另一個常見的失分是 (A)：第 3、4 張卡片都提到亞洲（Japan、China、especially in Asia），讀到這裡容易以為冰塊也和亞洲有關而不敢劃。其實那兩張卡片講的是冰鑿、冰雕傳統和餐桌裝飾，不是冰塊的產地。至於 (B)，它的根據要把第 1 張卡片開頭的挑冰條件和兩種冰塊的描述合起來看，只找字面相同的句子會漏掉。"
+        ],
+        "cue": [
+          "本題用卡片並列的方式呈現，評量考生讀完以後能不能比較、分析和推論。",
+          "每一個選項都要回原文核對兩次，第 1 張卡片 Choosing the Ice 一次、第 2 張卡片 Going Big 一次；講亞洲的選項，還要回第 3、4 張卡片確認亞洲那幾句講的是什麼。",
+          "(A) They come from places outside Asia. 第 1 張卡片寫 Crystal-clear blocks … are available from the Clinebell Company in Colorado，Colorado 在美國；第 2 張卡片寫 Much larger clear blocks are produced in Europe and Canada or harvested from a frozen river in Sweden，這幾個地方也都不在亞洲。文章裡和亞洲有關的是第 3 張卡片的 Japan、China，以及第 4 張卡片的 especially in Asia，講的是最好的冰鑿、冰雕傳統和餐桌上的冰雕，都不是冰塊的產地。選項沒有一一列出地名，而是把它們歸納成「亞洲以外的地方」。兩種都符合。",
+          "(B) They are examples of ice that is suitable for carving. 第 1 張卡片開頭寫 Ice must be carefully selected before it can be sculpted，接著列出理想冰塊的條件，再介紹 Clinebell 公司透明的冰塊，也就是符合條件、可以拿來雕刻的冰；第 2 張卡片寫更大的冰塊 are put to use at large ice sculpting events，一樣是拿來雕刻的冰。選項把 sculpted 換成 carving，這是換字改寫。兩種都符合。"
+        ],
+        "distractors": [
+          {
+            "h": "(C) They come from North America.",
+            "t": "部分正確。Clinebell 公司在 Colorado，屬於北美洲，這一種成立；更大的冰塊雖然有一部分產在 Canada，可是也產在 Europe，還有從瑞典結冰的河上採來的，不是都來自北美洲。也就是說，這個選項只對 Clinebell 公司的冰塊完全成立。正解 (A) 說的是「亞洲以外」，範圍比北美洲大，兩種冰塊的產地都包得進去。"
+          },
+          {
+            "h": "(D) They can be bought from a company in Colorado.",
+            "t": "只有 Clinebell 公司的冰塊符合：are available from the Clinebell Company in Colorado。第 2 張卡片寫更大的冰塊 are produced in Europe and Canada，沒有提到 Colorado。這是把一種冰塊的出處套在兩種冰塊身上。"
+          },
+          {
+            "h": "(E) They are see-through and are used at large sculpting events.",
+            "t": "前半對、後半錯。前半的透明兩種冰塊都成立：第 1 張卡片寫 Crystal-clear blocks，第 2 張卡片寫 Much larger clear blocks。後半出自第 2 張卡片 Giant blocks like these are put to use at large ice sculpting events，講的只有更大的冰塊，第 1 張卡片沒有說 Clinebell 公司的冰塊用在大型冰雕活動。"
+          },
+          {
+            "h": "(F) They are obtained from more than one part of the world.",
+            "t": "只有更大的冰塊符合：產地有 Europe、Canada，還有 Sweden。Clinebell 公司的冰塊只寫了一個出處，也就是 Colorado 的這一家公司。"
+          },
+          {
+            "h": "(C) 和 (E) 是這一題最強的誘答",
+            "t": "兩個選項都有一部分說得通：(C) 和正解 (A) 一樣在講產地，對 Clinebell 公司的冰塊成立，對更大的冰塊卻只說中了 Canada 那一部分；(E) 前半的透明兩種冰塊都成立，後半卻只屬於更大的冰塊，屬於部分正確。題目要的是兩種冰塊都成立。113 學測混合題第 49 題的 (A) 也是這種只對其中一種動物成立的選項。"
+          }
+        ],
+        "scoring": [
+          "這一題要選出對兩種冰塊都成立的選項，所以要劃記 A、B 兩個選項。先劃哪一個都不影響判定。",
+          "多選題怎麼計分，比照試卷首頁的「作答注意事項」：每題 n 個選項，各選項獨立判定；所有選項均答對者，得該題全部之分數；答錯 k 個選項者，得該題 (n−2k)／n 之分數；得分低於零分或所有選項均未作答者，以零分計算。",
+          "這一題有六個選項、4 分，所以全對得 4 分；錯一個約得 2.67 分；錯兩個約得 1.33 分；錯三個以上是 0 分。",
+          "要留意「各選項獨立判定」這句話：少劃一個和多劃一個，扣的分一樣。該劃 A、B 卻只劃了 A，是 B 這一格判錯；多劃了 C，是 C 這一格判錯，兩種情形扣的分相同。所以作答時的標準要前後一致，不要因為怕多劃就把標準抬得太嚴；不過錯到三格就是零分，也不能每一項都隨便劃。"
+        ],
+        "patterns": [
+          {
+            "h": "be available from + 來源",
+            "t": "可以向……取得、買得到。Crystal-clear blocks … are available from the Clinebell Company in Colorado."
+          },
+          {
+            "h": "a minimum of + 名詞",
+            "t": "最少量的……。it should also contain a minimum of air bubbles，意思是氣泡越少越好。"
+          },
+          {
+            "h": "put … to use",
+            "t": "使用、利用。Giant blocks like these are put to use at large ice sculpting events. 被動語態的 be put to use 意思就是 be used。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MXA-g97p3-50",
+      "passageId": "MXA-g97p3",
+      "year": 97,
+      "number": "50",
+      "answerType": "short",
+      "points": 2,
+      "instruction": "簡答",
+      "prompt": "Which word in the passage most likely means “extremely beautiful and impressive to look at”?",
+      "promptEmphasis": [],
+      "answers": [
+        "magnificent"
+      ],
+      "answerSource": "adapted",
+      "swapGroup": null,
+      "answerNote": null,
+      "options": null,
+      "optionCount": null,
+      "answerKey": null,
+      "officialExplanation": null,
+      "explanation": {
+        "think": [
+          "定義講的是「非常美、讓人讚嘆」，有人抓第 1 張卡片 Crystal-clear blocks 裡的 clear。clear 是「透明」，講的是冰的性質，不是美不美。",
+          "也有人抓第 2 張卡片的 Giant 或 large。這兩個字講的是體積大，定義講的是美和讓人印象深刻，不是大小。",
+          "還有人找到 magnificent 卻改成名詞 magnificence：題目要的是文章裡的那個字，原文是什麼字形就寫什麼字形。"
+        ],
+        "cue": [
+          "本題評量讀寫綜合應用能力，要依指定條件，從文章裡擷取關鍵字詞。",
+          "定義 extremely beautiful and impressive to look at 描述的是東西看起來的樣子，是形容詞的釋義，所以要在文章裡找形容詞。",
+          "第 3 張卡片 Racing the Clock 最後一句寫 a country that, like China, has a long tradition of magnificent ice sculptures。magnificent 修飾 ice sculptures，說日本和中國的冰雕壯觀、令人讚嘆，位置和意思都對得上定義。"
+        ],
+        "scoring": [
+          "本題庫的參考答案是 magnificent。原文就是這個字形，不必改字形。",
+          "評分原則：完全正確（包括選字及字形變化），得 2 分；字形錯誤或者拼字錯誤，得 1 分；空白、答案錯誤或與答案無關者，得 0 分。",
+          "照這個原則，寫成 magnificence、magnificently，是選對了字，但形態和原文不同，得 1 分。填 clear、giant 或 large，意思不符合定義，得 0 分。"
+        ],
+        "patterns": [
+          {
+            "h": "magnificent（形）／magnificence（名）",
+            "t": "壯觀的、宏偉的。magnificent ice sculptures 是「壯觀的冰雕」。"
+          },
+          {
+            "h": "a long tradition of + 名詞",
+            "t": "悠久的……傳統。a country that, like China, has a long tradition of magnificent ice sculptures"
+          },
+          {
+            "h": "like + 名詞",
+            "t": "和……一樣。like China 是插入的介系詞片語，說明日本在這一點和中國相同；前後的逗點把它和句子的主幹隔開，拿掉以後，句子的主幹還是完整的。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MXA-g111p3-47",
+      "passageId": "MXA-g111p3",
+      "year": 111,
+      "number": "47",
+      "answerType": "fill",
+      "points": 2,
+      "instruction": "下列簡短敘述摘記上方文章重點。請從文章中找出最適當的單詞（word）填入下列句子空格中，並視句型結構需要做適當的字形變化，使句子語意完整、語法正確，並符合全文文意。每格限填一個單詞（word）。",
+      "prompt": "Easy to breed and quick to grow, zebrafish are ideal lab subjects, and the ___47___ of their bodies lets researchers see their organs clearly. Because zebrafish retinas bear a close ___48___ to human ones in structure and cell types, what scientists learn from the fish may one day lead to treatments for human blindness.",
+      "promptEmphasis": [],
+      "answers": [
+        "transparency"
+      ],
+      "answerSource": "adapted",
+      "swapGroup": null,
+      "answerNote": "the 後面、of 前面要填名詞，形容詞 transparent 要改成 transparency。",
+      "options": null,
+      "optionCount": null,
+      "answerKey": null,
+      "officialExplanation": null,
+      "explanation": {
+        "think": [
+          "空格前面是 the、後面是 of their bodies，很多人回第 1 張卡片 A Lab Favorite 抓 transparent（Their bodies are also transparent），形容詞照抄。",
+          "也有人抓第 4 張卡片 Restoring Sight 的 structure（in both structure and cell types）。structure 是名詞，放進去文法沒有問題，可是「身體的構造讓研究人員看清楚器官」說不通，看得清楚靠的是身體透明，不是構造。",
+          "還有人填 clearness。英文確實有這個字，可是文章裡沒有 clear，這一格要的是把文章裡的字改字形。"
+        ],
+        "cue": [
+          "本題評量讀寫綜合應用能力，對應的學習表現為「能以適切的英語文說出或寫出談話或短文的摘要」，並依空格的語法條件做適當的字形變化。",
+          "先切塊：Easy to breed and quick to grow, [ zebrafish ] are ideal lab subjects, and [ the ___(47)___ of their bodies ] lets [ researchers ] see [ their organs ] clearly。",
+          "the ___ of their bodies 是 lets 的主詞。冠詞 the 後面、介系詞 of 前面，是名詞的位置；動詞 lets 加了 -s，主詞是單數，所以這一格要填單數名詞。",
+          "題幹的 Easy to breed and quick to grow 對應第 1 張卡片的 zebrafish breed easily in captivity and grow rapidly，see their organs clearly 對應同一張卡片的 which allows researchers to observe the fish’s organs with ease。這張卡片說，研究人員能輕鬆觀察器官，原因是 Their bodies are also transparent。",
+          "transparent 是形容詞，到了這一格要當 lets 的主詞，所以改成名詞 transparency（透明）。"
+        ],
+        "scoring": [
+          "本題庫的參考答案是 transparency，只有這一種寫法。",
+          "這一題要做兩件事：選對字，再做對字形變化，兩件都對才拿滿分。比照大考中心學測英文考科非選擇題評分原則：完全正確（包括選字及字形變化），得 2 分；字形錯誤或者拼字錯誤，得 1 分；空白、答案錯誤或與答案無關者，得 0 分。",
+          "照這個原則，填 transparent，是選對了字，但形態錯了，得 1 分。填 structure，意思對不上「看得清楚器官」；填 clearness，不是從文章裡的字改出來的：這兩種都得 0 分。",
+          "作答時最好先把選好的字寫上去，不要因為還沒決定形態就留白。"
+        ],
+        "patterns": [
+          {
+            "h": "transparent（形）→ transparency（名）",
+            "t": "透明的／透明。-ent 結尾的形容詞，名詞常改成 -ency 或 -ence：efficient → efficiency、frequent → frequency、patient → patience。"
+          },
+          {
+            "h": "let + 受詞 + 原形動詞",
+            "t": "讓某人做某事。題幹的主詞 the transparency 是單數，所以用 lets；let 是使役動詞，後面的 see 不加 to。文章裡的 allow 意思相近，可是後面要接 to：which allows researchers to observe the fish’s organs。"
+          },
+          {
+            "h": "形容詞片語放句首",
+            "t": "題幹寫 Easy to breed and quick to grow, zebrafish are ideal lab subjects，後面還有 and 接下去。開頭的兩個形容詞片語說明主詞 zebrafish 的特點，也就是說，斑馬魚好養、長得快，所以是理想的實驗對象。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MXA-g111p3-48",
+      "passageId": "MXA-g111p3",
+      "year": 111,
+      "number": "48",
+      "answerType": "fill",
+      "points": 2,
+      "instruction": "下列簡短敘述摘記上方文章重點。請從文章中找出最適當的單詞（word）填入下列句子空格中，並視句型結構需要做適當的字形變化，使句子語意完整、語法正確，並符合全文文意。每格限填一個單詞（word）。",
+      "prompt": "Easy to breed and quick to grow, zebrafish are ideal lab subjects, and the ___47___ of their bodies lets researchers see their organs clearly. Because zebrafish retinas bear a close ___48___ to human ones in structure and cell types, what scientists learn from the fish may one day lead to treatments for human blindness.",
+      "promptEmphasis": [],
+      "answers": [
+        "resemblance"
+      ],
+      "answerSource": "adapted",
+      "swapGroup": null,
+      "answerNote": "a close 後面要填單數名詞，動詞 resemble 要改成 resemblance（bear a close resemblance to）。",
+      "options": null,
+      "optionCount": null,
+      "answerKey": null,
+      "officialExplanation": null,
+      "explanation": {
+        "think": [
+          "空格前面是 a close，很多人回第 4 張卡片 Restoring Sight 抓 resemble（closely resemble human ones），動詞照抄。",
+          "也有人想到 similarity。意思說得通，可是文章裡沒有 similar 這個字，題目要的是從文章裡找出來的字。",
+          "還有人寫 resembling。動名詞放在 a close 後面，前面又有不定冠詞 a，文法上接不起來。"
+        ],
+        "cue": [
+          "本題評量讀寫綜合應用能力，對應的學習表現為「能以適切的英語文說出或寫出談話或短文的摘要」，並依空格的語法條件做適當的字形變化。",
+          "先切塊：Because [ zebrafish retinas ] bear [ a close ___(48)___ ] to [ human ones ] in structure and cell types, what scientists learn from the fish may one day lead to treatments for human blindness。",
+          "不定冠詞 a 和形容詞 close 後面，是單數名詞的位置；bear 在這裡是「帶有」，整塊 a close ___ 是 bear 的受詞，所以這一格要填單數名詞。",
+          "第 4 張卡片 Restoring Sight 寫 Since zebrafish retinas closely resemble human ones in both structure and cell types。題幹的 Because 對應 Since，in structure and cell types 對應原句的 in both structure and cell types；原句的副詞 closely 到了題幹變成形容詞 close，動詞 resemble 也就要改成名詞 resemblance。",
+          "填進去以後，bear a resemblance（帶有相似之處）加上 to 是常見的說法，意思是「和……相像」，close 放在名詞前面，表示非常像。整個說法和 closely resemble 意思相同，只是換了一種句型。"
+        ],
+        "scoring": [
+          "本題庫的參考答案是 resemblance，只有這一種寫法。",
+          "評分原則和第 47 題相同：完全正確（包括選字及字形變化），得 2 分；字形錯誤或者拼字錯誤，得 1 分；空白、答案錯誤或與答案無關者，得 0 分。",
+          "照這個原則，填 resemble、resembling，是選對了字，但形態錯了，得 1 分。填 similarity，不是從文章裡找的字，得 0 分。",
+          "這一題組兩格的字形變化方向不同：第 47 題是從形容詞改成名詞，第 48 題是從動詞改成名詞。"
+        ],
+        "patterns": [
+          {
+            "h": "resemble（動）／resemblance（名）",
+            "t": "像、相似。resemble 是及物動詞，後面直接接受詞，不加 like 或 to：zebrafish retinas closely resemble human ones。改成名詞以後，常用 bear a resemblance 這個說法，後面再接 to。"
+          },
+          {
+            "h": "副詞 closely → 形容詞 close",
+            "t": "動詞 resemble 改成名詞 resemblance 以後，原來修飾動詞的副詞 closely，也要改成修飾名詞的形容詞 close。"
+          },
+          {
+            "h": "ones",
+            "t": "代替前面提過的複數名詞，避免重複。human ones 的 ones 指 retinas。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MXA-g111p3-49",
+      "passageId": "MXA-g111p3",
+      "year": 111,
+      "number": "49",
+      "answerType": "multi",
+      "points": 4,
+      "instruction": "多選題",
+      "prompt": "From (A) to (F) below, choose the ONES that are true for both humans and zebrafish.",
+      "promptEmphasis": [],
+      "answers": null,
+      "answerSource": "adapted",
+      "swapGroup": null,
+      "answerNote": null,
+      "options": [
+        {
+          "label": "A",
+          "text": "Injury to the retina can rob them of their sight."
+        },
+        {
+          "label": "B",
+          "text": "They can regrow a missing piece of the heart within a few weeks."
+        },
+        {
+          "label": "C",
+          "text": "Some 84 percent of their genes involved in disease have a matching gene in the other species."
+        },
+        {
+          "label": "D",
+          "text": "The main organs found in one can also be found in the other."
+        },
+        {
+          "label": "E",
+          "text": "Nearly 40 million of them worldwide are unable to see."
+        },
+        {
+          "label": "F",
+          "text": "They have the same major organs, and their see-through bodies make those organs easy to observe."
+        }
+      ],
+      "optionCount": 6,
+      "answerKey": [
+        "A",
+        "D"
+      ],
+      "officialExplanation": null,
+      "explanation": {
+        "think": [
+          "五張卡片大多在講斑馬魚，人類只出現在幾句話裡，讀完容易把斑馬魚的本事也算到人類頭上。這一題的門檻寫在題目裡：要對人類和斑馬魚都成立。",
+          "只對其中一方成立，或是一半對、一半錯的選項，看起來最像答案，也最容易勾進去，(C)、(F) 就是這一種。",
+          "另一個常見的失分是 (A)：人類失明的原因要從第 4 張卡片 Restoring Sight 講新療法的那一句推出來，只找寫明 humans 的句子，會漏掉這個選項。"
+        ],
+        "cue": [
+          "本題用卡片並列的方式呈現，評量考生讀完以後能不能比較、分析和推論。",
+          "每一個選項都要回原文核對兩次，斑馬魚一次、人類一次；文章裡講人類的句子分散在第 3、4、5 張卡片，要一張一張找。",
+          "(A) Injury to the retina can rob them of their sight. 第 4 張卡片 Restoring Sight 寫 Damage to the retina can leave a zebrafish blind，這是斑馬魚；同一張卡片又說，這個過程要是能在人身上重現，could lead to new treatments for blindness caused by retinal damage，這種失明的療法是給人用的，也就是說，人的視網膜受損一樣會失明。選項把 damage 換成 injury，把 leave … blind 換成 rob them of their sight。兩方都符合。",
+          "(D) The main organs found in one can also be found in the other. 第 3 張卡片 Shared Biology 寫 humans and zebrafish have the same major organs。選項把 major organs 換成 main organs，把 have the same 換成「一方有的，另一方也找得到」，這是換字改寫。人類的主要器官在斑馬魚身上找得到，斑馬魚的主要器官在人類身上也找得到，所以兩方都符合。"
+        ],
+        "distractors": [
+          {
+            "h": "(B) They can regrow a missing piece of the heart within a few weeks.",
+            "t": "只有斑馬魚符合：第 2 張卡片 Self-Healers 寫 When part of the heart is removed, a zebrafish can grow the lost tissue back in a matter of weeks。人類的心臟能不能再生，第 3 張卡片只說科學家 hope 有一天做得到（may one day enable humans to regenerate organs such as eyes, hearts, and spines），還沒有實現。"
+          },
+          {
+            "h": "(C) Some 84 percent of their genes involved in disease have a matching gene in the other species.",
+            "t": "錯在範圍。第 3 張卡片 Shared Biology 寫 84 percent of the human genes involved in disease have a counterpart in the fish，這個 84% 是「人類和疾病有關的基因，在斑馬魚身上找得到對應基因的比例」，計算的範圍只有人類這一方的基因。至於斑馬魚自己和疾病有關的基因，有多少在人類身上找得到，文章沒有說。選項把只算人類那一方的比例，擴大成兩方都適用，所以只對人類成立。"
+          },
+          {
+            "h": "(E) Nearly 40 million of them worldwide are unable to see.",
+            "t": "只有人類符合：第 5 張卡片 Next on the Agenda 寫 some of the nearly 40 million blind people worldwide，這四千萬指的是全世界的盲人，和斑馬魚無關。"
+          },
+          {
+            "h": "(F) They have the same major organs, and their see-through bodies make those organs easy to observe.",
+            "t": "前半對、後半錯。前半和正解 (D) 是同一件事，可以對回第 3 張卡片的 humans and zebrafish have the same major organs，兩方都成立；可是後半的身體透明，是第 1 張卡片 A Lab Favorite 講斑馬魚的 Their bodies are also transparent，人類不是這樣。整個選項只對斑馬魚成立。"
+          },
+          {
+            "h": "(C) 和 (F) 是這一題最強的誘答",
+            "t": "兩個選項都有文章的根據，用字也換過，讀起來很像正解：(C) 的數字確實出現在文章裡，可是計算的範圍只有人類那一方的基因；(F) 前半兩方都成立，後半卻只是斑馬魚的特點，屬於部分正確。題目要的是兩方都成立。113 學測混合題第 49 題的 (A) 也是這種只對其中一種動物成立的選項。"
+          }
+        ],
+        "scoring": [
+          "這一題要選出對人類和斑馬魚都成立的選項，所以要劃記 A、D 兩個選項。先劃哪一個都不影響判定。",
+          "多選題怎麼計分，比照試卷首頁的「作答注意事項」：每題 n 個選項，各選項獨立判定；所有選項均答對者，得該題全部之分數；答錯 k 個選項者，得該題 (n−2k)／n 之分數；得分低於零分或所有選項均未作答者，以零分計算。",
+          "這一題有六個選項、4 分，所以全對得 4 分；錯一個約得 2.67 分；錯兩個約得 1.33 分；錯三個以上是 0 分。",
+          "要留意「各選項獨立判定」這句話：少劃一個和多劃一個，扣的分一樣。該劃 A、D 卻只劃了 A，是 D 這一格判錯；多劃了 C，是 C 這一格判錯，兩種情形扣的分相同。所以作答時的標準要前後一致，不要因為怕多劃就把標準抬得太嚴；不過錯到三格就是零分，也不能每一項都隨便劃。"
+        ],
+        "patterns": [
+          {
+            "h": "rob + 人 + of + 名詞",
+            "t": "奪走某人的某樣東西。Injury to the retina can rob them of their sight. 選項用它改寫文章的 leave a zebrafish blind。"
+          },
+          {
+            "h": "leave + 受詞 + 形容詞",
+            "t": "使……處於某種狀態。Damage to the retina can leave a zebrafish blind，意思是視網膜受損以後，斑馬魚就看不見了。"
+          },
+          {
+            "h": "what is more",
+            "t": "轉折詞，表示「而且、更重要的是」，用來追加一項更有分量的資訊。第 3 張卡片先說兩方器官相同、基因七成相同，接著用 What is more 帶出和疾病有關的基因。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MXA-g111p3-50",
+      "passageId": "MXA-g111p3",
+      "year": 111,
+      "number": "50",
+      "answerType": "short",
+      "points": 2,
+      "instruction": "簡答",
+      "prompt": "Which word in the passage most likely means “something that has the same role or function as another thing but exists in a different group or system”?",
+      "promptEmphasis": [],
+      "answers": [
+        "counterpart"
+      ],
+      "answerSource": "adapted",
+      "swapGroup": null,
+      "answerNote": null,
+      "options": null,
+      "optionCount": null,
+      "answerKey": null,
+      "officialExplanation": null,
+      "explanation": {
+        "think": [
+          "定義講的是「在另一個群體或系統裡，扮演相同角色的東西」，有人抓第 3 張卡片的 genes。genes 是基因本身，看不出「另一邊有一個對應的」這層意思。",
+          "也有人抓第 4 張卡片 Restoring Sight 的 messenger（a chemical messenger in the brain）。messenger 是傳遞訊息的東西，和「對應」無關。",
+          "還有人找到 counterpart 卻寫成複數 counterparts：題目要的是文章裡的那個字，原文是什麼字形就寫什麼字形。"
+        ],
+        "cue": [
+          "本題評量讀寫綜合應用能力，要依指定條件，從文章裡擷取關鍵字詞。",
+          "定義用 something 開頭，是名詞的釋義，所以要在文章裡找名詞；而且這個名詞講的是「兩邊互相對應」的關係。",
+          "第 3 張卡片 Shared Biology 寫 84 percent of the human genes involved in disease have a counterpart in the fish。人類的某個基因，在斑馬魚身上有一個作用相同的基因，這個「對應的基因」就是 counterpart。人和魚是不同的物種，正好對上定義的 in a different group or system。"
+        ],
+        "scoring": [
+          "本題庫的參考答案是 counterpart。原文就是這個字形，不必改字形。",
+          "評分原則：完全正確（包括選字及字形變化），得 2 分；字形錯誤或者拼字錯誤，得 1 分；空白、答案錯誤或與答案無關者，得 0 分。",
+          "照這個原則，寫成 counterparts，是選對了字，但形態和原文不同，得 1 分。填 genes 或 messenger，意思不符合定義，得 0 分。"
+        ],
+        "patterns": [
+          {
+            "h": "counterpart",
+            "t": "對應的人或物。have a counterpart in + 名詞，表示「在……裡有對應的東西」：84 percent of the human genes involved in disease have a counterpart in the fish。"
+          },
+          {
+            "h": "involved in + 名詞",
+            "t": "和……有關、參與其中。the human genes involved in disease 是在 genes 後面省略了 which are，省略以後，過去分詞片語留在名詞後面修飾它。"
+          },
+          {
+            "h": "have + 人／物 + to thank",
+            "t": "多虧了……、要感謝……。some of the nearly 40 million blind people worldwide may one day have a tiny striped fish to thank"
+          }
+        ]
+      }
     }
   ]
 }

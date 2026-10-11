@@ -516,7 +516,7 @@ function saveWrongIds(w){ try{ localStorage.setItem(WRONG_KEY, JSON.stringify(w)
 function isTestMode(){ const el=document.getElementById('testModeToggle'); return !!(el && el.checked); }
 
 /* 場次順序：新到舊。不依 year 欄位排序，避免沿用試題的場次排錯位置 */
-const ORDER = ['MX115','MX115R','MX114','MX113','MX112','MX111','MX111R','MX111G','MX110T','MXA95','MXA103','MXA-z108p3','MXA-z101p1','MXA-g91bp4','MXA-z100p2','MXA-g110tp3','MXA-z107p4','MXA-g99p3','MXA-g92p3','MXA-g109p3','MXA-g95p2','MXA-g114p2','MXA-g112p2','MXA-g97p4','MXA-g108p4','MXA-z98p3','MXA-g105p1','MXA-z103p4','MXA-g108p2','MXA-z94p3','MXA-g107p4'];
+const ORDER = ['MX115','MX115R','MX114','MX113','MX112','MX111','MX111R','MX111G','MX110T','MXA95','MXA103','MXA-z108p3','MXA-z101p1','MXA-g91bp4','MXA-z100p2','MXA-g110tp3','MXA-z107p4','MXA-g99p3','MXA-g92p3','MXA-g109p3','MXA-g95p2','MXA-g114p2','MXA-g112p2','MXA-g97p4','MXA-g108p4','MXA-z98p3','MXA-g105p1','MXA-z103p4','MXA-g108p2','MXA-z94p3','MXA-g107p4','MXA-z109bp4','MXA-g99rp2','MXA-z96p3','MXA-g102p3','MXA-g99rp4','MXA-z109bp2','MXA-z103p3','MXA-g93p4','MXA-g97p3','MXA-g111p3'];
 const TYPE_NAME = {
   fill:'填充', short:'簡答', multi:'多選', singleChoice:'單選',
   sentenceNumber:'句子編號', longAnswer:'長句填空', tableFill:'表格填空'

@@ -1518,6 +1518,476 @@
       "zhTranslation": null,
       "source": null,
       "internalNote": "第三百六十場建檔。改編自 g107p4；命題分身出題，兩次盲測、四方審閱（引文事實、文法、學生讀者、大考體例）後裁定修訂。"
+    },
+    {
+      "id": "MXA-z109bp4",
+      "year": 109,
+      "examLabel": "改編練習",
+      "sessionName": "改編練習（二十三）",
+      "title": "金本位與布列敦森林體系",
+      "topic": "浮動匯率出現以前的兩套匯率制度：金本位與布列敦森林體系的運作和瓦解",
+      "layout": "two-column",
+      "points": 10,
+      "itemCount": 4,
+      "notCounted": true,
+      "intro": "In finance, an exchange rate is the rate at which one country’s currency is traded for the currency of another, and it is set according to the respective values of the two currencies. Today, exchange rates operate under the floating system that the Jamaica Agreement formalized in 1976: a currency’s value may rise or fall with the supply and demand of the foreign exchange market, and countries can also let their central banks determine their own rates. Before that, two earlier systems shaped how currencies were valued.",
+      "introEmphasis": [],
+      "blocks": [
+        {
+          "label": "The Gold Standard",
+          "speaker": null,
+          "text": "Before World War I, most currencies were valued according to the Gold Standard. Under this system, the paper money a government issued stood for a real quantity of gold that the government actually held. In the 1930s, for instance, Britain’s government owned roughly eight times as much gold as that of the U.S., so an ounce of gold was worth either 4.24 British pounds or 35 U.S. dollars. The difference in the price of gold became the exchange rate between the two currencies: one pound bought 8.25 dollars. The system began to break down during World War II, when European governments printed more money than they had in gold reserves to pay for military projects."
+        },
+        {
+          "label": "The Bretton Woods System",
+          "speaker": null,
+          "text": "The Bretton Woods System was set up after World War II, and the U.S. dollar was chosen as the international reserve currency for trade. Since every country knew how much gold a dollar was worth, nations based the value of their own currencies on the dollar. All of them were expected to maintain a fixed exchange rate, though they were permitted to change it in extraordinary times, such as a recession or a period of inflation. Unfortunately, the system could not keep pace with a fast-changing global economy. As the U.S. stepped up its military spending, foreign aid, and international investment in the 1960s, it no longer held enough gold to cover all the dollars circulating around the world. Other major currencies thus became more valuable and stable than the dollar, and the system was finally abolished in 1971."
+        }
+      ],
+      "demoNote": "這一組是本題庫的改編練習，不是大考中心的試題。文章改編自 109 指考補考閱讀測驗第 48 至 51 題（閱讀測驗站可以找到原題），照 113 學測混合題寒鴉、烏龜蟻那一組的兩欄版面和題型出題，共四題、10 分。參考答案和解析都是本題庫寫的，不算進本題庫的八場、33 格、80 分。",
+      "zhTranslation": null,
+      "source": null,
+      "internalNote": "第三百七十一場建檔。改編自 z109bp4；命題分身出題，兩次盲測、四方審閱（引文事實、文法、學生讀者、大考體例）後裁定修訂。"
+    },
+    {
+      "id": "MXA-g99rp2",
+      "year": 102,
+      "examLabel": "改編練習",
+      "sessionName": "改編練習（二十四）",
+      "title": "加拿大、法國與義大利的親子關係",
+      "topic": "加拿大、法國、義大利三國父母的管教方式，以及子女眼中的父親和母親",
+      "layout": "two-column",
+      "points": 10,
+      "itemCount": 4,
+      "notCounted": true,
+      "intro": "Is the bond between parents and children the same from one country to another? To explore this question, a research team led by Professor Michel Claes surveyed 1,256 students in Canada, France, and Italy. The choice of countries was deliberate. French-Canadians were picked because they speak the same language as the French, originally came from France, and have certain values in common with them. Italy was included because it was considered to have similar, strong, and important family values.",
+      "introEmphasis": [],
+      "blocks": [
+        {
+          "label": "Canada",
+          "speaker": null,
+          "text": "The most important finding of the study was the difference between the Canadians and the other two groups. Canadian parents place great value on independence, and when disagreements arise, they are more willing to enter into discussions with their children. They are also more tolerant and exercise less control. Put simply, they are more lenient with their children than parents in France and Italy are. Claes explained this gap in terms of education. North America, he said, has its own democratic and educational values, which promote individualization; tolerance and understanding are favored there, while systems of control are rejected. As for emotional ties, Canadian children described their mothers as warm and open, and they reported strong bonds with their fathers as well."
+        },
+        {
+          "label": "France and Italy",
+          "speaker": null,
+          "text": "Italian parents, in contrast, are stricter and more demanding, while French parents fall somewhere in the middle. Claes traced this side of the picture to education as well. Italy, he observed, promotes respect for authority, control, and the need for permission. Describing their parents, Italian children, much like Canadian ones, saw their mothers as warm and open and felt deeply attached to their fathers. French children also spoke warmly of their mothers, but they viewed their fathers as more distant. In fact, French mothers appeared to be growing closer to their children over time, whereas fathers kept a certain distance and coldness."
+        }
+      ],
+      "demoNote": "這一組是本題庫的改編練習，不是大考中心的試題。文章改編自 99 課綱學測參考試卷（102 年施測）閱讀測驗第 45 至 48 題（閱讀測驗站可以找到原題），照 113 學測混合題寒鴉、烏龜蟻那一組的兩欄版面和題型出題，共四題、10 分。參考答案和解析都是本題庫寫的，不算進本題庫的八場、33 格、80 分。",
+      "zhTranslation": null,
+      "source": null,
+      "internalNote": "第三百七十一場建檔。改編自 g99rp2；命題分身出題，兩次盲測、四方審閱（引文事實、文法、學生讀者、大考體例）後裁定修訂。"
+    },
+    {
+      "id": "MXA-z96p3",
+      "year": 96,
+      "examLabel": "改編練習",
+      "sessionName": "改編練習（二十五）",
+      "title": "衝突鑽石與金伯利進程",
+      "topic": "衝突鑽石（conflict diamonds）造成的問題，以及金伯利進程認證機制（KPCS）追蹤原鑽來源的做法",
+      "layout": "two-column",
+      "points": 10,
+      "itemCount": 4,
+      "notCounted": true,
+      "intro": "Conflict diamonds, sometimes called blood diamonds, are diamonds sold to fund the unlawful operations of rebel, military, and terrorist groups. The press pays little attention to the link between terror and diamonds, but at the time this article was written, the 2006 movie Blood Diamond, starring Leonardo DiCaprio, was expected to help make the issue more mainstream, if only temporarily. The two columns below look at the problem and at one international effort to solve it.",
+      "introEmphasis": [],
+      "blocks": [
+        {
+          "label": "The conflict diamond trade",
+          "speaker": null,
+          "text": "The countries hit hardest by conflict diamonds have been Sierra Leone, Angola, Liberia, and the Democratic Republic of Congo. In these places, groups in control of the local diamond trade have terrorized citizens and even killed them. Most of the wars there have since ended, or at least died down, yet the trade has not gone away. Diamonds mined in some rebel-held areas, such as Liberia, are being smuggled into neighboring countries and then exported as conflict-free stones. For most of us, it is hard to imagine what life is like in countries where diamonds are the source of so much chaos and suffering."
+        },
+        {
+          "label": "The KPCS",
+          "speaker": null,
+          "text": "To stop the sale of blood diamonds, countries in southern Africa with a legitimate diamond trade began a campaign in 2000 to track the origins of all rough diamonds. Their efforts resulted in the Kimberley Process Certification Scheme (KPCS), an international organization that aims to make the world free of conflict diamonds. The KPCS sets out to document and trace every rough diamond as it enters a participating country. Shippers are required to place the stones in sealed boxes and to provide enough detailed information about where they came from to prove that they did not originate in a conflict zone."
+        }
+      ],
+      "demoNote": "這一組是本題庫的改編練習，不是大考中心的試題。文章改編自 96 指考閱讀測驗第 53 至 56 題（閱讀測驗站可以找到原題），照 113 學測混合題寒鴉、烏龜蟻那一組的兩欄版面和題型出題，共四題、10 分。參考答案和解析都是本題庫寫的，不算進本題庫的八場、33 格、80 分。",
+      "zhTranslation": null,
+      "source": null,
+      "internalNote": "第三百七十一場建檔。改編自 z96p3；命題分身出題，兩次盲測、四方審閱（引文事實、文法、學生讀者、大考體例）後裁定修訂。"
+    },
+    {
+      "id": "MXA-g102p3",
+      "year": 102,
+      "examLabel": "改編練習",
+      "sessionName": "改編練習（二十六）",
+      "title": "能量飲料與酒測的論壇討論",
+      "topic": "喝能量飲料會不會讓人酒測呈陽性：八則討論區貼文",
+      "layout": "posts",
+      "points": 10,
+      "itemCount": 4,
+      "notCounted": true,
+      "intro": "Police often rely on an alcohol breath test (ABT) to tell whether someone has been drinking and driving. In the United States, drivers aged 21 or older may not have a blood alcohol level above 0.08%, and those under 21 may not drive with any alcohol in their body. A “positive” result, one over the legal limit, allows the police to arrest the driver. Yet many drivers who failed the test have insisted that all they drank was a “non-alcoholic” energy drink. To test such claims, researchers in Missouri analyzed 27 popular energy drinks and gave volunteers an ABT one minute and 15 minutes after they finished a full can or bottle. Do you believe these drivers? Share your thoughts below.",
+      "introEmphasis": [],
+      "blocks": [
+        {
+          "label": "A",
+          "speaker": "Andre",
+          "text": "“Non-alcoholic” on a label doesn't mean zero. Lab results showed that all but one of the drinks had more than 0.005% alcohol. I'd give these drivers the benefit of the doubt."
+        },
+        {
+          "label": "B",
+          "speaker": "Bridget",
+          "text": "Come on. “It was just an energy drink” is the oldest trick in the book. I'm convinced most of these drivers had a few beers and are hoping nobody looks too closely."
+        },
+        {
+          "label": "C",
+          "speaker": "Callum",
+          "text": "Sure, these drinks contain a trace of alcohol. But enough for a breath test to pick up? I seriously doubt it. My bet is that these drivers had something much stronger."
+        },
+        {
+          "label": "D",
+          "speaker": "Deepika",
+          "text": "When volunteers were tested within a minute of finishing, the device detected alcohol for 11 of the 27 drinks. That's far too many to write off every one of these drivers as a liar."
+        },
+        {
+          "label": "E",
+          "speaker": "Esme",
+          "text": "Whether these drivers are lying or not, I honestly can't say. Without knowing exactly what each one drank and when, I won't side with either camp yet."
+        },
+        {
+          "label": "F",
+          "speaker": "Femi",
+          "text": "No drink registered on tests given 15 minutes after it was consumed. I doubt many drivers get tested that quickly, so I'm not buying the excuse."
+        },
+        {
+          "label": "G",
+          "speaker": "Greta",
+          "text": "My first reaction was to roll my eyes. Then I read that nine of the 27 drinks contained at least 0.096% alcohol. Now I think some of these drivers could be telling the truth."
+        },
+        {
+          "label": "H",
+          "speaker": "Hassan",
+          "text": "It's a clever experiment, and I'm glad someone ran it. My concern is that every drunk driver will now hide behind it, so I'd take their stories with a grain of salt."
+        }
+      ],
+      "demoNote": "這一組是本題庫的改編練習，不是大考中心的試題。文章改編自 102 學測閱讀測驗第 49 至 52 題（閱讀測驗站可以找到原題），照 114 學測混合題動物園論壇那一組的貼文版面和題型出題，共四題、10 分。參考答案和解析都是本題庫寫的，不算進本題庫的八場、33 格、80 分。",
+      "zhTranslation": null,
+      "source": null,
+      "internalNote": "第三百七十一場建檔。改編自 g102p3；命題分身出題，兩次盲測、四方審閱（引文事實、文法、學生讀者、大考體例）後裁定修訂。"
+    },
+    {
+      "id": "MXA-g99rp4",
+      "year": 102,
+      "examLabel": "改編練習",
+      "sessionName": "改編練習（二十七）",
+      "title": "電玩與決策能力的論壇討論",
+      "topic": "動作電玩能不能讓人做決定更快更準：九則討論區貼文",
+      "layout": "posts",
+      "points": 10,
+      "itemCount": 4,
+      "notCounted": true,
+      "intro": "Video games have long been blamed for many of the world’s ills. Parents complain that violent games make children antisocial, shallow, and overweight, while educators fear that gaming is breeding a generation unable to sustain its concentration. At the time this report appeared, however, a new cognitive science study in Current Biology suggested that some action games might benefit players. Are video games as harmful as people say? Share your views on this forum.",
+      "introEmphasis": [],
+      "blocks": [
+        {
+          "label": "A",
+          "speaker": "Adebayo",
+          "text": "Finally, some good news for gamers! This study says action gamers make faster and more accurate decisions. I’m showing it to my mom next time she tells me to turn off my console."
+        },
+        {
+          "label": "B",
+          "speaker": "Bethany",
+          "text": "As a mother of two, I’ve watched violent games turn my boys moody and withdrawn, and they hardly leave the couch. No research will convince me those games are good for kids."
+        },
+        {
+          "label": "C",
+          "speaker": "Camila",
+          "text": "Faster decision-making sounds wonderful for my students. The thing is, half my class already can’t stay focused through a single lesson, and more gaming won’t fix that."
+        },
+        {
+          "label": "D",
+          "speaker": "Declan",
+          "text": "What impressed me most: non-gamers acquired faster reaction times after only 50 hours of training over a few weeks. Hardly a huge sacrifice! I’m downloading “Unreal Tournament” tonight."
+        },
+        {
+          "label": "E",
+          "speaker": "Elif",
+          "text": "Rather ironically, players of “The Sims 2,” a game where you organize an entire simulated world, saw no such benefit. If a game that demands so much planning can’t help, I doubt any game will."
+        },
+        {
+          "label": "F",
+          "speaker": "Felipe",
+          "text": "The precise reason for this effect is still unknown. Those who collect what they see and hear more efficiently do decide faster, but until someone explains the link to gaming, I’m reserving judgment."
+        },
+        {
+          "label": "G",
+          "speaker": "Gwen",
+          "text": "I used to side with the teachers who say games ruin concentration. Then I read that fast-moving titles like “Call of Duty 2” made players better decision-makers. Consider me a convert."
+        },
+        {
+          "label": "H",
+          "speaker": "Hyun-woo",
+          "text": "Here’s the science: our brains constantly calculate and refine probabilities, gathering small pieces of information until there’s enough to decide, say, whether to brake. I’m not taking sides; it’s simply fascinating."
+        },
+        {
+          "label": "I",
+          "speaker": "Ingrid",
+          "text": "Impressive as these results are, I won’t let my daughter spend her evenings on violent action games. Being a quick decision-maker matters far less to me than being a kind and healthy one."
+        }
+      ],
+      "demoNote": "這一組是本題庫的改編練習，不是大考中心的試題。文章改編自 99 課綱學測參考試卷（102 年施測）閱讀測驗第 53 至 56 題（閱讀測驗站可以找到原題），照 114 學測混合題動物園論壇那一組的貼文版面和題型出題，共四題、10 分。參考答案和解析都是本題庫寫的，不算進本題庫的八場、33 格、80 分。",
+      "zhTranslation": null,
+      "source": null,
+      "internalNote": "第三百七十一場建檔。改編自 g99rp4；命題分身出題，兩次盲測、四方審閱（引文事實、文法、學生讀者、大考體例）後裁定修訂。"
+    },
+    {
+      "id": "MXA-z109bp2",
+      "year": 109,
+      "examLabel": "改編練習",
+      "sessionName": "改編練習（二十八）",
+      "title": "追風暴的論壇討論",
+      "topic": "追逐惡劣天氣的魅力與風險：九則討論區貼文",
+      "layout": "posts",
+      "points": 10,
+      "itemCount": 4,
+      "notCounted": true,
+      "intro": "Storm chasing is the pursuit of severe weather, from violent thunderstorms to tornadoes. Some chasers head out of curiosity or a taste for adventure; others go for scientific research or to capture footage for the news. In recent years, the hobby has surged in popularity, and amateurs with video cameras now race professionals for the most dramatic images. Is storm chasing worth the risk? Share your views on this forum.",
+      "introEmphasis": [],
+      "blocks": [
+        {
+          "label": "A",
+          "speaker": "Austin",
+          "text": "Nothing compares to watching a storm churn across the open plains. I chase for the sheer adventure of it, and every trip shows me something new about the raw power of nature."
+        },
+        {
+          "label": "B",
+          "speaker": "Bao",
+          "text": "For years I lived for the thrill of the chase—until the afternoon a downburst struck unexpectedly and pushed my car sideways across the road. My chasing days are over."
+        },
+        {
+          "label": "C",
+          "speaker": "Corinne",
+          "text": "Lightning is the one hazard nobody can outrun. You can map every route and check every radar image, and a bolt can still find you. No photo is worth that gamble."
+        },
+        {
+          "label": "D",
+          "speaker": "Deshawn",
+          "text": "Picture driving on slick roads through rain so heavy you can barely make out the hood of your car. For a chaser, that's a normal afternoon. How is that anyone's idea of fun?"
+        },
+        {
+          "label": "E",
+          "speaker": "Elena",
+          "text": "Most of us aren't professional meteorologists, but we're not reckless either. I've spent years studying the atmosphere and how storms form, and that knowledge is what makes chasing so rewarding."
+        },
+        {
+          "label": "F",
+          "speaker": "Fabian",
+          "text": "These days the back roads are packed with YouTubers hunting for views, each one trying to get closer than the last. Sooner or later, somebody is going to die for a viral clip."
+        },
+        {
+          "label": "G",
+          "speaker": "Gemma",
+          "text": "Satellite tracking, live data feeds, a weather station bolted to the roof, hail guards on the windows—and then thousands of miles behind the wheel for a brief glimpse of a storm. Count me out."
+        },
+        {
+          "label": "H",
+          "speaker": "Haruto",
+          "text": "Sure, you can drive all day and come home empty-handed. Even so, I wouldn't trade it for anything. One unforgettable storm makes up for a dozen quiet skies."
+        },
+        {
+          "label": "I",
+          "speaker": "Irene",
+          "text": "Chasing in the name of science, I can understand. Plenty of chasers, however, care nothing about research and are just after a rush. Frankly, they should stay home."
+        }
+      ],
+      "demoNote": "這一組是本題庫的改編練習，不是大考中心的試題。文章改編自 109 指考補考閱讀測驗第 40 至 43 題（閱讀測驗站可以找到原題），照 114 學測混合題動物園論壇那一組的貼文版面和題型出題，共四題、10 分。參考答案和解析都是本題庫寫的，不算進本題庫的八場、33 格、80 分。",
+      "zhTranslation": null,
+      "source": null,
+      "internalNote": "第三百七十一場建檔。改編自 z109bp2；命題分身出題，兩次盲測、四方審閱（引文事實、文法、學生讀者、大考體例）後裁定修訂。"
+    },
+    {
+      "id": "MXA-z103p3",
+      "year": 103,
+      "examLabel": "改編練習",
+      "sessionName": "改編練習（二十九）",
+      "title": "比特幣的論壇討論",
+      "topic": "比特幣剛問世時的便利與風險：九則討論區貼文",
+      "layout": "posts",
+      "points": 10,
+      "itemCount": 4,
+      "notCounted": true,
+      "intro": "Bitcoin is an experimental, decentralized digital currency that lets users pay anyone, anywhere in the world, instantly. It runs on peer-to-peer technology with no central authority; that is, the network as a whole manages transactions and issues money. This discussion took place when Bitcoin was still a new invention. Would you give it a try? Share your thoughts on this forum.",
+      "introEmphasis": [],
+      "blocks": [
+        {
+          "label": "A",
+          "speaker": "Anika",
+          "text": "My cousin lives on the other side of the world, so a payment that reaches her in seconds, with no bank in the middle, sounds perfect. I’m signing up today."
+        },
+        {
+          "label": "B",
+          "speaker": "Bartek",
+          "text": "Once you hit send, there’s no undo button. A Bitcoin payment can’t be reversed, and you get your money back only if the receiver agrees to refund it. I’ll pass."
+        },
+        {
+          "label": "C",
+          "speaker": "Clara",
+          "text": "My biggest fear was losing money over a single typo. Then I learned the system detects such slips and usually won’t send money to an invalid address. I’m in."
+        },
+        {
+          "label": "D",
+          "speaker": "Desmond",
+          "text": "Paying anyone, anywhere, with no single authority in control is a brilliant idea. The trouble is, the price can soar or plunge within days. I’ll stay away until things settle down."
+        },
+        {
+          "label": "E",
+          "speaker": "Eva",
+          "text": "Every payment I made would be stored publicly on the network forever. Anyone could check my balance, and if my identity slipped out during a purchase, my whole history would be laid bare. No thanks."
+        },
+        {
+          "label": "F",
+          "speaker": "Finn",
+          "text": "Sure, it’s an experiment, and its future can’t be predicted. Still, Bitcoin becomes less experimental as more people use it, and I’d rather help it grow than watch from the sidelines."
+        },
+        {
+          "label": "G",
+          "speaker": "Gloria",
+          "text": "I like that nobody can tell who’s behind an address until the owner reveals it during a purchase. But if I paid the wrong person, only the receiver could choose to return my money. Not worth it."
+        },
+        {
+          "label": "H",
+          "speaker": "Hamid",
+          "text": "Jump in or stay out—it’s up to you. Just bear in mind that payments can’t be undone, so deal only with people you trust or businesses with an established reputation."
+        },
+        {
+          "label": "I",
+          "speaker": "Isla",
+          "text": "This is a currency exploring ideas that have never been attempted. Anything that experimental is a high-risk asset, and I have no money I can afford to lose. I’ll sit this one out."
+        }
+      ],
+      "demoNote": "這一組是本題庫的改編練習，不是大考中心的試題。文章改編自 103 指考閱讀測驗第 44 至 47 題（閱讀測驗站可以找到原題），照 114 學測混合題動物園論壇那一組的貼文版面和題型出題，共四題、10 分。參考答案和解析都是本題庫寫的，不算進本題庫的八場、33 格、80 分。",
+      "zhTranslation": null,
+      "source": null,
+      "internalNote": "第三百七十一場建檔。改編自 z103p3；命題分身出題，兩次盲測、四方審閱（引文事實、文法、學生讀者、大考體例）後裁定修訂。"
+    },
+    {
+      "id": "MXA-g93p4",
+      "year": 93,
+      "examLabel": "改編練習",
+      "sessionName": "改編練習（三十）",
+      "title": "四本兒童讀物書評",
+      "topic": "四張卡片介紹四本兒童與青少年讀物：祖父病倒的男孩、喝了會永生的泉水、有錢人坐的餐桌、山脊另一邊的世界",
+      "layout": "cards",
+      "points": 10,
+      "itemCount": 4,
+      "notCounted": true,
+      "intro": "The four cards below introduce books for young readers, each with a brief summary of its story.",
+      "introEmphasis": [],
+      "blocks": [
+        {
+          "label": "1",
+          "speaker": "Everywhere",
+          "text": "Peanuts’ beloved grandfather has suffered a heart attack, and the boy is heartbroken at the thought of losing him. While the adults in the family attend to the sick man, Dooley keeps Peanuts company. Dooley tries to save Grandfather with a ritual he picked up from comic books: kill a turtle and trade its soul for the old man’s. With Dooley’s imaginative help, Peanuts discovers the healing power of hope and love."
+        },
+        {
+          "label": "2",
+          "speaker": "Tuck Everlasting",
+          "text": "The Tucks have come across a spring whose water grants eternal life. When a man learns their secret, he threatens to sell the water to the highest bidder. Mrs. Tuck kills him, and she is jailed and sentenced to be executed. Although her family knows she cannot be killed, they fear that their secret will be revealed once the attempt is made to carry out her sentence."
+        },
+        {
+          "label": "3",
+          "speaker": "The Table Where Rich People Sit",
+          "text": "Seated around an old kitchen table, a young girl calls a family meeting. She wants her parents to see that they ought to earn more money so they can have nicer things. When she points out that this is not the kind of table rich people would sit at, her parents respond by calculating the value of the desert hills, the blooming cactus, the calls of eagles, and one another’s company. Before long, she comes to realize that her poor family is rich in the things that truly matter. This, she concludes, is indeed a table where rich people sit."
+        },
+        {
+          "label": "4",
+          "speaker": "Beyond the Ridge",
+          "text": "There is no death, only a change of worlds. This is the reassurance the author offers his readers in a book based on the customs of the Plains Indians in America. Reading like a prayer, the book expresses specific beliefs about dying. It follows a woman whose long-dead mother calls her to go “beyond the ridge.” After a steep climb, she finds herself in an abundantly beautiful world, where the familiar faces of those who have gone that way before her are waiting."
+        }
+      ],
+      "demoNote": "這一組是本題庫的改編練習，不是大考中心的試題。文章改編自 93 學測閱讀測驗第 52 至 55 題（閱讀測驗站可以找到原題），照 115 學測混合題奇幻部落那一組的卡片版面出題，題型比照 113 學測，共四題、10 分。參考答案和解析都是本題庫寫的，不算進本題庫的八場、33 格、80 分。",
+      "zhTranslation": null,
+      "source": null,
+      "internalNote": "第三百七十一場建檔。改編自 g93p4；命題分身出題，兩次盲測、四方審閱（引文事實、文法、學生讀者、大考體例）後裁定修訂。"
+    },
+    {
+      "id": "MXA-g97p3",
+      "year": 97,
+      "examLabel": "改編練習",
+      "sessionName": "改編練習（三十一）",
+      "title": "冰雕藝術的挑戰與應用",
+      "topic": "冰雕的難處與用途：四張卡片介紹挑選冰塊、大型冰塊、與時間賽跑，以及餐桌上的冰雕",
+      "layout": "cards",
+      "points": 10,
+      "itemCount": 4,
+      "notCounted": true,
+      "intro": "Turning a block of ice into a work of art is a difficult process. The sculptor has to begin with ice of the right quality, and once the carving starts, there is a race against time. The four cards below explain these challenges and look at how finished sculptures are used at the dinner table.",
+      "introEmphasis": [],
+      "blocks": [
+        {
+          "label": "1",
+          "speaker": "Choosing the Ice",
+          "text": "Ice must be carefully selected before it can be sculpted. The ideal material is pure, clean water with high clarity, and it should also contain a minimum of air bubbles. Crystal-clear blocks that weigh 140 kg and measure 100 cm × 50 cm × 25 cm are available from the Clinebell Company in Colorado."
+        },
+        {
+          "label": "2",
+          "speaker": "Going Big",
+          "text": "Much larger clear blocks are produced in Europe and Canada or harvested from a frozen river in Sweden. Giant blocks like these are put to use at large ice sculpting events, and they also serve as building material for ice hotels."
+        },
+        {
+          "label": "3",
+          "speaker": "Racing the Clock",
+          "text": "Another difficulty is time control. The temperature of the surroundings affects how quickly a piece must be completed before melting takes its toll. If the sculpting does not take place in a cold environment, the sculptor has to work fast to finish. The choice of tools matters as well: with power tools, some sculptures can be completed in as little as ten minutes. Sculptors also use razor-sharp chisels designed specifically for cutting ice. The best of these chisels are made in Japan, a country that, like China, has a long tradition of magnificent ice sculptures."
+        },
+        {
+          "label": "4",
+          "speaker": "Ice at the Table",
+          "text": "In some cuisines, especially in Asia, ice sculptures serve as decorations. When large restaurants or hotels hold a dinner party, they may use an ice sculpture to decorate the table. At a wedding banquet, for example, it is common to see a pair of ice-sculpted swans representing the union of the new couple."
+        }
+      ],
+      "demoNote": "這一組是本題庫的改編練習，不是大考中心的試題。文章改編自 97 學測閱讀測驗第 49 至 52 題（閱讀測驗站可以找到原題），照 115 學測混合題奇幻部落那一組的卡片版面出題，題型比照 113 學測，共四題、10 分。參考答案和解析都是本題庫寫的，不算進本題庫的八場、33 格、80 分。",
+      "zhTranslation": null,
+      "source": null,
+      "internalNote": "第三百七十一場建檔。改編自 g97p3；命題分身出題，兩次盲測、四方審閱（引文事實、文法、學生讀者、大考體例）後裁定修訂。"
+    },
+    {
+      "id": "MXA-g111p3",
+      "year": 111,
+      "examLabel": "改編練習",
+      "sessionName": "改編練習（三十二）",
+      "title": "斑馬魚的再生能力",
+      "topic": "斑馬魚的自我修復能力：五張卡片介紹斑馬魚適合做實驗的條件、心臟與視力的再生、和人類相近的器官與基因、視網膜再生與 GABA 的研究，以及接下來的試驗",
+      "layout": "cards",
+      "points": 10,
+      "itemCount": 4,
+      "notCounted": true,
+      "intro": "Named for the dark stripes that run along their sides, zebrafish have long been a favorite test subject in research labs. Yet these little fish are valued for more than convenience: they may also hold clues to healing the human body. The five cards below explain why.",
+      "introEmphasis": [],
+      "blocks": [
+        {
+          "label": "1",
+          "speaker": "A Lab Favorite",
+          "text": "Only a few centimeters in length, zebrafish breed easily in captivity and grow rapidly. Their bodies are also transparent, which allows researchers to observe the fish’s organs with ease."
+        },
+        {
+          "label": "2",
+          "speaker": "Self-Healers",
+          "text": "Above all, zebrafish possess an extraordinary power to repair themselves. When part of the heart is removed, a zebrafish can grow the lost tissue back in a matter of weeks. Even after being blinded, the fish soon regains its sight."
+        },
+        {
+          "label": "3",
+          "speaker": "Shared Biology",
+          "text": "Recent studies show that humans and zebrafish have the same major organs and share 70 percent of their genes. What is more, 84 percent of the human genes involved in disease have a counterpart in the fish. Scientists therefore hope that solving the mystery of the zebrafish’s self-healing may one day enable humans to regenerate organs such as eyes, hearts, and spines."
+        },
+        {
+          "label": "4",
+          "speaker": "Restoring Sight",
+          "text": "Researchers at Vanderbilt University are particularly interested in how zebrafish rebuild the retina. Damage to the retina can leave a zebrafish blind, yet its vision returns within just three to four weeks. Since zebrafish retinas closely resemble human ones in both structure and cell types, the process, if replicated in humans, could lead to new treatments for blindness caused by retinal damage. To learn exactly how the regeneration works, the team studied GABA, a chemical messenger in the brain that reduces the activity of neurons. Lowering GABA levels in the fish was found to trigger retina regeneration, whereas a high concentration of GABA would suppress it. GABA, it seems, plays a key role in the fish’s recovery of sight."
+        },
+        {
+          "label": "5",
+          "speaker": "Next on the Agenda",
+          "text": "At the time these findings were reported, the team was beginning to test the GABA theory on mice. If it proves effective there, human trials will follow. And should the research succeed in people, some of the nearly 40 million blind people worldwide may one day have a tiny striped fish to thank."
+        }
+      ],
+      "demoNote": "這一組是本題庫的改編練習，不是大考中心的試題。文章改編自 111 學測閱讀測驗第 43 至 46 題（閱讀測驗站可以找到原題），照 115 學測混合題奇幻部落那一組的卡片版面出題，題型比照 113 學測，共四題、10 分。參考答案和解析都是本題庫寫的，不算進本題庫的八場、33 格、80 分。",
+      "zhTranslation": null,
+      "source": null,
+      "internalNote": "第三百七十一場建檔。改編自 g111p3；命題分身出題，兩次盲測、四方審閱（引文事實、文法、學生讀者、大考體例）後裁定修訂。"
     }
   ]
 }
