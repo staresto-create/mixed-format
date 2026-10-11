@@ -122,7 +122,7 @@
         ] }
       ],
       "questions": [
-        { "n": 1, "q": "Which advertisements are NOT placed by foreign companies? (Write down the letters representing such advertisements.)", "answers": ["C, D"], "answerNote": "A 自述 a major US corporation、B 自述 an international company，兩則明寫外商；C、D 未提，由對比推得。" },
+        { "n": 1, "q": "Which advertisements are NOT placed by foreign companies? (Write down the letters representing such advertisements.)", "answers": ["C, D"], "pick": { "from": ["C", "D"], "n": 2 }, "answerNote": "A 自述 a major US corporation、B 自述 an international company，兩則明寫外商；C、D 未提，由對比推得。" },
         { "n": 2, "q": "Which job has the best benefits in addition to the regular salary?", "answers": ["Reporters & Editors"], "answerNote": "四則之中只有 C 列出彈性工時、工作環境與醫療保險。" },
         { "n": 3, "q": "Wendy is good at writing and she doesn't like to work according to a fixed schedule. Which of the four jobs might be more suitable for her?", "answers": ["Reporters & Editors"], "answerNote": null },
         { "n": 4, "q": "Charles has a strong interest in technology. Which of the four jobs should he apply for?", "answers": ["Service Technician"], "answerNote": null },
@@ -171,7 +171,7 @@
         { "type": "p", "text": "Every time we watch apes in their cages we are startled by their manlike behavior. The monkey house has a strange fascination. The visitors would be even more startled if they were fully aware of all the existing similarities between them and these animals. These include not only external behavior, but also all the organs, the whole skeleton, every single bone and tooth. The brain of a chimpanzee has the same internal structure and on its surface the same pattern of folds as the human brain, which, however, is three times as large. The way the mother chimpanzee nurses its young is not unlike that of the human mother. These and thousands of other features point to a blood relationship in the truest sense of the word. This can be clearly demonstrated by comparing the genes of chimpanzees and those of humans: the difference between them is just about 2 percent." }
       ],
       "questions": [
-        { "n": 1, "q": "Write down two physical similarities between humans and apes.", "answers": ["organs", "skeleton", "bones", "teeth", "brain structure"], "answerNote": "任舉兩項。" },
+        { "n": 1, "q": "Write down two physical similarities between humans and apes.", "answers": ["organs", "skeleton", "bones", "teeth", "brain structure"], "pick": { "from": ["organs", "skeleton", "bones", "teeth", "brain structure"], "n": 2 }, "answerNote": "任舉兩項。" },
         { "n": 2, "q": "Where is the monkey house most probably located?", "answers": ["(in) a zoo"], "answerNote": "答案文中一字未提，須由 cages、visitors 推得。" },
         { "n": 3, "q": "What is the main difference between a chimpanzee's brain and a human's?", "answers": ["size"], "answerNote": "本場限三個英文單詞，只能答差異之所在；寫成「人腦大三倍」雖正確但超出字數。" },
         { "n": 4, "q": "What is the most precise way to prove a close blood relationship between humans and chimpanzees?", "answers": ["comparing genes"], "answerNote": "本場限三個英文單詞，補上 2% 差異的說明會超出字數。" },
@@ -198,7 +198,7 @@
       ],
       "questions": [
         { "n": 1, "q": "Which place is called \"the lungs of the earth\"?", "answers": ["the Amazon Rainforest"], "answerNote": null },
-        { "n": 2, "q": "What kinds of people are on the AmazonQuest team?", "answers": ["scientists, teachers, (and) students"], "answerNote": null },
+        { "n": 2, "q": "What kinds of people are on the AmazonQuest team?", "answers": ["scientists, teachers, (and) students"], "pick": { "from": ["scientists", "teachers", "students"], "n": 3 }, "answerNote": null },
         { "n": 3, "q": "How long did it take the two men to cut down the giant capirana tree?", "answers": ["about 30 minutes"], "answerNote": null },
         { "n": 4, "q": "Between 1970 and 2000, what percentage of the original Amazon Rainforest was cut down?", "answers": ["14 percent"], "answerNote": "須運算：99 − 85 = 14。" },
         { "n": 5, "q": "According to this report, about how many acres of the Amazon Rainforest are lost every second?", "answers": ["about one acre", "about 1.07 acres"], "answerNote": "要計算：64 acres ÷ 60 秒 ≈ 1.07。題目問 about how many，出題者把每分鐘設為 64 acres，顯然是要學生得出「大約一英畝」；學生按計算機寫 1.07 也不能算錯，兩種都收。" }
@@ -289,7 +289,7 @@
         { "type": "p", "text": "Products sold through image advertising are promoted not for what they are but for the lifestyle they promise. The ads may not show the products, but they suggest a lifestyle that consumers want. Image-linked products can demand a high price, even though what the consumer gets is minimal. A small bottle of chemicals and oils may demand US$30 when it is sold as \"maximum moisturizing skin toner\" at the cosmetics counter. How does a company convince someone to pay that much? By promising love, success, power, acceptance—things much more valuable than the product itself." }
       ],
       "questions": [
-        { "n": 1, "q": "Write down four abstract values suggested by image advertising.", "answers": ["charm, happiness, love, success, power, acceptance (any four of them)"], "answerNote": null },
+        { "n": 1, "q": "Write down four abstract values suggested by image advertising.", "answers": ["charm, happiness, love, success, power, acceptance (any four of them)"], "pick": { "from": ["charm", "happiness", "love", "success", "power", "acceptance"], "n": 4 }, "answerNote": null },
         { "n": 2, "q": "What age group is most likely affected by image advertising?", "answers": ["teenagers"], "answerNote": null },
         { "n": 3, "q": "Why do consumers buy products of famous brands?", "answers": ["to impress people", "to be viewed positively"], "answerNote": null },
         { "n": 4, "q": "What is the effect of some ads not showing the products they promote?", "answers": ["to suggest a lifestyle", "They suggest a lifestyle."], "answerNote": null },

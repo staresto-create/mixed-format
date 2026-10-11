@@ -764,6 +764,32 @@ function renderLegacy(){
 const LG_RESP = {}, LG_DONE = {}, LG_SC = {};
 function lgKey(s, q){ return s.id + '_' + q.n; }
 function lgSet(id){ return LEGACY.sets.find(x => x.id === id); }
+/* 括號裡的字可寫可不寫：「(in) a zoo」寫 a zoo 或 in a zoo 都算相同 */
+function lgVariants(a){
+  let out = [String(a)];
+  while(out.some(x => /\([^()]*\)/.test(x))){
+    out = out.flatMap(x => {
+      const m = x.match(/\(([^()]*)\)/);
+      return m ? [x.replace(m[0], m[1]), x.replace(m[0], '')] : [x];
+    });
+  }
+  return [norm(a)].concat(out.map(x => norm(x.replace(/\s+([,.;:!?])/g, '$1'))));
+}
+/* 任選幾項的題目（pick）：用逗號、頓號、斜線或 and 分開，每一項都在可接受的範圍內、數量夠就算相同；有 pick 的題目只照 pick 判斷 */
+function lgPickHit(p, mine){
+  const ok = p.from.map(norm);
+  const letters = ok.every(x => x.length === 1);
+  let parts = letters
+    ? mine.replace(/\band\b/g, ' ').replace(/[^a-z]/g, '').split('')
+    : mine.split(/\s*(?:[,;\/&\u3001\uFF0C\uFF1B]|\band\b)\s*/).map(x => norm(x).replace(/^(?:the|their|a|an)\s+/, ''));
+  parts = parts.filter(Boolean);
+  const uniq = [...new Set(parts)];
+  return uniq.length === parts.length && uniq.length >= p.n && uniq.every(x => ok.includes(x));
+}
+function lgHit(q, mine){
+  if(q.pick) return lgPickHit(q.pick, mine);
+  return q.answers.some(a => lgVariants(a).includes(mine));
+}
 function lgQBody(s, q){
   const k = lgKey(s, q), official = s.answerSource === 'official';
   let h = `<div class="stem">${esc(q.q)}</div>`;
@@ -771,7 +797,7 @@ function lgQBody(s, q){
     return h + `<input class="lgIn" type="text" value="${esc(LG_RESP[k] || '')}" oninput="LG_RESP['${k}']=this.value" aria-label="第 ${q.n} 題的答案">`;
   }
   const mine = norm(LG_RESP[k]);
-  const hit = mine && q.answers.some(a => norm(a) === mine);
+  const hit = mine && lgHit(q, mine);
   h += `<div class="lgMine"><span class="lbl">你的答案</span>${mine ? esc(LG_RESP[k]) : '（空白）'}</div>`;
   h += mine ? `<div class="lgCmp ${hit ? 'ok' : 'no'}">${hit ? '和參考答案相同，已先幫你選 2 分' : '和列出的參考答案不同，對照原文自己判斷意思對不對'}</div>` : '';
   h += `<div class="lgAns"><span class="lbl">${official ? '官方參考答案' : '參考答案（本題庫推出）'}</span>${q.answers.map(esc).join(' ／ ')}</div>`;
@@ -809,7 +835,7 @@ function lgSubmit(id){
   s.questions.forEach(q => {
     const k = lgKey(s, q), mine = norm(LG_RESP[k]);
     if(!mine) LG_SC[k] = 0;
-    else if(q.answers.some(a => norm(a) === mine)) LG_SC[k] = 2;
+    else if(lgHit(q, mine)) LG_SC[k] = 2;
   });
   lgRefresh(s);
 }
