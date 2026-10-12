@@ -1377,7 +1377,18 @@ function routeHash(){
 }
 window.addEventListener('hashchange', routeHash);
 
-init();
+/* #adapt：總站卡片直接連進改編練習（先選好改編練習，再捲到選擇範圍） */
+function applyAdaptHash(){
+  if(location.hash !== '#adapt') return;
+  const k = '改編練習';
+  if(!selectedKinds.has(k)){
+    selectedKinds.add(k);
+    document.querySelectorAll('#kindGrid .chip').forEach(c => { if(c.textContent.indexOf(k) === 0) c.classList.add('active'); });
+    buildSessionList();
+  }
+  const box = document.getElementById('kindGrid'); if(box) (box.closest('.card') || box).scrollIntoView({block:'start'});
+}
+init().then(applyAdaptHash);
 routeHash();
 </script>
 </body>
