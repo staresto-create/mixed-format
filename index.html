@@ -1412,7 +1412,7 @@ function applyAdaptHash(){
     document.querySelectorAll('#kindGrid .chip').forEach(c => { if(c.textContent.indexOf(k) === 0) c.classList.add('active'); });
     buildSessionList();
   }
-  const box = document.getElementById('kindGrid'); if(box) (box.closest('.card') || box).scrollIntoView({block:'start'});
+  const g0 = document.getElementById('kindGrid'); const box = g0 ? (g0.previousElementSibling || g0) : null; if(box) box.scrollIntoView({block:'start'});
 }
 init().then(applyAdaptHash);
 routeHash();
