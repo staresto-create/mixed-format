@@ -329,6 +329,16 @@
 }
 </style>
 <script src="https://staresto-create.github.io/JCEE-vocab-questions/resume.js" defer></script>
+<style id="print-entry">
+/* 「列印成考卷」按鈕（2026-10-23）：只在螢幕上出現，列印時隱藏；已批改的畫面含答案，不列印，按鈕也不顯示 */
+.printBar{display:flex;flex-wrap:wrap;align-items:center;gap:6px 12px;margin:10px 0 14px;font-family:'Noto Sans TC','PingFang TC','Microsoft JhengHei',sans-serif;}
+.printBtn{font:inherit;font-weight:700;font-size:15px;line-height:1.4;padding:9px 18px;border:2px solid currentColor;border-radius:6px;background:transparent;color:var(--ad-vcrimson-fg,var(--link-crimson,#9C2C1E));cursor:pointer;}
+.printBtn:hover{background:rgba(174,54,38,.1);}
+.printSub{font-size:13px;line-height:1.6;opacity:.85;}
+.printMobile{flex:0 0 100%;font-size:12.5px;line-height:1.7;opacity:.8;}
+#practiceView:has(#practiceBody.isGraded) .printBar{display:none;}
+@media print{.printBar{display:none !important;}}
+</style>
 </head>
 <body>
 <div class="wrap">
@@ -340,7 +350,7 @@
 
   <div id="homeView">
     <nav class="unitbar" id="unitbar" aria-label="本頁單元"><div class="ubrow"><span class="ublab">本頁單元</span><a href="#u-start">開始練習</a><a href="#legacy">簡答題練習區（86–92 學年度）</a><a href="#u-d1">混合題長什麼樣子</a><a href="#u-hist">我的學習歷程</a><a href="#u-range">選擇場次</a><a href="#adapt">仿真練習</a></div><div class="ubnote">支援深色模式（夜間模式），會自動配合手機或電腦的外觀設定。</div></nav>
-    <p class="home-desc print-note" style="margin:0 0 14px"><b>想用紙本練習？</b>進到題目畫面後，直接用瀏覽器的「列印」（或存成 PDF），印出來就是考卷：空格留白，不含答案、解析和提示。</p>
+    <p class="home-desc print-note" style="margin:0 0 14px"><b>想用紙本練習？</b>進到題目畫面後，按最上方的「🖨️ 列印成考卷」，印出來就是考卷：空格留白，不含答案、解析和提示。手機和電腦都能印（也可以存成 PDF）。</p>
     <div class="card">
       <div class="home-lead">開始練習前</div>
       <p class="home-desc">本題庫收錄學測英文<b>混合題</b>，從 110 學年度試辦考試到 115 學年度，含參考試卷，<b>八場、33 格、80 分</b>；另外收了大考中心考試說明裡示範混合題的一組題目，不算在這八場裡。混合題只有學測考。111 學年度起指考改制為分科測驗，分科測驗不考英文，所以這個題型只出現在學測。這裡是照原卷作答：該寫字的就寫字，該劃記的就劃記，寫完自己核對參考答案。</p>
@@ -486,6 +496,7 @@
 
   <div id="practiceView" style="display:none;">
     <span class="backLink" onclick="goHome()">← 回選單</span>
+    <div class="printBar noPrint"><button type="button" class="printBtn" onclick="window.print()">🖨️ 列印成考卷</button><span class="printSub">空白試卷，不含答案、解析和提示</span><div class="printMobile">手機上按鈕沒有反應時，也可以：iPhone 點「分享」（沒看到就先點「⋯」）→往下滑點「列印」；<span style="white-space:nowrap">Android（Chrome）</span>點「⋮」→「分享」→「列印」。</div></div>
     <div class="prog" id="progText"></div>
     <div class="bar"><div class="bar-fill" id="progBar" style="width:0%;"></div></div>
     <div id="practiceBody"></div>
