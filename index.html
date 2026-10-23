@@ -298,6 +298,7 @@
 @media print{body::after{content:"混合題\A staresto-create.github.io/mixed-format\A 免費資源，請勿販售";white-space:pre;position:fixed;top:42%;left:0;right:0;text-align:center;transform:rotate(-25deg);font-family:"Noto Sans TC",sans-serif;font-size:26pt;line-height:1.7;color:#c8c8c8;z-index:2147483000;pointer-events:none;}}
 .cc-note{font-size:12px;line-height:1.8;color:var(--ad-x8a8278-fg);margin:12px auto;max-width:60em;padding:0 1em;}.cc-note a{color:inherit;}
 </style>
+<script src="https://staresto-create.github.io/JCEE-vocab-questions/resume.js" defer></script>
 </head>
 <body>
 <div class="wrap">
@@ -712,7 +713,7 @@ function goHome(){
   document.getElementById('historyView').style.display = 'none';
   document.getElementById('legacyView').style.display = 'none';
   document.getElementById('homeView').style.display = 'block';
-  buildSessionList(); window.scrollTo(0,0);
+  buildSessionList(); window.scrollTo(0,0); scrMountStrip();
 }
 
 /* ---------- 簡答題練習區（可作答、自評；不進學習歷程、不計入題數） ---------- */
@@ -875,8 +876,32 @@ function lgRedo(id){
   delete LG_DONE[id]; lgRefresh(s);
   document.getElementById('lg_' + id).scrollIntoView({behavior:'smooth', block:'start'});
 }
+/* 接續上次（2026-10-23）：記下這一場，供各站首頁與總站的「接續上次」使用。
+   只存在這台裝置的這個瀏覽器；共用模組讀不到時，下面每一處都安靜略過，不影響作答。 */
+function scr(f){
+  try{
+    if(window.SCResume) f(window.SCResume);
+    else window.addEventListener('load', function(){ try{ if(window.SCResume) f(window.SCResume); }catch(e){} });
+  }catch(e){}
+}
+function scrMountStrip(){ scr(function(R){ R.mountStrip(document.getElementById('homeView'), 'mixed'); }); }
+function scrSaveSession(pid){
+  scr(function(R){
+    const p = PASSAGES[pid]; if(!p) return;
+    R.save('mixed', p.sessionName + (p.title ? '・' + p.title : ''), '#p-' + pid);
+  });
+}
+/* #p- 單場連結：直接開啟那一場。只讀 hash，離開時照本站原有做法清掉 hash。 */
+function startFromPHash(){
+  const m = decodeURIComponent(location.hash || '').match(/^#p-(.+)$/);
+  if(!m || !PASSAGES[m[1]]) return false;
+  openSession(m[1]);
+  return true;
+}
+
 function openSession(pid){
   curPid = pid; graded = false; resp = {}; scores = {}; auto = {}; recIdx = {};
+  scrSaveSession(pid);
   curItems = itemsOf(pid);
   groups = [];
   curItems.forEach(it => {
@@ -1415,7 +1440,7 @@ function applyAdaptHash(){
   }
   const g0 = document.getElementById('kindGrid'); const box = g0 ? (g0.previousElementSibling || g0) : null; if(box) box.scrollIntoView({block:'start'});
 }
-init().then(applyAdaptHash);
+init().then(function(){ applyAdaptHash(); scrMountStrip(); startFromPHash(); });
 routeHash();
 </script>
 <a class="toBar" id="toBar" href="#unitbar" hidden>↑ 單元列</a>
