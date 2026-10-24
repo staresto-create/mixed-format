@@ -201,7 +201,7 @@
         { "n": 2, "q": "What kinds of people are on the AmazonQuest team?", "answers": ["scientists, teachers, (and) students"], "pick": { "from": ["scientists", "teachers", "students"], "n": 3 }, "answerNote": null },
         { "n": 3, "q": "How long did it take the two men to cut down the giant capirana tree?", "answers": ["about 30 minutes"], "answerNote": null },
         { "n": 4, "q": "Between 1970 and 2000, what percentage of the original Amazon Rainforest was cut down?", "answers": ["14 percent"], "answerNote": "須運算：99 − 85 = 14。" },
-        { "n": 5, "q": "According to this report, about how many acres of the Amazon Rainforest are lost every second?", "answers": ["about one acre", "about 1.07 acres"], "answerNote": "要計算：64 acres ÷ 60 秒 ≈ 1.07。題目問 about how many，出題者把每分鐘設為 64 acres，顯然是要學生得出「大約一英畝」；學生按計算機寫 1.07 也不能算錯，兩種都收。" }
+        { "n": 5, "q": "According to this report, about how many acres of the Amazon Rainforest are lost every second?", "answers": ["about one acre", "about 1.07 acres"], "answerNote": "要計算：64 acres ÷ 60 秒 ≈ 1.07。題目問 about how many，出題者把每分鐘設為 64 acres，顯然是要學生得出「大約一英畝」；學生按計算機寫 1.07 也不能算錯，兩種都收錄。" }
       ],
       "answerSource": "derived",
       "bridge": "第 1、2、3 題都是回文章定位一句話就能作答，和 112 學測第 47 格、113 學測第 50 格屬同一類；第 4、5 題要動筆算，這在八場混合題裡沒有對應。",
@@ -265,7 +265,7 @@
         { "type": "p", "text": "Unfortunately, sometimes you may find it difficult to smile. Anything from getting a bad grade on a test to losing an important game can make you feel sad. In such hard times, there seems to be no reason to smile. But there is some good part to almost every bad thing. Turning something that seems all bad into something good is one way to help you smile. Hanging around people who are positive and in good moods is another way to help you find your smile again." }
       ],
       "questions": [
-        { "n": 1, "q": "Why is smiling physically easier than frowning?", "answers": ["it takes fewer muscles", "frowning takes twice as many muscles"], "answerNote": "原文是從 frown 的角度寫的，正面說、反面說都收，以「用的肌肉比較少」為主。" },
+        { "n": 1, "q": "Why is smiling physically easier than frowning?", "answers": ["it takes fewer muscles", "frowning takes twice as many muscles"], "answerNote": "原文是從 frown 的角度寫的，正面說、反面說都收錄，以「用的肌肉比較少」為主。" },
         { "n": 2, "q": "What kind of feeling can a physical smile help to create?", "answers": ["happier", "happiness"], "answerNote": null },
         { "n": 3, "q": "In what aspect can smiling help a person in his social life?", "answers": ["making friends"], "answerNote": null },
         { "n": 4, "q": "Give one example of \"hard times\" mentioned in the passage.", "answers": ["getting a bad grade", "losing an important game"], "answerNote": "任舉一例。" },
