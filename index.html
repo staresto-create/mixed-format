@@ -342,6 +342,27 @@
 #practiceView:has(#practiceBody.isGraded) .printBar{display:none;}
 @media print{.printBar{display:none !important;}}
 </style>
+<style id="print-wrong">
+/* 列印錯題考卷（2026-10-24）：只在按下「列印錯題考卷」時使用；內容由題庫資料直接產生，不含答案與解析 */
+#printSheet{display:none;}
+.pwBar{margin:0 0 16px;font-family:'Noto Sans TC','PingFang TC','Microsoft JhengHei',sans-serif;}
+.pwBtn{font:inherit;font-weight:700;font-size:15px;line-height:1.4;padding:9px 18px;border:2px solid currentColor;border-radius:6px;background:transparent;color:var(--link-crimson,#9C2C1E);cursor:pointer;}
+.pwBtn:disabled{opacity:.4;cursor:default;}
+.pwSub{font-size:13px;line-height:1.7;opacity:.85;margin:6px 0 0;}
+@media print{
+  body.hasSheet #homeView, body.hasSheet #practiceView, body.hasSheet #historyView{display:none !important;}
+  body.hasSheet #printSheet{display:block !important;}
+  #printSheet{font-family:"Noto Sans TC","PingFang TC","Microsoft JhengHei",sans-serif; color:#000;}
+  #printSheet .ps-head{font-size:13pt; font-weight:700; margin:0 0 4px;}
+  #printSheet .ps-note{font-size:10.5pt; margin:0 0 12px; padding-bottom:6px; border-bottom:1px solid #000;}
+  #printSheet .pw-p{margin:0 0 16px; padding-bottom:8px;}
+  #printSheet .pw-t{font-size:10pt; font-weight:700; margin:0 0 4px;}
+  #printSheet .pw-text{font-size:10.5pt; line-height:1.6;}
+  #printSheet .pw-p + .pw-p{break-before:page;}
+  #printSheet .qBox{break-inside:avoid; margin:0 0 6px;}
+  .pwBar{display:none !important;}
+}
+</style>
 </head>
 <body>
 <div class="wrap">
@@ -469,6 +490,7 @@
         <button class="link-btn" onclick="clearHistory()">清除學習歷程統計</button>
         <button class="link-btn" onclick="clearWrongBook()">清除錯題本</button>
       </div>
+      <div class="pwBar"><button type="button" class="pwBtn" id="printWrongBtn" onclick="printWrongPassages()" disabled>🖨️ 列印錯題考卷</button><p class="pwSub" id="printWrongSub"></p></div>
 
       <button class="big-btn" id="u-start" style="margin-bottom:14px;" onclick="quickStart()">立即開始 · 隨機一場</button>
       <label style="display:flex; align-items:center; gap:8px; margin:4px 0 6px; font-size:12.5px; color:var(--ad-vinksoft-fg); cursor:pointer; font-family:'IBM Plex Mono','Noto Sans TC',monospace;">
@@ -569,6 +591,8 @@
     <div id="legacyBody"></div>
     <span class="backLink" onclick="goHome()">← 回選單</span>
   </div>
+
+  <div id="printSheet" aria-hidden="true"></div>
 
   <footer>
     <div style="font-family:'Noto Sans TC',sans-serif; font-size:13px; line-height:2; margin-bottom:12px;"><a href="https://staresto-create.github.io/JCEE-vocab-questions/" style="color:var(--ad-x9C2C1E-fg); font-weight:700; text-decoration:underline; text-underline-offset:2px; white-space:nowrap;">← 回題庫首頁</a><span style="padding:0 8px; opacity:.5;">·</span><a href="https://staresto-create.github.io/JCEE-vocab-questions/#rules" style="color:var(--ad-x9C2C1E-fg); font-weight:700; text-decoration:underline; text-underline-offset:2px; white-space:nowrap;">🧩 五個詞：拼圖的規則</a></div>
@@ -725,6 +749,7 @@ function renderStatsBox(){
      <div class="stat-pill"><div class="num">${rate}%</div><div class="lbl">拿到滿分的比率</div></div>
      <div class="stat-pill"><div class="num">${wrong.length}</div><div class="lbl">錯題本格數</div></div>`;
   const wc = document.getElementById('wrongCount'); if(wc) wc.textContent = wrong.length;
+  if(typeof updatePrintWrongSub==='function') updatePrintWrongSub();
 }
 function clearHistory(){
   if(!confirm('確定要清除「學習歷程統計」嗎？(不會影響錯題本)')) return;
@@ -753,7 +778,60 @@ function startWrongBook(){
   alert('錯題本會帶你回到該格所在的場次，整場重做一次——混合題的四個格子共用同一篇選文，單獨抽一格練意義不大。');
   openSession(it.passageId);
 }
+/* 列印錯題考卷：把含有錯題的「整篇文章」排成考卷。所有空格都開放作答、附完整選項，答錯的空格加星號（★）；
+   不印答案、解析、篇名與學生上次選了什麼。一次最多印 4 篇。 */
+const WRONG_PRINT_MAX = 3;
+function wrongPassageGroups(){
+  const w = loadWrongIds(), order = [], map = {};
+  ITEMS.forEach(it => { if(w.indexOf(it.id) >= 0){ if(!map[it.passageId]){ map[it.passageId] = {}; order.push(it.passageId); } map[it.passageId][it.id] = true; } });
+  return {order, map};
+}
+function updatePrintWrongSub(){
+  const btn = document.getElementById('printWrongBtn'); if(!btn) return;
+  const g = wrongPassageGroups(), n = g.order.length;
+  btn.disabled = n === 0;
+  const sub = document.getElementById('printWrongSub'); if(!sub) return;
+  const base = '把你沒拿到滿分的格子連同整篇選文印成考卷：只印含有這些格子的題，格號前有星號（★）；空白試卷，不含答案和解析。';
+  const tail = '錯題本只存在這台裝置的這個瀏覽器，紙本重做不會更新它，要回到畫面上再答對一次，才會從錯題本移除。';
+  const cnt = n === 0 ? '' : (n > WRONG_PRINT_MAX ? '你的錯題分布在 ' + n + ' 篇文章，一次只印前 ' + WRONG_PRINT_MAX + ' 篇；等這幾篇的錯題在畫面上答對、移出錯題本後，再按一次就會印到後面的。' : '目前共 ' + n + ' 篇，會全部印出。');
+  sub.textContent = base + cnt + tail;
+}
+function buildWrongSheet(){
+  const box = document.getElementById('printSheet');
+  const g = wrongPassageGroups();
+  const list = g.order.slice(0, WRONG_PRINT_MAX);
+  if(!list.length){ box.innerHTML = ''; document.body.classList.remove('hasSheet'); return false; }
+  const parts = list.map(pid => {
+    const p = PASSAGES[pid], star = g.map[pid];
+    const sv = {g: graded, r: resp, c: curItems, i: curPid, gr: groups};
+    graded = false; resp = {}; curPid = pid;
+    const its = itemsOf(pid), gs = [];
+    its.forEach(it => {
+      const last = gs[gs.length-1];
+      if(last && last.prompt === it.prompt && last.instruction === it.instruction){ last.items.push(it); }
+      else{ gs.push({ prompt: it.prompt, instruction: it.instruction, items: [it] }); }
+    });
+    const gw = gs.filter(g => g.items.some(it => star[it.id]));
+    let body = renderPassage(p) + '<div class="sec-title" style="margin-top:12px;">作答區</div>';
+    gw.forEach(g => {
+      const plain = g.items.map(x => esc(x.number)).join('、');
+      const marked = g.items.map(x => (star[x.id] ? '★' : '') + esc(x.number)).join('、');
+      body += renderGroup(p, g).replace('第 ' + plain + ' 格', '第 ' + marked + ' 格');
+    });
+    graded = sv.g; resp = sv.r; curItems = sv.c; curPid = sv.i; groups = sv.gr;
+    return '<div class="pw-p"><div class="pw-t">' + esc(p.sessionName) + '</div><div class="pw-text">' + body + '</div></div>';
+  }).join('');
+  box.innerHTML = '<div class="ps-head">混合題錯題考卷（共 ' + list.length + ' 篇' + (g.order.length > list.length ? '，另有 ' + (g.order.length - list.length) + ' 篇未印' : '') + '）</div>'
+    + '<div class="ps-note">請先讀選文，再依各題的說明作答。這裡只印含有你上次沒拿到滿分的格子的題（格號前有星號 ★），其他題請回到畫面上練習。</div>' + parts;
+  document.body.classList.add('hasSheet');
+  return true;
+}
+function clearWrongSheet(){ const b = document.getElementById('printSheet'); if(b) b.innerHTML = ''; document.body.classList.remove('hasSheet'); }
+function printWrongPassages(){ if(buildWrongSheet()) window.print(); }
+window.addEventListener('afterprint', clearWrongSheet);
+
 function goHome(){
+  clearWrongSheet();
   if(location.hash){ history.replaceState(null, '', location.pathname + location.search); }
   document.getElementById('practiceView').style.display = 'none';
   document.getElementById('historyView').style.display = 'none';
