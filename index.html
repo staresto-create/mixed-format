@@ -226,6 +226,12 @@
   .selfEx .exP{margin:0 0 6px;}
   .selfEx .exP:last-child{margin-bottom:0;}
   .selfEx .exP .h{font-weight:700; color:var(--ad-vink-fg);}
+  .selfEx>summary{list-style:none; cursor:pointer; font-weight:700; min-height:30px; color:var(--ad-vink-fg);}
+  .selfEx>summary::-webkit-details-marker{display:none}
+  .selfEx .exSumMain::after{content:" ▾"; color:var(--ad-vinksoft-fg);}
+  .selfEx[open] .exSumMain::after{content:" ▴";}
+  .selfEx .exSumSub{display:block; font-weight:400; font-size:12.5px; color:var(--ad-vinksoft-fg);}
+  .selfEx[open]>summary{margin-bottom:10px;}
 
   .exTable{width:100%; border-collapse:collapse; font-size:13.5px; line-height:1.75; margin:10px 0 4px;}
   .exTable th,.exTable td{border:1px solid var(--ad-vrule-border); padding:7px 9px; text-align:left; vertical-align:top;}
@@ -1426,7 +1432,9 @@ function renderExplanation(it){
     if(!Array.isArray(arr) || !arr.length) return '';
     return `<div class="exSec"><span class="lb">${s[1]}</span>${exBlocks(arr, s[0])}</div>`;
   }).join('');
-  return secs ? `<div class="selfEx">${secs}</div>` : '';
+  const names = EX_SECTIONS.filter(s => Array.isArray(it.explanation[s[0]]) && it.explanation[s[0]].length)
+    .map(s => s[1].replace(/[【】]/g, ''));
+  return secs ? `<details class="selfEx"><summary class="exSum"><span class="exSumMain">完整解析</span><span class="exSumSub">${names.join('、')}</span></summary>${secs}</details>` : '';
 }
 function renderSelf(it){
   const sc = scores[it.id];
