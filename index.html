@@ -1020,6 +1020,7 @@ function startFromPHash(){
   const m = decodeURIComponent(location.hash || '').match(/^#p-(.+)$/);
   if(!m || !PASSAGES[m[1]]) return false;
   openSession(m[1]);
+  if(window.htApply) setTimeout(function(){ htApply(document.getElementById('practiceView')); },0);
   return true;
 }
 
@@ -1641,5 +1642,7 @@ function safePrint(){
 }
 </script>
 <!--/safePrint-->
+<script>window.__htManual=true;</script>
+<script src="hl-target.js"></script>
 </body>
 </html>
