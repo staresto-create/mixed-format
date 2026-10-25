@@ -73,7 +73,7 @@
 
   .big-btn{
     display:block; width:100%; text-align:center; cursor:pointer;
-    background:var(--ad-vink-bg); color: var(--paper-card);
+    background:var(--ad-vink-bg); color:var(--ad-vpaper-bg);
     font-family:'Noto Serif TC',serif; font-weight:700; font-size:19px;
     padding:16px; border:none; border-radius:3px; letter-spacing:.06em;
     transition: transform .12s ease, background .15s ease; margin-top:20px;
@@ -290,7 +290,7 @@
 .unitbar .ubrow + .ubrow{margin-top:8px;}
 .unitbar .ublab{font-size:12px; font-weight:700; letter-spacing:.06em; border:1px solid currentColor; border-radius:12px; padding:2px 10px; opacity:.75; white-space:nowrap;}
 .unitbar a, .unitbar .cur{display:inline-block; border:1px solid rgba(128,128,128,.45); border-radius:14px; padding:3px 11px; white-space:nowrap; font-weight:700; text-decoration:none;}
-.unitbar a{color:var(--crimson);}
+.unitbar a{color:var(--ad-vcrimson-fg,var(--crimson));}
 .unitbar a:hover{text-decoration:underline; text-underline-offset:3px;}
 .unitbar .cur{background:rgba(128,128,128,.2);}
 .unitbar .ubnote{margin-top:8px; font-size:12px; line-height:1.6; opacity:.8; text-wrap:balance;}
@@ -385,6 +385,7 @@ details[open]:not(.sh) > summary::after{content:"－ 收合" !important;}
 #printSheet{display:none;}
 .pwBar{margin:0 0 16px;font-family:'Noto Sans TC','PingFang TC','Microsoft JhengHei',sans-serif;}
 .pwBtn{font:inherit;font-weight:700;font-size:15px;line-height:1.4;padding:9px 18px;border:2px solid currentColor;border-radius:6px;background:transparent;color:var(--link-crimson,#9C2C1E);cursor:pointer;}
+@media screen and (prefers-color-scheme:dark){.pwBtn{color:#E4B6B0;}}
 .pwBtn:disabled{opacity:.4;cursor:default;}
 .pwSub{font-size:13px;line-height:1.7;opacity:.85;margin:6px 0 0;}
 @media print{
