@@ -316,7 +316,7 @@ details[open]:not(.sh) > summary::after{content:"－ 收合" !important;}
 @media screen and (prefers-color-scheme: dark){:root{--ev-bg:#463C14; --ev-line:#8FC6A0; --ev-tag:#C9A24A;}}
 .ev{background:var(--ev-bg); border-radius:2px; padding:1px 0; -webkit-box-decoration-break:clone; box-decoration-break:clone;}
 .ev.evk{font-weight:700; text-decoration:underline; text-decoration-color:var(--ev-line); text-decoration-thickness:2px; text-underline-offset:3px;}
-.evb{display:inline-block; margin:0 3px 0 2px; padding:0 5px; font:700 11px/16px system-ui,"Noto Sans TC",sans-serif; color:#fff; background:var(--ev-tag); border-radius:8px; vertical-align:1px; user-select:none;}
+.evb{text-indent:0; display:inline-block; margin:0 3px 0 2px; padding:0 5px; font:700 11px/16px system-ui,"Noto Sans TC",sans-serif; color:#fff; background:var(--ev-tag); border-radius:8px; vertical-align:1px; user-select:none;}
 @media screen and (prefers-color-scheme: dark){.evb{color:#16201F;}}
 .evLegend{font-family:system-ui,"Noto Sans TC","PingFang TC",sans-serif; font-size:12.5px; line-height:1.9; color:var(--ad-vinksoft-fg); margin:0 0 12px;}
 .evCard{font-size:14px; line-height:1.9; background:var(--ad-xFFFBEA-bg); border-left:3px solid var(--ev-tag); padding:8px 12px; border-radius:2px; margin:0 0 9px;}
@@ -1161,9 +1161,9 @@ function renderPassage(p){
       (b.speaker ? `<span class="who">${esc(b.speaker)}</span>` : '') +
       `<span class="txt">${E(b.text, bi)}</span></span></div>`).join('');
   }else if(p.layout === 'ads'){
-    body = `<div class="adGrid">` + p.blocks.map(b =>
+    body = `<div class="adGrid">` + p.blocks.map((b, bi) =>
       `<div class="adBox"><div class="adHd"><span class="ltr">${esc(b.label)}</span>${esc(b.speaker || '')}</div>` +
-      (b.parts || []).map(adPart).join('') + `</div>`).join('') + `</div>`;
+      (b.parts || []).map(x => adPart(x, bi, marks)).join('') + `</div>`).join('') + `</div>`;
   }else if(p.layout === 'cards'){
     body = p.blocks.map((b, bi) =>
       `<div class="cardRow"><div class="who"><span class="ltr">(${esc(b.label)})</span>${esc(b.speaker || '')}</div>` +
@@ -1175,9 +1175,9 @@ function renderPassage(p){
 }
 
 /* 徵才廣告的一行：p 段落、li 條列、sub 粗體小標；i 為原卷斜體的字串 */
-function adPart(x){
-  let h = esc(x.x);
-  (x.i || []).forEach(s => { h = h.split(esc(s)).join('<i>' + esc(s) + '</i>'); });
+function adPart(x, bi, marks){
+  const ital = t => { let h = esc(t); (x.i || []).forEach(s => { h = h.split(esc(s)).join('<i>' + esc(s) + '</i>'); }); return h; };
+  const h = marks ? evText(x.x, bi, marks, ital) : ital(x.x);
   if(x.t === 'li')  return `<div class="adLi">${h}</div>`;
   if(x.t === 'sub') return `<div class="adSub">${h}</div>`;
   return `<p>${h}</p>`;

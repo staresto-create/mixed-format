@@ -253,6 +253,7 @@
     },
     {
       "id": "MX111R-47",
+      "clue": [{"b": 0, "t": "Are they really so good for our health?", "k": ["really so good"]}, {"b": 0, "t": "No good evidence shows that eating plenty of fruit and vegetables with kale is any better than eating plenty of them without.", "k": ["No good evidence"]}, {"b": 0, "t": "And if you don't, no superfood will save you.", "k": ["no superfood will save you"]}],
       "passageId": "MX111R",
       "year": 111,
       "number": "47",
@@ -334,6 +335,7 @@
     },
     {
       "id": "MX111R-48",
+      "clue": [{"b": 0, "t": "❼But there is little evidence to suggest the health benefits from chia seeds.", "k": ["little evidence"]}],
       "passageId": "MX111R",
       "year": 111,
       "number": "48",
@@ -388,6 +390,7 @@
     },
     {
       "id": "MX111R-49",
+      "clue": [{"b": 0, "t": "We know that if you eat a balanced diet with plenty of fruit and vegetables and do regular exercise, you don't need any superfood.", "k": ["eat a balanced diet", "do regular exercise"]}],
       "passageId": "MX111R",
       "year": 111,
       "number": "49",
@@ -444,6 +447,7 @@
     },
     {
       "id": "MX111R-50A",
+      "clue": [{"b": 0, "t": "Fans of superfoods like to list the things that kale contains a lot of, such as iron and vitamins, and point out what those things do (make red blood cells).", "k": ["make red blood cells"]}],
       "passageId": "MX111R",
       "year": 111,
       "number": "50(A)",
@@ -497,6 +501,7 @@
     },
     {
       "id": "MX111R-50B",
+      "clue": [{"b": 0, "t": "❷One hundred grams of chia seeds contain about 17g of Omega-3s, about eight times as much as salmon.", "k": ["Omega-3s"]}, {"b": 0, "t": "❻So fish is definitely a good source of Omega-3 fatty acids for you, which help to protect against cardiovascular disease.", "k": ["Omega-3 fatty acids"]}],
       "passageId": "MX111R",
       "year": 111,
       "number": "50(B)",
@@ -551,6 +556,7 @@
     },
     {
       "id": "MX111-47A",
+      "clue": [{"b": 0, "t": "Her incredible story and superior swimming skills won her the opportunity to participate in the Olympic Games.", "k": ["participate", "swimming"]}],
       "passageId": "MX111",
       "year": 111,
       "number": "47(A)",
@@ -594,6 +600,7 @@
     },
     {
       "id": "MX115R-47A",
+      "clue": [{"b": 0, "t": "Her incredible story and superior swimming skills won her the opportunity to participate in the Olympic Games.", "k": ["participate", "swimming"]}],
       "passageId": "MX115R",
       "year": 111,
       "number": "47(A)",
@@ -643,6 +650,7 @@
     },
     {
       "id": "MX111-47B",
+      "clue": [{"b": 1, "t": "Finally, when he was cruelly abused for not winning medals at the 2013 World Championships in Brazil, he decided to seek protection.", "k": ["cruelly", "abused"]}],
       "passageId": "MX111",
       "year": 111,
       "number": "47(B)",
@@ -687,6 +695,7 @@
     },
     {
       "id": "MX115R-47B",
+      "clue": [{"b": 1, "t": "Finally, when he was cruelly abused for not winning medals at the 2013 World Championships in Brazil, he decided to seek protection.", "k": ["cruelly", "abused"]}],
       "passageId": "MX115R",
       "year": 111,
       "number": "47(B)",
@@ -735,6 +744,7 @@
     },
     {
       "id": "MX111-48",
+      "clue": [{"b": 1, "t": "Popole was granted asylum in 2014 by Brazilian government and later continued judo training at a youth facility.", "k": ["asylum"]}, {"b": 1, "t": "Finally, when he was cruelly abused for not winning medals at the 2013 World Championships in Brazil, he decided to seek protection.", "k": ["seek protection"]}],
       "passageId": "MX111",
       "year": 111,
       "number": "48",
@@ -778,6 +788,7 @@
     },
     {
       "id": "MX115R-48",
+      "clue": [{"b": 1, "t": "Popole was granted asylum in 2014 by Brazilian government and later continued judo training at a youth facility.", "k": ["asylum"]}, {"b": 1, "t": "Finally, when he was cruelly abused for not winning medals at the 2013 World Championships in Brazil, he decided to seek protection.", "k": ["seek protection"]}],
       "passageId": "MX115R",
       "year": 111,
       "number": "48",
@@ -833,6 +844,7 @@
     },
     {
       "id": "MX111-49",
+      "clue": [{"b": 0, "t": "She was a member of the Refugee Olympic Team for both the 2016 Rio Games and 2021 Tokyo Games.", "k": [], "o": "C"}, {"b": 1, "t": "He also represented the Refugee Olympic Team in 2021 Tokyo Games.", "k": [], "o": "C"}, {"b": 0, "t": "In 2015 when she was just a 17-year-old, her house was destroyed in the civil war, so she decided to flee her home country.", "k": ["destroyed in the civil war", "flee her home country"], "o": "D"}, {"b": 1, "t": "Escaping from the war zone, he wandered alone for a week in a rainforest before being rescued and taken to a center for displaced children in the capital, Kinshasa.", "k": ["Escaping from the war zone"], "o": "D"}],
       "passageId": "MX111",
       "year": 111,
       "number": "49",
@@ -884,6 +896,7 @@
     },
     {
       "id": "MX115R-49",
+      "clue": [{"b": 0, "t": "She was a member of the Refugee Olympic Team for both the 2016 Rio Games and 2021 Tokyo Games.", "k": [], "o": "C"}, {"b": 1, "t": "He also represented the Refugee Olympic Team in 2021 Tokyo Games.", "k": [], "o": "C"}, {"b": 0, "t": "In 2015 when she was just a 17-year-old, her house was destroyed in the civil war, so she decided to flee her home country.", "k": ["destroyed in the civil war", "flee her home country"], "o": "D"}, {"b": 1, "t": "Escaping from the war zone, he wandered alone for a week in a rainforest before being rescued and taken to a center for displaced children in the capital, Kinshasa.", "k": ["Escaping from the war zone"], "o": "D"}],
       "passageId": "MX115R",
       "year": 111,
       "number": "49",
@@ -951,6 +964,7 @@
     },
     {
       "id": "MX112-47",
+      "clue": [{"b": 0, "t": "I tried one when I was a prep cook for Next Level Burgers…tasted awful, just like mashed peas gone to rot.", "k": ["tasted awful"]}, {"b": 4, "t": "Isn't it supposed to be a healthy choice?", "k": ["healthy"]}],
       "passageId": "MX112",
       "year": 112,
       "number": "47",
@@ -1008,6 +1022,7 @@
     },
     {
       "id": "MX112-48",
+      "clue": [{"b": 0, "t": "I tried one when I was a prep cook for Next Level Burgers…tasted awful, just like mashed peas gone to rot.", "k": ["tasted awful"]}, {"b": 4, "t": "Isn't it supposed to be a healthy choice?", "k": ["healthy"]}],
       "passageId": "MX112",
       "year": 112,
       "number": "48",
@@ -1064,6 +1079,7 @@
     },
     {
       "id": "MX112-49",
+      "clue": [{"b": 3, "t": "That being said, I'm definitely a carnivore and prefer meat, but I don't see anything wrong with choosing one of the fakey-fakey meaty things once in a while—just for a change.", "k": ["once in a while", "just for a change"], "o": "D"}, {"b": 5, "t": "I did NOT like the price, though.", "k": ["did NOT like the price"], "o": "F"}, {"b": 5, "t": "Hopefully that will come down.", "k": ["Hopefully that will come down"], "o": "F"}],
       "passageId": "MX112",
       "year": 112,
       "number": "49",
@@ -1133,6 +1149,7 @@
     },
     {
       "id": "MX112-50",
+      "clue": [{"b": 6, "t": "Especially when a burger craving hits…a GreenBurger does the trick.", "k": ["does the trick"]}],
       "passageId": "MX112",
       "year": 112,
       "number": "50",
@@ -1857,6 +1874,7 @@
     },
     {
       "id": "MX111G-1",
+      "clue": [{"b": 2, "t": "◆ Flexible work hours (30 hours per week)", "k": ["Flexible work hours"], "o": "C"}, {"b": 2, "t": "◆ Health insurance and annual leave provided", "k": ["Health insurance and annual leave provided"], "o": "C"}, {"b": 2, "t": "◆ Good work environment and great colleagues", "k": ["Good work environment and great colleagues"], "o": "C"}],
       "passageId": "MX111G",
       "year": 111,
       "number": "1",
@@ -1924,6 +1942,7 @@
     },
     {
       "id": "MX111G-2",
+      "clue": [{"b": 0, "t": "The company offers the most lucrative compensation plan in the industry and has paid over 3.5 billion NTD in commissions in just 6 years in the U.S. We are a group of top earners.", "k": ["most lucrative compensation plan", "top earners"], "o": "A"}],
       "passageId": "MX111G",
       "year": 111,
       "number": "2",
@@ -1991,6 +2010,7 @@
     },
     {
       "id": "MX111G-3",
+      "clue": [{"b": 3, "t": "High school diploma.", "k": ["High school diploma"], "o": "D"}],
       "passageId": "MX111G",
       "year": 111,
       "number": "3",
@@ -2060,6 +2080,7 @@
     },
     {
       "id": "MX111G-4",
+      "clue": [{"b": 2, "t": "◆ Flexible work hours (30 hours per week)", "k": ["Flexible work hours"]}],
       "passageId": "MX111G",
       "year": 111,
       "number": "4",
@@ -2140,6 +2161,7 @@
     },
     {
       "id": "MX111G-5",
+      "clue": [{"b": 1, "t": "Applicants should possess a university degree in electronics.", "k": ["possess a university degree in electronics"]}],
       "passageId": "MX111G",
       "year": 111,
       "number": "5",
@@ -2196,6 +2218,7 @@
     },
     {
       "id": "MXA95-47",
+      "clue": [{"b": 1, "t": "There, they used a special part for their second language, near the one activated for their native tongue.", "k": ["used a special part", "activated"]}],
       "passageId": "MXA95",
       "year": 95,
       "number": "47",
@@ -2252,6 +2275,7 @@
     },
     {
       "id": "MXA95-48",
+      "clue": [{"b": 1, "t": "According to Hirsch, once the programming of language in the brain is complete, a different part of the brain must take over a new language.", "k": ["different part"]}, {"b": 0, "t": "Hirsch believes that when language is first being programmed in young children, their brains may mix all languages together in a single area.", "k": ["first being programmed in young children"]}, {"b": 1, "t": "It is also possible that adults simply acquire languages differently, since learning a language by sitting in a high school class is hardly like learning it at home as a baby.", "k": ["differently"]}],
       "passageId": "MXA95",
       "year": 95,
       "number": "48",
@@ -2306,6 +2330,7 @@
     },
     {
       "id": "MXA95-49",
+      "clue": [{"b": 0, "t": "Whichever language they were thinking in, the same part of Wernicke’s area became active, and in Broca’s area, too, one region served both languages.", "k": [], "o": "A"}, {"b": 1, "t": "In Wernicke’s area, people who came to a second language later in life showed the same pattern as the first group: one part handled both languages.", "k": ["one part handled both languages"], "o": "A"}, {"b": -1, "t": "People from both groups were placed inside the scanner, which allowed Hirsch to see which parts of the brain were getting more blood and were more active.", "k": [], "o": "C"}, {"b": -1, "t": "They could not speak out loud, because any movement would disrupt the scanning.", "k": ["could not speak out loud"], "o": "C"}],
       "passageId": "MXA95",
       "year": 95,
       "number": "49",
@@ -2408,6 +2433,7 @@
     },
     {
       "id": "MXA95-50",
+      "clue": [{"b": -1, "t": "They could not speak out loud, because any movement would disrupt the scanning.", "k": ["disrupt"]}],
       "passageId": "MXA95",
       "year": 95,
       "number": "50",
@@ -2460,6 +2486,7 @@
     },
     {
       "id": "MXA103-47",
+      "clue": [{"b": 2, "t": "Free online courses are a great way to increase the enrollment of students who could never afford a big-name university.", "k": ["enrollment"]}, {"b": -1, "t": "A MOOC, or massive open online course, aims at providing large-scale interactive participation and open access via the web.", "k": ["participation"]}, {"b": -1, "t": "Ever since 2011, when Professor Sebastian Thrun of Stanford University opened his artificial intelligence course to anyone and 160,000 students in more than 190 countries signed up, MOOCs have been shaking up the world of higher education.", "k": ["160,000 students", "signed up"]}],
       "passageId": "MXA103",
       "year": 103,
       "number": "47",
@@ -2518,6 +2545,7 @@
     },
     {
       "id": "MXA103-48",
+      "clue": [{"b": -1, "t": "A MOOC, or massive open online course, aims at providing large-scale interactive participation and open access via the web.", "k": ["interactive"]}, {"b": 7, "t": "Watching videos is no substitute for asking a professor for help face to face.", "k": ["no substitute for", "face to face"]}],
       "passageId": "MXA103",
       "year": 103,
       "number": "48",
@@ -2573,6 +2601,7 @@
     },
     {
       "id": "MXA103-49",
+      "clue": [{"b": 0, "t": "For cash-strapped students like me, that's hard to beat.", "k": ["hard to beat"], "o": "A"}, {"b": 2, "t": "Free online courses are a great way to increase the enrollment of students who could never afford a big-name university.", "k": ["great way"], "o": "C"}, {"b": 6, "t": "People say online learning is lonely, but the course I took had a busy forum.", "k": ["busy forum"], "o": "G"}],
       "passageId": "MXA103",
       "year": 103,
       "number": "49",
@@ -2653,6 +2682,7 @@
     },
     {
       "id": "MXA103-50",
+      "clue": [{"b": 5, "t": "Online students will miss out on all of that.", "k": ["miss out on"]}],
       "passageId": "MXA103",
       "year": 103,
       "number": "50",
@@ -2709,6 +2739,7 @@
     },
     {
       "id": "MXA-z108p3-47",
+      "clue": [{"b": 1, "t": "The Maniq, a group of hunter-gatherers in southern Thailand, can describe smells using at least fifteen different terms.", "k": ["describe smells"]}, {"b": 1, "t": "These words express nothing but smells and are not applicable across other sensory domains.", "k": ["express"]}, {"b": 0, "t": "Because the language lacks dedicated odor terminology, its speakers are often forced to fall back on odor sources such as “flowery” and “vanilla,” or on metaphors like “sweet” and “oriental,” in their descriptions of smell.", "k": ["descriptions of smell"]}],
       "passageId": "MXA-z108p3",
       "year": 108,
       "number": "47",
@@ -2765,6 +2796,7 @@
     },
     {
       "id": "MXA-z108p3-48",
+      "clue": [{"b": 1, "t": "These words express nothing but smells and are not applicable across other sensory domains.", "k": ["not applicable"]}],
       "passageId": "MXA-z108p3",
       "year": 108,
       "number": "48",
@@ -2824,6 +2856,7 @@
     },
     {
       "id": "MXA-z108p3-49",
+      "clue": [{"b": -1, "t": "The researchers suggest instead that people’s surroundings may play a significant role.", "k": ["surroundings may play a significant role"], "o": "A"}, {"b": 0, "t": "According to a recent study, English speakers are capable of discriminating more than a trillion different odors.", "k": ["capable of discriminating"], "o": "C"}, {"b": 1, "t": "Smell helps them identify animals worth hunting and recognize objects or events, such as spoiled food, that can pose a danger.", "k": ["Smell helps them identify animals worth hunting"], "o": "C"}],
       "passageId": "MXA-z108p3",
       "year": 108,
       "number": "49",
@@ -2926,6 +2959,7 @@
     },
     {
       "id": "MXA-z108p3-50",
+      "clue": [{"b": 1, "t": "To survive there, they evaluate their surroundings through their noses.", "k": ["evaluate"]}],
       "passageId": "MXA-z108p3",
       "year": 108,
       "number": "50",
@@ -2978,6 +3012,7 @@
     },
     {
       "id": "MXA-z101p1-47",
+      "clue": [{"b": 0, "t": "When challenged, the teaser may claim to be “just kidding” and thereby dodge responsibility.", "k": ["dodge responsibility"]}],
       "passageId": "MXA-z101p1",
       "year": 101,
       "number": "47",
@@ -3034,6 +3069,7 @@
     },
     {
       "id": "MXA-z101p1-48",
+      "clue": [{"b": 1, "t": "In hate-me humor, the joker becomes the butt of the joke for the amusement of others.", "k": ["amusement"]}],
       "passageId": "MXA-z101p1",
       "year": 101,
       "number": "48",
@@ -3089,6 +3125,7 @@
     },
     {
       "id": "MXA-z101p1-49",
+      "clue": [{"b": 0, "t": "Picture someone telling a group of friends an embarrassing story about another friend.", "k": ["an embarrassing story about another friend"], "o": "A"}, {"b": 1, "t": "In hate-me humor, the joker becomes the butt of the joke for the amusement of others.", "k": ["the butt of the joke"], "o": "A"}, {"b": 0, "t": "In everyday life, however, it can do real damage.", "k": ["In everyday life", "do real damage"], "o": "B"}, {"b": 1, "t": "In small doses, such self-mockery can be endearing.", "k": ["In small doses", "can be endearing"], "o": "B"}],
       "passageId": "MXA-z101p1",
       "year": 101,
       "number": "49",
@@ -3191,6 +3228,7 @@
     },
     {
       "id": "MXA-z101p1-50",
+      "clue": [{"b": -1, "t": "Their humor often draws on experiences that everyone in the group has shared, and sometimes they even laugh off their own misfortunes.", "k": ["laugh off"]}],
       "passageId": "MXA-z101p1",
       "year": 101,
       "number": "50",
@@ -3245,6 +3283,7 @@
     },
     {
       "id": "MXA-g91bp4-47",
+      "clue": [{"b": 0, "t": "Shoppers can choose from plenty of models, from simple $200 point-and-shoot snappers to $1,000 wonders loaded with every feature an advanced amateur could want.", "k": ["choose from plenty of models"]}],
       "passageId": "MXA-g91bp4",
       "year": 91,
       "number": "47",
@@ -3300,6 +3339,7 @@
     },
     {
       "id": "MXA-g91bp4-48",
+      "clue": [{"b": 0, "t": "Going digital does involve extra costs—memory cards for storage and special paper for printing—yet many buyers have been willing to make the switch.", "k": ["willing to make the switch"]}],
       "passageId": "MXA-g91bp4",
       "year": 91,
       "number": "48",
@@ -3354,6 +3394,7 @@
     },
     {
       "id": "MXA-g91bp4-49",
+      "clue": [{"b": 0, "t": "Going digital does involve extra costs—memory cards for storage and special paper for printing—yet many buyers have been willing to make the switch.", "k": ["extra costs"], "o": "A"}, {"b": 1, "t": "When Ms. Lowery got married last year, many of her pictures didn’t come out right, and the money she had spent on film for those shots was wasted.", "k": ["the money she had spent on film"], "o": "A"}, {"b": 0, "t": "Households with digital cameras now make up only about 10 percent of the total, but that figure is certain to grow as manufacturers introduce more models whose quality matches that of film cameras.", "k": [], "o": "B"}, {"b": 1, "t": "About 90 percent of American households still rely on film cameras, though film has its drawbacks.", "k": [], "o": "B"}],
       "passageId": "MXA-g91bp4",
       "year": 91,
       "number": "49",
@@ -3460,6 +3501,7 @@
     },
     {
       "id": "MXA-g91bp4-50",
+      "clue": [{"b": 0, "t": "Shoppers can choose from plenty of models, from simple $200 point-and-shoot snappers to $1,000 wonders loaded with every feature an advanced amateur could want.", "k": ["point-and-shoot"]}],
       "passageId": "MXA-g91bp4",
       "year": 91,
       "number": "50",
@@ -3512,6 +3554,7 @@
     },
     {
       "id": "MXA-z100p2-47",
+      "clue": [{"b": -1, "t": "Supporters call such testing vital to medicine; critics point to the stress and pain it causes.", "k": ["the stress and pain"]}],
       "passageId": "MXA-z100p2",
       "year": 100,
       "number": "47",
@@ -3568,6 +3611,7 @@
     },
     {
       "id": "MXA-z100p2-48",
+      "clue": [{"b": 2, "t": "The official figures are misleading.", "k": ["misleading"]}],
       "passageId": "MXA-z100p2",
       "year": 100,
       "number": "48",
@@ -3622,6 +3666,7 @@
     },
     {
       "id": "MXA-z100p2-49",
+      "clue": [{"b": 0, "t": "As far as I'm concerned, the research has to go on.", "k": ["the research has to go on"], "o": "A"}, {"b": 3, "t": "Even so, there are still vast gaps in what doctors know, and until those gaps are bridged, we can't do without animal testing.", "k": ["we can't do without animal testing"], "o": "D"}, {"b": 6, "t": "There's no question that animal research must continue.", "k": ["animal research must continue"], "o": "G"}],
       "passageId": "MXA-z100p2",
       "year": 100,
       "number": "49",
@@ -3706,6 +3751,7 @@
     },
     {
       "id": "MXA-z100p2-50",
+      "clue": [{"b": 4, "t": "Results that don't fit the hypothesis get quietly shelved, so other labs end up repeating the same failed tests, and more animals die for nothing.", "k": ["for nothing"]}],
       "passageId": "MXA-z100p2",
       "year": 100,
       "number": "50",
@@ -3760,6 +3806,7 @@
     },
     {
       "id": "MXA-g110tp3-47",
+      "clue": [{"b": 0, "t": "Our single time zone may be a legacy of British rule, but it is also a sign of our unity.", "k": ["sign of our unity"]}],
       "passageId": "MXA-g110tp3",
       "year": 110,
       "number": "47",
@@ -3816,6 +3863,7 @@
     },
     {
       "id": "MXA-g110tp3-48",
+      "clue": [{"b": 6, "t": "Studies show that sleep deprivation from late sunsets hits them hardest, since their homes are often noisy and lack window shades or proper beds.", "k": ["sleep deprivation"]}, {"b": 4, "t": "Out west, where the sun sets late, children sleep less, and their schooling pays the price.", "k": ["Out west, where the sun sets late", "children sleep less"]}],
       "passageId": "MXA-g110tp3",
       "year": 110,
       "number": "48",
@@ -3871,6 +3919,7 @@
     },
     {
       "id": "MXA-g110tp3-49",
+      "clue": [{"b": 0, "t": "Our single time zone may be a legacy of British rule, but it is also a sign of our unity.", "k": ["sign of our unity"], "o": "A"}, {"b": 2, "t": "Safety comes first.", "k": ["Safety comes first"], "o": "C"}, {"b": 5, "t": "Two clocks would only breed confusion.", "k": ["Two clocks would only breed confusion"], "o": "F"}],
       "passageId": "MXA-g110tp3",
       "year": 110,
       "number": "49",
@@ -3955,6 +4004,7 @@
     },
     {
       "id": "MXA-g110tp3-50",
+      "clue": [{"b": 0, "t": "Our single time zone may be a legacy of British rule, but it is also a sign of our unity.", "k": ["legacy"]}],
       "passageId": "MXA-g110tp3",
       "year": 110,
       "number": "50",
@@ -4008,6 +4058,7 @@
     },
     {
       "id": "MXA-z107p4-47",
+      "clue": [{"b": 4, "t": "Locked deep under an Arctic mountain, those seeds are about as secure as seeds can be.", "k": ["about as secure as seeds can be"]}],
       "passageId": "MXA-z107p4",
       "year": 107,
       "number": "47",
@@ -4064,6 +4115,7 @@
     },
     {
       "id": "MXA-z107p4-48",
+      "clue": [{"b": 1, "t": "Crops never stand still, and pests and diseases are always adapting.", "k": ["always adapting"]}],
       "passageId": "MXA-z107p4",
       "year": 107,
       "number": "48",
@@ -4119,6 +4171,7 @@
     },
     {
       "id": "MXA-z107p4-49",
+      "clue": [{"b": 0, "t": "That's exactly what we need.", "k": ["exactly what we need"], "o": "A"}, {"b": 2, "t": "I'd call that a smart investment.", "k": ["smart investment"], "o": "C"}, {"b": 7, "t": "But it already holds more than 860,000 samples, and if catastrophe strikes, that backup could make all the difference.", "k": ["make all the difference"], "o": "H"}],
       "passageId": "MXA-z107p4",
       "year": 107,
       "number": "49",
@@ -4203,6 +4256,7 @@
     },
     {
       "id": "MXA-z107p4-50",
+      "clue": [{"b": 4, "t": "Still, global warming will bring challenges that remain unforeseen, and no vault can prepare crops for what nobody sees coming.", "k": ["unforeseen"]}],
       "passageId": "MXA-z107p4",
       "year": 107,
       "number": "50",
@@ -4256,6 +4310,7 @@
     },
     {
       "id": "MXA-g99p3-47",
+      "clue": [{"b": 2, "t": "Villas, farms, apartments all over the globe—the choices sound like a dream.", "k": ["choices"]}, {"b": -1, "t": "For an annual fee of usually less than US$100, members can browse apartments, villas, suburban homes, and farms around the world.", "k": ["browse"]}],
       "passageId": "MXA-g99p3",
       "year": 99,
       "number": "47",
@@ -4313,6 +4368,7 @@
     },
     {
       "id": "MXA-g99p3-48",
+      "clue": [{"b": -1, "t": "Exchange sites suggest an agreement spelling out who shoulders which responsibilities if a problem arises.", "k": ["responsibilities"]}],
       "passageId": "MXA-g99p3",
       "year": 99,
       "number": "48",
@@ -4371,6 +4427,7 @@
     },
     {
       "id": "MXA-g99p3-49",
+      "clue": [{"b": 0, "t": "Sign me up!", "k": ["Sign me up!"], "o": "A"}, {"b": 3, "t": "Both sides have every reason to behave.", "k": ["every reason to behave"], "o": "D"}, {"b": 7, "t": "Not a chance—we've already booked the next one.", "k": ["Not a chance", "already booked the next one"], "o": "H"}],
       "passageId": "MXA-g99p3",
       "year": 99,
       "number": "49",
@@ -4455,6 +4512,7 @@
     },
     {
       "id": "MXA-g99p3-50",
+      "clue": [{"b": 7, "t": "But will it sour me on future exchanges?", "k": ["sour me"]}],
       "passageId": "MXA-g99p3",
       "year": 99,
       "number": "50",
@@ -4508,6 +4566,7 @@
     },
     {
       "id": "MXA-g92p3-47",
+      "clue": [{"b": 1, "t": "Folk medicine was already flourishing long before scientific medicine came along, and in ancient times it cured more patients than its scientific rival did.", "k": ["flourishing"]}],
       "passageId": "MXA-g92p3",
       "year": 92,
       "number": "47",
@@ -4563,6 +4622,7 @@
     },
     {
       "id": "MXA-g92p3-48",
+      "clue": [{"b": 2, "t": "The cure may be as simple as touching a holy man and being healed immediately.", "k": ["immediately"]}],
       "passageId": "MXA-g92p3",
       "year": 92,
       "number": "48",
@@ -4618,6 +4678,7 @@
     },
     {
       "id": "MXA-g92p3-49",
+      "clue": [{"b": 0, "t": "Doctors in this tradition begin by observing sicknesses closely and searching for logical patterns.", "k": ["observing sicknesses closely", "logical patterns"], "o": "A"}, {"b": 1, "t": "Like trained doctors, these folk healers rely on observation and logic, but they are not so aware of it.", "k": ["observation and logic"], "o": "A"}, {"b": 0, "t": "Also known as “doctor medicine,” this branch is believed to date from the 4th century BC.", "k": ["date from the 4th century BC"], "o": "B"}, {"b": 1, "t": "Folk medicine was already flourishing long before scientific medicine came along, and in ancient times it cured more patients than its scientific rival did.", "k": [], "o": "B"}],
       "passageId": "MXA-g92p3",
       "year": 92,
       "number": "49",
@@ -4720,6 +4781,7 @@
     },
     {
       "id": "MXA-g92p3-50",
+      "clue": [{"b": 0, "t": "Also known as “doctor medicine,” this branch is believed to date from the 4th century BC.", "k": ["date from"]}],
       "passageId": "MXA-g92p3",
       "year": 92,
       "number": "50",
@@ -4775,6 +4837,7 @@
     },
     {
       "id": "MXA-g109p3-47",
+      "clue": [{"b": 2, "t": "The cheapest of the three, pure olive oil is refined to strip away its impurities and then blended to improve its flavor.", "k": ["refined"]}],
       "passageId": "MXA-g109p3",
       "year": 109,
       "number": "47",
@@ -4831,6 +4894,7 @@
     },
     {
       "id": "MXA-g109p3-48",
+      "clue": [{"b": 3, "t": "Olive oil spoils quickly when exposed to direct sunlight, so store it in the dark at 16-18°C.", "k": ["exposed to direct sunlight"]}],
       "passageId": "MXA-g109p3",
       "year": 109,
       "number": "48",
@@ -4885,6 +4949,7 @@
     },
     {
       "id": "MXA-g109p3-49",
+      "clue": [{"b": 0, "t": "The finest grade comes from the first pressing of the olives and has a very low acidity rate, under 1%.", "k": ["under 1%"], "o": "AD"}, {"b": 1, "t": "Ranked second, virgin olive oil is also made from the first pressing.", "k": ["also made from the first pressing"], "o": "A"}, {"b": 1, "t": "Its acidity, however, is slightly higher, though still below 2%.", "k": ["still below 2%"], "o": "D"}],
       "passageId": "MXA-g109p3",
       "year": 109,
       "number": "49",
@@ -4987,6 +5052,7 @@
     },
     {
       "id": "MXA-g109p3-50",
+      "clue": [{"b": 3, "t": "Moisture and oxygen speed up oxidation and thus shorten its shelf life.", "k": ["shelf life"]}],
       "passageId": "MXA-g109p3",
       "year": 109,
       "number": "50",
@@ -5041,6 +5107,7 @@
     },
     {
       "id": "MXA-g95p2-47",
+      "clue": [{"b": -1, "t": "Europe had to wait until the early 1600s, when trade opened up between Europe and the Far East; in those days, China was the main supplier of tea to the world.", "k": ["supplier"]}],
       "passageId": "MXA-g95p2",
       "year": 95,
       "number": "47",
@@ -5096,6 +5163,7 @@
     },
     {
       "id": "MXA-g95p2-48",
+      "clue": [{"b": 0, "t": "After being lightly rolled, they spend some time in a fermentation room, where they take on their scent and red color.", "k": ["fermentation"]}],
       "passageId": "MXA-g95p2",
       "year": 95,
       "number": "48",
@@ -5150,6 +5218,7 @@
     },
     {
       "id": "MXA-g95p2-49",
+      "clue": [{"b": 0, "t": "After being lightly rolled, they spend some time in a fermentation room, where they take on their scent and red color.", "k": ["lightly rolled"], "o": "A"}, {"b": 1, "t": "Its leaves are heated in steam, rolled, and then dried.", "k": ["rolled", "then dried"], "o": "AD"}, {"b": 0, "t": "Finally, the leaves are dried in a basket over a charcoal fire.", "k": ["dried in a basket"], "o": "D"}],
       "passageId": "MXA-g95p2",
       "year": 95,
       "number": "49",
@@ -5251,6 +5320,7 @@
     },
     {
       "id": "MXA-g95p2-50",
+      "clue": [{"b": -1, "t": "The picture changed in 1834, when tea cultivation began in India.", "k": ["cultivation"]}],
       "passageId": "MXA-g95p2",
       "year": 95,
       "number": "50",
@@ -5574,6 +5644,7 @@
     },
     {
       "id": "MXA-g112p2-47",
+      "clue": [{"b": 0, "t": "Because they use tea plantations as landmarks when finding their way through forests, the elephants almost inevitably have to cross the farms.", "k": ["inevitably"]}],
       "passageId": "MXA-g112p2",
       "year": 112,
       "number": "47",
@@ -5633,6 +5704,7 @@
     },
     {
       "id": "MXA-g112p2-48",
+      "clue": [{"b": -1, "t": "When you sip your morning tea, you are probably not aware that those leaves can mean injury, or even death, for the Asian elephants that roam India’s tea gardens.", "k": ["aware"]}, {"b": 1, "t": "The group believes that once people learn more about the risk tea poses to these endangered animals, they may be more motivated to choose elephant-friendly tea.", "k": ["once people learn more about the risk"]}],
       "passageId": "MXA-g112p2",
       "year": 112,
       "number": "48",
@@ -5687,6 +5759,7 @@
     },
     {
       "id": "MXA-g112p2-49",
+      "clue": [{"b": 0, "t": "If a mother tries to dig her baby free, the thick mud can smother them both.", "k": ["dig her baby free"], "o": "B"}, {"b": 1, "t": "Since much of the forest land used for tea there is flat, growers must dig drainage trenches so that water does not accumulate and damage the shrubs.", "k": ["dig drainage trenches", "forest land used for tea"], "o": "BD"}, {"b": 0, "t": "Because they use tea plantations as landmarks when finding their way through forests, the elephants almost inevitably have to cross the farms.", "k": ["cross the farms"], "o": "D"}],
       "passageId": "MXA-g112p2",
       "year": 112,
       "number": "49",
@@ -5793,6 +5866,7 @@
     },
     {
       "id": "MXA-g112p2-50",
+      "clue": [{"b": 0, "t": "If a mother tries to dig her baby free, the thick mud can smother them both.", "k": ["smother"]}],
       "passageId": "MXA-g112p2",
       "year": 112,
       "number": "50",
@@ -5845,6 +5919,7 @@
     },
     {
       "id": "MXA-g97p4-47",
+      "clue": [{"b": 0, "t": "Over the course of training, the volunteers learned to associate the length of the silent pause with the intensity of the upcoming heat pulse: the longer the wait, the stronger the pulse and the more severe the pain.", "k": ["associate"]}],
       "passageId": "MXA-g97p4",
       "year": 97,
       "number": "47",
@@ -5900,6 +5975,7 @@
     },
     {
       "id": "MXA-g97p4-48",
+      "clue": [{"b": 1, "t": "In other words, the part of the brain that reacts to severe pain is largely the same part that reacts to the mere expectation of it.", "k": ["reacts to"]}],
       "passageId": "MXA-g97p4",
       "year": 97,
       "number": "48",
@@ -5954,6 +6030,7 @@
     },
     {
       "id": "MXA-g97p4-49",
+      "clue": [{"b": 0, "t": "In the real experiment, the researchers found that as the volunteers expected higher levels of pain, the parts of the brain involved in learning, memory, emotion, and touch grew more active.", "k": ["learning, memory, emotion, and touch", "grew more active"], "o": "A"}, {"b": 1, "t": "When the heat actually hit during the experiment, much the same regions came to life.", "k": ["much the same regions came to life"], "o": "A"}, {"b": -1, "t": "A day or two later, the real experiment began.", "k": ["A day or two later", "the real experiment began"], "o": "B"}],
       "passageId": "MXA-g97p4",
       "year": 97,
       "number": "49",
@@ -6061,6 +6138,7 @@
     },
     {
       "id": "MXA-g97p4-50",
+      "clue": [{"b": -1, "t": "Yet if you convince yourself beforehand that the pain won’t be so bad, you might not suffer as much.", "k": ["beforehand"]}],
       "passageId": "MXA-g97p4",
       "year": 97,
       "number": "50",
@@ -6113,6 +6191,7 @@
     },
     {
       "id": "MXA-g108p4-47",
+      "clue": [{"b": 3, "t": "Even the ones that do come into contact with the mist could be resistant to the pesticide.", "k": ["resistant"]}],
       "passageId": "MXA-g108p4",
       "year": 108,
       "number": "47",
@@ -6173,6 +6252,7 @@
     },
     {
       "id": "MXA-g108p4-48",
+      "clue": [{"b": 4, "t": "With a toddler crawling around, that's far too dangerous for my family.", "k": ["dangerous"]}],
       "passageId": "MXA-g108p4",
       "year": 108,
       "number": "48",
@@ -6228,6 +6308,7 @@
     },
     {
       "id": "MXA-g108p4-49",
+      "clue": [{"b": 0, "t": "Tonight I'm setting off a bug bomb in every room, and those crawlers won't stand a chance.", "k": ["won't stand a chance"], "o": "A"}, {"b": 5, "t": "I'll keep using bug bombs.", "k": ["keep using bug bombs"], "o": "F"}, {"b": 6, "t": "That's why I'm a fan.", "k": ["I'm a fan"], "o": "G"}],
       "passageId": "MXA-g108p4",
       "year": 108,
       "number": "49",
@@ -6309,6 +6390,7 @@
     },
     {
       "id": "MXA-g108p4-50",
+      "clue": [{"b": 7, "t": "These days, I treat a bug bomb as a last resort.", "k": ["last resort"]}],
       "passageId": "MXA-g108p4",
       "year": 108,
       "number": "50",
@@ -6366,6 +6448,7 @@
     },
     {
       "id": "MXA-z98p3-47",
+      "clue": [{"b": 0, "t": "After his grandmother died of a heart attack, ten-year-old Nathan White and five other boys jumped rope in shifts for two and a half hours, raising over US$1,200 for the American Heart Association.", "k": ["died"]}],
       "passageId": "MXA-z98p3",
       "year": 98,
       "number": "47",
@@ -6422,6 +6505,7 @@
     },
     {
       "id": "MXA-z98p3-48",
+      "clue": [{"b": 2, "t": "Some teachers link volunteer projects to classroom lessons; others make service work a requirement.", "k": ["a requirement"]}, {"b": 6, "t": "Make service compulsory, as some teachers do, and it stops being volunteering in any real sense.", "k": ["Make service compulsory, as some teachers do"]}],
       "passageId": "MXA-z98p3",
       "year": 98,
       "number": "48",
@@ -6481,6 +6565,7 @@
     },
     {
       "id": "MXA-z98p3-49",
+      "clue": [{"b": 0, "t": "Who says kids can't make a difference?", "k": ["make a difference"], "o": "A"}, {"b": 4, "t": "Together, kids put in thousands of volunteer hours a year, and that can fill in some of those gaps.", "k": ["fill in some of those gaps"], "o": "E"}, {"b": 5, "t": "Now my daughter and I volunteer together.", "k": ["volunteer together"], "o": "F"}],
       "passageId": "MXA-z98p3",
       "year": 98,
       "number": "49",
@@ -6565,6 +6650,7 @@
     },
     {
       "id": "MXA-z98p3-50",
+      "clue": [{"b": 7, "t": "I'm still on the fence.", "k": ["on the fence"]}],
       "passageId": "MXA-z98p3",
       "year": 98,
       "number": "50",
@@ -6620,6 +6706,7 @@
     },
     {
       "id": "MXA-g105p1-47",
+      "clue": [{"b": -1, "t": "Though there is no scientific evidence behind it, the belief turns up everywhere in books, magazines, and TV shows.", "k": ["scientific evidence"]}, {"b": 3, "t": "No study has ever backed that up.", "k": ["No study has ever backed that up"]}],
       "passageId": "MXA-g105p1",
       "year": 105,
       "number": "47",
@@ -6675,6 +6762,7 @@
     },
     {
       "id": "MXA-g105p1-48",
+      "clue": [{"b": 5, "t": "That's discrimination, plain and simple.", "k": ["discrimination"]}, {"b": 5, "t": "Tell that to the kids bullied over their blood type, the couples torn apart, and the people passed over for jobs.", "k": ["bullied over their blood type"]}],
       "passageId": "MXA-g105p1",
       "year": 105,
       "number": "48",
@@ -6734,6 +6822,7 @@
     },
     {
       "id": "MXA-g105p1-49",
+      "clue": [{"b": 0, "t": "Matching people to roles by blood type just makes sense.", "k": ["just makes sense"], "o": "A"}, {"b": 1, "t": "Results speak for themselves.", "k": ["Results speak for themselves"], "o": "B"}, {"b": 6, "t": "I'm a believer now.", "k": ["I'm a believer now"], "o": "G"}],
       "passageId": "MXA-g105p1",
       "year": 105,
       "number": "49",
@@ -6818,6 +6907,7 @@
     },
     {
       "id": "MXA-g105p1-50",
+      "clue": [{"b": 1, "t": "The team reportedly used blood types to customize training for each player.", "k": ["customize"]}],
       "passageId": "MXA-g105p1",
       "year": 105,
       "number": "50",
@@ -7124,6 +7214,7 @@
     },
     {
       "id": "MXA-g108p2-47",
+      "clue": [{"b": -1, "t": "For generations, these coastal communities have passed on their knowledge through oral traditions, and a totem pole was the customary way to tell the story of a particular family or clan.", "k": ["oral"]}],
       "passageId": "MXA-g108p2",
       "year": 108,
       "number": "47",
@@ -7179,6 +7270,7 @@
     },
     {
       "id": "MXA-g108p2-48",
+      "clue": [{"b": -1, "t": "Despite the threats posed by the cultural and political encroachment of colonial forces, the art of totem pole carving has survived, and Aboriginal carvers still create totems today as symbols of cultural pride and clan kinship.", "k": ["survived"]}],
       "passageId": "MXA-g108p2",
       "year": 108,
       "number": "48",
@@ -7233,6 +7325,7 @@
     },
     {
       "id": "MXA-g108p2-49",
+      "clue": [{"b": 2, "t": "A memorial pole was erected in front of a house in memory of a deceased chief or a high-ranking clan member.", "k": ["in memory of a deceased chief"], "o": "A"}, {"b": 3, "t": "Mortuary poles were likewise raised to honor the dead, but they differed from memorial poles: a burial box sat at the top of the pole, and inside it lay the remains of the deceased.", "k": ["likewise raised to honor the dead"], "o": "A"}, {"b": 4, "t": "Shame poles are the one kind that can now be seen only in museums, whereas many examples of the other kinds can still be found in various locations along the west coast of North America.", "k": ["the other kinds", "can still be found"], "o": "E"}],
       "passageId": "MXA-g108p2",
       "year": 108,
       "number": "49",
@@ -7335,6 +7428,7 @@
     },
     {
       "id": "MXA-g108p2-50",
+      "clue": [{"b": -1, "t": "Despite the threats posed by the cultural and political encroachment of colonial forces, the art of totem pole carving has survived, and Aboriginal carvers still create totems today as symbols of cultural pride and clan kinship.", "k": ["kinship"]}],
       "passageId": "MXA-g108p2",
       "year": 108,
       "number": "50",
@@ -7387,6 +7481,7 @@
     },
     {
       "id": "MXA-z94p3-47",
+      "clue": [{"b": 1, "t": "A company is therefore often forced to make adaptations to its goods so that they meet the needs of the local market.", "k": ["make adaptations"]}],
       "passageId": "MXA-z94p3",
       "year": 94,
       "number": "47",
@@ -7442,6 +7537,7 @@
     },
     {
       "id": "MXA-z94p3-48",
+      "clue": [{"b": 2, "t": "Markets that share similarities on various grounds often turn out to be dissimilar when it comes to culture, and such differences can exist even within a single country.", "k": ["share similarities"]}],
       "passageId": "MXA-z94p3",
       "year": 94,
       "number": "48",
@@ -7497,6 +7593,7 @@
     },
     {
       "id": "MXA-z94p3-49",
+      "clue": [{"b": 1, "t": "A company is therefore often forced to make adaptations to its goods so that they meet the needs of the local market.", "k": ["make adaptations to its goods", "meet the needs of the local market"], "o": "A"}, {"b": 2, "t": "The pictures in ads for English speakers show a wife alone, whereas those for French speakers show a husband and wife together.", "k": ["ads for English speakers", "those for French speakers"], "o": "A"}, {"b": 1, "t": "To handle such problems, the company should first assess how economically developed the market is.", "k": ["should first assess"], "o": "C"}, {"b": 2, "t": "For researchers studying new markets, cultural factors may well be the biggest challenge of all.", "k": ["For researchers studying new markets"], "o": "C"}],
       "passageId": "MXA-z94p3",
       "year": 94,
       "number": "49",
@@ -7599,6 +7696,7 @@
     },
     {
       "id": "MXA-z94p3-50",
+      "clue": [{"b": 0, "t": "A company entering a foreign country is, in a sense, an alien in the local business climate, and that status can cause trouble.", "k": ["alien"]}],
       "passageId": "MXA-z94p3",
       "year": 94,
       "number": "50",
@@ -7651,6 +7749,7 @@
     },
     {
       "id": "MXA-g107p4-47",
+      "clue": [{"b": 0, "t": "The baby may well have drifted off while listening, but the song’s message is far from comforting.", "k": ["far from comforting"]}],
       "passageId": "MXA-g107p4",
       "year": 107,
       "number": "47",
@@ -7710,6 +7809,7 @@
     },
     {
       "id": "MXA-g107p4-48",
+      "clue": [{"b": 3, "t": "A mother’s fear of losing her child makes particular sense, since the infant and toddler years are fragile ones.", "k": ["fragile"]}],
       "passageId": "MXA-g107p4",
       "year": 107,
       "number": "48",
@@ -7767,6 +7867,7 @@
     },
     {
       "id": "MXA-g107p4-49",
+      "clue": [{"b": 0, "t": "The baby is scolded for disturbing the house god with its crying and is warned of terrifying consequences: if the crying does not stop, a demon will eat the child.", "k": ["a demon will eat the child"], "o": "A"}, {"b": 3, "t": "A mother’s fear of losing her child makes particular sense, since the infant and toddler years are fragile ones.", "k": ["fear of losing her child"], "o": "A"}, {"b": 0, "t": "The baby may well have drifted off while listening, but the song’s message is far from comforting.", "k": ["The baby may well have drifted off"], "o": "C"}, {"b": 3, "t": "Because mother and child share a special physical bond during this period, mothers feel free to sing to their children about their own fears and anxieties.", "k": ["during this period", "sing to their children"], "o": "C"}],
       "passageId": "MXA-g107p4",
       "year": 107,
       "number": "49",
@@ -7869,6 +7970,7 @@
     },
     {
       "id": "MXA-g107p4-50",
+      "clue": [{"b": 0, "t": "In fact, the song may strike us as more frightening than sleep-inducing.", "k": ["sleep-inducing"]}],
       "passageId": "MXA-g107p4",
       "year": 107,
       "number": "50",
@@ -7926,6 +8028,7 @@
     },
     {
       "id": "MXA-z109bp4-47",
+      "clue": [{"b": 0, "t": "The difference in the price of gold became the exchange rate between the two currencies: one pound bought 8.25 dollars.", "k": ["difference"]}],
       "passageId": "MXA-z109bp4",
       "year": 109,
       "number": "47",
@@ -7981,6 +8084,7 @@
     },
     {
       "id": "MXA-z109bp4-48",
+      "clue": [{"b": 1, "t": "All of them were expected to maintain a fixed exchange rate, though they were permitted to change it in extraordinary times, such as a recession or a period of inflation.", "k": ["permitted"]}],
       "passageId": "MXA-z109bp4",
       "year": 109,
       "number": "48",
@@ -8036,6 +8140,7 @@
     },
     {
       "id": "MXA-z109bp4-49",
+      "clue": [{"b": 0, "t": "In the 1930s, for instance, Britain’s government owned roughly eight times as much gold as that of the U.S., so an ounce of gold was worth either 4.24 British pounds or 35 U.S. dollars.", "k": ["35 U.S. dollars"], "o": "A"}, {"b": 1, "t": "Since every country knew how much gold a dollar was worth, nations based the value of their own currencies on the dollar.", "k": ["how much gold a dollar was worth"], "o": "A"}, {"b": -1, "t": "Before that, two earlier systems shaped how currencies were valued.", "k": ["two earlier systems"], "o": "C"}, {"b": -1, "t": "Today, exchange rates operate under the floating system that the Jamaica Agreement formalized in 1976: a currency’s value may rise or fall with the supply and demand of the foreign exchange market, and countries can also let their central banks determine their own rates.", "k": ["Today", "floating system"], "o": "C"}],
       "passageId": "MXA-z109bp4",
       "year": 109,
       "number": "49",
@@ -8138,6 +8243,7 @@
     },
     {
       "id": "MXA-z109bp4-50",
+      "clue": [{"b": 1, "t": "Unfortunately, the system could not keep pace with a fast-changing global economy.", "k": ["keep pace with"]}],
       "passageId": "MXA-z109bp4",
       "year": 109,
       "number": "50",
@@ -8194,6 +8300,7 @@
     },
     {
       "id": "MXA-g99rp2-47",
+      "clue": [{"b": 0, "t": "Canadian parents place great value on independence, and when disagreements arise, they are more willing to enter into discussions with their children.", "k": ["discussions"]}],
       "passageId": "MXA-g99rp2",
       "year": 102,
       "number": "47",
@@ -8249,6 +8356,7 @@
     },
     {
       "id": "MXA-g99rp2-48",
+      "clue": [{"b": 1, "t": "Italian parents, in contrast, are stricter and more demanding, while French parents fall somewhere in the middle.", "k": ["demanding"]}],
       "passageId": "MXA-g99rp2",
       "year": 102,
       "number": "48",
@@ -8303,6 +8411,7 @@
     },
     {
       "id": "MXA-g99rp2-49",
+      "clue": [{"b": 0, "t": "Put simply, they are more lenient with their children than parents in France and Italy are.", "k": ["more lenient"], "o": "B"}, {"b": 1, "t": "Italian parents, in contrast, are stricter and more demanding, while French parents fall somewhere in the middle.", "k": ["stricter and more demanding"], "o": "B"}, {"b": 0, "t": "Claes explained this gap in terms of education.", "k": ["in terms of education"], "o": "E"}, {"b": 1, "t": "Claes traced this side of the picture to education as well.", "k": ["to education as well"], "o": "E"}],
       "passageId": "MXA-g99rp2",
       "year": 102,
       "number": "49",
@@ -8405,6 +8514,7 @@
     },
     {
       "id": "MXA-g99rp2-50",
+      "clue": [{"b": 0, "t": "They are also more tolerant and exercise less control.", "k": ["exercise less control"]}],
       "passageId": "MXA-g99rp2",
       "year": 102,
       "number": "50",
@@ -8458,6 +8568,7 @@
     },
     {
       "id": "MXA-z96p3-47",
+      "clue": [{"b": 0, "t": "For most of us, it is hard to imagine what life is like in countries where diamonds are the source of so much chaos and suffering.", "k": ["suffering"]}, {"b": 0, "t": "In these places, groups in control of the local diamond trade have terrorized citizens and even killed them.", "k": ["have terrorized citizens and even killed them"]}],
       "passageId": "MXA-z96p3",
       "year": 96,
       "number": "47",
@@ -8518,6 +8629,7 @@
     },
     {
       "id": "MXA-z96p3-48",
+      "clue": [{"b": -1, "t": "The press pays little attention to the link between terror and diamonds, but at the time this article was written, the 2006 movie Blood Diamond, starring Leonardo DiCaprio, was expected to help make the issue more mainstream, if only temporarily.", "k": ["temporarily"]}],
       "passageId": "MXA-z96p3",
       "year": 96,
       "number": "48",
@@ -8577,6 +8689,7 @@
     },
     {
       "id": "MXA-z96p3-49",
+      "clue": [{"b": 0, "t": "Diamonds mined in some rebel-held areas, such as Liberia, are being smuggled into neighboring countries and then exported as conflict-free stones.", "k": ["smuggled into neighboring countries"], "o": "B"}, {"b": 1, "t": "Their efforts resulted in the Kimberley Process Certification Scheme (KPCS), an international organization that aims to make the world free of conflict diamonds.", "k": ["an international organization"], "o": "B"}, {"b": 0, "t": "In these places, groups in control of the local diamond trade have terrorized citizens and even killed them.", "k": [], "o": "E"}, {"b": 1, "t": "To stop the sale of blood diamonds, countries in southern Africa with a legitimate diamond trade began a campaign in 2000 to track the origins of all rough diamonds.", "k": [], "o": "E"}],
       "passageId": "MXA-z96p3",
       "year": 96,
       "number": "49",
@@ -8683,6 +8796,7 @@
     },
     {
       "id": "MXA-z96p3-50",
+      "clue": [{"b": 1, "t": "To stop the sale of blood diamonds, countries in southern Africa with a legitimate diamond trade began a campaign in 2000 to track the origins of all rough diamonds.", "k": ["legitimate"]}],
       "passageId": "MXA-z96p3",
       "year": 96,
       "number": "50",
@@ -8735,6 +8849,7 @@
     },
     {
       "id": "MXA-g102p3-47",
+      "clue": [{"b": -1, "t": "A “positive” result, one over the legal limit, allows the police to arrest the driver.", "k": ["arrest"]}],
       "passageId": "MXA-g102p3",
       "year": 102,
       "number": "47",
@@ -8791,6 +8906,7 @@
     },
     {
       "id": "MXA-g102p3-48",
+      "clue": [{"b": 5, "t": "No drink registered on tests given 15 minutes after it was consumed.", "k": ["consumed"]}],
       "passageId": "MXA-g102p3",
       "year": 102,
       "number": "48",
@@ -8846,6 +8962,7 @@
     },
     {
       "id": "MXA-g102p3-49",
+      "clue": [{"b": 0, "t": "I'd give these drivers the benefit of the doubt.", "k": ["benefit of the doubt"], "o": "A"}, {"b": 3, "t": "That's far too many to write off every one of these drivers as a liar.", "k": ["write off every one"], "o": "D"}, {"b": 6, "t": "Now I think some of these drivers could be telling the truth.", "k": ["telling the truth"], "o": "G"}],
       "passageId": "MXA-g102p3",
       "year": 102,
       "number": "49",
@@ -8930,6 +9047,7 @@
     },
     {
       "id": "MXA-g102p3-50",
+      "clue": [{"b": 2, "t": "Sure, these drinks contain a trace of alcohol.", "k": ["trace"]}],
       "passageId": "MXA-g102p3",
       "year": 102,
       "number": "50",
@@ -8983,6 +9101,7 @@
     },
     {
       "id": "MXA-g99rp4-47",
+      "clue": [{"b": 5, "t": "The precise reason for this effect is still unknown.", "k": ["precise reason"]}],
       "passageId": "MXA-g99rp4",
       "year": 102,
       "number": "47",
@@ -9038,6 +9157,7 @@
     },
     {
       "id": "MXA-g99rp4-48",
+      "clue": [{"b": 4, "t": "Rather ironically, players of “The Sims 2,” a game where you organize an entire simulated world, saw no such benefit.", "k": ["Rather ironically"]}],
       "passageId": "MXA-g99rp4",
       "year": 102,
       "number": "48",
@@ -9092,6 +9212,7 @@
     },
     {
       "id": "MXA-g99rp4-49",
+      "clue": [{"b": 0, "t": "Finally, some good news for gamers!", "k": ["some good news for gamers"], "o": "A"}, {"b": 3, "t": "I’m downloading “Unreal Tournament” tonight.", "k": ["I’m downloading “Unreal Tournament” tonight"], "o": "D"}, {"b": 6, "t": "Consider me a convert.", "k": ["Consider me a convert"], "o": "G"}],
       "passageId": "MXA-g99rp4",
       "year": 102,
       "number": "49",
@@ -9176,6 +9297,7 @@
     },
     {
       "id": "MXA-g99rp4-50",
+      "clue": [{"b": 7, "t": "Here’s the science: our brains constantly calculate and refine probabilities, gathering small pieces of information until there’s enough to decide, say, whether to brake.", "k": ["refine"]}],
       "passageId": "MXA-g99rp4",
       "year": 102,
       "number": "50",
@@ -9228,6 +9350,7 @@
     },
     {
       "id": "MXA-z109bp2-47",
+      "clue": [{"b": 4, "t": "I've spent years studying the atmosphere and how storms form, and that knowledge is what makes chasing so rewarding.", "k": ["knowledge"]}],
       "passageId": "MXA-z109bp2",
       "year": 109,
       "number": "47",
@@ -9288,6 +9411,7 @@
     },
     {
       "id": "MXA-z109bp2-48",
+      "clue": [{"b": 1, "t": "For years I lived for the thrill of the chase—until the afternoon a downburst struck unexpectedly and pushed my car sideways across the road.", "k": ["unexpectedly"]}],
       "passageId": "MXA-z109bp2",
       "year": 109,
       "number": "48",
@@ -9347,6 +9471,7 @@
     },
     {
       "id": "MXA-z109bp2-49",
+      "clue": [{"b": 0, "t": "I chase for the sheer adventure of it, and every trip shows me something new about the raw power of nature.", "k": ["sheer adventure"], "o": "A"}, {"b": 4, "t": "I've spent years studying the atmosphere and how storms form, and that knowledge is what makes chasing so rewarding.", "k": ["so rewarding"], "o": "E"}, {"b": 7, "t": "Even so, I wouldn't trade it for anything.", "k": ["wouldn't trade it for anything"], "o": "H"}],
       "passageId": "MXA-z109bp2",
       "year": 109,
       "number": "49",
@@ -9427,6 +9552,7 @@
     },
     {
       "id": "MXA-z109bp2-50",
+      "clue": [{"b": 7, "t": "Sure, you can drive all day and come home empty-handed.", "k": ["empty-handed"]}],
       "passageId": "MXA-z109bp2",
       "year": 109,
       "number": "50",
@@ -9485,6 +9611,7 @@
     },
     {
       "id": "MXA-z103p3-47",
+      "clue": [{"b": 4, "t": "Every payment I made would be stored publicly on the network forever.", "k": ["publicly"]}],
       "passageId": "MXA-z103p3",
       "year": 103,
       "number": "47",
@@ -9541,6 +9668,7 @@
     },
     {
       "id": "MXA-z103p3-48",
+      "clue": [{"b": 5, "t": "Sure, it’s an experiment, and its future can’t be predicted.", "k": ["predicted"]}],
       "passageId": "MXA-z103p3",
       "year": 103,
       "number": "48",
@@ -9596,6 +9724,7 @@
     },
     {
       "id": "MXA-z103p3-49",
+      "clue": [{"b": 0, "t": "I’m signing up today.", "k": ["I’m signing up today"], "o": "A"}, {"b": 2, "t": "I’m in.", "k": ["I’m in"], "o": "C"}, {"b": 5, "t": "Still, Bitcoin becomes less experimental as more people use it, and I’d rather help it grow than watch from the sidelines.", "k": ["I’d rather help it grow"], "o": "F"}],
       "passageId": "MXA-z103p3",
       "year": 103,
       "number": "49",
@@ -9680,6 +9809,7 @@
     },
     {
       "id": "MXA-z103p3-50",
+      "clue": [{"b": 7, "t": "Just bear in mind that payments can’t be undone, so deal only with people you trust or businesses with an established reputation.", "k": ["reputation"]}],
       "passageId": "MXA-z103p3",
       "year": 103,
       "number": "50",
@@ -9732,6 +9862,7 @@
     },
     {
       "id": "MXA-g93p4-47",
+      "clue": [{"b": 0, "t": "With Dooley’s imaginative help, Peanuts discovers the healing power of hope and love.", "k": ["imaginative"]}],
       "passageId": "MXA-g93p4",
       "year": 93,
       "number": "47",
@@ -9791,6 +9922,7 @@
     },
     {
       "id": "MXA-g93p4-48",
+      "clue": [{"b": 3, "t": "This is the reassurance the author offers his readers in a book based on the customs of the Plains Indians in America.", "k": ["reassurance"]}, {"b": 3, "t": "There is no death, only a change of worlds.", "k": ["only a change of worlds"]}],
       "passageId": "MXA-g93p4",
       "year": 93,
       "number": "48",
@@ -9849,6 +9981,7 @@
     },
     {
       "id": "MXA-g93p4-49",
+      "clue": [{"b": 0, "t": "Dooley tries to save Grandfather with a ritual he picked up from comic books: kill a turtle and trade its soul for the old man’s.", "k": ["kill a turtle"], "o": "A"}, {"b": 1, "t": "Mrs. Tuck kills him, and she is jailed and sentenced to be executed.", "k": ["Mrs. Tuck kills him"], "o": "A"}, {"b": 0, "t": "Peanuts’ beloved grandfather has suffered a heart attack, and the boy is heartbroken at the thought of losing him.", "k": ["heartbroken at the thought of losing him"], "o": "B"}, {"b": 1, "t": "Although her family knows she cannot be killed, they fear that their secret will be revealed once the attempt is made to carry out her sentence.", "k": [], "o": "B"}],
       "passageId": "MXA-g93p4",
       "year": 93,
       "number": "49",
@@ -9951,6 +10084,7 @@
     },
     {
       "id": "MXA-g93p4-50",
+      "clue": [{"b": 1, "t": "When a man learns their secret, he threatens to sell the water to the highest bidder.", "k": ["highest bidder"]}],
       "passageId": "MXA-g93p4",
       "year": 93,
       "number": "50",
@@ -10007,6 +10141,7 @@
     },
     {
       "id": "MXA-g97p3-47",
+      "clue": [{"b": 2, "t": "If the sculpting does not take place in a cold environment, the sculptor has to work fast to finish.", "k": ["work fast to finish"]}, {"b": 2, "t": "The temperature of the surroundings affects how quickly a piece must be completed before melting takes its toll.", "k": ["completed"]}],
       "passageId": "MXA-g97p3",
       "year": 97,
       "number": "47",
@@ -10062,6 +10197,7 @@
     },
     {
       "id": "MXA-g97p3-48",
+      "clue": [{"b": 3, "t": "At a wedding banquet, for example, it is common to see a pair of ice-sculpted swans representing the union of the new couple.", "k": ["representing the union of the new couple"]}],
       "passageId": "MXA-g97p3",
       "year": 97,
       "number": "48",
@@ -10116,6 +10252,7 @@
     },
     {
       "id": "MXA-g97p3-49",
+      "clue": [{"b": 0, "t": "Crystal-clear blocks that weigh 140 kg and measure 100 cm × 50 cm × 25 cm are available from the Clinebell Company in Colorado.", "k": ["Clinebell Company in Colorado"], "o": "A"}, {"b": 1, "t": "Much larger clear blocks are produced in Europe and Canada or harvested from a frozen river in Sweden.", "k": ["Europe and Canada", "a frozen river in Sweden"], "o": "A"}, {"b": 0, "t": "The ideal material is pure, clean water with high clarity, and it should also contain a minimum of air bubbles.", "k": ["The ideal material", "high clarity"], "o": "B"}, {"b": 1, "t": "Giant blocks like these are put to use at large ice sculpting events, and they also serve as building material for ice hotels.", "k": ["large ice sculpting events"], "o": "B"}],
       "passageId": "MXA-g97p3",
       "year": 97,
       "number": "49",
@@ -10218,6 +10355,7 @@
     },
     {
       "id": "MXA-g97p3-50",
+      "clue": [{"b": 2, "t": "The best of these chisels are made in Japan, a country that, like China, has a long tradition of magnificent ice sculptures.", "k": ["magnificent"]}],
       "passageId": "MXA-g97p3",
       "year": 97,
       "number": "50",
@@ -10270,6 +10408,7 @@
     },
     {
       "id": "MXA-g111p3-47",
+      "clue": [{"b": 0, "t": "Their bodies are also transparent, which allows researchers to observe the fish’s organs with ease.", "k": ["transparent"]}],
       "passageId": "MXA-g111p3",
       "year": 111,
       "number": "47",
@@ -10325,6 +10464,7 @@
     },
     {
       "id": "MXA-g111p3-48",
+      "clue": [{"b": 3, "t": "Since zebrafish retinas closely resemble human ones in both structure and cell types, the process, if replicated in humans, could lead to new treatments for blindness caused by retinal damage.", "k": ["closely resemble"]}],
       "passageId": "MXA-g111p3",
       "year": 111,
       "number": "48",
@@ -10380,6 +10520,7 @@
     },
     {
       "id": "MXA-g111p3-49",
+      "clue": [{"b": 3, "t": "Since zebrafish retinas closely resemble human ones in both structure and cell types, the process, if replicated in humans, could lead to new treatments for blindness caused by retinal damage.", "k": ["blindness caused by retinal damage"], "o": "A"}, {"b": 2, "t": "Recent studies show that humans and zebrafish have the same major organs and share 70 percent of their genes.", "k": ["the same major organs"], "o": "D"}, {"b": 3, "t": "Damage to the retina can leave a zebrafish blind, yet its vision returns within just three to four weeks.", "k": [], "o": "A"}],
       "passageId": "MXA-g111p3",
       "year": 111,
       "number": "49",
@@ -10482,6 +10623,7 @@
     },
     {
       "id": "MXA-g111p3-50",
+      "clue": [{"b": 2, "t": "What is more, 84 percent of the human genes involved in disease have a counterpart in the fish.", "k": ["counterpart"]}],
       "passageId": "MXA-g111p3",
       "year": 111,
       "number": "50",
