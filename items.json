@@ -20,6 +20,7 @@
   "items": [
     {
       "id": "MX110T-47",
+      "clue": [{"b": 0, "t": "This was an insult too much for the duke to bear, so he placed a price on Richard's head.", "k": ["insult"]}],
       "passageId": "MX110T",
       "year": 110,
       "number": "47",
@@ -74,6 +75,7 @@
     },
     {
       "id": "MX110T-48",
+      "clue": [{"b": 0, "t": "He fought side by side with the Duke of Austria, Leopold V, and together they conquered the powerful fortress of Acre in 1191.", "k": ["Leopold V"]}, {"b": 0, "t": "This was an insult too much for the duke to bear, so he placed a price on Richard's head.", "k": ["the duke"]}, {"b": 0, "t": "The silver was split between the German Emperor and the Austrian Duke.", "k": ["the Austrian Duke"]}],
       "passageId": "MX110T",
       "year": 110,
       "number": "48",
@@ -127,6 +129,7 @@
     },
     {
       "id": "MX110T-49",
+      "clue": [{"b": 0, "t": "It was also used to establish the Austrian mint and make silver coins.", "k": ["mint"]}],
       "passageId": "MX110T",
       "year": 110,
       "number": "49",
@@ -180,6 +183,7 @@
     },
     {
       "id": "MX110T-50",
+      "clue": [{"b": 0, "t": "The silver was split between the German Emperor and the Austrian Duke.", "k": ["split between"], "o": "B"}, {"b": 0, "t": "The Austrians used it to improve the city walls of Vienna and some small towns in the east.", "k": ["improve the city walls"], "o": "E"}],
       "passageId": "MX110T",
       "year": 110,
       "number": "50",
@@ -1182,6 +1186,7 @@
     },
     {
       "id": "MX113-47",
+      "clue": [{"b": 0, "t": "Normally, the birds enjoy a smooth flight together as a group when “commuting” between two locations, such as from their nesting site to their feeding ground.", "k": ["group"]}, {"b": 0, "t": "Instead of paying attention to all the other members and following the group pattern, they now focus only on the birds within a fixed distance from them, based on information coming from other members.", "k": ["group"]}, {"b": 1, "t": "By working collectively, the ants are able to improve the efficiency of their network and adapt to their ever-changing environment.", "k": ["collectively"]}],
       "passageId": "MX113",
       "year": 113,
       "number": "47",
@@ -1239,6 +1244,7 @@
     },
     {
       "id": "MX113-48",
+      "clue": [{"b": 1, "t": "By working collectively, the ants are able to improve the efficiency of their network and adapt to their ever-changing environment.", "k": ["adapt"]}],
       "passageId": "MX113",
       "year": 113,
       "number": "48",
@@ -1296,6 +1302,7 @@
     },
     {
       "id": "MX113-49",
+      "clue": [{"b": 0, "t": "Instead of paying attention to all the other members and following the group pattern, they now focus only on the birds within a fixed distance from them, based on information coming from other members.", "k": ["information coming from other members"], "o": "C"}, {"b": 1, "t": "The trails connect the ants' colonies and sources of food, forming a sort of communication network.", "k": ["communication network"], "o": "F"}],
       "passageId": "MX113",
       "year": 113,
       "number": "49",
@@ -1365,6 +1372,7 @@
     },
     {
       "id": "MX113-50",
+      "clue": [{"b": 0, "t": "However, if a predator (such as a fox) is present, the pattern of their flight will change immediately.", "k": ["a predator", "a fox"]}],
       "passageId": "MX113",
       "year": 113,
       "number": "50",
@@ -1419,6 +1427,7 @@
     },
     {
       "id": "MX114-47",
+      "clue": [{"b": 0, "t": "I don't agree with caging animals for our entertainment.", "k": ["entertainment"]}, {"b": 6, "t": "Zoos have an educational aspect to it.", "k": ["educational"]}, {"b": -1, "t": "While early zoos put emphasis on displaying as many unusual creatures as possible, most modern zoos now focus on conservation and education.", "k": ["education"]}],
       "passageId": "MX114",
       "year": 114,
       "number": "47",
@@ -1475,6 +1484,7 @@
     },
     {
       "id": "MX114-48",
+      "clue": [{"b": 1, "t": "What gives humans the right to capture, confine, or breed other species?", "k": ["confine"]}, {"b": 0, "t": "I don't agree with caging animals for our entertainment.", "k": ["caging"]}, {"b": -1, "t": "Still, many animal rights activists believe the cost of confining animals outweighs the benefits.", "k": ["confining"]}],
       "passageId": "MX114",
       "year": 114,
       "number": "48",
@@ -1528,6 +1538,7 @@
     },
     {
       "id": "MX114-49",
+      "clue": [{"b": 2, "t": "Wildlife encounters are unforgettable experiences for children and adults alike.", "k": ["unforgettable"], "o": "C"}, {"b": 3, "t": "To me, a zoo can be a good place for endangered species which have difficulty finding suitable mates in the wild.", "k": ["a good place"], "o": "D"}, {"b": 6, "t": "Zoos have an educational aspect to it.", "k": ["educational"], "o": "G"}, {"b": 8, "t": "Fostering empathy…By seeing an animal up close, the public could be encouraged to be more sensitive and compassionate to a species that is facing extinction in the wild.", "k": ["more sensitive and compassionate"], "o": "I"}],
       "passageId": "MX114",
       "year": 114,
       "number": "49",
@@ -1591,6 +1602,7 @@
     },
     {
       "id": "MX114-50",
+      "clue": [{"b": 8, "t": "Fostering empathy…By seeing an animal up close, the public could be encouraged to be more sensitive and compassionate to a species that is facing extinction in the wild.", "k": ["Fostering empathy"]}],
       "passageId": "MX114",
       "year": 114,
       "number": "50",
@@ -1644,6 +1656,7 @@
     },
     {
       "id": "MX115-47",
+      "clue": [{"b": 5, "t": "Indeed, the fruit appears in some innovative menu items (e.g., pineapple jam on the burger).", "k": ["innovative"]}, {"b": 5, "t": "“It is a place where the old meets the new: diverse, unique, and always full of surprises.”", "k": ["the old meets the new"]}],
       "passageId": "MX115",
       "year": 115,
       "number": "47",
@@ -1695,6 +1708,7 @@
     },
     {
       "id": "MX115-48",
+      "clue": [{"b": 1, "t": "A truly unique blend!", "k": ["blend"]}],
       "passageId": "MX115",
       "year": 115,
       "number": "48",
@@ -1742,6 +1756,7 @@
     },
     {
       "id": "MX115-49",
+      "clue": [{"b": 0, "t": "She sells environmentally friendly items such as reusable bottles, bamboo toothbrushes, and soy candles.", "k": ["environmentally friendly items"], "o": "A"}, {"b": 3, "t": "Yes, at this tiny antique store you can always find, as promised, something different.", "k": ["antique store"], "o": "D"}, {"b": 4, "t": "From fashion items to rice snacks, it carries products only from local makers and small businesses owned by indigenous people.", "k": ["indigenous people"], "o": "E"}],
       "passageId": "MX115",
       "year": 115,
       "number": "49",
@@ -1795,6 +1810,7 @@
     },
     {
       "id": "MX115-50",
+      "clue": [{"b": 2, "t": "Owner Joseph Tang says he knew the idea would work well in this unique district: “Each store is one of a kind in Wonder Village,” he states.", "k": ["one of a kind"]}],
       "passageId": "MX115",
       "year": 115,
       "number": "50",
@@ -5287,6 +5303,7 @@
     },
     {
       "id": "MXA-g114p2-47",
+      "clue": [{"b": 0, "t": "Moreover, as people get absorbed in the story, they tend to see events from the characters’ perspective and unconsciously rehearse the plot.", "k": ["rehearse"]}],
       "passageId": "MXA-g114p2",
       "year": 114,
       "number": "47",
@@ -5342,6 +5359,7 @@
     },
     {
       "id": "MXA-g114p2-48",
+      "clue": [{"b": 1, "t": "Worse still, exposure to graphic violence and bloodshed can make them less sensitive to real-life violence and more accepting of aggression.", "k": ["exposure"]}],
       "passageId": "MXA-g114p2",
       "year": 114,
       "number": "48",
@@ -5400,6 +5418,7 @@
     },
     {
       "id": "MXA-g114p2-49",
+      "clue": [{"b": 1, "t": "Sleep can suffer as well: the fear and anxiety that linger after the film may keep people awake all night, leaving them tired and irritable the next day.", "k": ["linger after the film"], "o": "B"}, {"b": 0, "t": "Researchers believe that this is how viewers pick up tips on handling real-world threats.", "k": ["Researchers believe"], "o": "E"}],
       "passageId": "MXA-g114p2",
       "year": 114,
       "number": "49",
@@ -5502,6 +5521,7 @@
     },
     {
       "id": "MXA-g114p2-50",
+      "clue": [{"b": 1, "t": "For those who have been through unpleasant experiences, the themes and images on screen may trigger trauma and make their symptoms worse.", "k": ["trigger"]}],
       "passageId": "MXA-g114p2",
       "year": 114,
       "number": "50",
@@ -6850,6 +6870,7 @@
     },
     {
       "id": "MXA-z103p4-47",
+      "clue": [{"b": 6, "t": "Even so, a method that leaves mosquitoes incapable of infecting anyone deserves our support.", "k": ["infecting"]}, {"b": -1, "t": "The insects can then no longer infect humans.", "k": ["infect"]}],
       "passageId": "MXA-z103p4",
       "year": 103,
       "number": "47",
@@ -6906,6 +6927,7 @@
     },
     {
       "id": "MXA-z103p4-48",
+      "clue": [{"b": 4, "t": "Lab mosquitoes will never replace wild ones unless they gain a competitive advantage.", "k": ["competitive"]}],
       "passageId": "MXA-z103p4",
       "year": 103,
       "number": "48",
@@ -6961,6 +6983,7 @@
     },
     {
       "id": "MXA-z103p4-49",
+      "clue": [{"b": 0, "t": "If engineered mosquitoes can stop the parasite in its tracks, I say release them as soon as it's safe.", "k": ["release them"], "o": "A"}, {"b": 3, "t": "Only the parasite dies, and that's exactly the kind of targeted weapon disease control needs.", "k": ["targeted weapon"], "o": "D"}, {"b": 6, "t": "Even so, a method that leaves mosquitoes incapable of infecting anyone deserves our support.", "k": ["deserves our support"], "o": "G"}],
       "passageId": "MXA-z103p4",
       "year": 103,
       "number": "49",
@@ -7045,6 +7068,7 @@
     },
     {
       "id": "MXA-z103p4-50",
+      "clue": [{"b": 8, "t": "Using these insects to wipe out a disease that kills so many children would be wonderful, no question.", "k": ["wipe out"]}],
       "passageId": "MXA-z103p4",
       "year": 103,
       "number": "50",
