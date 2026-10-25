@@ -1564,7 +1564,7 @@ function renderTwin(p){
   }).join('');
   return `<div class="cmpBox">
     <div class="ct">同一題組，兩場的可接受答案</div>
-    <p>這一份題目在 <b>${esc(p.sessionName)}</b> 和 <b>${esc(q.sessionName)}</b> 各考過一次，選文與題幹一個字都沒改。但兩份官方文件收的可接受答案不完全一樣：</p>
+    <p>這一份題目在 <b>${esc(p.sessionName)}</b> 和 <b>${esc(q.sessionName)}</b> 各出現過一次，選文與題幹一個字都沒改。但兩份官方文件收的可接受答案不完全一樣：</p>
     <table class="exTable">
       <tr><th style="width:60px;">格</th><th>${esc(p.sessionName)}</th><th>${esc(q.sessionName)}</th><th style="width:56px;"></th></tr>
       ${rows}
