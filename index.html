@@ -334,6 +334,7 @@
   .sec-title{break-after:avoid;}
 }
 </style>
+<script src="https://staresto-create.github.io/JCEE-vocab-questions/progress.js"></script>
 <script src="https://staresto-create.github.io/JCEE-vocab-questions/resume.js" defer></script>
 <script src="https://staresto-create.github.io/JCEE-vocab-questions/start.js" defer></script>
 <script src="https://staresto-create.github.io/JCEE-vocab-questions/speaker.js"></script>
@@ -501,6 +502,7 @@
       <div class="pwBar"><button type="button" class="pwBtn" id="printWrongBtn" onclick="printWrongPassages()" disabled>🖨️ 列印錯題考卷</button><p class="pwSub" id="printWrongSub"></p></div>
 
       <button class="big-btn" id="u-start" style="margin-bottom:14px;" onclick="quickStart()">立即開始 · 隨機一場</button>
+      <div id="progressHost" style="margin:-4px 0 14px;"></div>
       <label style="display:flex; align-items:center; gap:8px; margin:4px 0 6px; font-size:12.5px; color:var(--ad-vinksoft-fg); cursor:pointer; font-family:'IBM Plex Mono','Noto Sans TC',monospace;">
         <input type="checkbox" id="testModeToggle" style="width:15px; height:15px; cursor:pointer;">
         測試模式（本次作答不計入學習歷程與錯題本）
@@ -616,6 +618,10 @@ const HISTORY_KEY = 'gsat_mx_history_v1';
 const WRONG_KEY   = 'gsat_mx_wrong_ids_v1';
 
 function loadHistory(){ try{ return JSON.parse(localStorage.getItem(HISTORY_KEY)) || []; }catch(e){ return []; } }
+/* 完成度：按「交卷」才算這一場有填的格子做過（沒填的格不算）；簡答題自評分數也算；考試說明示範題與改編練習（notCounted）不計入 */
+function renderProgress(){
+  try{ if(window.SCProgress) SCProgress.mountBar(document.getElementById('progressHost'), 'mixed', ITEMS.filter(it => !(PASSAGES[it.passageId] || {}).notCounted).map(it => it.id)); }catch(e){}
+}
 function saveHistory(h){ try{ localStorage.setItem(HISTORY_KEY, JSON.stringify(h)); }catch(e){} }
 function loadWrongIds(){ try{ return JSON.parse(localStorage.getItem(WRONG_KEY)) || []; }catch(e){ return []; } }
 function saveWrongIds(w){ try{ localStorage.setItem(WRONG_KEY, JSON.stringify(w)); }catch(e){} }
@@ -646,7 +652,7 @@ async function init(){
       '<p class="home-desc">請重新整理頁面再試一次。若持續失敗，可用頁尾的回報連結告訴我。</p></div>';
     return;
   }
-  buildKindGrid(); buildSessionList(); renderStatsBox();
+  buildKindGrid(); buildSessionList(); renderStatsBox(); renderProgress();
   /* 考試說明示範題（notCounted）不算進場數、格數、分數 */
   const cnt = ITEMS.filter(it => !(PASSAGES[it.passageId] || {}).notCounted);
   const pts = cnt.reduce((s,it) => s + (it.points||0), 0);
@@ -845,7 +851,7 @@ function goHome(){
   document.getElementById('historyView').style.display = 'none';
   document.getElementById('legacyView').style.display = 'none';
   document.getElementById('homeView').style.display = 'block';
-  buildSessionList(); window.scrollTo(0,0); scrMountStrip();
+  buildSessionList(); window.scrollTo(0,0); scrMountStrip(); renderProgress();
 }
 
 /* ---------- 簡答題練習區（可作答、自評；不進學習歷程、不計入題數） ---------- */
@@ -1336,11 +1342,13 @@ function grade(){
       recordAnswer(it.id, r);
     }
   });
+  try{ if(!isTestMode() && window.SCProgress) SCProgress.markMany('mixed', curItems.filter(filled).map(it => it.id)); }catch(e){}
   renderStatsBox(); renderPractice(); window.scrollTo(0,0);
 }
 function setScore(id, n){
   const it = curItems.find(x => x.id === id); if(!it) return;
   scores[id] = n;
+  try{ if(!isTestMode() && window.SCProgress) SCProgress.mark('mixed', id); }catch(e){}
   if(recIdx[id] === undefined) recordAnswer(id, n === it.points);
   else reviseAnswer(id, n === it.points);
   renderPractice();
