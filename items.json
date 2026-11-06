@@ -10673,6 +10673,295 @@
           }
         ]
       }
+    },
+    {
+      "id": "MXA-voa-dst-47",
+      "clue": [{"b": 1, "t": "That extra evening light postpones the release of melatonin, so bedtime arrives before the body is ready, and many people are deprived of sleep by Monday.", "k": ["postpones"]}],
+      "passageId": "MXA-voa-dst",
+      "year": 114,
+      "number": "47",
+      "answerType": "fill",
+      "points": 2,
+      "instruction": "下列簡短敘述摘記上方文章重點。請從 Mr_Hale 的回覆中找出最適當的單詞（word）填入下列句子空格中，並視句型結構需要做適當的字形變化，使句子語意完整、語法正確，並符合全文文意。每格限填一個單詞（word）。",
+      "prompt": "The body clock responds to sunlight, and the hormone melatonin makes us sleepy at night. When the clocks move forward, the release of melatonin is ___47___ by the extra evening light. People therefore go to bed too early for their bodies and suffer from sleep ___48___, which researchers think may help explain the jump in deadly car crashes.",
+      "promptEmphasis": [],
+      "answers": [
+        "postponed"
+      ],
+      "answerSource": "adapted",
+      "answerNote": "空格前面有 is、後面有 by，這句要用被動語態，動詞 postpones 要改成過去分詞 postponed。",
+      "options": null,
+      "optionCount": null,
+      "answerKey": null,
+      "officialExplanation": null,
+      "explanation": {
+        "think": [
+          "空格前面是 is、後面是 by the extra evening light，很多人回第二則發文找到 postpones，就直接照抄。可是 postpones 是動詞的第三人稱單數，放在 is 後面接不起來。",
+          "也有人想到 delayed。意思說得通，可是 Mr_Hale 的回覆裡沒有這個字，題目要的是從文章裡找出來、再改字形的字。",
+          "還有人填 postponing。is postponing 要有人做出這個動作，可是 by 後面是動作的來源，這句的主詞 the release of melatonin 是被延後的事物，要用被動。"
+        ],
+        "cue": [
+          "本題評量讀寫綜合應用能力，對應的學習表現為「能以適切的英語文說出或寫出談話或短文的摘要」，並依空格的語法條件做適當的字形變化。",
+          "先切塊：When [ the clocks ] move forward, [ the release of melatonin ] is [ ___(47)___ ] by [ the extra evening light ]。",
+          "主詞 the release of melatonin 是被延後的事物，延後它的是 by 後面的 the extra evening light。這句話的焦點在 release 本身，所以用被動語態：be 動詞 is 加過去分詞。主詞是單數，所以用 is。",
+          "第一則回覆的第一段寫 That extra evening light postpones the release of melatonin，原文是主動語態。題幹把受詞 the release of melatonin 移到前面當主詞，原來的主詞變成 by 後面的動作者，動詞 postpones 就要改成 is postponed。",
+          "題幹的 When the clocks move forward 對應原文的 After the clocks jump forward。"
+        ],
+        "scoring": [
+          "本題庫的參考答案是 postponed，只有這一種寫法。",
+          "這一題要做兩件事：選對字，再做對字形變化，兩件都對才拿滿分。比照大考中心學測英文考科非選擇題評分原則：完全正確（包括選字及字形變化），得 2 分；字形錯誤或者拼字錯誤，得 1 分；空白、答案錯誤或與答案無關者，得 0 分。",
+          "照這個原則，填 postpone、postpones、postponing，是選對了字，但形態錯了，得 1 分。填 delayed 或 released，不是接不上文法，就是不在文章裡，得 0 分。",
+          "作答時最好先把選好的字寫上去，不要因為還沒決定形態就留白。"
+        ],
+        "patterns": [
+          {
+            "h": "postpone",
+            "t": "延後、延期。postpone 後面接名詞或動名詞：postpone the release of melatonin。被動語態寫成 be postponed by + 動作者。"
+          },
+          {
+            "h": "被動語態：be 動詞 + 過去分詞",
+            "t": "焦點在事物本身，或做的人不明、不重要時用被動。the release of melatonin is postponed by the extra evening light，把被延後的 release 放在句首。"
+          },
+          {
+            "h": "the release of melatonin",
+            "t": "褪黑激素的分泌。release 在這裡是名詞，意思是「釋放、分泌」；原文的動詞用法是 the body releases a hormone called melatonin。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MXA-voa-dst-48",
+      "clue": [{"b": 1, "t": "That extra evening light postpones the release of melatonin, so bedtime arrives before the body is ready, and many people are deprived of sleep by Monday.", "k": ["are deprived of sleep"]}],
+      "passageId": "MXA-voa-dst",
+      "year": 114,
+      "number": "48",
+      "answerType": "fill",
+      "points": 2,
+      "instruction": "下列簡短敘述摘記上方文章重點。請從 Mr_Hale 的回覆中找出最適當的單詞（word）填入下列句子空格中，並視句型結構需要做適當的字形變化，使句子語意完整、語法正確，並符合全文文意。每格限填一個單詞（word）。",
+      "prompt": "The body clock responds to sunlight, and the hormone melatonin makes us sleepy at night. When the clocks move forward, the release of melatonin is ___47___ by the extra evening light. People therefore go to bed too early for their bodies and suffer from sleep ___48___, which researchers think may help explain the jump in deadly car crashes.",
+      "promptEmphasis": [],
+      "answers": [
+        "deprivation"
+      ],
+      "answerSource": "adapted",
+      "answerNote": "suffer from 後面要接名詞，sleep deprivation 是「睡眠不足」，動詞 deprive 要改成名詞 deprivation。",
+      "options": null,
+      "optionCount": null,
+      "answerKey": null,
+      "officialExplanation": null,
+      "explanation": {
+        "think": [
+          "空格前面是 suffer from sleep，很多人回第一段找到 are deprived of sleep，把 deprived 照抄。可是 suffer from 後面要接名詞，deprived 是過去分詞，放進去變成 sleep deprived，接不起來。",
+          "也有人想到 loss 或 shortage。sleep loss、sleep shortage 的意思都說得通，可是 Mr_Hale 的回覆裡沒有這兩個字，題目要的是文章裡的字。",
+          "還有人填 deprive。動詞原形放在名詞 sleep 後面，同樣接不上。"
+        ],
+        "cue": [
+          "本題評量讀寫綜合應用能力，對應的學習表現為「能以適切的英語文說出或寫出談話或短文的摘要」，並依空格的語法條件做適當的字形變化。",
+          "先切塊：[ People ] therefore go to bed too early for their bodies and suffer from [ sleep ___(48)___ ], which researchers think may help explain the jump in deadly car crashes。",
+          "suffer from 是「受……所苦」，後面要接名詞或名詞片語。sleep 放在前面修飾空格的字，所以空格要填名詞，合起來是 sleep ___。",
+          "回原文：第一段寫 many people are deprived of sleep by Monday。deprive A of B 是「剝奪 A 的 B」，名詞是 deprivation，sleep deprivation 就是「睡眠被剝奪」，也就是睡眠不足。",
+          "題幹的 go to bed too early for their bodies 對應原文的 bedtime arrives before the body is ready。"
+        ],
+        "scoring": [
+          "本題庫的參考答案是 deprivation，只有這一種寫法。",
+          "這一題要做兩件事：選對字，再做對字形變化，兩件都對才拿滿分。比照大考中心學測英文考科非選擇題評分原則：完全正確（包括選字及字形變化），得 2 分；字形錯誤或者拼字錯誤，得 1 分；空白、答案錯誤或與答案無關者，得 0 分。",
+          "照這個原則，填 deprived、deprive、deprives，是選對了字，但形態錯了，得 1 分。填 loss 或 shortage，不在文章裡，得 0 分。",
+          "作答時最好先把選好的字寫上去，不要因為還沒決定形態就留白。"
+        ],
+        "patterns": [
+          {
+            "h": "deprive A of B / deprivation",
+            "t": "剝奪 A 的 B。被動寫成 be deprived of sleep，名詞是 deprivation。sleep deprivation 是常見的說法，指睡眠不足。"
+          },
+          {
+            "h": "suffer from + 名詞",
+            "t": "受……所苦、患有……。suffer from sleep deprivation 是睡眠不足的狀態。"
+          },
+          {
+            "h": "too + 形容詞／副詞 + for + 人",
+            "t": "對……來說太……。go to bed too early for their bodies 的意思是「對身體來說太早上床」，因為身體還沒準備好。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MXA-voa-dst-49",
+      "clue": [{"b": 3, "t": "For a few nights beforehand, go to bed fifteen to twenty minutes earlier each night, and spend time outdoors in the morning sunshine during the first week.", "k": ["go to bed fifteen to twenty minutes earlier"], "o": "B"}, {"b": 3, "t": "Moving dinner and workouts a little earlier helps, too.", "k": ["Moving dinner and workouts a little earlier"], "o": "C"}, {"b": 3, "t": "For a few nights beforehand, go to bed fifteen to twenty minutes earlier each night, and spend time outdoors in the morning sunshine during the first week.", "k": ["spend time outdoors in the morning sunshine"], "o": "E"}, {"b": 3, "t": "On the other hand, afternoon naps, caffeine, and glowing screens late at night make an early bedtime harder to keep.", "k": ["afternoon naps"], "o": "A"}, {"b": 3, "t": "On the other hand, afternoon naps, caffeine, and glowing screens late at night make an early bedtime harder to keep.", "k": ["caffeine"], "o": "D"}, {"b": 3, "t": "On the other hand, afternoon naps, caffeine, and glowing screens late at night make an early bedtime harder to keep.", "k": ["glowing screens"], "o": "F"}],
+      "passageId": "MXA-voa-dst",
+      "year": 114,
+      "number": "49",
+      "answerType": "multi",
+      "points": 4,
+      "instruction": "多選題",
+      "prompt": "According to Mr_Hale, which of the following can help people adjust to the spring time change? Select ALL that apply.",
+      "promptEmphasis": [],
+      "answers": null,
+      "answerSource": "adapted",
+      "answerNote": null,
+      "options": [
+        {
+          "label": "A",
+          "text": "Taking an afternoon nap to make up for lost sleep"
+        },
+        {
+          "label": "B",
+          "text": "Going to sleep a little earlier on the nights leading up to the change"
+        },
+        {
+          "label": "C",
+          "text": "Having dinner and exercising somewhat earlier than usual"
+        },
+        {
+          "label": "D",
+          "text": "Drinking something with caffeine in the evening to stay alert"
+        },
+        {
+          "label": "E",
+          "text": "Spending time outside early in the day throughout the first week"
+        },
+        {
+          "label": "F",
+          "text": "Looking at a phone screen in bed until sleep comes"
+        }
+      ],
+      "optionCount": 6,
+      "answerKey": [
+        "B",
+        "C",
+        "E"
+      ],
+      "officialExplanation": null,
+      "explanation": {
+        "think": [
+          "第三段先講有幫助的做法，再用 On the other hand 轉到讓早睡更難的事。讀得太快，會把轉折以後的 afternoon naps、caffeine、glowing screens 也當成建議勾進去。",
+          "另一個常見的失分是只找原文相同的字。選項大多是換字改寫：go to bed 換成 going to sleep，outdoors 換成 outside，要看意思，不能只對字面。"
+        ],
+        "cue": [
+          "本題評量考生能不能從文章中找出符合條件的細節，並分辨選項是改寫原文，還是和原文說的相反。",
+          "題目的條件是 can help people adjust to the spring time change，所以要回第三段，找作者說「有幫助」的做法，每一個選項都要回原文核對。",
+          "(B) Going to sleep a little earlier on the nights leading up to the change. 第三段寫 For a few nights beforehand, go to bed fifteen to twenty minutes earlier each night。選項把 go to bed 換成 going to sleep，把 For a few nights beforehand 換成 on the nights leading up to the change，把 fifteen to twenty minutes 換成 a little。符合原文。",
+          "(C) Having dinner and exercising somewhat earlier than usual. 同一段寫 Moving dinner and workouts a little earlier helps, too。選項把 moving dinner 換成 having dinner，workouts 換成 exercising，a little 換成 somewhat。符合原文。",
+          "(E) Spending time outside early in the day throughout the first week. 同一段寫 spend time outdoors in the morning sunshine during the first week。選項把 outdoors 換成 outside，in the morning 換成 early in the day，during 換成 throughout。符合原文。"
+        ],
+        "distractors": [
+          {
+            "h": "(A) Taking an afternoon nap to make up for lost sleep",
+            "t": "第三段寫 afternoon naps … make an early bedtime harder to keep，午睡會讓提早就寢更難做到，是要避免的事，不是建議。"
+          },
+          {
+            "h": "(D) Drinking something with caffeine in the evening to stay alert",
+            "t": "同一句寫 caffeine … make an early bedtime harder to keep。選項把 caffeine 換成「含咖啡因的飲料」，意思沒有變，一樣是會讓早睡更難的事。"
+          },
+          {
+            "h": "(F) Looking at a phone screen in bed until sleep comes",
+            "t": "同一句寫 glowing screens late at night，深夜盯著發亮的螢幕也是讓早睡更難的事。選項換成「躺在床上看手機螢幕」。"
+          },
+          {
+            "h": "(A)、(D)、(F) 是這一題最強的誘答",
+            "t": "三個選項的主題詞全部出自第三段，只是出現在 On the other hand 後面，文章對它們的態度是負面的。這一類選項不能只看眼熟，要先看作者是在建議，還是在提醒要避免。"
+          }
+        ],
+        "scoring": [
+          "這一題是本題庫改編的練習題，答案是本題庫依原文推出來的。要選出作者認為有助於適應時間調整的做法，所以劃記 B、C、E 三個選項。先劃哪一個都不影響判定。",
+          "多選題怎麼計分，比照試卷首頁的「作答注意事項」：每題 n 個選項，各選項獨立判定；所有選項均答對者，得該題全部之分數；答錯 k 個選項者，得該題 (n−2k)／n 之分數；得分低於零分或所有選項均未作答者，以零分計算。",
+          "這一題有六個選項、4 分，所以全對得 4 分；錯一個約得 2.67 分；錯兩個約得 1.33 分；錯三個以上是 0 分。",
+          "要留意「各選項獨立判定」這句話：少劃一個和多劃一個，扣的分一樣。該劃 B、C、E 卻只劃了 B、C，是 E 這個選項判錯；多劃了 D，是 D 這個選項判錯，兩種情形扣的分相同。所以作答時的標準要前後一致，不要因為怕多劃就把標準抬得太嚴；不過錯到三個選項就是零分，也不能每一項都隨便劃。"
+        ],
+        "patterns": [
+          {
+            "h": "on the other hand",
+            "t": "另一方面。引出和前面相對的另一面。這一題裡，前面講有幫助的做法，On the other hand 後面講讓早睡更難的事，立場正好相反。"
+          },
+          {
+            "h": "make + 受詞 + 形容詞",
+            "t": "使……變得……。afternoon naps, caffeine, and glowing screens make an early bedtime harder to keep，受詞是 an early bedtime，harder 是補語，說明它變得更難。"
+          },
+          {
+            "h": "beforehand",
+            "t": "事先、預先。For a few nights beforehand 是「在這之前的幾個晚上」，選項 B 換成 on the nights leading up to the change。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "MXA-voa-dst-50",
+      "clue": [{"b": 2, "t": "One study of U.S. traffic deaths found a jump in deadly car accidents in the first few days after the change, with the risk highest in the morning, and the researchers suggested that too little sleep might be to blame.", "k": ["a jump in deadly car accidents"]}],
+      "passageId": "MXA-voa-dst",
+      "year": 114,
+      "number": "50",
+      "answerType": "singleChoice",
+      "points": 2,
+      "instruction": "單選題",
+      "prompt": "In which of the following is “jump” used with the same meaning as in “a jump in deadly car accidents” in the passage?",
+      "promptEmphasis": [],
+      "answers": null,
+      "answerSource": "adapted",
+      "answerNote": null,
+      "options": [
+        {
+          "label": "A",
+          "text": "The cat made a quick jump onto the table."
+        },
+        {
+          "label": "B",
+          "text": "She won the gold medal in the high jump."
+        },
+        {
+          "label": "C",
+          "text": "The movie makes a sudden jump from her childhood to her wedding day."
+        },
+        {
+          "label": "D",
+          "text": "There was a sharp jump in egg prices last month."
+        }
+      ],
+      "optionCount": 4,
+      "answerKey": [
+        "D"
+      ],
+      "officialExplanation": null,
+      "explanation": {
+        "think": [
+          "四個句子都有 jump，字面上都是「跳」，最直覺的是 (A) 的跳躍動作。可是 jump 在不同句子裡意思不一樣，要靠上下文判斷。",
+          "最容易選的是 (C)：它有 sudden，「突然」的感覺和原文的 jump 很像。可是 (C) 說的是劇情在時間上跳來跳去，不是數量變多。"
+        ],
+        "cue": [
+          "本題評量考生能不能依上下文，判斷同一個字在不同句子裡的意思。",
+          "先回原文：第二段寫 found a jump in deadly car accidents in the first few days after the change。jump 前面有 a，後面是 in + deadly car accidents；車禍的件數可以增加或減少，所以這個 jump 是「驟增」。",
+          "(D) There was a sharp jump in egg prices last month. a sharp jump in + egg prices，和原文的 a jump in + deadly car accidents 是同一個結構：jump 後面接可以增減的東西，意思是價格突然大幅上漲。所以選 (D)。"
+        ],
+        "distractors": [
+          {
+            "h": "(A) The cat made a quick jump onto the table.",
+            "t": "jump 是「跳躍」的動作，線索是 The cat 和 onto the table，貓跳到桌子上。"
+          },
+          {
+            "h": "(B) She won the gold medal in the high jump.",
+            "t": "jump 是田徑項目，high jump 是跳高，線索是 gold medal。"
+          },
+          {
+            "h": "(C) The movie makes a sudden jump from her childhood to her wedding day.",
+            "t": "這一題最強的誘答。jump from A to B 是劇情從一個時間點跳到另一個時間點，說的是場景的轉換，不是數量增加。有 sudden 讓它看起來很像原文的「突然上升」，但後面的 from her childhood to her wedding day 已經說明是時間的跳轉。"
+          }
+        ],
+        "scoring": [
+          "這一題是本題庫改編的練習題，答案是 (D)。這一題是單選，不是對就是錯，選對得 2 分，其餘得 0 分。"
+        ],
+        "patterns": [
+          {
+            "h": "a jump in + 名詞",
+            "t": "……的驟增。a jump in deadly car accidents、a sharp jump in egg prices，後面接可以增減的東西，前面常見 sharp、sudden 這類形容詞。"
+          },
+          {
+            "h": "jump 的不同意思",
+            "t": "跳躍的動作（a quick jump）、田徑的跳項目（the high jump）、劇情或時間的跳轉（jump from … to …）、數量的驟增（a jump in …）。同一個字，意思要看後面接什麼、前後有哪些線索。"
+          },
+          {
+            "h": "jump forward",
+            "t": "第一段的 After the clocks jump forward，jump 是動詞，指時鐘一下子往前撥。這個意思和第 50 題比較的名詞 jump 又不一樣。"
+          }
+        ]
+      }
     }
   ]
 }

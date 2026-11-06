@@ -2152,6 +2152,52 @@
       "zhTranslation": null,
       "source": null,
       "internalNote": "第三百七十一場建檔。改編自 g111p3；命題分身出題，兩次盲測、四方審閱（引文事實、文法、學生讀者、大考體例）後裁定修訂。"
+    },
+    {
+      "id": "MXA-voa-dst",
+      "theme": "科學與自然",
+      "theme2": "健康、醫療與運動",
+      "themeSub": "",
+      "tw": false,
+      "year": 114,
+      "examLabel": "改編練習",
+      "sessionName": "改編練習（三十三）",
+      "title": "夏令時間與身體的生理時鐘",
+      "topic": "夏令時間對健康的影響：留學生在論壇發文詢問，生物老師回覆生理時鐘、褪黑激素、車禍與心臟病風險，以及減輕不適的做法",
+      "layout": "posts",
+      "points": 10,
+      "itemCount": 4,
+      "notCounted": true,
+      "intro": "Many countries move their clocks forward by one hour in spring for daylight saving time. On an online forum for exchange students, one student asks whether the tired feeling that follows is all in her head. A biology teacher replies.",
+      "introEmphasis": [],
+      "blocks": [
+        {
+          "label": "A",
+          "speaker": "Mia_TW（留學生）",
+          "text": "Last Sunday, my host family moved every clock in the house forward by one hour. I thought nothing of it until Monday morning, when I could barely keep my eyes open, and half of my classmates looked just as miserable. My host mom laughed and called it “the spring-forward curse.” Is it all in our heads?"
+        },
+        {
+          "label": "B",
+          "speaker": "Mr_Hale（生物老師）回覆",
+          "text": "It isn’t, Mia. Deep in the brain sits a body clock that repeats about once a day and is kept on schedule by sunlight. Bright morning light sets it, and as evening approaches, the body releases a hormone called melatonin, which makes us drowsy. After the clocks jump forward, though, the sun stays up an hour later by the new time. That extra evening light postpones the release of melatonin, so bedtime arrives before the body is ready, and many people are deprived of sleep by Monday."
+        },
+        {
+          "label": "C",
+          "speaker": "Mr_Hale（續）",
+          "text": "The consequences can go beyond a bad mood. One study of U.S. traffic deaths found a jump in deadly car accidents in the first few days after the change, with the risk highest in the morning, and the researchers suggested that too little sleep might be to blame. Other research points to a rise in heart attacks on that Monday and in strokes over the following two days. Doctors cannot yet explain this link, though the sudden shift in the body clock may play a part."
+        },
+        {
+          "label": "D",
+          "speaker": "Mr_Hale（續）",
+          "text": "Fortunately, you can soften the blow. For a few nights beforehand, go to bed fifteen to twenty minutes earlier each night, and spend time outdoors in the morning sunshine during the first week. Moving dinner and workouts a little earlier helps, too. On the other hand, afternoon naps, caffeine, and glowing screens late at night make an early bedtime harder to keep. Some medical groups even argue that clocks should stay put all year round, but so far, nothing has officially changed."
+        }
+      ],
+      "demoNote": "這一組是本題庫的改編練習，不是大考中心的試題。文章改寫自 VOA Learning English 2025 年 3 月 6 日的報導 “How Daylight Saving Time Affects Health”（VOA 的文字屬公有領域），改成留學生發文、老師回覆的論壇版面，照 112 到 114 學測混合題的版面出題，題型比照 113 學測，共四題、10 分。參考答案和解析都是本題庫寫的，不算進本題庫的八場、33 格、80 分。",
+      "zhTranslation": null,
+      "source": [
+        "https://learningenglish.voanews.com/a/how-daylight-savings-time-affects-health/8001173.html"
+      ],
+      "internalNote": "第三百七十二場建檔。改寫自 VOA Learning English 公有領域報導；題組比照大考四題，一字多義（jump）取代原本的詞義題；stay put 推敲詞義題為備用題，未收入。經命題專家審題、中文校對、詞彙級數核對後建檔。"
     }
   ]
 }
