@@ -10962,6 +10962,365 @@
           }
         ]
       }
+    },
+    {
+      "passageId": "MXA-voa-eng15",
+      "year": 115,
+      "number": "47",
+      "promptEmphasis": [],
+      "answerSource": "adapted",
+      "officialExplanation": null,
+      "id": "MXA-voa-eng15-47",
+      "clue": [
+        {
+          "b": 0,
+          "t": "Away from school, students are exposed to a great deal of English.",
+          "k": [
+            "are exposed to"
+          ]
+        }
+      ],
+      "answerType": "fill",
+      "points": 2,
+      "instruction": "下列簡短敘述摘記上方文章重點。請從文章中找出最適當的單詞（word）填入下列句子空格中，並視句型結構需要做適當的字形變化，使句子語意完整、語法正確，並符合全文文意。每格限填一個單詞（word）。",
+      "prompt": "Teenagers today have heavy ___47___ to English through videos, music, and games, yet teachers are not sure this improves their English. The researchers also noticed that the English students use on their own is somewhat ___48___ from the English they study in class.",
+      "answers": [
+        "exposure"
+      ],
+      "answerNote": "heavy 是形容詞，後面要接名詞，動詞 expose 要改成名詞 exposure。",
+      "options": null,
+      "optionCount": null,
+      "answerKey": null,
+      "explanation": {
+        "think": [
+          "空格前面是 have heavy，後面是 to English，很多人回 Outside the classroom 欄找到 exposed（students are exposed to English），直接照抄。可是 heavy 是形容詞，後面要接名詞，exposed 是過去分詞，放不進去。",
+          "也有人想到 use，寫成 heavy use to English。use 當名詞時，後面接的是 of（the use of English），不接 to；而且 use 的意思是「使用」，題幹要講的是從影片、音樂、遊戲「接觸到」英文，語意不對。",
+          "還有人把名詞寫成複數 exposures。heavy exposure 的 exposure 是不可數名詞，不加 s。"
+        ],
+        "cue": [
+          "本題評量讀寫綜合應用能力，對應的學習表現為「能以適切的英語文說出或寫出談話或短文的摘要」，並依空格的語法條件做適當的字形變化。",
+          "先切塊：Teenagers today have [ heavy ___(47)___ ] [ to English ] through videos, music, and games, yet teachers are not sure this improves their English。",
+          "空格是 have 的受詞，空格前又有形容詞 heavy，所以這一格要填名詞。heavy ___ to English 的意思是「大量接觸英文」。",
+          "題幹的 videos, music, and games 對應 Outside the classroom 欄的 They watch videos, listen to songs, play games。原文用被動語態的動詞片語 be exposed to，摘要改成名詞片語 exposure to，兩種寫法後面都接 to。",
+          "題幹後半的 teachers are not sure this improves their English，對應同一欄的 teachers doubt that these tools are really teaching English。"
+        ],
+        "scoring": [
+          "本題庫的參考答案是 exposure，只有這一種寫法。",
+          "這一題要做兩件事：選對字，再做對字形變化，兩件都對才拿滿分。比照大考中心學測英文考科非選擇題評分原則：完全正確（包括選字及字形變化），得 2 分；字形錯誤或者拼字錯誤，得 1 分；空白、答案錯誤或與答案無關者，得 0 分。",
+          "照這個原則，填 expose、exposed、exposing、exposures，是選對了字，但字形錯了，得 1 分。填 use，意思不對，得 0 分。",
+          "作答時最好先把選好的字寫上去，不要因為還沒決定字形就留白。"
+        ],
+        "patterns": [
+          {
+            "h": "be exposed to（動）／exposure to（名）",
+            "t": "接觸到……。be exposed to + 名詞 是動詞片語，exposure to + 名詞 是名詞片語，後面都用介系詞 to。Students are exposed to a great deal of English. → Students have heavy exposure to English."
+          },
+          {
+            "h": "heavy + 不可數名詞",
+            "t": "heavy 表示「大量的、程度重的」，常和不可數名詞連用，例如 heavy exposure、heavy traffic。"
+          }
+        ]
+      }
+    },
+    {
+      "passageId": "MXA-voa-eng15",
+      "year": 115,
+      "number": "48",
+      "promptEmphasis": [],
+      "answerSource": "adapted",
+      "officialExplanation": null,
+      "id": "MXA-voa-eng15-48",
+      "clue": [
+        {
+          "b": 1,
+          "t": "The researchers described a slight disconnect between the English students use on their own and the English they are asked to study.",
+          "k": [
+            "a slight disconnect"
+          ]
+        }
+      ],
+      "answerType": "fill",
+      "points": 2,
+      "instruction": "下列簡短敘述摘記上方文章重點。請從文章中找出最適當的單詞（word）填入下列句子空格中，並視句型結構需要做適當的字形變化，使句子語意完整、語法正確，並符合全文文意。每格限填一個單詞（word）。",
+      "prompt": "Teenagers today have heavy ___47___ to English through videos, music, and games, yet teachers are not sure this improves their English. The researchers also noticed that the English students use on their own is somewhat ___48___ from the English they study in class.",
+      "answers": [
+        "disconnected"
+      ],
+      "answerNote": "is somewhat 後面要接形容詞當補語，原文的名詞 disconnect 要改成 disconnected，和 from 搭配。",
+      "options": null,
+      "optionCount": null,
+      "answerKey": null,
+      "explanation": {
+        "think": [
+          "空格前面是 is somewhat，後面是 from，很多人回 Inside the classroom 欄找到 disconnect（a slight disconnect），直接照抄。可是 is somewhat 後面要接形容詞當補語；原文的 disconnect 是名詞，意思是「脫節」，放不進去。",
+          "也有人想到 different。different from 是很自然的搭配，可是文章裡沒有 different 這個字，題目要的是從文章裡找出來、再改字形的字。",
+          "還有人選 changed（little has changed）。is somewhat changed from 文法上說得通，可是 changed 講的是前後時間的改變；題幹比較的是 the English students use on their own 和 the English they study in class，是同一個時候的兩種英文有落差，不是前後改變。"
+        ],
+        "cue": [
+          "本題評量讀寫綜合應用能力，對應的學習表現為「能以適切的英語文說出或寫出談話或短文的摘要」，並依空格的語法條件做適當的字形變化。",
+          "先切塊：The researchers also noticed that [ the English students use on their own ] is [ somewhat ___(48)___ ] from [ the English they study in class ]。",
+          "is 後面的 somewhat 是副詞，修飾後面的補語，所以這一格要填形容詞（或過去分詞）。後面的 from 也是線索：be disconnected from 是固定說法，意思是「與……脫節」。",
+          "對應 Inside the classroom 欄第三句：a slight disconnect between the English students use on their own and the English they are asked to study。原文用名詞 disconnect 加 between A and B，摘要改成 A is disconnected from B，詞性從名詞變成形容詞，slight 也換成副詞 somewhat。"
+        ],
+        "scoring": [
+          "本題庫的參考答案是 disconnected，只有這一種寫法。",
+          "評分原則和第 47 題相同：完全正確（包括選字及字形變化），得 2 分；字形錯誤或者拼字錯誤，得 1 分；空白、答案錯誤或與答案無關者，得 0 分。",
+          "照這個原則，填 disconnect、disconnects、disconnecting，是選對了字，但字形錯了，得 1 分。填 changed，意思不符，得 0 分；填 different，不是文章裡的字，也得 0 分。"
+        ],
+        "patterns": [
+          {
+            "h": "disconnect（名）／be disconnected from（形）",
+            "t": "脫節。名詞 a disconnect between A and B 是 A 和 B 之間的落差；形容詞 A is disconnected from B 是 A 和 B 脫節。"
+          },
+          {
+            "h": "somewhat",
+            "t": "有一點、稍微。可以修飾形容詞或比較級：somewhat disconnected、somewhat harder。語氣比 very 弱，和原文的 slight 對應。"
+          }
+        ]
+      }
+    },
+    {
+      "passageId": "MXA-voa-eng15",
+      "year": 115,
+      "number": "49",
+      "promptEmphasis": [],
+      "answerSource": "adapted",
+      "officialExplanation": null,
+      "id": "MXA-voa-eng15-49",
+      "clue": [
+        {
+          "b": 0,
+          "t": "Teachers see some value in online platforms: such sites can raise students’ motivation and help them get used to the language.",
+          "k": [
+            "raise students’ motivation"
+          ],
+          "o": "A"
+        },
+        {
+          "b": 1,
+          "t": "The researchers noted that digital tools do appear in classrooms, but textbooks and other traditional methods were still in use in every school they observed, and the report suggests that students may feel their English lessons are mostly about grammar.",
+          "k": [
+            "textbooks and other traditional methods were still in use in every school"
+          ],
+          "o": "D"
+        },
+        {
+          "b": 0,
+          "t": "Yet these activities mostly involve reading and listening, so students get little chance to speak or write.",
+          "k": [
+            "mostly involve reading and listening"
+          ],
+          "o": "F"
+        },
+        {
+          "b": 1,
+          "t": "Teachers in all five countries said that speaking and writing are the hardest skills for their students, partly because students lack confidence in speaking and partly because they rarely practice either skill outside class.",
+          "k": [
+            "speaking and writing are the hardest skills"
+          ],
+          "o": "B"
+        },
+        {
+          "b": 0,
+          "t": "Some Greek students said it is easier to look things up in English because far more material is available, while Dutch students described watching English-language videos.",
+          "k": [
+            "Dutch students described watching English-language videos"
+          ],
+          "o": "C"
+        },
+        {
+          "b": 0,
+          "t": "Even so, teachers doubt that these tools are really teaching English.",
+          "k": [
+            "teachers doubt"
+          ],
+          "o": "E"
+        }
+      ],
+      "answerType": "multi",
+      "points": 4,
+      "instruction": "多選題",
+      "prompt": "Based on the passage, which of the following statements are true? Select ALL that apply.",
+      "answers": null,
+      "answerNote": null,
+      "options": [
+        {
+          "label": "A",
+          "text": "Teachers think that using online platforms can make students more interested in learning English."
+        },
+        {
+          "label": "B",
+          "text": "Teachers in all five countries said that grammar is the hardest skill for their students."
+        },
+        {
+          "label": "C",
+          "text": "Dutch students said they learned more English from textbooks than from videos."
+        },
+        {
+          "label": "D",
+          "text": "Every school that the researchers visited continued to use textbooks."
+        },
+        {
+          "label": "E",
+          "text": "Teachers are certain that online platforms do nothing to improve students’ English."
+        },
+        {
+          "label": "F",
+          "text": "The English that students meet outside school involves more reading and listening than speaking and writing."
+        }
+      ],
+      "optionCount": 6,
+      "answerKey": [
+        "A",
+        "D",
+        "F"
+      ],
+      "explanation": {
+        "think": [
+          "六個選項講的都是這項研究的發現，關鍵字也都出自原文，很容易憑印象選。(B)、(C)、(E) 的字面和原文都對得上，細節卻被換過或說得太滿，這種選項最容易失分。",
+          "另一個常見的失分是只對字面。正確的選項大多是換字改寫：motivation 換成 more interested in learning English，were still in use 換成 continued to use，要看意思，不能只找一樣的字。"
+        ],
+        "cue": [
+          "本題評量考生讀完兩欄以後，能不能整合全文的細節，分辨選項是忠實改寫原文，還是改掉了關鍵訊息。",
+          "每一個選項都要回原文核對，兩欄都要看。",
+          "(A) Teachers think that using online platforms can make students more interested in learning English. Outside the classroom 欄寫 Teachers see some value in online platforms: such sites can raise students’ motivation。選項把 raise students’ motivation 換成 make students more interested in learning English。符合原文。",
+          "(D) Every school that the researchers visited continued to use textbooks. Inside the classroom 欄寫 textbooks and other traditional methods were still in use in every school they observed。選項把 were still in use 換成 continued to use，把 observed 換成 visited（前言寫 The researchers visited schools）。符合原文。",
+          "(F) The English that students meet outside school involves more reading and listening than speaking and writing. Outside the classroom 欄寫 these activities mostly involve reading and listening, so students get little chance to speak or write；these activities 指的是前一句的看影片、聽歌、玩遊戲、滑社群媒體，都發生在 Away from school。選項把 mostly involve reading and listening 換成 more reading and listening than speaking and writing。符合原文。"
+        ],
+        "distractors": [
+          {
+            "h": "(B) Teachers in all five countries said that grammar is the hardest skill for their students.",
+            "t": "Inside the classroom 欄確實寫了 Teachers in all five countries said，但老師說最難的是 speaking and writing，不是 grammar。grammar 出現在同一欄前面一句，是報告認為學生可能覺得英文課「都在講文法」。選項把兩個地方的訊息接在一起，一半對、一半錯。"
+          },
+          {
+            "h": "(C) Dutch students said they learned more English from textbooks than from videos.",
+            "t": "Dutch students 只在 Outside the classroom 欄出現一次，原文說他們描述自己看英文影片，沒有拿影片和課本比較，也沒有說從哪一種學到比較多。textbooks 是 Inside the classroom 欄的字，被放到荷蘭學生身上。"
+          },
+          {
+            "h": "(E) Teachers are certain that online platforms do nothing to improve students’ English.",
+            "t": "原文的老師是 doubt（懷疑）這些工具真的在教英文，而且前面還承認 online platforms 可以提高動機、幫助學生習慣這個語言。選項把「懷疑」說成 certain，把「不一定有幫助」說成 do nothing，說法太過武斷。"
+          }
+        ],
+        "scoring": [
+          "這一題是本題庫改編的練習題，答案是本題庫依原文推出來的。要選出符合原文的敘述，所以劃記 A、D、F 三個選項。",
+          "多選題怎麼計分，比照試卷首頁的「作答注意事項」：每題 n 個選項，各選項獨立判定；所有選項均答對者，得該題全部之分數；答錯 k 個選項者，得該題 (n−2k)／n 之分數；得分低於零分或所有選項均未作答者，以零分計算。",
+          "這一題有六個選項、4 分，所以全對得 4 分；錯一個約得 2.67 分；錯兩個約得 1.33 分；錯三個以上是 0 分。",
+          "要留意「各選項獨立判定」這句話：少劃一個和多劃一個，扣的分一樣。該劃 A、D、F 卻只劃了 A、D，是 F 這個選項判錯；多劃了 B，是 B 這個選項判錯，兩種情形扣的分相同。"
+        ],
+        "patterns": [
+          {
+            "h": "motivation（名）／motivate（動）",
+            "t": "動機、激勵。raise students’ motivation 是「提高學生的動機」，選項換成 make students more interested in learning English，是同一個意思的改寫。"
+          },
+          {
+            "h": "continue to + 原形動詞",
+            "t": "繼續……。選項 (D) 的 continued to use textbooks，對應原文的 were still in use，都表示「仍然在用」。"
+          },
+          {
+            "h": "more A than B",
+            "t": "A 比 B 多。選項 (F) 的 more reading and listening than speaking and writing，是把原文的 mostly involve reading and listening 換成比較的說法。"
+          }
+        ]
+      }
+    },
+    {
+      "passageId": "MXA-voa-eng15",
+      "year": 115,
+      "number": "50",
+      "promptEmphasis": [],
+      "answerSource": "adapted",
+      "officialExplanation": null,
+      "id": "MXA-voa-eng15-50",
+      "clue": [
+        {
+          "b": 0,
+          "t": "Teachers see some value in online platforms: such sites can raise students’ motivation and help them get used to the language.",
+          "k": [
+            "online platforms",
+            "such sites"
+          ]
+        },
+        {
+          "b": 0,
+          "t": "Even so, teachers doubt that these tools are really teaching English.",
+          "k": [
+            "these tools"
+          ]
+        },
+        {
+          "b": 0,
+          "t": "Yet these activities mostly involve reading and listening, so students get little chance to speak or write.",
+          "k": [
+            "these activities"
+          ]
+        }
+      ],
+      "answerType": "singleChoice",
+      "points": 2,
+      "instruction": "單選題",
+      "prompt": "Which of the following sets of expressions in the passage all refer to the same thing?",
+      "answers": null,
+      "answerNote": null,
+      "options": [
+        {
+          "label": "A",
+          "text": "“online platforms,” “these activities,” “such sites”"
+        },
+        {
+          "label": "B",
+          "text": "“Teenagers in cities,” “their rural peers,” “wealthier families”"
+        },
+        {
+          "label": "C",
+          "text": "“online platforms,” “such sites,” “these tools”"
+        },
+        {
+          "label": "D",
+          "text": "“the English students use on their own,” “the English they are asked to study,” “speaking and writing”"
+        }
+      ],
+      "optionCount": 4,
+      "answerKey": [
+        "C"
+      ],
+      "explanation": {
+        "think": [
+          "四組詞都出自原文，很多人看到熟悉的詞就選。這一題問的是三個詞指的是不是同一個東西，要回到各自的句子裡，看每個詞在那一句裡指什麼。",
+          "最容易選的是 (A)：online platforms 和 such sites 確實指同一類東西，可是 these activities 回指的是前一句的看影片、聽歌、玩遊戲、滑社群媒體，是「做的事」，不是網站本身。"
+        ],
+        "cue": [
+          "本題評量考生能不能掌握文章中的指代詞，以及作者為了避免重複，把同一個東西換個說法再提一次的寫法，屬於篇章連貫的能力。",
+          "先回原文：Outside the classroom 欄寫 Teachers see some value in online platforms: such sites can raise students’ motivation …，接著寫 Even so, teachers doubt that these tools are really teaching English。作者先說 online platforms，再用 such sites、these tools 換個說法提起，三個詞指的都是同一類線上平台。所以選 (C)。",
+          "such + 名詞、these + 名詞 都是往前指向已經出現的東西：such sites 是「這類網站」，these tools 是「這些工具」，兩個詞都指回 online platforms。"
+        ],
+        "distractors": [
+          {
+            "h": "(A) “online platforms,” “these activities,” “such sites”",
+            "t": "這一題最強的誘答。online platforms 和 such sites 指同一類東西，可是 these activities 出現在 online platforms 之前，回指的是它前一句的 They watch videos, listen to songs, play games, and scroll through social media，也就是學生做的幾件事；它不可能回指後面才第一次出現的 online platforms，所以三個詞不是同一個東西。"
+          },
+          {
+            "h": "(B) “Teenagers in cities,” “their rural peers,” “wealthier families”",
+            "t": "原文把 Teenagers in cities 和 their rural peers 拿來比較，是兩群不同的人；wealthier families 又是另一個角度（家庭的經濟條件）。三個詞指的是不同的對象。"
+          },
+          {
+            "h": "(D) “the English students use on their own,” “the English they are asked to study,” “speaking and writing”",
+            "t": "Inside the classroom 欄寫 a slight disconnect between the English students use on their own and the English they are asked to study。這兩個詞剛好是被拿來比較的兩種英文，不是同一個；speaking and writing 則是兩種技能。"
+          }
+        ],
+        "scoring": [
+          "這一題是本題庫改編的練習題，答案是 (C)，選對得 2 分，其餘得 0 分。"
+        ],
+        "patterns": [
+          {
+            "h": "such + 名詞、these + 名詞（回指）",
+            "t": "such sites（這類網站）、these tools（這些工具）都是回頭指前面已經提過的東西。讀到這類字，要往前找它指的是誰。"
+          },
+          {
+            "h": "換字重述",
+            "t": "英文避免重複，同一個東西會換個字再出現：online platforms → such sites → these tools。判斷兩個詞是不是同一個東西，要看它們在各自的句子裡指什麼，不能只看字長得像不像。"
+          }
+        ]
+      }
     }
   ]
 }

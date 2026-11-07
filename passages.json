@@ -2198,6 +2198,42 @@
         "https://learningenglish.voanews.com/a/how-daylight-savings-time-affects-health/8001173.html"
       ],
       "internalNote": "第三百七十二場建檔。改寫自 VOA Learning English 公有領域報導；題組比照大考四題，一字多義（jump）取代原本的詞義題；stay put 推敲詞義題為備用題，未收入。經命題專家審題、中文校對、詞彙級數核對後建檔。"
+    },
+    {
+      "id": "MXA-voa-eng15",
+      "theme": "校園與學習",
+      "theme2": "科技與媒體",
+      "themeSub": "",
+      "tw": false,
+      "year": 115,
+      "examLabel": "改編練習",
+      "sessionName": "改編練習（三十四）",
+      "title": "十五歲學生怎麼學英文",
+      "topic": "校外大量接觸英文與課堂教學之間的落差：OECD 支持的研究觀察五個國家十五歲學生的英文學習",
+      "layout": "two-column",
+      "points": 10,
+      "itemCount": 4,
+      "notCounted": true,
+      "intro": "Many teenagers now encounter English almost every day outside school. A recent study backed by the OECD, an international economic organization, looked at how English is taught to 15-year-olds in five countries: Finland, Greece, Israel, the Netherlands, and Portugal. The researchers visited schools, observed lessons, and interviewed teachers, students, and school leaders.",
+      "introEmphasis": [],
+      "blocks": [
+        {
+          "label": "Outside the classroom",
+          "speaker": null,
+          "text": "Away from school, students are exposed to a great deal of English. They watch videos, listen to songs, play games, and scroll through social media. Yet these activities mostly involve reading and listening, so students get little chance to speak or write. Some Greek students said it is easier to look things up in English because far more material is available, while Dutch students described watching English-language videos. Teachers see some value in online platforms: such sites can raise students’ motivation and help them get used to the language. Even so, teachers doubt that these tools are really teaching English. One Finnish teacher warned that students who use English so often may wrongly decide they do not need to study it in class. Not everyone benefits equally, either. Teenagers in cities use English more than their rural peers do, and wealthier families can pay for trips, camps, and private lessons."
+        },
+        {
+          "label": "Inside the classroom",
+          "speaker": null,
+          "text": "Inside school, however, little has changed. The researchers noted that digital tools do appear in classrooms, but textbooks and other traditional methods were still in use in every school they observed, and the report suggests that students may feel their English lessons are mostly about grammar. The researchers described a slight disconnect between the English students use on their own and the English they are asked to study. Teachers in all five countries said that speaking and writing are the hardest skills for their students, partly because students lack confidence in speaking and partly because they rarely practice either skill outside class."
+        }
+      ],
+      "demoNote": "這一組是本題庫的改編練習，不是大考中心的試題。文章改寫自 VOA Learning English 2024 年 3 月 12 日的報導 “Study Looks at How 15-year-olds Learn English”（VOA 的文字屬公有領域），改成「校外的英文」與「課堂裡的英文」兩欄對照的版面，照 113 學測混合題的版面出題，共四題、10 分：兩題填充、一題多選，最後一題比照 112 學測閱讀測驗第 46 題，問哪一組詞指的是同一個東西。參考答案和解析都是本題庫寫的，不算進本題庫的八場、33 格、80 分。",
+      "zhTranslation": null,
+      "source": [
+        "https://learningenglish.voanews.com/a/study-looks-at-how-15-year-olds-learn-english/7514595.html"
+      ],
+      "internalNote": "第三百七十三場建檔。改寫自 VOA Learning English 公有領域報導；兩欄版面；第 50 格為新題型（指涉題，比照 112 學測閱讀第 46 題）。原報導的「課堂以文法為主」只是學生的感受，已改成「報告認為學生可能覺得」。經盲測、命題審稿後修訂：刪去原文沒有的加料、兩個 they 改成明確主詞。"
     }
   ]
 }
