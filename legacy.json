@@ -71,7 +71,7 @@
         { "n": 5, "q": "Which of the following words best describes the rain in this poem: boring, harsh, depressing, heavy, hopeful, or musical?", "answers": ["musical"], "answerNote": null }
       ],
       "answerSource": "derived",
-      "bridge": "第 2、4 題一個問同義、一個問反義，答案都要回詩裡找出那個字，和 111 學測第 48 格、115 參考試卷第 48 格是同一種問法。",
+      "bridge": "第 2、4 題一個問同義、一個問反義，答案都要回詩裡找出那個字，和 111 學測第 48 格、115 學年度起適用學測參考試卷第 48 格是同一種問法。",
       "internalNote": "著作權：Langston Hughes 卒於 1967 年，我國著作權法保護期間為著作人死亡後 50 年，2017 年底屆滿；本詩 1921 年首次發表，在美國亦屬公共領域。可全文收錄，勿再誤判。十場中唯一以詩為選文者——同樣的問法套在不同文體上，值得對學生點出。"
     },
     {
@@ -178,7 +178,7 @@
         { "n": 5, "q": "What activity shows that a mother chimpanzee and a human mother are very similar to each other?", "answers": ["nursing (its) young"], "answerNote": null }
       ],
       "answerSource": "derived",
-      "bridge": "第 1 題要從文章裡找出兩個並列項目填進去，和 111 參考試卷第 50(A)、50(B) 格那兩格表格填空的作法相同。",
+      "bridge": "第 1 題要從文章裡找出兩個並列項目填進去，和 111 學年度起適用學測參考試卷第 50(A)、50(B) 格那兩格表格填空的作法相同。",
       "internalNote": "第 2 題屬「答案不在字面上」，八場混合題中反而少見。"
     },
     {
@@ -296,7 +296,7 @@
         { "n": 5, "q": "What does the author think of the prices of most image-linked products?", "answers": ["(They are) too high", "(too) expensive(.)"], "answerNote": null }
       ],
       "answerSource": "official",
-      "bridge": "第 1 題要從全文找出四個並列項目，和 111 參考試卷第 50(A)、50(B) 格的表格填空作法相同。",
+      "bridge": "第 1 題要從全文找出四個並列項目，和 111 學年度起適用學測參考試卷第 50(A)、50(B) 格的表格填空作法相同。",
       "internalNote": "十場中唯一有官方參考答案者。官方以斜線並列可接受形式、以括號標示可省略部分，與現行混合題「可接受答案範圍」是同一套邏輯，建站時應優先呈現，並以此作為其餘八場答案寫法的體例依據。卷別：大學入學考試中心「認識指定科目考試」英文考科參考試卷，考試時間 80 分鐘，選擇題 55 題（該卷有倒扣），非選擇題為簡答題五題＋作文一題。此場證明簡答題不是學測獨有。"
     }
   ]
