@@ -433,7 +433,7 @@
     {
      "label": "A",
      "ok": false,
-     "tag": "以偏概全",
+     "tag": "以偏概全：只有 Turtle ants 成立",
      "basis": [
       {
        "loc": "右欄 Turtle ants",
@@ -468,7 +468,7 @@
     {
      "label": "D",
      "ok": false,
-     "tag": "以偏概全",
+     "tag": "以偏概全：Turtle ants 段沒有提到天敵，路徑斷掉是風雨造成的",
      "basis": [
       {
        "loc": "左欄 Jackdaws",
@@ -477,6 +477,10 @@
       {
        "loc": "左欄 Jackdaws",
        "text": "By doing so, the flock members are able to keep a safe distance between themselves, and thus avoid crashing into each other while they flee from the predator."
+      },
+      {
+       "loc": "右欄 Turtle ants",
+       "text": "However, since these trails can easily be broken by wind or rain, the ants have to find new paths to get around the broken points and reestablish the network."
       }
      ]
     },
@@ -804,6 +808,153 @@
      "text": "Owner Joseph Tang says he knew the idea would work well in this unique district: “Each store is one of a kind in Wonder Village,” he states."
     }
    ]
+  },
+  "MX115R-47A": {
+   "ability": "摘要文意（關鍵字詞）",
+   "official": true,
+   "basis": [
+    {
+     "loc": "左欄 Yusra 第 1 段",
+     "text": "Yusra Mardini is a swimmer who grew up in the war-torn country of Syria."
+    },
+    {
+     "loc": "左欄 Yusra 第 3 段",
+     "text": "Her incredible story and superior swimming skills won her the opportunity to participate in the Olympic Games."
+    }
+   ],
+   "note": "這份參考試卷的混合題和 111 學測混合題是同一個題組，所以評量能力和依據句都沿用 111 學測的標示。"
+  },
+  "MX115R-47B": {
+   "ability": "摘要文意（關鍵字詞）",
+   "official": true,
+   "basis": [
+    {
+     "loc": "右欄 Popole 第 2 段",
+     "text": "However, each time he lost a competition, his coaches would lock him in a cage for days, feeding him only coffee and bread."
+    },
+    {
+     "loc": "右欄 Popole 第 2 段",
+     "text": "Finally, when he was cruelly abused for not winning medals at the 2013 World Championships in Brazil, he decided to seek protection."
+    }
+   ],
+   "note": "這份參考試卷的混合題和 111 學測混合題是同一個題組，所以評量能力和依據句都沿用 111 學測的標示。"
+  },
+  "MX115R-48": {
+   "ability": "推敲詞義",
+   "official": true,
+   "basis": [
+    {
+     "loc": "右欄 Popole 第 2 段",
+     "text": "Finally, when he was cruelly abused for not winning medals at the 2013 World Championships in Brazil, he decided to seek protection."
+    },
+    {
+     "loc": "右欄 Popole 第 3 段",
+     "text": "Popole was granted asylum in 2014 by Brazilian government and later continued judo training at a youth facility."
+    }
+   ],
+   "note": "這份參考試卷的混合題和 111 學測混合題是同一個題組，所以評量能力和依據句都沿用 111 學測的標示。"
+  },
+  "MX115R-49": {
+   "ability": "整合比較",
+   "official": true,
+   "opts": [
+    {
+     "label": "A",
+     "ok": false,
+     "tag": "無中生有",
+     "basis": []
+    },
+    {
+     "label": "B",
+     "ok": false,
+     "tag": "以偏概全",
+     "basis": [
+      {
+       "loc": "右欄 Popole 第 1 段",
+       "text": "Escaping from the war zone, he wandered alone for a week in a rainforest before being rescued and taken to a center for displaced children in the capital, Kinshasa."
+      }
+     ]
+    },
+    {
+     "label": "C",
+     "ok": true,
+     "basis": [
+      {
+       "loc": "左欄 Yusra 第 3 段",
+       "text": "She was a member of the Refugee Olympic Team for both the 2016 Rio Games and 2021 Tokyo Games."
+      },
+      {
+       "loc": "右欄 Popole 第 3 段",
+       "text": "He made his Olympic debut at Rio 2016."
+      },
+      {
+       "loc": "右欄 Popole 第 3 段",
+       "text": "He also represented the Refugee Olympic Team in 2021 Tokyo Games."
+      }
+     ]
+    },
+    {
+     "label": "D",
+     "ok": true,
+     "basis": [
+      {
+       "loc": "左欄 Yusra 第 2 段",
+       "text": "In 2015 when she was just a 17-year-old, her house was destroyed in the civil war, so she decided to flee her home country."
+      },
+      {
+       "loc": "右欄 Popole 第 1 段",
+       "text": "Escaping from the war zone, he wandered alone for a week in a rainforest before being rescued and taken to a center for displaced children in the capital, Kinshasa."
+      }
+     ]
+    },
+    {
+     "label": "E",
+     "ok": false,
+     "tag": "先後不符",
+     "basis": [
+      {
+       "loc": "左欄 Yusra 第 1 段",
+       "text": "Due to the unstable political situation there, Yusra sometimes had to train in pools under roofs that had been blown open by bombings."
+      },
+      {
+       "loc": "右欄 Popole 第 2 段",
+       "text": "There, Popole discovered judo, from which he gained strength in body and mind."
+      },
+      {
+       "loc": "右欄 Popole 第 2 段",
+       "text": "He trained hard and became a professional judoka."
+      }
+     ]
+    },
+    {
+     "label": "F",
+     "ok": false,
+     "tag": "以偏概全",
+     "basis": [
+      {
+       "loc": "左欄 Yusra 第 2 段",
+       "text": "She managed to reach Turkey through Lebanon."
+      },
+      {
+       "loc": "左欄 Yusra 第 2 段",
+       "text": "Yusra dove into the cold water, and—with the help of her sister and two men—swam and pushed the boat for over three hours to reach the Greek island of Lesbos."
+      },
+      {
+       "loc": "左欄 Yusra 第 3 段",
+       "text": "Yusra eventually settled in Germany and has since worked to inspire others to pursue their dreams."
+      },
+      {
+       "loc": "右欄 Popole 第 2 段",
+       "text": "Finally, when he was cruelly abused for not winning medals at the 2013 World Championships in Brazil, he decided to seek protection."
+      },
+      {
+       "loc": "右欄 Popole 第 3 段",
+       "text": "Popole was granted asylum in 2014 by Brazilian government and later continued judo training at a youth facility."
+      }
+     ]
+    }
+   ],
+   "note": "這份參考試卷的混合題和 111 學測混合題是同一個題組，所以評量能力和依據句都沿用 111 學測的標示。"
   }
  }
 }
