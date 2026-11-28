@@ -1,0 +1,809 @@
+{
+ "meta": {
+  "note": "混合題 111–115 學測各題的評量能力、依據句與多選逐項標示（2026-11-28）",
+  "officialYears": [
+   111,
+   112,
+   113,
+   114
+  ]
+ },
+ "marks": {
+  "MX111-47A": {
+   "ability": "摘要文意（關鍵字詞）",
+   "official": true,
+   "basis": [
+    {
+     "loc": "左欄 Yusra 第 1 段",
+     "text": "Yusra Mardini is a swimmer who grew up in the war-torn country of Syria."
+    },
+    {
+     "loc": "左欄 Yusra 第 3 段",
+     "text": "Her incredible story and superior swimming skills won her the opportunity to participate in the Olympic Games."
+    }
+   ]
+  },
+  "MX111-47B": {
+   "ability": "摘要文意（關鍵字詞）",
+   "official": true,
+   "basis": [
+    {
+     "loc": "右欄 Popole 第 2 段",
+     "text": "However, each time he lost a competition, his coaches would lock him in a cage for days, feeding him only coffee and bread."
+    },
+    {
+     "loc": "右欄 Popole 第 2 段",
+     "text": "Finally, when he was cruelly abused for not winning medals at the 2013 World Championships in Brazil, he decided to seek protection."
+    }
+   ]
+  },
+  "MX111-48": {
+   "ability": "推敲詞義",
+   "official": true,
+   "basis": [
+    {
+     "loc": "右欄 Popole 第 2 段",
+     "text": "Finally, when he was cruelly abused for not winning medals at the 2013 World Championships in Brazil, he decided to seek protection."
+    },
+    {
+     "loc": "右欄 Popole 第 3 段",
+     "text": "Popole was granted asylum in 2014 by Brazilian government and later continued judo training at a youth facility."
+    }
+   ]
+  },
+  "MX111-49": {
+   "ability": "整合比較",
+   "official": true,
+   "opts": [
+    {
+     "label": "A",
+     "ok": false,
+     "tag": "無中生有",
+     "basis": []
+    },
+    {
+     "label": "B",
+     "ok": false,
+     "tag": "以偏概全",
+     "basis": [
+      {
+       "loc": "右欄 Popole 第 1 段",
+       "text": "Escaping from the war zone, he wandered alone for a week in a rainforest before being rescued and taken to a center for displaced children in the capital, Kinshasa."
+      }
+     ]
+    },
+    {
+     "label": "C",
+     "ok": true,
+     "basis": [
+      {
+       "loc": "左欄 Yusra 第 3 段",
+       "text": "She was a member of the Refugee Olympic Team for both the 2016 Rio Games and 2021 Tokyo Games."
+      },
+      {
+       "loc": "右欄 Popole 第 3 段",
+       "text": "He made his Olympic debut at Rio 2016."
+      },
+      {
+       "loc": "右欄 Popole 第 3 段",
+       "text": "He also represented the Refugee Olympic Team in 2021 Tokyo Games."
+      }
+     ]
+    },
+    {
+     "label": "D",
+     "ok": true,
+     "basis": [
+      {
+       "loc": "左欄 Yusra 第 2 段",
+       "text": "In 2015 when she was just a 17-year-old, her house was destroyed in the civil war, so she decided to flee her home country."
+      },
+      {
+       "loc": "右欄 Popole 第 1 段",
+       "text": "Escaping from the war zone, he wandered alone for a week in a rainforest before being rescued and taken to a center for displaced children in the capital, Kinshasa."
+      }
+     ]
+    },
+    {
+     "label": "E",
+     "ok": false,
+     "tag": "先後不符",
+     "basis": [
+      {
+       "loc": "左欄 Yusra 第 1 段",
+       "text": "Due to the unstable political situation there, Yusra sometimes had to train in pools under roofs that had been blown open by bombings."
+      },
+      {
+       "loc": "右欄 Popole 第 2 段",
+       "text": "There, Popole discovered judo, from which he gained strength in body and mind."
+      },
+      {
+       "loc": "右欄 Popole 第 2 段",
+       "text": "He trained hard and became a professional judoka."
+      }
+     ]
+    },
+    {
+     "label": "F",
+     "ok": false,
+     "tag": "以偏概全",
+     "basis": [
+      {
+       "loc": "左欄 Yusra 第 2 段",
+       "text": "She managed to reach Turkey through Lebanon."
+      },
+      {
+       "loc": "左欄 Yusra 第 2 段",
+       "text": "Yusra dove into the cold water, and—with the help of her sister and two men—swam and pushed the boat for over three hours to reach the Greek island of Lesbos."
+      },
+      {
+       "loc": "左欄 Yusra 第 3 段",
+       "text": "Yusra eventually settled in Germany and has since worked to inspire others to pursue their dreams."
+      },
+      {
+       "loc": "右欄 Popole 第 2 段",
+       "text": "Finally, when he was cruelly abused for not winning medals at the 2013 World Championships in Brazil, he decided to seek protection."
+      },
+      {
+       "loc": "右欄 Popole 第 3 段",
+       "text": "Popole was granted asylum in 2014 by Brazilian government and later continued judo training at a youth facility."
+      }
+     ]
+    }
+   ]
+  },
+  "MX112-47": {
+   "ability": "摘要全文文意（關鍵字詞）",
+   "official": true,
+   "basis": [
+    {
+     "loc": "留言 (A) Olivia",
+     "text": "I tried one when I was a prep cook for Next Level Burgers…tasted awful, just like mashed peas gone to rot.",
+     "g": "口味"
+    },
+    {
+     "loc": "留言 (C) Mika",
+     "text": "It tastes too much like actual meat.",
+     "g": "口味"
+    },
+    {
+     "loc": "留言 (D) Thomas",
+     "text": "GreenBurger just tastes “beany” to me, so I think that whatever form it comes in, it works better in recipes that would usually contain beans, such as in a rice bowl (as ground meat substitute).",
+     "g": "口味"
+    },
+    {
+     "loc": "留言 (E) Rico",
+     "text": "It didn't taste that bad, but I was surprised to find it had 40 more calories than the meat version!",
+     "g": "口味"
+    },
+    {
+     "loc": "留言 (H) Alexander",
+     "text": "Well, they taste good if you add plenty of spices and sauces.",
+     "g": "口味"
+    },
+    {
+     "loc": "留言 (B) Smith",
+     "text": "They are heavily processed with more calories and sodium than meat and are more expensive too!",
+     "g": "健康"
+    },
+    {
+     "loc": "留言 (E) Rico",
+     "text": "It didn't taste that bad, but I was surprised to find it had 40 more calories than the meat version!",
+     "g": "健康"
+    },
+    {
+     "loc": "留言 (E) Rico",
+     "text": "Isn't it supposed to be a healthy choice?",
+     "g": "健康"
+    },
+    {
+     "loc": "留言 (H) Alexander",
+     "text": "Good for you?",
+     "g": "健康"
+    },
+    {
+     "loc": "留言 (H) Alexander",
+     "text": "No, not at all.",
+     "g": "健康"
+    },
+    {
+     "loc": "留言 (H) Alexander",
+     "text": "They're highly processed and contain no vegetables.",
+     "g": "健康"
+    }
+   ],
+   "note": "這兩格的答案可以互換，所以兩格的依據句相同：口味和健康各一組。"
+  },
+  "MX112-48": {
+   "ability": "摘要全文文意（關鍵字詞）",
+   "official": true,
+   "basis": [
+    {
+     "loc": "留言 (A) Olivia",
+     "text": "I tried one when I was a prep cook for Next Level Burgers…tasted awful, just like mashed peas gone to rot.",
+     "g": "口味"
+    },
+    {
+     "loc": "留言 (C) Mika",
+     "text": "It tastes too much like actual meat.",
+     "g": "口味"
+    },
+    {
+     "loc": "留言 (D) Thomas",
+     "text": "GreenBurger just tastes “beany” to me, so I think that whatever form it comes in, it works better in recipes that would usually contain beans, such as in a rice bowl (as ground meat substitute).",
+     "g": "口味"
+    },
+    {
+     "loc": "留言 (E) Rico",
+     "text": "It didn't taste that bad, but I was surprised to find it had 40 more calories than the meat version!",
+     "g": "口味"
+    },
+    {
+     "loc": "留言 (H) Alexander",
+     "text": "Well, they taste good if you add plenty of spices and sauces.",
+     "g": "口味"
+    },
+    {
+     "loc": "留言 (B) Smith",
+     "text": "They are heavily processed with more calories and sodium than meat and are more expensive too!",
+     "g": "健康"
+    },
+    {
+     "loc": "留言 (E) Rico",
+     "text": "It didn't taste that bad, but I was surprised to find it had 40 more calories than the meat version!",
+     "g": "健康"
+    },
+    {
+     "loc": "留言 (E) Rico",
+     "text": "Isn't it supposed to be a healthy choice?",
+     "g": "健康"
+    },
+    {
+     "loc": "留言 (H) Alexander",
+     "text": "Good for you?",
+     "g": "健康"
+    },
+    {
+     "loc": "留言 (H) Alexander",
+     "text": "No, not at all.",
+     "g": "健康"
+    },
+    {
+     "loc": "留言 (H) Alexander",
+     "text": "They're highly processed and contain no vegetables.",
+     "g": "健康"
+    }
+   ],
+   "note": "這兩格的答案可以互換，所以兩格的依據句相同：口味和健康各一組。"
+  },
+  "MX112-49": {
+   "ability": "整合分類",
+   "official": true,
+   "opts": [
+    {
+     "label": "A",
+     "ok": false,
+     "tag": "條件不符：完全否定",
+     "basis": [
+      {
+       "loc": "留言 (A) Olivia",
+       "text": "That's a firm NO!"
+      }
+     ]
+    },
+    {
+     "label": "B",
+     "ok": false,
+     "tag": "條件不符：條件是對別人說的",
+     "basis": [
+      {
+       "loc": "留言 (B) Smith",
+       "text": "Unless you are a strict vegetarian and eschew meat for ethical reasons, meat is surely a better deal."
+      }
+     ]
+    },
+    {
+     "label": "C",
+     "ok": false,
+     "tag": "條件不符：完全否定",
+     "basis": [
+      {
+       "loc": "留言 (C) Mika",
+       "text": "But this is just not something that will ever interest me."
+      }
+     ]
+    },
+    {
+     "label": "D",
+     "ok": true,
+     "basis": [
+      {
+       "loc": "留言 (D) Thomas",
+       "text": "That being said, I'm definitely a carnivore and prefer meat, but I don't see anything wrong with choosing one of the fakey-fakey meaty things once in a while—just for a change."
+      }
+     ]
+    },
+    {
+     "label": "E",
+     "ok": false,
+     "tag": "條件不符：沒有提出條件",
+     "basis": [
+      {
+       "loc": "留言 (E) Rico",
+       "text": "It didn't taste that bad, but I was surprised to find it had 40 more calories than the meat version!"
+      },
+      {
+       "loc": "留言 (E) Rico",
+       "text": "Isn't it supposed to be a healthy choice?"
+      }
+     ]
+    },
+    {
+     "label": "F",
+     "ok": true,
+     "basis": [
+      {
+       "loc": "留言 (F) Linda",
+       "text": "I did NOT like the price, though."
+      },
+      {
+       "loc": "留言 (F) Linda",
+       "text": "Hopefully that will come down."
+      }
+     ]
+    },
+    {
+     "label": "G",
+     "ok": false,
+     "tag": "條件不符：無條件肯定",
+     "basis": [
+      {
+       "loc": "留言 (G) Ablo",
+       "text": "In fact, I can have them every day—vegan or not!"
+      }
+     ]
+    },
+    {
+     "label": "H",
+     "ok": false,
+     "tag": "條件不符：口味有條件，結論仍是否定",
+     "basis": [
+      {
+       "loc": "留言 (H) Alexander",
+       "text": "Well, they taste good if you add plenty of spices and sauces."
+      },
+      {
+       "loc": "留言 (H) Alexander",
+       "text": "It's a killer for sure if eaten regularly."
+      },
+      {
+       "loc": "留言 (H) Alexander",
+       "text": "So why risk your life?"
+      }
+     ]
+    }
+   ]
+  },
+  "MX112-50": {
+   "ability": "推敲詞義",
+   "official": true,
+   "basis": [
+    {
+     "loc": "留言 (G) Ablo",
+     "text": "Especially when a burger craving hits…a GreenBurger does the trick."
+    }
+   ]
+  },
+  "MX113-47": {
+   "ability": "摘要全文文意（關鍵字詞）",
+   "official": true,
+   "basis": [
+    {
+     "loc": "導言",
+     "text": "Many animals are known to live and move in groups to secure food and avoid predators."
+    },
+    {
+     "loc": "左欄 Jackdaws",
+     "text": "Instead of paying attention to all the other members and following the group pattern, they now focus only on the birds within a fixed distance from them, based on information coming from other members."
+    },
+    {
+     "loc": "右欄 Turtle ants",
+     "text": "By working collectively, the ants are able to improve the efficiency of their network and adapt to their ever-changing environment."
+    }
+   ]
+  },
+  "MX113-48": {
+   "ability": "摘要全文文意（關鍵字詞）",
+   "official": true,
+   "basis": [
+    {
+     "loc": "右欄 Turtle ants",
+     "text": "By working collectively, the ants are able to improve the efficiency of their network and adapt to their ever-changing environment."
+    },
+    {
+     "loc": "左欄 Jackdaws",
+     "text": "However, if a predator (such as a fox) is present, the pattern of their flight will change immediately."
+    }
+   ]
+  },
+  "MX113-49": {
+   "ability": "整合比較",
+   "official": true,
+   "opts": [
+    {
+     "label": "A",
+     "ok": false,
+     "tag": "以偏概全",
+     "basis": [
+      {
+       "loc": "右欄 Turtle ants",
+       "text": "They have evolved search strategies to link their food source to their nests."
+      },
+      {
+       "loc": "左欄 Jackdaws",
+       "text": "Normally, the birds enjoy a smooth flight together as a group when “commuting” between two locations, such as from their nesting site to their feeding ground."
+      }
+     ]
+    },
+    {
+     "label": "B",
+     "ok": false,
+     "tag": "無中生有",
+     "basis": []
+    },
+    {
+     "label": "C",
+     "ok": true,
+     "basis": [
+      {
+       "loc": "左欄 Jackdaws",
+       "text": "Instead of paying attention to all the other members and following the group pattern, they now focus only on the birds within a fixed distance from them, based on information coming from other members."
+      },
+      {
+       "loc": "右欄 Turtle ants",
+       "text": "They travel entirely along tree branches and vines, laying down trails of pheromone (a chemical substance) behind them so that other ants can follow."
+      }
+     ]
+    },
+    {
+     "label": "D",
+     "ok": false,
+     "tag": "以偏概全",
+     "basis": [
+      {
+       "loc": "左欄 Jackdaws",
+       "text": "However, if a predator (such as a fox) is present, the pattern of their flight will change immediately."
+      },
+      {
+       "loc": "左欄 Jackdaws",
+       "text": "By doing so, the flock members are able to keep a safe distance between themselves, and thus avoid crashing into each other while they flee from the predator."
+      }
+     ]
+    },
+    {
+     "label": "E",
+     "ok": false,
+     "tag": "無中生有",
+     "basis": []
+    },
+    {
+     "label": "F",
+     "ok": true,
+     "basis": [
+      {
+       "loc": "左欄 Jackdaws",
+       "text": "Instead of paying attention to all the other members and following the group pattern, they now focus only on the birds within a fixed distance from them, based on information coming from other members."
+      },
+      {
+       "loc": "右欄 Turtle ants",
+       "text": "The trails connect the ants' colonies and sources of food, forming a sort of communication network."
+      }
+     ]
+    }
+   ]
+  },
+  "MX113-50": {
+   "ability": "指代詞",
+   "official": true,
+   "basis": [
+    {
+     "loc": "導言",
+     "text": "Over the years, people have been curious about the way they deal with disturbances arising from the environment, and the operations underlying their responses as a group."
+    },
+    {
+     "loc": "左欄 Jackdaws",
+     "text": "However, if a predator (such as a fox) is present, the pattern of their flight will change immediately."
+    }
+   ]
+  },
+  "MX114-47": {
+   "ability": "摘要全文文意（關鍵字詞）",
+   "official": true,
+   "basis": [
+    {
+     "loc": "導言",
+     "text": "While early zoos put emphasis on displaying as many unusual creatures as possible, most modern zoos now focus on conservation and education."
+    },
+    {
+     "loc": "留言 (A) Amy",
+     "text": "I don't agree with caging animals for our entertainment."
+    },
+    {
+     "loc": "留言 (C) Cathy",
+     "text": "Zoos are a tradition, and a visit to a zoo is a wholesome family activity."
+    },
+    {
+     "loc": "留言 (G) George",
+     "text": "Zoos have an educational aspect to it."
+    }
+   ]
+  },
+  "MX114-48": {
+   "ability": "摘要全文文意（關鍵字詞）",
+   "official": true,
+   "basis": [
+    {
+     "loc": "導言",
+     "text": "Still, many animal rights activists believe the cost of confining animals outweighs the benefits."
+    },
+    {
+     "loc": "留言 (A) Amy",
+     "text": "I don't agree with caging animals for our entertainment."
+    },
+    {
+     "loc": "留言 (B) Ben",
+     "text": "Even if an animal is endangered, does that justify restricting its freedom?"
+    }
+   ]
+  },
+  "MX114-49": {
+   "ability": "整合分類",
+   "official": true,
+   "opts": [
+    {
+     "label": "A",
+     "ok": false,
+     "tag": "態度不符：反對",
+     "basis": [
+      {
+       "loc": "留言 (A) Amy",
+       "text": "Personally I'm against zoos, though I do understand some of the arguments why they should exist."
+      }
+     ]
+    },
+    {
+     "label": "B",
+     "ok": false,
+     "tag": "態度不符：質疑圈養的正當性",
+     "basis": [
+      {
+       "loc": "留言 (B) Ben",
+       "text": "What gives humans the right to capture, confine, or breed other species?"
+      }
+     ]
+    },
+    {
+     "label": "C",
+     "ok": true,
+     "basis": [
+      {
+       "loc": "留言 (C) Cathy",
+       "text": "Zoos are a tradition, and a visit to a zoo is a wholesome family activity."
+      }
+     ]
+    },
+    {
+     "label": "D",
+     "ok": true,
+     "basis": [
+      {
+       "loc": "留言 (D) Daniel",
+       "text": "To me, a zoo can be a good place for endangered species which have difficulty finding suitable mates in the wild."
+      }
+     ]
+    },
+    {
+     "label": "E",
+     "ok": false,
+     "tag": "態度不符：質疑飼養環境",
+     "basis": [
+      {
+       "loc": "留言 (E) Eddie",
+       "text": "Is it a good idea to keep animals in sites not suited to them?"
+      }
+     ]
+    },
+    {
+     "label": "F",
+     "ok": false,
+     "tag": "態度不符：強調飼養責任，沒有表明支持",
+     "basis": [
+      {
+       "loc": "留言 (F) Frank",
+       "text": "Well, if zoos are an inevitability, zoo keepers must provide the best possible conditions for the animals that live in captivity—to say the least!"
+      }
+     ]
+    },
+    {
+     "label": "G",
+     "ok": true,
+     "basis": [
+      {
+       "loc": "留言 (G) George",
+       "text": "Zoos have an educational aspect to it."
+      }
+     ]
+    },
+    {
+     "label": "H",
+     "ok": false,
+     "tag": "態度不符：質疑保育成效",
+     "basis": [
+      {
+       "loc": "留言 (H) Henry",
+       "text": "Most animals in zoos are not endangered, nor are they being prepared for release into natural habitats."
+      },
+      {
+       "loc": "留言 (H) Henry",
+       "text": "In fact, it is nearly impossible to release captive-bred animals."
+      }
+     ]
+    },
+    {
+     "label": "I",
+     "ok": true,
+     "basis": [
+      {
+       "loc": "留言 (I) Irene",
+       "text": "Fostering empathy…By seeing an animal up close, the public could be encouraged to be more sensitive and compassionate to a species that is facing extinction in the wild."
+      }
+     ]
+    },
+    {
+     "label": "J",
+     "ok": false,
+     "tag": "態度不符：描述現況，沒有表明支持",
+     "basis": [
+      {
+       "loc": "留言 (J) Jack",
+       "text": "Like it or not, zoos will continue to exist as long as there is a demand for them."
+      }
+     ]
+    }
+   ]
+  },
+  "MX114-50": {
+   "ability": "推敲詞義",
+   "official": true,
+   "basis": [
+    {
+     "loc": "留言 (I) Irene",
+     "text": "Fostering empathy…By seeing an animal up close, the public could be encouraged to be more sensitive and compassionate to a species that is facing extinction in the wild."
+    }
+   ]
+  },
+  "MX115-47": {
+   "ability": "摘要全文文意（關鍵字詞）",
+   "official": false,
+   "basis": [
+    {
+     "loc": "導言",
+     "text": "However, it does not live in the past."
+    },
+    {
+     "loc": "導言",
+     "text": "As numerous new restaurants and shops have sprung up in recent years, it has become not only a cultural center but also a unique commercial zone."
+    },
+    {
+     "loc": "(F) The Pinery",
+     "text": "Indeed, the fruit appears in some innovative menu items (e.g., pineapple jam on the burger)."
+    },
+    {
+     "loc": "(F) The Pinery",
+     "text": "“It is a place where the old meets the new: diverse, unique, and always full of surprises.”"
+    }
+   ]
+  },
+  "MX115-48": {
+   "ability": "摘要全文文意（關鍵字詞）",
+   "official": false,
+   "basis": [
+    {
+     "loc": "(B) After Work",
+     "text": "A truly unique blend!"
+    },
+    {
+     "loc": "(B) After Work",
+     "text": "Aside from handcrafted beer, the menu boasts hand-made gourmet pizzas such as the Yummy Duck n' Cheese, loaded with roast duck and, yes, creamy delicious cheese."
+    },
+    {
+     "loc": "(F) The Pinery",
+     "text": "Indeed, the fruit appears in some innovative menu items (e.g., pineapple jam on the burger)."
+    }
+   ]
+  },
+  "MX115-49": {
+   "ability": "整合分類",
+   "official": false,
+   "opts": [
+    {
+     "label": "A",
+     "ok": true,
+     "basis": [
+      {
+       "loc": "(A) Oh Eco",
+       "text": "She sells environmentally friendly items such as reusable bottles, bamboo toothbrushes, and soy candles."
+      }
+     ]
+    },
+    {
+     "label": "B",
+     "ok": false,
+     "tag": "商品不符：賣手工啤酒與披薩",
+     "basis": [
+      {
+       "loc": "(B) After Work",
+       "text": "Aside from handcrafted beer, the menu boasts hand-made gourmet pizzas such as the Yummy Duck n' Cheese, loaded with roast duck and, yes, creamy delicious cheese."
+      }
+     ]
+    },
+    {
+     "label": "C",
+     "ok": false,
+     "tag": "商品不符：賣客製香氛",
+     "basis": [
+      {
+       "loc": "(C) Aroma Paradise",
+       "text": "The fragrances at this scent shop are largely customized to meet the individual shopper's taste."
+      }
+     ]
+    },
+    {
+     "label": "D",
+     "ok": true,
+     "basis": [
+      {
+       "loc": "(D) Something Different",
+       "text": "Yes, at this tiny antique store you can always find, as promised, something different."
+      },
+      {
+       "loc": "(D) Something Different",
+       "text": "Open since 1996, the store features traditional-style home accessories, ranging from cabinets and chairs to picture frames and decorative mirrors."
+      }
+     ]
+    },
+    {
+     "label": "E",
+     "ok": true,
+     "basis": [
+      {
+       "loc": "(E) Beyond World",
+       "text": "From fashion items to rice snacks, it carries products only from local makers and small businesses owned by indigenous people."
+      }
+     ]
+    },
+    {
+     "label": "F",
+     "ok": false,
+     "tag": "商品不符：賣鳳梨入菜的餐點",
+     "basis": [
+      {
+       "loc": "(F) The Pinery",
+       "text": "Indeed, the fruit appears in some innovative menu items (e.g., pineapple jam on the burger)."
+      }
+     ]
+    }
+   ]
+  },
+  "MX115-50": {
+   "ability": "推敲詞義",
+   "official": false,
+   "basis": [
+    {
+     "loc": "(C) Aroma Paradise",
+     "text": "Owner Joseph Tang says he knew the idea would work well in this unique district: “Each store is one of a kind in Wonder Village,” he states."
+    }
+   ]
+  }
+ }
+}
